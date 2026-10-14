@@ -13,9 +13,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
-      - uses: actions/configure-pages@v5
       - run: npm test
-      - run: npm run build   # switch to build:prod once demo editions are removed
+      - run: npm run build:prod
       - uses: actions/upload-pages-artifact@v3
         with: { path: dist }
   deploy:

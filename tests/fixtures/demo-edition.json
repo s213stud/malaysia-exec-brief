@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "demo": true,
   "status": "published",
   "checkedAt": [
-    "2026-10-13T08:25:00+08:00"
+    "2026-10-14T08:30:00+08:00"
   ],
-  "publishedAt": "2026-10-13T09:00:00+08:00",
+  "publishedAt": "2026-10-14T09:00:00+08:00",
   "sectors": [
     {
       "sectorKey": "aiTelcoIct",
@@ -19,6 +19,23 @@
       "sectorKey": "construction",
       "items": [
         {
+          "headline": "DEMO ITEM: example of a current news bullet. Not real news.",
+          "detail": "Shows the event, material detail and business implication layout.",
+          "note": "Demonstration note.",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "sources": [
+            {
+              "publisher": "Example Publisher (DEMO)",
+              "url": "https://example.com/demo-article-1"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "gdb"
+          ],
+          "id": "2026-10-14-construction-1"
+        },
+        {
           "headline": "DEMO ITEM: example of a recent development. Not real news.",
           "freshness": "recent",
           "publishedDate": "2026-10-11",
@@ -29,7 +46,7 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "id": "2026-10-13-construction-1"
+          "id": "2026-10-14-construction-2"
         },
         {
           "headline": "DEMO ITEM: example of earlier context, with an analyst estimate labelled as such. Not real news.",
@@ -42,7 +59,7 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "id": "2026-10-13-construction-2"
+          "id": "2026-10-14-construction-3"
         }
       ],
       "theme": "DEMO theme: placeholder"
@@ -79,7 +96,7 @@
           "watchlistCompanyKeys": [
             "southerncable"
           ],
-          "id": "2026-10-13-cablesManufacturing-3"
+          "id": "2026-10-14-cablesManufacturing-4"
         }
       ],
       "theme": "DEMO theme: placeholder"
@@ -120,7 +137,7 @@
         "construction"
       ],
       "itemIds": [
-        "2026-10-13-construction-1"
+        "2026-10-14-construction-1"
       ]
     },
     {
@@ -131,8 +148,8 @@
         "cablesManufacturing"
       ],
       "itemIds": [
-        "2026-10-13-construction-2",
-        "2026-10-13-cablesManufacturing-3"
+        "2026-10-14-construction-3",
+        "2026-10-14-cablesManufacturing-4"
       ]
     },
     {
@@ -142,7 +159,7 @@
         "cablesManufacturing"
       ],
       "itemIds": [
-        "2026-10-13-cablesManufacturing-3"
+        "2026-10-14-cablesManufacturing-4"
       ]
     }
   ]

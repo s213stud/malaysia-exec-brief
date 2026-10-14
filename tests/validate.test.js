@@ -26,4 +26,6 @@ test('takeaway unknown sector fails',()=>{const e=kt();e.keyTakeaways[0].sectorK
 test('more than five takeaways fails',()=>{const e=kt();e.keyTakeaways=Array(6).fill(e.keyTakeaways[0]);assert.ok(V.validateEdition(e,d).length)});
 test('duplicate item ids fail',()=>{const e=kt();e.sectors[0].items[1].id='a1';assert.ok(V.validateEdition(e,d).some(x=>/duplicate/.test(x)))});
 test('missing item id fails',()=>{const e=base();delete it(e).id;assert.ok(V.validateEdition(e,d).length)});
-test('demo editions carry takeaways',()=>d.editions.forEach(e=>assert.ok(e.keyTakeaways.length>=3)));
+test('editions with 3+ items carry takeaways',()=>d.editions.forEach(e=>{const n=e.sectors.reduce((a,s)=>a+s.items.length,0);if(n>=3)assert.ok(e.keyTakeaways.length>=3)}));
+test('demo fixture validates but is blocked in production',()=>{const f=JSON.parse(fs.readFileSync(path.join(__dirname,'fixtures/demo-edition.json'),'utf8'));assert.deepStrictEqual(V.validateEdition(f,d),[]);assert.ok(V.validateEdition(f,d,{production:true}).length)});
+test('no demo editions in repo data',()=>d.editions.forEach(e=>assert.ok(!e.demo)));

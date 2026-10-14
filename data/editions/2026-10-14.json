@@ -1,68 +1,178 @@
 {
   "date": "2026-10-14",
-  "demo": true,
+  "demo": false,
   "status": "published",
   "checkedAt": [
-    "2026-10-14T08:30:00+08:00"
+    "2026-10-14T22:01:00+08:00",
+    "2026-10-14T22:04:00+08:00"
   ],
-  "publishedAt": "2026-10-14T09:00:00+08:00",
+  "publishedAt": "2026-10-14T22:04:00+08:00",
   "sectors": [
     {
       "sectorKey": "aiTelcoIct",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-ai-1",
+          "headline": "Bitdeer AI signs 8-year services agreement for a new 60MW AI cloud facility (A103) in Cyberjaya",
+          "detail": "A103 is designed for liquid-cooled NVIDIA rack-scale systems, with energisation expected in 1Q2028. The Cyberjaya campus would total about 71.5MW of AI cloud capacity (critical IT load), per the company.",
+          "freshness": "current",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "Bitdeer AI press release (GlobeNewswire via Nasdaq)",
+              "url": "https://www.nasdaq.com/press-release/bitdeer-ai-expands-malaysia-campus-new-60mw-a103-facility-closing-350mw-global"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Released 12 Oct 2026 4:30pm EDT (13 Oct MYT). Company-stated figures; timeline is a forecast."
+        },
+        {
+          "id": "2026-10-14-ai-2",
+          "headline": "Deep Source signs 10-year colocation agreement for 67MW AI data centre in Prai, Penang",
+          "detail": "Deep Source (PN) signed a master colocation agreement on 2 Oct covering 67MW, plus a 7 Oct letter of intent with Longmotive DC Solutions for building and M&E works: 26MW targeted by 31 Mar 2027 and 41MW by 30 Jun 2027.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-07",
+          "sources": [
+            {
+              "publisher": "HKEX filing, Deep Source Holdings",
+              "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100702003.pdf"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Customer not named. Completion dates are targets, subject to certification."
+        },
+        {
+          "id": "2026-10-14-ai-3",
+          "headline": "Realord signs non-binding MOU for possible Johor AI data centre of up to 300MW",
+          "detail": "Phased project, first phase about 100MW; involves land acquisition in Johor and is subject to definitive agreements and regulatory approvals.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-08",
+          "sources": [
+            {
+              "publisher": "HKEX filing, Realord Technology (via AASTOCKS)",
+              "url": "https://iis.aastocks.com/20261008/12367755-0.PDF"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Status: MOU only; the company warns it may not materialise."
+        },
+        {
+          "id": "2026-10-14-ai-4",
+          "headline": "Privasia unit gets MITI approval for data centre project in Bagan Datuk, Perak",
+          "detail": "Approval (letter dated 7 Sept 2026) is conditional on securing an off-grid energy supply with maximum demand of 50MW, in line with Energy Commission and RE frameworks.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-06",
+          "sources": [
+            {
+              "publisher": "The Star (Bernama), via Privasia",
+              "url": "https://www.privasia.com/blogs/business-updates-news/privasia-unit-gets-miti-nod-for-dc-project-the-edge-06-10-26"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ],
+      "theme": "AI capacity, power-constrained"
     },
     {
       "sectorKey": "propertyDevelopment",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-pd-1",
+          "headline": "S P Setia welcomes Budget 2027 home-ownership and Johor measures, flags cost discipline",
+          "detail": "Cites the first-home stamp-duty relief up to RM750,000 to 2030, JS-SEZ focus and Green Investment Tax Allowance for its Setia Fontaines Industrial Park. 2Q26 sales were RM864mil; net profit RM98.06mil (2Q25: RM99.8mil).",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/s-p-setia-lauds-budget-focus-on-home-ownership"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-pd-2",
+          "headline": "Budget 2027: first-home stamp-duty exemption widened to homes up to RM750,000 for 2027-2030 SPAs",
+          "detail": "Full exemption up to RM500,000; for RM500,001-RM750,000, the first RM500,000 is fully exempt and the balance 50%. Abandoned-project revivals get full exemption; SJKP guarantees of up to RM20bil target about 80,000 first-time buyers.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "Ministry of Finance (Budget 2027 speech)",
+              "url": "https://mof.gov.my/portal/images/2026/10/09/Budget-2027-Speech.pdf"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Proposals; effective subject to the Finance Bill."
+        },
+        {
+          "id": "2026-10-14-pd-3",
+          "headline": "Rehda asks for stamp-duty relief to cover homes up to RM1mil and a review of development charges",
+          "detail": "Developers' association welcomed the Budget housing measures but said material, labour and regulatory costs keep pressuring affordability.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1917790/rehda-welcomes-budget-2027-housing-measures-urges-review-development-charges"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ],
+      "theme": "Budget relief, cost pressure"
     },
     {
       "sectorKey": "construction",
       "items": [
         {
-          "headline": "DEMO ITEM: example of a current news bullet. Not real news.",
-          "detail": "Shows the event, material detail and business implication layout.",
-          "note": "Demonstration note.",
+          "id": "2026-10-14-con-1",
+          "headline": "IJM Construction wins RM1.23bil AT&S semiconductor facility job in Kulim Hi-Tech Park",
+          "detail": "Design-and-build of production, central utility and wastewater buildings; starts 4Q2026 with a 14-month programme. Order book about RM10.6bil after the award, following RM909.5mil of semiconductor and medtech wins in August.",
           "freshness": "current",
-          "publishedDate": "2026-10-14",
+          "publishedDate": "2026-10-13",
           "sources": [
             {
-              "publisher": "Example Publisher (DEMO)",
-              "url": "https://example.com/demo-article-1"
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/13/ijm-corp-secures-rm123bil-project-in-kulim"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "IJM cites its IBS capabilities for delivery."
+        },
+        {
+          "id": "2026-10-14-con-2",
+          "headline": "GDB proposes RM81.6mil buy of 51% of Bina Tegas and BT Borneo Engineering, plus placement and rights issue",
+          "detail": "Consideration RM40.8mil cash plus 96.91 million shares at 42 sen; vendors guarantee cumulative PAT of at least RM45mil (Jul 2026-Dec 2028). Order book would rise to RM741.81mil. GDB also plans entry into property development with a RM500mil GDV Kuching project.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-08",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/08/gdb-proposes-rm816mil-acquisitions-fundraising-exercise"
             }
           ],
           "watchlistCompanyKeys": [
             "gdb"
           ],
-          "id": "2026-10-14-construction-1"
+          "note": "Status: proposed; gross proceeds RM70.83mil-RM183.48mil depending on take-up. Dilution is a watch-out."
         },
         {
-          "headline": "DEMO ITEM: example of a recent development. Not real news.",
-          "freshness": "recent",
-          "publishedDate": "2026-10-11",
+          "id": "2026-10-14-con-3",
+          "headline": "S P Setia welcomes Budget 2027 reintroduction of the variation-of-price mechanism for construction",
+          "detail": "Says the mechanism will help contractors manage swings in inputs such as diesel and bitumen.",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
           "sources": [
             {
-              "publisher": "Example Publisher (DEMO)",
-              "url": "https://example.com/demo-article-2"
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/s-p-setia-lauds-budget-focus-on-home-ownership"
             }
           ],
-          "watchlistCompanyKeys": [],
-          "id": "2026-10-14-construction-2"
-        },
-        {
-          "headline": "DEMO ITEM: example of earlier context, with an analyst estimate labelled as such. Not real news.",
-          "freshness": "earlier-context",
-          "publishedDate": "2026-09-30",
-          "sources": [
-            {
-              "publisher": "Example Publisher (DEMO)",
-              "url": "https://example.com/demo-article-3"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "id": "2026-10-14-construction-3"
+          "watchlistCompanyKeys": []
         }
       ],
-      "theme": "DEMO theme: placeholder"
+      "theme": "Semiconductor jobs and Sarawak M&A"
     },
     {
       "sectorKey": "propertyInvestment",
@@ -70,7 +180,54 @@
     },
     {
       "sectorKey": "plantation",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-pl-1",
+          "headline": "MPOB: palm oil stocks jump 24.54% to 3.51 million tonnes in September as output rises and exports fall",
+          "detail": "CPO production rose 16.48% m-o-m to 2.117mil t; palm oil exports fell 12.13% to 1.120mil t; CPO stocks up 31.88% to 2.163mil t.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "sources": [
+            {
+              "publisher": "MPOB (preliminary statistics)",
+              "url": "https://bepi.mpob.gov.my/stat/web_report1.php?val=202675&val1=09"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Preliminary data."
+        },
+        {
+          "id": "2026-10-14-pl-2",
+          "headline": "Kenanga keeps plantations at Neutral as stocks hit 10-year high; holds 2026-27 CPO price assumptions",
+          "detail": "Analyst view: inventory 3.511mil t (+49% y-o-y); CPO assumptions RM4,500/t (2026) and RM4,700/t (2027), citing biodiesel demand and El Nino supply risk in 2027; warns of cost inflation.",
+          "freshness": "current",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "Kenanga Research",
+              "url": "https://www.kenanga.com.my/wp-content/uploads/2026/10/Plantation-261013-SU-MPOB-Kenanga.pdf"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Analyst estimates, not reported facts."
+        },
+        {
+          "id": "2026-10-14-pl-3",
+          "headline": "Malaysia-EU FTA about 80% complete; palm oil and autos still unresolved",
+          "detail": "MITI minister Johari Abdul Ghani targets signing by end-June 2027 and says major producers are preparing for the EUDR.",
+          "freshness": "current",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/13/malaysia-eu-fta-talks-80-complete-palm-oil-and-autos-remain-unresolved/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Target date is a government aim, not a commitment."
+        }
+      ],
+      "theme": "Record stocks, firm outlook"
     },
     {
       "sectorKey": "capitalFinancing",
@@ -78,28 +235,60 @@
     },
     {
       "sectorKey": "consumerFinancing",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-cf-1",
+          "headline": "Budget 2027: RM1,500 special aid for 1.3 million civil servants, RM750 for pensioners, paid in two instalments",
+          "detail": "Covers Grade Utama B and below, including contract staff; instalments before Aidilfitri and ahead of the 70th Merdeka anniversary.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/09/civil-servants-to-get-rm1500-aid-pensioners-rm750-under-budget-2027/238497"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Interpretation: a one-off cash boost to civil-servant borrowers' disposable income, not a financing measure."
+        }
+      ]
     },
     {
       "sectorKey": "cablesManufacturing",
       "items": [
         {
-          "headline": "DEMO ITEM: example of a recent development. Not real news.",
-          "freshness": "recent",
-          "publishedDate": "2026-10-11",
+          "id": "2026-10-14-cab-1",
+          "headline": "Budget 2027 commits RM15bil via TNB for grid strengthening; industry warns grid and storage gaps could slow RE rollout",
+          "detail": "Also cites UEM Lestra RM1bil for projects incl. KLIA energy storage and a 1GW Johor hybrid project; green tech tax incentives extended to 31 Dec 2030.",
+          "freshness": "current",
+          "publishedDate": "2026-10-13",
           "sources": [
             {
-              "publisher": "Example Publisher (DEMO)",
-              "url": "https://example.com/demo-article-2"
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/13/infrastructure-gaps-could-slow-malaysias-green-energy-drive/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Interpretation: grid capex is a demand driver for cable makers, but the article does not name any cable company."
+        },
+        {
+          "id": "2026-10-14-cab-2",
+          "headline": "HLIB raises Southern Cable target price to RM3.58 on data-centre and 132kV orders",
+          "detail": "Analyst view: RM200mil of 2Q26 DC and 132kV orders have fully booked MV/HV capacity for FY26; 3Q26 revenue could reach RM600mil and FY26 sales top RM2bil.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-09-30",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/09/30/dc-orders-to-boost-southern-cable-prospects"
             }
           ],
           "watchlistCompanyKeys": [
             "southerncable"
           ],
-          "id": "2026-10-14-cablesManufacturing-4"
+          "note": "Analyst estimates. Watch-out: higher plastic costs squeeze margins on TNB orders."
         }
-      ],
-      "theme": "DEMO theme: placeholder"
+      ]
     },
     {
       "sectorKey": "buildingMaterialsIbs",
@@ -107,59 +296,111 @@
     },
     {
       "sectorKey": "hotels",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-ht-1",
+          "headline": "International arrivals reach 28.8 million in Jan-Aug 2026, up 1.8% y-o-y",
+          "detail": "Tourism Malaysia frames this under the Visit Malaysia 2026-2027 campaign; says tourism contributes over 15% of GDP.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-10-02",
+          "sources": [
+            {
+              "publisher": "Malay Mail (Bernama)",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/02/tourism-malaysia-reports-288-million-international-arrivals-janaug-sector-shows-steady-growth/237380"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Article summary box says 2023; the body is dated 2 Oct 2026 and refers to this year."
+        }
+      ]
     }
   ],
   "sectorCoverage": {
-    "aiTelcoIct": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "propertyDevelopment": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "construction": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "propertyInvestment": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "plantation": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "capitalFinancing": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "consumerFinancing": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "cablesManufacturing": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "buildingMaterialsIbs": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
-    "hotels": "DEMO: sources checked / blocked / partial / unsearched would be listed here."
+    "aiTelcoIct": "Checked: TNGlobal search, HKEX/company filings, The Star. Partially checked: The Edge (search result pages showed today's date on old articles, e.g. a 2021 Axiata-Telenor story, so Edge items were excluded unless an in-body date could be verified), MCMC not checked. Not exhaustive.",
+    "propertyDevelopment": "Checked: The Star, EdgeProp, MOF Budget speech. Partially checked: The Edge (date-display issue), KPKT not checked. A Land 33 RM32.3mil land purchase (The Star, 14 Oct) was seen but its page body was truncated, so it was not included.",
+    "construction": "Checked: The Star, filings reported by The Star. Partially checked: The Edge, CIDB (IBS standards pages only). A Nestcon RM130mil Sarawak contract surfaced on The Edge with today's date, but the body is dated Oct 2022, so it was excluded.",
+    "propertyInvestment": "Partially checked: The Edge and search for REIT/mall news. No 13-14 Oct item verified. An IGB REIT feature on The Edge had no verifiable publication date and was excluded. Bursa REIT announcements not checked. Not evidence of no news.",
+    "plantation": "Checked: MPOB statistics, Kenanga note, The Malaysian Reserve. Daily CPO futures settlements were seen only on secondary sites and not included.",
+    "capitalFinancing": "Partially checked: KPKT moneylender lists (latest seen dated 17 Sept 2026). No verified moneylending news found. Bursa, The Edge and The Star not specifically searched. Not evidence of no news.",
+    "consumerFinancing": "Checked: Malay Mail, Budget coverage. Not checked: ANGKASA, Bank Rakyat, cooperative releases.",
+    "cablesManufacturing": "Checked: The Star, The Malaysian Reserve. A Southern Cable Main Market transfer story on The Edge showing today's date is from 2021 and was excluded. Master Tec: latest verified news is July-Aug 2026 (out of window).",
+    "buildingMaterialsIbs": "Partially checked: CIDB IBS pages (CIS 18:2026 IBS Score consultation closed 7 Sept 2026), The Edge search for Chin Hin and OKA. Results seen were undated or older, so nothing was included. Not evidence of no news.",
+    "hotels": "Checked: Malay Mail, Tourism Malaysia search. Not checked: MAH/MAHO releases, hotel REIT filings. Budget 2027 tourism allocation was seen only on secondary sources and not included."
   },
   "watchlistCoverage": [
-    "DEMO: watchlist coverage note."
+    "All 12 companies were searched by name. Verified article-body mentions: GDB Holdings (The Star, 8 Oct) and Southern Cable Group (The Star, 30 Sept, analyst note).",
+    "Excluded: Nestcon (The Edge article is from Oct 2022) and Southern Cable Main Market transfer (2021), despite pages showing today's date.",
+    "Seen but out of window or unverified, so not tagged: Inta Bina RM221.08mil Mitraland contract (The Star, 24 Sept), Pesona Metro RM247.5mil hospital job (July), Master Tec TNB extension (July), Chin Hin and Crest Builder (undated Edge pages).",
+    "No verified news found in this run for OKA, Tuju Setia, TCS, Kitacon. Bursa announcements were not checked company by company."
   ],
   "generalCoverage": [
-    "DEMO edition. All items are illustrative placeholders, not reported news. Remove before production.",
-    "Coverage is not exhaustive; an unreadable source is not evidence of no news."
+    "First real edition, researched late on 14 Oct 2026 (after the usual 09:00 MYT slot), so items are dated snapshots as of the check times.",
+    "The Edge listing and search pages show the current date regardless of the real publication date; Edge items were used only when an in-body date was verified, and several older stories were excluded.",
+    "Bursa Malaysia announcement pages were not browsed directly; filings are cited via news reports or exchange PDFs.",
+    "Coverage is not exhaustive; an unreadable or unsearched source is not evidence of no news."
   ],
   "keyTakeaways": [
     {
-      "headline": "DEMO TAKEAWAY: example of a synthesised insight",
-      "soWhat": "Placeholder showing how a one-to-two sentence implication for executives will read. Not real analysis.",
+      "headline": "Data-centre and semiconductor capex is now feeding real construction orders",
+      "soWhat": "IJM's RM1.23bil AT&S job and new Penang and Cyberjaya AI capacity show the tech build-out turning into contracts. The Johor 300MW plan is still only an MOU.",
+      "sectorKeys": [
+        "construction",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-14-con-1",
+        "2026-10-14-ai-1",
+        "2026-10-14-ai-2",
+        "2026-10-14-ai-3"
+      ]
+    },
+    {
+      "headline": "Power is the binding constraint, and that is good for grid and cable suppliers",
+      "soWhat": "MITI's Privasia approval requires off-grid power, and industry says grid and storage gaps could slow the RE rollout despite the RM15bil TNB grid commitment. Cable makers like Southern Cable are booked out on DC and HV orders (analyst view).",
+      "sectorKeys": [
+        "cablesManufacturing",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-14-ai-4",
+        "2026-10-14-cab-1",
+        "2026-10-14-cab-2"
+      ]
+    },
+    {
+      "headline": "Budget 2027 helps first-home buyers, but developers say costs are the real issue",
+      "soWhat": "The stamp-duty relief up to RM750,000 and SJKP guarantees support entry-level demand from 2027. Rehda and S P Setia both point to building costs; the returning variation-of-price mechanism helps contractors absorb input swings.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-10-14-pd-1",
+        "2026-10-14-pd-2",
+        "2026-10-14-pd-3",
+        "2026-10-14-con-3"
+      ]
+    },
+    {
+      "headline": "Palm oil: record stocks against a firm 2027 price outlook",
+      "soWhat": "September stocks of 3.51mil t point to near-term price pressure. Kenanga still assumes RM4,700/t for 2027 on biodiesel and El Nino (forecast), while EU FTA palm oil terms are unresolved.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-10-14-pl-1",
+        "2026-10-14-pl-2",
+        "2026-10-14-pl-3"
+      ]
+    },
+    {
+      "headline": "GDB moves into Sarawak and property, at the cost of dilution",
+      "soWhat": "The proposed acquisitions would roughly double GDB's order book to RM741.81mil and add a RM500mil GDV Kuching project, funded by placement and rights. Shareholders face dilution, and the deal is still only a proposal.",
       "sectorKeys": [
         "construction"
       ],
       "itemIds": [
-        "2026-10-14-construction-1"
-      ]
-    },
-    {
-      "headline": "DEMO TAKEAWAY: example linking two sectors",
-      "soWhat": "Placeholder showing a cross-sector takeaway that cites supporting items in both sectors.",
-      "sectorKeys": [
-        "construction",
-        "cablesManufacturing"
-      ],
-      "itemIds": [
-        "2026-10-14-construction-3",
-        "2026-10-14-cablesManufacturing-4"
-      ]
-    },
-    {
-      "headline": "DEMO TAKEAWAY: example of a watch-out",
-      "soWhat": "Placeholder showing a risk or watch-out framed for decision-makers. Not real analysis.",
-      "sectorKeys": [
-        "cablesManufacturing"
-      ],
-      "itemIds": [
-        "2026-10-14-cablesManufacturing-4"
+        "2026-10-14-con-2"
       ]
     }
   ]
