@@ -1,5 +1,6 @@
 const fs=require('fs'),path=require('path');
 const FRESH=['current','recent','earlier-context'];
+const VERDICTS=['Positive','Mixed','Negative','Watch'];
 const DATE=/^\d{4}-\d{2}-\d{2}$/;
 function load(root){
   const r=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
@@ -30,6 +31,8 @@ function validateEdition(ed,{sectors,watchlist},opts={}){
       const w=`${id} ${s.sectorKey}#${i}`;
       if(!it.id)e.push(`${w}: missing id`);else if(ids.has(it.id))e.push(`${w}: duplicate id ${it.id}`);else ids.add(it.id);
       if(!it.headline)e.push(`${w}: missing headline`);
+      if(!VERDICTS.includes(it.verdict))e.push(`${w}: verdict must be one of ${VERDICTS.join(', ')}`);
+      for(const k of ['soWhat','opportunity','watchOut'])if(it[k]!==undefined&&(typeof it[k]!=='string'||!it[k].trim()))e.push(`${w}: ${k} must be a non-empty string when present`);
       if(!FRESH.includes(it.freshness))e.push(`${w}: freshness must be one of ${FRESH.join(', ')}`);
       if(!DATE.test(it.publishedDate||''))e.push(`${w}: missing/invalid publishedDate`);
       else if(it.publishedDate>ed.date)e.push(`${w}: publishedDate after edition date`);
@@ -55,5 +58,6 @@ function validateEdition(ed,{sectors,watchlist},opts={}){
   return e;
 }
 function validateAll(root,opts){const d=load(root);let e=validateConfig(d);d.editions.forEach(ed=>e=e.concat(validateEdition(ed,d,opts)));return {data:d,errors:e};}
-module.exports={load,validateConfig,validateEdition,validateAll,FRESH};
+function sectorVerdict(items){const v=(items||[]).map(i=>i.verdict).filter(x=>x&&x!=='Watch');if(!(items||[]).length)return 'None';if(!v.length)return 'Mixed';if(v.every(x=>x==='Positive'))return 'Positive';if(v.every(x=>x==='Negative'))return 'Negative';return 'Mixed';}
+module.exports={load,validateConfig,validateEdition,validateAll,FRESH,VERDICTS,sectorVerdict};
 if(require.main===module){const {errors}=validateAll(path.resolve(__dirname,'..'),{production:process.argv.includes('--production')});if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log('OK: all editions valid');}

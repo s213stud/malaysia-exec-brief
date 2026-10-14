@@ -10,3 +10,20 @@
 8. **Save** as `data/editions/YYYY-MM-DD.json` with `status: "draft"`, run `npm run validate` and `npm run build`, preview `dist/`.
 9. **Publish.** Set `status: "published"` and `publishedAt`, commit and push to `main`. CI tests, builds and deploys; a failed check leaves the live site on the last good version.
 10. **Never edit past editions** except for logged corrections. Never put private documents, personal context or credentials in the repo.
+
+## Daily workflow in three steps
+
+**Rule: specific, concise, insightful for C-suites.**
+
+1. **Browse portals each morning.** Work through the media portals and primary sources in `config/sources.json`.
+2. **Shortlist industry-relevant news.** Keep only items with a clear Malaysia business implication for one of the ten sectors or a watchlist company. Verify the body, date, entities, numbers and status.
+3. **Extract and summarise into the format below.**
+
+## Item style
+
+- **Headline:** lead with the specific, quantified fact (amount, capacity, percentage, date), not a topic label.
+- **Verdict (required):** `Positive`, `Mixed`, `Negative` or `Watch`. This is the impact on the sector or the named company. Use `Watch` for proposals, MOUs and unresolved issues. It is shown as a muted badge.
+- **So what (`soWhat`, encouraged):** one line on why it matters to a C-suite reader.
+- **Opportunity / Watch-out (`opportunity`, `watchOut`, optional):** short lines, only where the source supports them.
+- **Qualify:** state eligibility and conditions ("subject to...", "proposal only", "analyst estimate", "company forecast").
+- **Sector impact heatmap:** generated automatically. A sector is Positive or Negative only when all its non-Watch items agree. It is Mixed otherwise (or when it only has Watch items), and "No item today" when empty.

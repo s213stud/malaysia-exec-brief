@@ -5,7 +5,7 @@ test('exactly ten sectors',()=>{assert.strictEqual(d.sectors.length,10);assert.o
 test('twelve tickers, all strings',()=>{assert.strictEqual(d.watchlist.length,12);d.watchlist.forEach(c=>assert.strictEqual(typeof c.ticker,'string'));
   const raw=fs.readFileSync(path.join(root,'config/watchlist.json'),'utf8');assert.ok(!/"ticker":\s*\d/.test(raw));
   const bad=d.watchlist.map((c,i)=>i?c:{...c,ticker:5});assert.ok(V.validateConfig({...d,watchlist:bad}).some(e=>/string/.test(e)))});
-const base=()=>({date:'2026-10-14',checkedAt:['2026-10-14T08:30:00+08:00'],sectors:[{sectorKey:d.sectors[0].key,items:[{id:'a1',headline:'h',freshness:'current',publishedDate:'2026-10-14',sources:[{publisher:'P',url:'https://x.y/a'}],watchlistCompanyKeys:[]}]}]});
+const base=()=>({date:'2026-10-14',checkedAt:['2026-10-14T08:30:00+08:00'],sectors:[{sectorKey:d.sectors[0].key,items:[{id:'a1',headline:'h',verdict:'Positive',freshness:'current',publishedDate:'2026-10-14',sources:[{publisher:'P',url:'https://x.y/a'}],watchlistCompanyKeys:[]}]}]});
 const it=e=>e.sectors[0].items[0];
 test('valid edition passes',()=>assert.deepStrictEqual(V.validateEdition(base(),d),[]));
 test('missing source fails',()=>{const e=base();it(e).sources=[];assert.ok(V.validateEdition(e,d).length)});
@@ -29,3 +29,9 @@ test('missing item id fails',()=>{const e=base();delete it(e).id;assert.ok(V.val
 test('editions with 3+ items carry takeaways',()=>d.editions.forEach(e=>{const n=e.sectors.reduce((a,s)=>a+s.items.length,0);if(n>=3)assert.ok(e.keyTakeaways.length>=3)}));
 test('demo fixture validates but is blocked in production',()=>{const f=JSON.parse(fs.readFileSync(path.join(__dirname,'fixtures/demo-edition.json'),'utf8'));assert.deepStrictEqual(V.validateEdition(f,d),[]);assert.ok(V.validateEdition(f,d,{production:true}).length)});
 test('no demo editions in repo data',()=>d.editions.forEach(e=>assert.ok(!e.demo)));
+test('missing verdict fails',()=>{const e=base();delete it(e).verdict;assert.ok(V.validateEdition(e,d).some(x=>/verdict/.test(x)))});
+test('bad verdict fails',()=>{const e=base();it(e).verdict='Great';assert.ok(V.validateEdition(e,d).length)});
+test('all verdicts accepted',()=>V.VERDICTS.forEach(v=>{const e=base();it(e).verdict=v;assert.deepStrictEqual(V.validateEdition(e,d),[])}));
+test('optional soWhat/opportunity/watchOut',()=>{const e=base();Object.assign(it(e),{soWhat:'s',opportunity:'o',watchOut:'w'});assert.deepStrictEqual(V.validateEdition(e,d),[]);it(e).soWhat='';assert.ok(V.validateEdition(e,d).length)});
+test('sector verdict derivation',()=>{const S=V.sectorVerdict,m=v=>v.map(x=>({verdict:x}));assert.strictEqual(S([]),'None');assert.strictEqual(S(m(['Positive','Watch'])),'Positive');assert.strictEqual(S(m(['Positive','Negative'])),'Mixed');assert.strictEqual(S(m(['Negative'])),'Negative');assert.strictEqual(S(m(['Watch'])),'Mixed')});
+test('published items carry a verdict',()=>d.editions.forEach(e=>e.sectors.forEach(s=>s.items.forEach(i=>assert.ok(V.VERDICTS.includes(i.verdict))))));

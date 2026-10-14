@@ -18,7 +18,7 @@ Static, mobile-first daily executive news brief for Malaysia. Plain HTML/CSS/JS 
     npm run build:prod  # same, but refuses demo editions
 
 ## Edition schema
-`date`, `status` (`published`|`draft`; only published are rendered), `demo` (bool), `checkedAt` (ISO times with offset), `publishedAt`, `sectors[]` of `{sectorKey, items[]}`; each item: `headline`, optional `detail` and `note`, `freshness` (`current`|`recent`|`earlier-context`), `publishedDate`, `sources[]` `{publisher,url}`, `watchlistCompanyKeys[]`. Each item also has a unique `id`; each sector may carry a short `theme`. `keyTakeaways[]` (3-5 when the edition has 3 or more items): `{headline, soWhat, sectorKeys[], itemIds[]}`; every itemId must exist in the edition. Plus `sectorCoverage{key:note}`, `watchlistCoverage[]`, `generalCoverage[]`.
+`date`, `status` (`published`|`draft`; only published are rendered), `demo` (bool), `checkedAt` (ISO times with offset), `publishedAt`, `sectors[]` of `{sectorKey, items[]}`; each item: `headline`, optional `detail` and `note`, `freshness` (`current`|`recent`|`earlier-context`), `publishedDate`, `sources[]` `{publisher,url}`, `watchlistCompanyKeys[]`, required `verdict` (`Positive`|`Mixed`|`Negative`|`Watch`), optional `soWhat`, `opportunity`, `watchOut`. Each item also has a unique `id`; each sector may carry a short `theme`. `keyTakeaways[]` (3-5 when the edition has 3 or more items): `{headline, soWhat, sectorKeys[], itemIds[]}`; every itemId must exist in the edition. Plus `sectorCoverage{key:note}`, `watchlistCoverage[]`, `generalCoverage[]`.
 
 ## Status
 Production: demo editions removed; CI runs `build:prod`, which refuses demo data. A demo edition is kept as a test fixture in `tests/fixtures/`.

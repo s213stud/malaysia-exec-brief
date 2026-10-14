@@ -33,7 +33,8 @@
           "watchlistCompanyKeys": [
             "gdb"
           ],
-          "id": "2026-10-14-construction-1"
+          "id": "2026-10-14-construction-1",
+          "verdict": "Watch"
         },
         {
           "headline": "DEMO ITEM: example of a recent development. Not real news.",
@@ -46,7 +47,8 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "id": "2026-10-14-construction-2"
+          "id": "2026-10-14-construction-2",
+          "verdict": "Watch"
         },
         {
           "headline": "DEMO ITEM: example of earlier context, with an analyst estimate labelled as such. Not real news.",
@@ -59,7 +61,8 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "id": "2026-10-14-construction-3"
+          "id": "2026-10-14-construction-3",
+          "verdict": "Watch"
         }
       ],
       "theme": "DEMO theme: placeholder"
@@ -96,7 +99,8 @@
           "watchlistCompanyKeys": [
             "southerncable"
           ],
-          "id": "2026-10-14-cablesManufacturing-4"
+          "id": "2026-10-14-cablesManufacturing-4",
+          "verdict": "Watch"
         }
       ],
       "theme": "DEMO theme: placeholder"

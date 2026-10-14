@@ -13,7 +13,7 @@
       "items": [
         {
           "id": "2026-10-14-ai-1",
-          "headline": "Bitdeer AI signs 8-year services agreement for a new 60MW AI cloud facility (A103) in Cyberjaya",
+          "headline": "Bitdeer AI adds 60MW (A103) in Cyberjaya under an 8-year services agreement; campus to reach ~71.5MW",
           "detail": "A103 is designed for liquid-cooled NVIDIA rack-scale systems, with energisation expected in 1Q2028. The Cyberjaya campus would total about 71.5MW of AI cloud capacity (critical IT load), per the company.",
           "freshness": "current",
           "publishedDate": "2026-10-13",
@@ -24,11 +24,15 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Released 12 Oct 2026 4:30pm EDT (13 Oct MYT). Company-stated figures; timeline is a forecast."
+          "note": "Released 12 Oct 2026 4:30pm EDT (13 Oct MYT). Company-stated figures; timeline is a forecast.",
+          "verdict": "Positive",
+          "soWhat": "Malaysia is winning the next generation of liquid-cooled AI capacity, not just conventional colocation.",
+          "opportunity": "Demand for liquid-cooling, power and fit-out contractors on the Cyberjaya campus.",
+          "watchOut": "Energisation targeted for 1Q2028, a company forecast."
         },
         {
           "id": "2026-10-14-ai-2",
-          "headline": "Deep Source signs 10-year colocation agreement for 67MW AI data centre in Prai, Penang",
+          "headline": "Deep Source locks in 10-year colocation for 67MW AI data centre in Prai, Penang; 26MW due by Mar 2027",
           "detail": "Deep Source (PN) signed a master colocation agreement on 2 Oct covering 67MW, plus a 7 Oct letter of intent with Longmotive DC Solutions for building and M&E works: 26MW targeted by 31 Mar 2027 and 41MW by 30 Jun 2027.",
           "freshness": "recent",
           "publishedDate": "2026-10-07",
@@ -39,11 +43,15 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Customer not named. Completion dates are targets, subject to certification."
+          "note": "Customer not named. Completion dates are targets, subject to certification.",
+          "verdict": "Positive",
+          "soWhat": "Penang is emerging as an AI data-centre node beyond Johor and Klang Valley.",
+          "opportunity": "Building and M&E works (LOI with Longmotive) point to near-term fit-out demand.",
+          "watchOut": "Customer unnamed; completion subject to certification."
         },
         {
           "id": "2026-10-14-ai-3",
-          "headline": "Realord signs non-binding MOU for possible Johor AI data centre of up to 300MW",
+          "headline": "Realord signs MOU for a possible Johor AI data centre of up to 300MW (first phase ~100MW)",
           "detail": "Phased project, first phase about 100MW; involves land acquisition in Johor and is subject to definitive agreements and regulatory approvals.",
           "freshness": "recent",
           "publishedDate": "2026-10-08",
@@ -54,11 +62,14 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Status: MOU only; the company warns it may not materialise."
+          "note": "Status: MOU only; the company warns it may not materialise.",
+          "verdict": "Watch",
+          "soWhat": "Signals continued foreign interest in Johor capacity, but nothing is committed.",
+          "watchOut": "Proposal only: non-binding MOU, subject to land, definitive agreements and approvals."
         },
         {
           "id": "2026-10-14-ai-4",
-          "headline": "Privasia unit gets MITI approval for data centre project in Bagan Datuk, Perak",
+          "headline": "MITI approves Privasia unit's Bagan Datuk data centre, conditional on off-grid power of up to 50MW",
           "detail": "Approval (letter dated 7 Sept 2026) is conditional on securing an off-grid energy supply with maximum demand of 50MW, in line with Energy Commission and RE frameworks.",
           "freshness": "recent",
           "publishedDate": "2026-10-06",
@@ -68,7 +79,10 @@
               "url": "https://www.privasia.com/blogs/business-updates-news/privasia-unit-gets-miti-nod-for-dc-project-the-edge-06-10-26"
             }
           ],
-          "watchlistCompanyKeys": []
+          "watchlistCompanyKeys": [],
+          "verdict": "Mixed",
+          "soWhat": "Approvals now hinge on power sourcing; off-grid supply is becoming a precondition.",
+          "watchOut": "Subject to securing off-grid energy within Energy Commission and RE frameworks."
         }
       ],
       "theme": "AI capacity, power-constrained"
@@ -78,7 +92,7 @@
       "items": [
         {
           "id": "2026-10-14-pd-1",
-          "headline": "S P Setia welcomes Budget 2027 home-ownership and Johor measures, flags cost discipline",
+          "headline": "S P Setia (2Q26 sales RM864mil) backs Budget 2027 first-home relief up to RM750,000 and Johor focus",
           "detail": "Cites the first-home stamp-duty relief up to RM750,000 to 2030, JS-SEZ focus and Green Investment Tax Allowance for its Setia Fontaines Industrial Park. 2Q26 sales were RM864mil; net profit RM98.06mil (2Q25: RM99.8mil).",
           "freshness": "current",
           "publishedDate": "2026-10-14",
@@ -88,11 +102,15 @@
               "url": "https://www.thestar.com.my/business/business-news/2026/10/14/s-p-setia-lauds-budget-focus-on-home-ownership"
             }
           ],
-          "watchlistCompanyKeys": []
+          "watchlistCompanyKeys": [],
+          "verdict": "Positive",
+          "soWhat": "A large developer reads the Budget as supportive for townships and Johor industrial land.",
+          "opportunity": "JS-SEZ and Green Investment Tax Allowance support industrial park plays such as Setia Fontaines.",
+          "watchOut": "2Q26 net profit dipped to RM98.06mil from RM99.8mil."
         },
         {
           "id": "2026-10-14-pd-2",
-          "headline": "Budget 2027: first-home stamp-duty exemption widened to homes up to RM750,000 for 2027-2030 SPAs",
+          "headline": "Budget 2027: first-home stamp duty waived up to RM500,000, and on the first RM500,000 of homes up to RM750,000, for 2027-2030 SPAs",
           "detail": "Full exemption up to RM500,000; for RM500,001-RM750,000, the first RM500,000 is fully exempt and the balance 50%. Abandoned-project revivals get full exemption; SJKP guarantees of up to RM20bil target about 80,000 first-time buyers.",
           "freshness": "recent",
           "publishedDate": "2026-10-09",
@@ -103,11 +121,15 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Proposals; effective subject to the Finance Bill."
+          "note": "Proposals; effective subject to the Finance Bill.",
+          "verdict": "Positive",
+          "soWhat": "Lowers buyers' upfront cash need in the core mass-market band; RM20bil SJKP guarantees widen the pool to ~80,000 self-employed first-time buyers.",
+          "opportunity": "Products priced at or below RM750,000 for first-time buyers.",
+          "watchOut": "Proposal only, subject to the Finance Bill; applies to Malaysian citizens' first homes."
         },
         {
           "id": "2026-10-14-pd-3",
-          "headline": "Rehda asks for stamp-duty relief to cover homes up to RM1mil and a review of development charges",
+          "headline": "Rehda asks government to extend first-home stamp-duty relief to homes up to RM1mil",
           "detail": "Developers' association welcomed the Budget housing measures but said material, labour and regulatory costs keep pressuring affordability.",
           "freshness": "recent",
           "publishedDate": "2026-10-09",
@@ -117,7 +139,10 @@
               "url": "https://www.edgeprop.my/content/1917790/rehda-welcomes-budget-2027-housing-measures-urges-review-development-charges"
             }
           ],
-          "watchlistCompanyKeys": []
+          "watchlistCompanyKeys": [],
+          "verdict": "Watch",
+          "soWhat": "Industry signals costs, not demand, are the affordability bottleneck.",
+          "watchOut": "Rising material, labour and regulatory charges continue to pressure margins."
         }
       ],
       "theme": "Budget relief, cost pressure"
@@ -127,7 +152,7 @@
       "items": [
         {
           "id": "2026-10-14-con-1",
-          "headline": "IJM Construction wins RM1.23bil AT&S semiconductor facility job in Kulim Hi-Tech Park",
+          "headline": "IJM wins RM1.23bil AT&S semiconductor plant in Kulim; order book rises to ~RM10.6bil",
           "detail": "Design-and-build of production, central utility and wastewater buildings; starts 4Q2026 with a 14-month programme. Order book about RM10.6bil after the award, following RM909.5mil of semiconductor and medtech wins in August.",
           "freshness": "current",
           "publishedDate": "2026-10-13",
@@ -138,11 +163,15 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "IJM cites its IBS capabilities for delivery."
+          "note": "IJM cites its IBS capabilities for delivery.",
+          "verdict": "Positive",
+          "soWhat": "Semiconductor fast-track builds are becoming a large, repeatable contract pool for top-tier contractors.",
+          "opportunity": "Follows RM909.5mil of August semiconductor/medtech wins; IBS used for delivery certainty.",
+          "watchOut": "Tight 14-month programme from 4Q2026."
         },
         {
           "id": "2026-10-14-con-2",
-          "headline": "GDB proposes RM81.6mil buy of 51% of Bina Tegas and BT Borneo Engineering, plus placement and rights issue",
+          "headline": "GDB proposes RM81.6mil buy of 51% of two Sarawak contractors, lifting order book to RM741.81mil",
           "detail": "Consideration RM40.8mil cash plus 96.91 million shares at 42 sen; vendors guarantee cumulative PAT of at least RM45mil (Jul 2026-Dec 2028). Order book would rise to RM741.81mil. GDB also plans entry into property development with a RM500mil GDV Kuching project.",
           "freshness": "recent",
           "publishedDate": "2026-10-08",
@@ -155,11 +184,15 @@
           "watchlistCompanyKeys": [
             "gdb"
           ],
-          "note": "Status: proposed; gross proceeds RM70.83mil-RM183.48mil depending on take-up. Dilution is a watch-out."
+          "note": "Status: proposed; gross proceeds RM70.83mil-RM183.48mil depending on take-up. Dilution is a watch-out.",
+          "verdict": "Mixed",
+          "soWhat": "Scales GDB into Sarawak and property development (RM500mil GDV Kuching project).",
+          "opportunity": "Vendors guarantee cumulative PAT of at least RM45mil for Jul 2026-Dec 2028.",
+          "watchOut": "Proposal only; funded by placement of up to 30% plus rights issue, so dilution."
         },
         {
           "id": "2026-10-14-con-3",
-          "headline": "S P Setia welcomes Budget 2027 reintroduction of the variation-of-price mechanism for construction",
+          "headline": "Budget 2027 reintroduces the variation-of-price mechanism for construction inputs such as diesel and bitumen",
           "detail": "Says the mechanism will help contractors manage swings in inputs such as diesel and bitumen.",
           "freshness": "current",
           "publishedDate": "2026-10-14",
@@ -169,7 +202,10 @@
               "url": "https://www.thestar.com.my/business/business-news/2026/10/14/s-p-setia-lauds-budget-focus-on-home-ownership"
             }
           ],
-          "watchlistCompanyKeys": []
+          "watchlistCompanyKeys": [],
+          "verdict": "Positive",
+          "soWhat": "Reduces contractors' exposure to input-cost swings on public jobs.",
+          "watchOut": "Scope and eligible contracts not detailed in the source."
         }
       ],
       "theme": "Semiconductor jobs and Sarawak M&A"
@@ -183,7 +219,7 @@
       "items": [
         {
           "id": "2026-10-14-pl-1",
-          "headline": "MPOB: palm oil stocks jump 24.54% to 3.51 million tonnes in September as output rises and exports fall",
+          "headline": "Palm oil stocks jump 24.54% to 3.51mil tonnes in September; exports fall 12.13% to 1.12mil t",
           "detail": "CPO production rose 16.48% m-o-m to 2.117mil t; palm oil exports fell 12.13% to 1.120mil t; CPO stocks up 31.88% to 2.163mil t.",
           "freshness": "recent",
           "publishedDate": "2026-10-12",
@@ -194,11 +230,14 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Preliminary data."
+          "note": "Preliminary data.",
+          "verdict": "Negative",
+          "soWhat": "Inventory overhang caps near-term CPO prices.",
+          "watchOut": "Preliminary MPOB data."
         },
         {
           "id": "2026-10-14-pl-2",
-          "headline": "Kenanga keeps plantations at Neutral as stocks hit 10-year high; holds 2026-27 CPO price assumptions",
+          "headline": "Kenanga holds 2027 CPO assumption at RM4,700/t despite 10-year-high stocks; sector kept at Neutral",
           "detail": "Analyst view: inventory 3.511mil t (+49% y-o-y); CPO assumptions RM4,500/t (2026) and RM4,700/t (2027), citing biodiesel demand and El Nino supply risk in 2027; warns of cost inflation.",
           "freshness": "current",
           "publishedDate": "2026-10-13",
@@ -209,11 +248,14 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Analyst estimates, not reported facts."
+          "note": "Analyst estimates, not reported facts.",
+          "verdict": "Mixed",
+          "soWhat": "Analyst view: biodiesel demand and El Nino could tighten 2027 supply.",
+          "watchOut": "Forecast only; cost inflation risk to margins."
         },
         {
           "id": "2026-10-14-pl-3",
-          "headline": "Malaysia-EU FTA about 80% complete; palm oil and autos still unresolved",
+          "headline": "Malaysia-EU FTA 80% done, signing targeted by end-June 2027; palm oil and autos unresolved",
           "detail": "MITI minister Johari Abdul Ghani targets signing by end-June 2027 and says major producers are preparing for the EUDR.",
           "freshness": "current",
           "publishedDate": "2026-10-13",
@@ -224,7 +266,11 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Target date is a government aim, not a commitment."
+          "note": "Target date is a government aim, not a commitment.",
+          "verdict": "Watch",
+          "soWhat": "EU market access for palm oil remains contingent on EUDR compliance.",
+          "opportunity": "Major producers say they already meet EUDR requirements.",
+          "watchOut": "Target date is a government aim, not a commitment."
         }
       ],
       "theme": "Record stocks, firm outlook"
@@ -238,7 +284,7 @@
       "items": [
         {
           "id": "2026-10-14-cf-1",
-          "headline": "Budget 2027: RM1,500 special aid for 1.3 million civil servants, RM750 for pensioners, paid in two instalments",
+          "headline": "Budget 2027 gives RM1,500 one-off aid to 1.3mil civil servants and RM750 to pensioners, in two instalments",
           "detail": "Covers Grade Utama B and below, including contract staff; instalments before Aidilfitri and ahead of the 70th Merdeka anniversary.",
           "freshness": "recent",
           "publishedDate": "2026-10-09",
@@ -249,7 +295,10 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Interpretation: a one-off cash boost to civil-servant borrowers' disposable income, not a financing measure."
+          "note": "Interpretation: a one-off cash boost to civil-servant borrowers' disposable income, not a financing measure.",
+          "verdict": "Positive",
+          "soWhat": "Interpretation: modestly improves repayment capacity of civil-servant borrowers.",
+          "watchOut": "One-off cash aid, not a financing measure; paid before Aidilfitri and before the 70th Merdeka anniversary."
         }
       ]
     },
@@ -258,7 +307,7 @@
       "items": [
         {
           "id": "2026-10-14-cab-1",
-          "headline": "Budget 2027 commits RM15bil via TNB for grid strengthening; industry warns grid and storage gaps could slow RE rollout",
+          "headline": "Budget 2027 commits RM15bil via TNB to the grid; industry warns grid and storage gaps could slow RE",
           "detail": "Also cites UEM Lestra RM1bil for projects incl. KLIA energy storage and a 1GW Johor hybrid project; green tech tax incentives extended to 31 Dec 2030.",
           "freshness": "current",
           "publishedDate": "2026-10-13",
@@ -269,11 +318,15 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Interpretation: grid capex is a demand driver for cable makers, but the article does not name any cable company."
+          "note": "Interpretation: grid capex is a demand driver for cable makers, but the article does not name any cable company.",
+          "verdict": "Positive",
+          "soWhat": "Interpretation: grid capex is a direct demand driver for power-cable makers.",
+          "opportunity": "Grid, BESS and the 1GW Johor hybrid project imply cable call-ups.",
+          "watchOut": "Article names no cable company; pace depends on connection approvals."
         },
         {
           "id": "2026-10-14-cab-2",
-          "headline": "HLIB raises Southern Cable target price to RM3.58 on data-centre and 132kV orders",
+          "headline": "HLIB lifts Southern Cable target to RM3.58; RM200mil DC and 132kV orders fill FY26 MV/HV capacity",
           "detail": "Analyst view: RM200mil of 2Q26 DC and 132kV orders have fully booked MV/HV capacity for FY26; 3Q26 revenue could reach RM600mil and FY26 sales top RM2bil.",
           "freshness": "earlier-context",
           "publishedDate": "2026-09-30",
@@ -286,7 +339,11 @@
           "watchlistCompanyKeys": [
             "southerncable"
           ],
-          "note": "Analyst estimates. Watch-out: higher plastic costs squeeze margins on TNB orders."
+          "note": "Analyst estimates. Watch-out: higher plastic costs squeeze margins on TNB orders.",
+          "verdict": "Positive",
+          "soWhat": "Analyst view: data-centre orders are shifting the mix away from TNB.",
+          "opportunity": "FY26 sales seen above RM2bil.",
+          "watchOut": "Higher plastic costs squeeze TNB-order margins."
         }
       ]
     },
@@ -299,7 +356,7 @@
       "items": [
         {
           "id": "2026-10-14-ht-1",
-          "headline": "International arrivals reach 28.8 million in Jan-Aug 2026, up 1.8% y-o-y",
+          "headline": "International arrivals reach 28.8mil in Jan-Aug 2026, up only 1.8% y-o-y",
           "detail": "Tourism Malaysia frames this under the Visit Malaysia 2026-2027 campaign; says tourism contributes over 15% of GDP.",
           "freshness": "earlier-context",
           "publishedDate": "2026-10-02",
@@ -310,7 +367,10 @@
             }
           ],
           "watchlistCompanyKeys": [],
-          "note": "Article summary box says 2023; the body is dated 2 Oct 2026 and refers to this year."
+          "note": "Article summary box says 2023; the body is dated 2 Oct 2026 and refers to this year.",
+          "verdict": "Mixed",
+          "soWhat": "Volume is rising slowly despite the Visit Malaysia 2026-2027 campaign.",
+          "watchOut": "Low growth rate; no hotel occupancy data in the source."
         }
       ]
     }
