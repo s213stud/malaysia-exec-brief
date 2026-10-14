@@ -1,6 +1,6 @@
 # Editorial guide and daily procedure (09:00 MYT, every day incl. weekends)
 
-1. **Research (from ~07:30 MYT).** Check each source in `config/sources.json` plus relevant primary sources (Bursa filings, BNM, ministries). Open every article; confirm the body and the actual publication date.
+1. **Research (from 07:17 MYT).** Check sources in `config/sources.json` in tier order (core first, see "Source order" below) plus relevant primary sources (Bursa filings, BNM, ministries). Open every article; confirm the body and the actual publication date.
 2. **Classify.** `current` = published since the previous edition; `recent` = the last few days, still developing; `earlier-context` = older background. Never relabel old news as current.
 3. **Write.** Event, selective material detail, business driver, watch-out. Label analyst estimates, forecasts, deal status (proposed/pending/completed) and conditional effects. Keep editorial interpretation in `note`.
 4. **Watchlist.** Add a company key only when the article body names the company and you have confirmed it is the same entity (not a namesake).
@@ -27,3 +27,21 @@
 - **Opportunity / Watch-out (`opportunity`, `watchOut`, optional):** short lines, only where the source supports them.
 - **Qualify:** state eligibility and conditions ("subject to...", "proposal only", "analyst estimate", "company forecast").
 - **Sector impact heatmap:** generated automatically. A sector is Positive or Negative only when all its non-Watch items agree. It is Mixed otherwise (or when it only has Watch items), and "No item today" when empty.
+
+## Source order (user-approved core set)
+
+Defined in `config/sources.json` (`tier`, `priority`, `access`, `notes`, `feeds`/`sections`).
+
+1. **Core (priority 1), in order:** The Edge, The Star, Malay Mail, TNGlobal, The Malaysian Reserve, Bernama, NST/Business Times.
+2. **Top-ups (priority 2-3):** EdgeProp (property), The Sun, FMT, Sinar Harian, China Press, then Berita Harian, Sin Chew, Malaysiakini, KiniBiz, Nanyang.
+3. **Primary:** Bursa announcements as a later watchlist check (browser only; if it fails, record "not fully checked"), then MOF, BNM, MCMC, CIDB, KPKT, MPOB, Tourism Malaysia, MAH.
+
+Use feeds where listed. Open any page that will not load simply in the browser. Record blocked or partial sources in coverage notes.
+
+## The Edge method (browser-first)
+
+- Open in the browser, signed out: `categories/corporate`, `categories/malaysia`, and flash categories `Highlight`, `Economic%20Focus`, `Tech`, `Commodities` (newest first). There is no RSS feed or sitemap.
+- Open each candidate article (`/node/{id}`). Article data is also in the page's `__NEXT_DATA__` JSON.
+- **Date:** use `meta article:published_time` (+08:00) or the article's `created` epoch. **Never use the site date banner**, which shows today's date on old stories (2021-22 stories have been caught this way).
+- Premium stories may be truncated: summarise only what you can read and mark partial.
+- The Property category is stale (nothing since 2022). Use EdgeProp for property.

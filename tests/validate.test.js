@@ -35,3 +35,10 @@ test('all verdicts accepted',()=>V.VERDICTS.forEach(v=>{const e=base();it(e).ver
 test('optional soWhat/opportunity/watchOut',()=>{const e=base();Object.assign(it(e),{soWhat:'s',opportunity:'o',watchOut:'w'});assert.deepStrictEqual(V.validateEdition(e,d),[]);it(e).soWhat='';assert.ok(V.validateEdition(e,d).length)});
 test('sector verdict derivation',()=>{const S=V.sectorVerdict,m=v=>v.map(x=>({verdict:x}));assert.strictEqual(S([]),'None');assert.strictEqual(S(m(['Positive','Watch'])),'Positive');assert.strictEqual(S(m(['Positive','Negative'])),'Mixed');assert.strictEqual(S(m(['Negative'])),'Negative');assert.strictEqual(S(m(['Watch'])),'Mixed')});
 test('published items carry a verdict',()=>d.editions.forEach(e=>e.sectors.forEach(s=>s.items.forEach(i=>assert.ok(V.VERDICTS.includes(i.verdict))))));
+
+const tl=()=>({...base(),sourceTally:[{source:'The Edge',scanned:10,used:2,status:'checked'},{source:'The Star',scanned:null,used:0,status:'pending-browser-check'}]});
+test('valid sourceTally passes',()=>assert.deepStrictEqual(V.validateEdition(tl(),d),[]));
+test('sourceTally bad status fails',()=>{const e=tl();e.sourceTally[0].status='done';assert.ok(V.validateEdition(e,d).some(x=>/status/.test(x)))});
+test('sourceTally used>scanned fails',()=>{const e=tl();e.sourceTally[0].used=11;assert.ok(V.validateEdition(e,d).length)});
+test('sourceTally negative scanned fails',()=>{const e=tl();e.sourceTally[0].scanned=-1;assert.ok(V.validateEdition(e,d).length)});
+test('sourceTally used counts match cited items',()=>d.editions.forEach(e=>(e.sourceTally||[]).forEach(r=>{if(!r.publishers)return;const n=e.sectors.flatMap(s=>s.items).filter(i=>i.sources.some(x=>r.publishers.includes(x.publisher))).length;assert.strictEqual(r.used,n,r.source)})));

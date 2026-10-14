@@ -1,6 +1,7 @@
 const fs=require('fs'),path=require('path');
 const FRESH=['current','recent','earlier-context'];
 const VERDICTS=['Positive','Mixed','Negative','Watch'];
+const TALLY_STATUS=['checked','partial','pending-browser-check','blocked','not-checked'];
 const DATE=/^\d{4}-\d{2}-\d{2}$/;
 function load(root){
   const r=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
@@ -41,6 +42,16 @@ function validateEdition(ed,{sectors,watchlist},opts={}){
       (it.watchlistCompanyKeys||[]).forEach(k=>{if(!wk.has(k))e.push(`${w}: unknown company ${k}`)});
     });
   });
+  const st=ed.sourceTally;
+  if(st!==undefined){
+    if(!Array.isArray(st))e.push(`${id}: sourceTally must be an array`);
+    else st.forEach((r,i)=>{const w=`${id} sourceTally#${i}`;
+      if(!r.source)e.push(`${w}: needs source`);
+      if(!TALLY_STATUS.includes(r.status))e.push(`${w}: status must be one of ${TALLY_STATUS.join(', ')}`);
+      if(r.scanned!==null&&!(Number.isInteger(r.scanned)&&r.scanned>=0))e.push(`${w}: scanned must be a non-negative integer or null`);
+      if(!(Number.isInteger(r.used)&&r.used>=0))e.push(`${w}: used must be a non-negative integer`);
+      else if(Number.isInteger(r.scanned)&&r.used>r.scanned)e.push(`${w}: used cannot exceed scanned`);});
+  }
   const kt=ed.keyTakeaways;
   if(kt!==undefined){
     if(!Array.isArray(kt))e.push(`${id}: keyTakeaways must be an array`);
@@ -59,5 +70,5 @@ function validateEdition(ed,{sectors,watchlist},opts={}){
 }
 function validateAll(root,opts){const d=load(root);let e=validateConfig(d);d.editions.forEach(ed=>e=e.concat(validateEdition(ed,d,opts)));return {data:d,errors:e};}
 function sectorVerdict(items){const v=(items||[]).map(i=>i.verdict).filter(x=>x&&x!=='Watch');if(!(items||[]).length)return 'None';if(!v.length)return 'Mixed';if(v.every(x=>x==='Positive'))return 'Positive';if(v.every(x=>x==='Negative'))return 'Negative';return 'Mixed';}
-module.exports={load,validateConfig,validateEdition,validateAll,FRESH,VERDICTS,sectorVerdict};
+module.exports={TALLY_STATUS,load,validateConfig,validateEdition,validateAll,FRESH,VERDICTS,sectorVerdict};
 if(require.main===module){const {errors}=validateAll(path.resolve(__dirname,'..'),{production:process.argv.includes('--production')});if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log('OK: all editions valid');}

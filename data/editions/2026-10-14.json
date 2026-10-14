@@ -4,7 +4,9 @@
   "status": "published",
   "checkedAt": [
     "2026-10-14T22:01:00+08:00",
-    "2026-10-14T22:04:00+08:00"
+    "2026-10-14T22:04:00+08:00",
+    "2026-10-14T22:36:00+08:00",
+    "2026-10-14T22:38:00+08:00"
   ],
   "publishedAt": "2026-10-14T22:04:00+08:00",
   "sectors": [
@@ -83,6 +85,75 @@
           "verdict": "Mixed",
           "soWhat": "Approvals now hinge on power sourcing; off-grid supply is becoming a precondition.",
           "watchOut": "Subject to securing off-grid energy within Energy Commission and RE frameworks."
+        },
+        {
+          "id": "2026-10-14-ai-5",
+          "headline": "27 data centre projects worth RM225.97bil approved under the DCTF to July 2026; 16 in Johor, 10 in Selangor, one operating",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Digital Ministry written reply: 4,053 jobs expected (3,523 high-skilled); projects carry a 30% minimum local-content requirement monitored by MIDA.",
+          "soWhat": "The approved pipeline is large and mostly still under construction, so fit-out, M&E and power work has years to run.",
+          "opportunity": "The 30% local-content rule favours Malaysian contractors, cable and M&E suppliers.",
+          "watchOut": "Only one of the 27 projects is operating; delivery depends on power and water hook-ups.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2620497"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ai-6",
+          "headline": "Princeton Digital Group reportedly seeks up to US$1.2bil (RM4.9bil) three-year loan for 198.8MW Johor campus",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Bloomberg report citing an unnamed person; proceeds also refinance existing debt. HSBC, Maybank IB, OCBC Malaysia, StanChart and UOB named as arrangers.",
+          "soWhat": "Debt is now funding Johor hyperscale capacity at scale, with Maybank IB among the lead arrangers.",
+          "watchOut": "Unconfirmed: the company and banks did not comment.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821794"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ai-7",
+          "headline": "Madani Submarine Cable (Salam) to start 1Q2027 and finish 4Q2029; Jendela 2 Group 1 rolls out 1,000 sites from November",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Communications Ministry written reply in Parliament. Jendela 2 Group 1 includes 352 sites in Sabah.",
+          "soWhat": "Two sizeable telco infrastructure programmes are moving, with MCMC now evaluating Salam submissions.",
+          "opportunity": "Tender pipeline for submarine cable, tower and fibre contractors.",
+          "watchOut": "Salam is still at evaluation stage; no award announced.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821791"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ai-8",
+          "headline": "Hibiscus Petroleum and Seri Pajam to evaluate on-site gas, solar and carbon-capture power for data centres at SPD Tech Valley, Senawang",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Collaboration agreement dated 30 Sept; framework to assess deployment, not an investment commitment.",
+          "soWhat": "Another sign that on-site power is becoming part of the data-centre offer as grid capacity tightens.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821857"
+            }
+          ],
+          "watchlistCompanyKeys": []
         }
       ],
       "theme": "AI capacity, power-constrained"
@@ -143,6 +214,23 @@
           "verdict": "Watch",
           "soWhat": "Industry signals costs, not demand, are the affordability bottleneck.",
           "watchOut": "Rising material, labour and regulatory charges continue to pressure margins."
+        },
+        {
+          "id": "2026-10-14-pd-4",
+          "headline": "KPKT says 1,726 sick and abandoned housing projects worth RM158.16bil GDV revived as at end-August",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Nearly 200,000 homes completed, back on track or resolved. KL still has seven abandoned private projects and 12 sick projects involving 6,102 buyers.",
+          "soWhat": "Clearing the abandoned-project backlog supports buyer confidence and frees stuck land and contractors.",
+          "watchOut": "Completion timelines depend on each project; some are tied up in court.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821781"
+            }
+          ],
+          "watchlistCompanyKeys": []
         }
       ],
       "theme": "Budget relief, cost pressure"
@@ -206,6 +294,38 @@
           "verdict": "Positive",
           "soWhat": "Reduces contractors' exposure to input-cost swings on public jobs.",
           "watchOut": "Scope and eligible contracts not detailed in the source."
+        },
+        {
+          "id": "2026-10-14-con-4",
+          "headline": "Gamuda-MiTAC JV wins RM3.7bil Keelung MRT trackwork and systems contract in Taiwan; Gamuda share RM2.7bil",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Gamuda holds 72.84% of the JV; awarded by New Taipei City Government; 15.6km, 13 stations. Contribution expected from FY ending July 2027 (company statement).",
+          "soWhat": "Adds overseas order book for Malaysia's largest contractor over 7.7 years, keeping domestic capacity free for local jobs.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821847"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-con-5",
+          "headline": "AWC wins RM40mil plumbing and sanitary subcontract from Gamuda Engineering for a Port Dickson hyperscale data centre",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Works started 14 Aug; completion due 22 Oct 2027. AWC won similar contracts worth RM45mil combined in April and August.",
+          "soWhat": "Data-centre work is filtering down to specialist M&E subcontractors, not just main contractors.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821878"
+            }
+          ],
+          "watchlistCompanyKeys": []
         }
       ],
       "theme": "Semiconductor jobs and Sarawak M&A"
@@ -263,6 +383,10 @@
             {
               "publisher": "The Malaysian Reserve",
               "url": "https://themalaysianreserve.com/2026/10/13/malaysia-eu-fta-talks-80-complete-palm-oil-and-autos-remain-unresolved/"
+            },
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821620"
             }
           ],
           "watchlistCompanyKeys": [],
@@ -299,6 +423,23 @@
           "verdict": "Positive",
           "soWhat": "Interpretation: modestly improves repayment capacity of civil-servant borrowers.",
           "watchOut": "One-off cash aid, not a financing measure; paid before Aidilfitri and before the 70th Merdeka anniversary."
+        },
+        {
+          "id": "2026-10-14-cf-2",
+          "headline": "CTOS cyber breach: CTOS Score and CCRIS-related reports still down; FY2026 profit hit estimated at RM12mil",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-13",
+          "detail": "Company estimate assumes some services stay unavailable until the third week of October; each extra week cuts profit by about RM1.3mil.",
+          "soWhat": "Lenders that rely on CTOS/CCRIS reports for credit checks face slower or riskier approvals until services return.",
+          "watchOut": "Check whether your credit-assessment process has a fallback while reports are unavailable.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821728"
+            }
+          ],
+          "watchlistCompanyKeys": []
         }
       ]
     },
@@ -344,12 +485,63 @@
           "soWhat": "Analyst view: data-centre orders are shifting the mix away from TNB.",
           "opportunity": "FY26 sales seen above RM2bil.",
           "watchOut": "Higher plastic costs squeeze TNB-order margins."
+        },
+        {
+          "id": "2026-10-14-cab-3",
+          "headline": "Government reportedly lifts CRESS grid access charge to 18 sen/kWh from the 14 sen announced in September; ex-minister warns of investor fallout",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Raised by Yeo Bee Yin in the Budget 2027 debate, citing an Edge report; she asked Petra, MITI and MOF to clarify.",
+          "soWhat": "A higher access charge would weaken corporate renewable deals that drive grid and cable orders.",
+          "watchOut": "Not officially confirmed by the government at the time of the check.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821870"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-cab-4",
+          "headline": "Masteel to buy 51% of HV electrical engineering firm Anpec for RM12mil to enter power infrastructure and data-centre work",
+          "verdict": "Watch",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "detail": "Anpec holds contracts with TNB and Sabah Electricity. Paid with RM3mil cash plus 45mil new shares at 20 sen; separate placement of up to RM5.78mil.",
+          "soWhat": "A steelmaker buying into grid engineering shows how many firms are chasing TNB and data-centre power spending.",
+          "watchOut": "Share sale agreement signed but completion pending; adds a new competitor for HV works.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821531"
+            }
+          ],
+          "watchlistCompanyKeys": []
         }
       ]
     },
     {
       "sectorKey": "buildingMaterialsIbs",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-ibs-1",
+          "headline": "Epicon unit Concrete Empire wins RM47.38mil subcontract to supply precast segmental crossheads for the NPE Extension",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "soWhat": "Highway work is feeding demand for precast (IBS) components.",
+          "note": "Only the article lede was readable; contract terms and timeline not verified beyond the value and scope.",
+          "sources": [
+            {
+              "publisher": "NST / Business Times (Bernama)",
+              "url": "https://www.nst.com.my/business/corporate/2026/10/1555498/epicon-unit-secures-rm4738mil-subcontract-npe-extension"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
     },
     {
       "sectorKey": "hotels",
@@ -371,65 +563,85 @@
           "verdict": "Mixed",
           "soWhat": "Volume is rising slowly despite the Visit Malaysia 2026-2027 campaign.",
           "watchOut": "Low growth rate; no hotel occupancy data in the source."
+        },
+        {
+          "id": "2026-10-14-ht-2",
+          "headline": "Firefly extends Subang-Seletar cancellations to 16 Oct as haze worsens; Singapore PSI reached 127-203",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "soWhat": "Haze is starting to disrupt short-haul travel, a near-term risk to hotel bookings if it persists.",
+          "sources": [
+            {
+              "publisher": "The Malaysian Reserve (Bernama)",
+              "url": "https://themalaysianreserve.com/2026/10/14/firefly-extends-subang-singapore-flight-cancellations-until-oct-16-amid-worsening-haze/"
+            }
+          ],
+          "watchlistCompanyKeys": []
         }
       ]
     }
   ],
   "sectorCoverage": {
-    "aiTelcoIct": "Checked: TNGlobal search, HKEX/company filings, The Star. Partially checked: The Edge (search result pages showed today's date on old articles, e.g. a 2021 Axiata-Telenor story, so Edge items were excluded unless an in-body date could be verified), MCMC not checked. Not exhaustive.",
-    "propertyDevelopment": "Checked: The Star, EdgeProp, MOF Budget speech. Partially checked: The Edge (date-display issue), KPKT not checked. A Land 33 RM32.3mil land purchase (The Star, 14 Oct) was seen but its page body was truncated, so it was not included.",
-    "construction": "Checked: The Star, filings reported by The Star. Partially checked: The Edge, CIDB (IBS standards pages only). A Nestcon RM130mil Sarawak contract surfaced on The Edge with today's date, but the body is dated Oct 2022, so it was excluded.",
-    "propertyInvestment": "Partially checked: The Edge and search for REIT/mall news. No 13-14 Oct item verified. An IGB REIT feature on The Edge had no verifiable publication date and was excluded. Bursa REIT announcements not checked. Not evidence of no news.",
-    "plantation": "Checked: MPOB statistics, Kenanga note, The Malaysian Reserve. Daily CPO futures settlements were seen only on secondary sites and not included.",
-    "capitalFinancing": "Partially checked: KPKT moneylender lists (latest seen dated 17 Sept 2026). No verified moneylending news found. Bursa, The Edge and The Star not specifically searched. Not evidence of no news.",
-    "consumerFinancing": "Checked: Malay Mail, Budget coverage. Not checked: ANGKASA, Bank Rakyat, cooperative releases.",
-    "cablesManufacturing": "Checked: The Star, The Malaysian Reserve. A Southern Cable Main Market transfer story on The Edge showing today's date is from 2021 and was excluded. Master Tec: latest verified news is July-Aug 2026 (out of window).",
-    "buildingMaterialsIbs": "Partially checked: CIDB IBS pages (CIS 18:2026 IBS Score consultation closed 7 Sept 2026), The Edge search for Chin Hin and OKA. Results seen were undated or older, so nothing was included. Not evidence of no news.",
-    "hotels": "Checked: Malay Mail, Tourism Malaysia search. Not checked: MAH/MAHO releases, hotel REIT filings. Budget 2027 tourism allocation was seen only on secondary sources and not included."
+    "aiTelcoIct": "Core set checked 12-14 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech flash; dates from article meta), TNGlobal feed, Malay Mail money feed, Bernama feed, NST business feed. Earlier-run items from company/HKEX filings kept. The Star: partially checked (earlier-run search only; browser check results not yet received). MCMC not checked.",
+    "propertyDevelopment": "Core set checked: The Edge (KPKT abandoned-projects item), Malay Mail, NST. Earlier-run items from The Star, EdgeProp and MOF kept. The Star property section: partially checked (browser check results not yet received). A Land 33 RM32.3mil land purchase (The Star) was not included because its body was truncated.",
+    "construction": "Core set checked: The Edge, NST (Epicon, AWC and Gamuda also reported there; ledes only), Malay Mail. The Star: partially checked (earlier-run search only; browser check results not yet received). Bursa contract filings: partially checked (browser check results not yet received).",
+    "propertyInvestment": "Core set checked 12-14 Oct (The Edge, Malay Mail, TMR, Bernama, NST feeds): no Malaysia retail-mall or retail-REIT item found in the window. The Star and Bursa REIT filings partially checked (browser check results not yet received). Not evidence of no news.",
+    "plantation": "Core set checked: The Edge Commodities flash (global grains/metals only in window), Malay Mail, TMR. MPOB and Kenanga items from the earlier run kept. No new Malaysian palm oil item in the core feeds for 13-14 Oct.",
+    "capitalFinancing": "Core set checked for licensed moneylending: no item found in the window. AmanahRaya Investment Management's suspension of three unit trust funds (The Edge, 13 Oct) was seen but is fund management, outside this sector's scope. KPKT moneylender lists not rechecked. Not evidence of no news.",
+    "consumerFinancing": "Core set checked: The Edge (CTOS breach), Malay Mail. BNM/SC deepfake-scam warning (Malay Mail, 14 Oct) seen, not included as non-specific. ANGKASA, Bank Rakyat and cooperative releases not checked.",
+    "cablesManufacturing": "Core set checked: The Edge, TMR, NST. Kinergy Advancement's RM479.4mil Perlis power plant funding item (NST) was seen, but only the lede was readable, so not included. The Star: partially checked (earlier-run search only; browser check results not yet received).",
+    "buildingMaterialsIbs": "Core set checked: NST (Epicon precast; lede only), The Edge. No verified Chin Hin or OKA item in the window. CIDB not rechecked. The Star: partially checked (earlier-run search only; browser check results not yet received).",
+    "hotels": "Core set checked: TMR/Bernama (Firefly haze), The Edge, Malay Mail. NST item proposing Langkawi or Penang as a Disney cruise hub was seen (proposal only, not included). MAH and Tourism Malaysia not checked."
   },
   "watchlistCoverage": [
-    "All 12 companies were searched by name. Verified article-body mentions: GDB Holdings (The Star, 8 Oct) and Southern Cable Group (The Star, 30 Sept, analyst note).",
-    "Excluded: Nestcon (The Edge article is from Oct 2022) and Southern Cable Main Market transfer (2021), despite pages showing today's date.",
-    "Seen but out of window or unverified, so not tagged: Inta Bina RM221.08mil Mitraland contract (The Star, 24 Sept), Pesona Metro RM247.5mil hospital job (July), Master Tec TNB extension (July), Chin Hin and Crest Builder (undated Edge pages).",
-    "No verified news found in this run for OKA, Tuju Setia, TCS, Kitacon. Bursa announcements were not checked company by company."
+    "All 12 company names were searched in the core-set feeds and The Edge section pages for 12-14 Oct, and in every article body opened. No new verified mentions were found.",
+    "Carried from the earlier run: GDB Holdings (The Star, 8 Oct) and Southern Cable Group (The Star, 30 Sept, analyst note).",
+    "Excluded earlier: Nestcon (The Edge article dated Oct 2022) and Southern Cable Main Market transfer (2021), despite pages showing today's date.",
+    "Bursa announcements for the 12 companies: partially checked (browser check results not yet received)."
   ],
   "generalCoverage": [
-    "First real edition, researched late on 14 Oct 2026 (after the usual 09:00 MYT slot), so items are dated snapshots as of the check times.",
-    "The Edge listing and search pages show the current date regardless of the real publication date; Edge items were used only when an in-body date was verified, and several older stories were excluded.",
-    "Bursa Malaysia announcement pages were not browsed directly; filings are cited via news reports or exchange PDFs.",
-    "Coverage is not exhaustive; an unreadable or unsearched source is not evidence of no news."
+    "Redone late on 14 Oct 2026 with the core-set method (after the usual 09:00 MYT slot). Items are dated snapshots as of the check times.",
+    "The Edge was read from its section pages, and each item's date comes from the article's published_time meta, not the site's date banner.",
+    "Feed depth limits: The Malaysian Reserve and Bernama feeds return only the latest 10 items, and NST's feed about 14 hours of stories, so earlier 12-13 Oct stories from those three may be missed.",
+    "The Star and Bursa announcements are only partially checked in this edition: The Star via the earlier search-led run, and Bursa not company by company. Browser checks of both were under way and had not reported back at publication.",
+    "Coverage is not exhaustive; an unreadable or unchecked source is not evidence of no news."
   ],
   "keyTakeaways": [
     {
-      "headline": "Data-centre and semiconductor capex is now feeding real construction orders",
-      "soWhat": "IJM's RM1.23bil AT&S job and new Penang and Cyberjaya AI capacity show the tech build-out turning into contracts. The Johor 300MW plan is still only an MOU.",
+      "headline": "Data-centre and chip capex is turning into real contracts down the supply chain",
+      "soWhat": "27 DCTF-approved projects worth RM225.97bil are mostly still under construction, and work is reaching main contractors (IJM's RM1.23bil AT&S job) and specialists (AWC's RM40mil Port Dickson subcontract). PDG's reported US$1.2bil Johor loan shows debt funding is following. The Johor 300MW Realord plan is still only an MOU.",
       "sectorKeys": [
-        "construction",
-        "aiTelcoIct"
+        "aiTelcoIct",
+        "construction"
       ],
       "itemIds": [
+        "2026-10-14-ai-5",
         "2026-10-14-con-1",
-        "2026-10-14-ai-1",
-        "2026-10-14-ai-2",
+        "2026-10-14-con-5",
+        "2026-10-14-ai-6",
         "2026-10-14-ai-3"
       ]
     },
     {
-      "headline": "Power is the binding constraint, and that is good for grid and cable suppliers",
-      "soWhat": "MITI's Privasia approval requires off-grid power, and industry says grid and storage gaps could slow the RE rollout despite the RM15bil TNB grid commitment. Cable makers like Southern Cable are booked out on DC and HV orders (analyst view).",
+      "headline": "Power is the bottleneck, and policy on it is shifting",
+      "soWhat": "MITI's Privasia approval requires off-grid power, Hibiscus is pitching on-site plants for data centres, and Masteel is buying into HV grid work. A reported rise in the CRESS access charge to 18 sen/kWh (unconfirmed) could cool corporate RE deals. Cable makers like Southern Cable remain booked on DC and HV orders (analyst view).",
       "sectorKeys": [
         "cablesManufacturing",
         "aiTelcoIct"
       ],
       "itemIds": [
         "2026-10-14-ai-4",
+        "2026-10-14-ai-8",
+        "2026-10-14-cab-4",
+        "2026-10-14-cab-3",
         "2026-10-14-cab-1",
         "2026-10-14-cab-2"
       ]
     },
     {
-      "headline": "Budget 2027 helps first-home buyers, but developers say costs are the real issue",
-      "soWhat": "The stamp-duty relief up to RM750,000 and SJKP guarantees support entry-level demand from 2027. Rehda and S P Setia both point to building costs; the returning variation-of-price mechanism helps contractors absorb input swings.",
+      "headline": "Housing: Budget helps first-home buyers and the abandoned-project backlog is clearing",
+      "soWhat": "Stamp-duty relief up to RM750,000 supports entry-level demand from 2027, and KPKT says 1,726 sick or abandoned projects (RM158.16bil GDV) have been revived. Developers still flag building costs; the returning variation-of-price mechanism helps contractors absorb input swings.",
       "sectorKeys": [
         "propertyDevelopment",
         "construction"
@@ -437,6 +649,7 @@
       "itemIds": [
         "2026-10-14-pd-1",
         "2026-10-14-pd-2",
+        "2026-10-14-pd-4",
         "2026-10-14-pd-3",
         "2026-10-14-con-3"
       ]
@@ -461,6 +674,103 @@
       ],
       "itemIds": [
         "2026-10-14-con-2"
+      ]
+    }
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 69,
+      "used": 10,
+      "status": "checked",
+      "note": "6 section/flash pages; 69 stories dated 12-14 Oct by article meta",
+      "publishers": [
+        "The Edge Malaysia"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 33,
+      "used": 2,
+      "status": "checked",
+      "note": "/feed/rss/money, 12-14 Oct",
+      "publishers": [
+        "Malay Mail",
+        "Malay Mail (Bernama)"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 30,
+      "used": 0,
+      "status": "checked",
+      "note": "Feed covers 13-14 Oct only",
+      "publishers": []
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 10,
+      "used": 3,
+      "status": "partial",
+      "note": "Feed holds latest 10 items (14 Oct only)",
+      "publishers": [
+        "The Malaysian Reserve",
+        "The Malaysian Reserve (Bernama)"
+      ]
+    },
+    {
+      "source": "Bernama",
+      "scanned": 10,
+      "used": 1,
+      "status": "partial",
+      "note": "General feed, latest 10 items only",
+      "publishers": [
+        "Bernama"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 14,
+      "used": 1,
+      "status": "partial",
+      "note": "Business items in feed (14 Oct); article bodies need a browser, ledes only",
+      "publishers": [
+        "NST / Business Times (Bernama)"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": null,
+      "used": 6,
+      "status": "partial",
+      "note": "Items carried from the earlier run. Partially checked: browser check results not received before publication",
+      "publishers": [
+        "The Star",
+        "The Star (Bernama), via Privasia"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": null,
+      "used": 0,
+      "status": "partial",
+      "note": "Watchlist check. Partially checked: browser check results not received before publication",
+      "publishers": []
+    },
+    {
+      "source": "Other primary sources (earlier run)",
+      "scanned": null,
+      "used": 7,
+      "status": "checked",
+      "note": "Filings, MOF, MPOB, Kenanga, EdgeProp",
+      "publishers": [
+        "Bitdeer AI press release (GlobeNewswire via Nasdaq)",
+        "HKEX filing, Deep Source Holdings",
+        "HKEX filing, Realord Technology (via AASTOCKS)",
+        "Ministry of Finance (Budget 2027 speech)",
+        "EdgeProp",
+        "MPOB (preliminary statistics)",
+        "Kenanga Research"
       ]
     }
   ]
