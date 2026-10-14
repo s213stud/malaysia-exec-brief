@@ -7,7 +7,8 @@
     "2026-10-14T22:04:00+08:00",
     "2026-10-14T22:36:00+08:00",
     "2026-10-14T22:38:00+08:00",
-    "2026-10-14T22:50:00+08:00"
+    "2026-10-14T22:50:00+08:00",
+    "2026-10-14T23:30:00+08:00"
   ],
   "publishedAt": "2026-10-14T22:04:00+08:00",
   "sectors": [
@@ -192,6 +193,177 @@
             }
           ],
           "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ai-11",
+          "headline": "DayOne secures extra RM15bil (US$3.7bil) from seven banks for Johor data centres; financing platform doubles to RM30bil",
+          "detail": "The add-on comprises a US$2.4bil offshore term loan and a RM5.5bil Murabahah facility, arranged by CIMB, Credit Agricole CIB, DBS, Maybank, OCBC, Standard Chartered and UOB. It follows a RM15bil multi-currency facility in 2025.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "The Business Times (Singapore)",
+              "url": "https://www.businesstimes.com.sg/international/asean/dayones-johor-data-centre-project-gets-rm15-billion-boost-financing-seven-lenders"
+            },
+            {
+              "publisher": "DealStreetAsia",
+              "url": "https://www.dealstreetasia.com/stories/data-centre-dayone-financing-malaysia-497927"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Per a joint lenders' statement on 13 Oct. DealStreetAsia listed as corroborating source (paywalled; not fully read).",
+          "verdict": "Positive",
+          "soWhat": "Bank appetite for Johor hyperscale debt is deepening: one operator now has RM30bil of committed financing, well above PDG's reported US$1.2bil loan.",
+          "opportunity": "Local banks (CIMB, Maybank) gain large DC project-finance exposure; contractors and M&E suppliers gain funded pipeline.",
+          "watchOut": "Concentration risk for lenders if power and water reviews slow Johor projects."
+        },
+        {
+          "id": "2026-10-14-ai-12",
+          "headline": "Govt reviewing data centres' actual power and water needs; deputy minister says operators could be required to build own solar and storage",
+          "detail": "Deputy Energy Transition Minister Abdul Rahman Mohamad told the Dewan Rakyat that data centres reserve more power than they use. An MP raised five-year take-or-pay supply contracts. Malaysia had ~14,000MW of RE capacity (~32%) at 1 Sept; 10,000-11,000MW more is scheduled by 2030.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/news/nation/2026/10/13/govt-to-review-actual-power-needs-of-data-centres"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Parliamentary answer; self-generation is a possibility raised by the minister, not an adopted rule.",
+          "verdict": "Watch",
+          "soWhat": "Contracted-versus-used power is now a policy issue, so future DC approvals and tariffs may tighten.",
+          "watchOut": "Possible self-supply or selection criteria could raise DC project costs."
+        },
+        {
+          "id": "2026-10-14-ai-13",
+          "headline": "BNM and SC warn of deepfake videos impersonating their senior officers to promote investment schemes",
+          "detail": "Public directed to bnm.gov.my/verify, BNM's Financial Consumer Alert List, the SC Investor Alert List, BNMLINK and the SC Investment Checker.",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "sources": [
+            {
+              "publisher": "The Star (Bernama)",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/bank-negara-sc-warn-against-deepfake-videos-impersonating-senior-officers"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Regulator advisory; no losses or cases quantified.",
+          "verdict": "Watch",
+          "soWhat": "AI-enabled impersonation is now targeting regulators' own brand; financial firms face the same fraud risk with customers.",
+          "watchOut": "Brand-impersonation and customer-fraud exposure for banks and lenders."
+        },
+        {
+          "id": "2026-10-14-ai-14",
+          "headline": "EcoSys jumps up to 179% on ACE Market debut after RM39.34mil IPO; Bursa's top traded counter",
+          "detail": "Hit 75.5 sen intraday vs 27 sen IPO price; 73 sen at the time of reporting on 96.45mil shares traded. Proceeds go to the abatement segment, ultra-high-purity fabrication and India expansion.",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/ecosys-shares-soar-179-in-morning-trade"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Intraday morning prices; closing price not verified.",
+          "verdict": "Positive",
+          "soWhat": "Strong retail appetite for semiconductor-services IPOs, alongside RedPlanet's oversubscription.",
+          "watchOut": "Debut-day premiums can fade."
+        },
+        {
+          "id": "2026-10-14-ai-15",
+          "headline": "Data-centre power works: MN Holdings wins RM293.88mil for two 275kV landing stations; Kinergy gets RM47.5mil Gamuda subcontract in Port Dickson",
+          "detail": "MN Holdings' unit will build two 275kV consumer landing stations for an unnamed data-hosting client in central Peninsular Malaysia (Sept 2026-Aug 2027). Kinergy Advancement will do core-and-shell electrical works for a hyperscale DC in Bandar Spring Hill for a US tech firm, due 1Q2028.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "sources": [
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/12/mn-holdings-secures-rm294m-contract-for-data-centre-power-infrastructure/"
+            },
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/12/kinergy-advancement-lands-rm48m-data-centre-job-from-gamuda-unit/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Two separate Bursa-filed awards combined; clients unnamed. MN figure includes SST.",
+          "verdict": "Positive",
+          "soWhat": "High-voltage grid connection is a growing contract pool for electrical specialists.",
+          "opportunity": "HV substation and electrical subcontract demand from DC developers."
+        },
+        {
+          "id": "2026-10-14-ai-16",
+          "headline": "Budget 2027 digital targets: 200,000 skilled AI professionals, MDEC funding for 4,000 MSMEs to adopt AI, 100,000 more free AI subscriptions",
+          "detail": "Per the Ministry of Digital's post-budget statement: training and certification for 5,000 AI professionals, AI Malaysia Bhd to be strengthened, 16,000+ free Coursera courses via Rakyat Digital, DE Rantau pass extended by two years.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "Digital News Asia",
+              "url": "https://www.digitalnewsasia.com/digital-economy/budget-2027-malaysias-fifth-madani-budget-targets-200000-skilled-ai-professionals"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Announced targets; application details not yet published.",
+          "verdict": "Positive",
+          "soWhat": "State-funded AI adoption for SMEs creates demand for AI integrators and training providers."
+        },
+        {
+          "id": "2026-10-14-ai-17",
+          "headline": "MOSTI gets RM1.29bil for 2027 (+1.29%): RM41mil to Cradle for 5,500-startup roadmap, RM10mil for SemiconStart follow-on equity",
+          "detail": "Split: RM775.46mil operating, RM516.93mil development, 61 projects. Also RM10mil for KMP's FORGE pilot and RM2mil for a plantation IoT/robotics programme.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "The Malaysian Reserve (Bernama)",
+              "url": "https://themalaysianreserve.com/2026/10/13/mosti-to-leverage-rm1-29b-budget-2027-allocation-to-boost-semiconductor-startups/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Ministry allocation statement.",
+          "verdict": "Mixed",
+          "soWhat": "Allocations are small relative to private DC capex; the signal is continuity, not a step-up."
+        },
+        {
+          "id": "2026-10-14-ai-18",
+          "headline": "Genting Malaysia signs MoU with Alibaba Cloud to explore AI and cloud across its operations",
+          "detail": "Signed in Hangzhou; builds on an earlier Genting SkyWorlds pilot. Covers productivity, operations and guest experience; no projects, timelines or deployment commitments disclosed.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "sources": [
+            {
+              "publisher": "NST (via KLSE Screener)",
+              "url": "https://www.klsescreener.com/v2/news/view/1807937/genting-malaysia-alibaba-cloud-explore-ai-collaboration"
+            },
+            {
+              "publisher": "Alibaba Cloud",
+              "url": "https://www.alibabacloud.com/blog/genting-malaysia-berhad-and-alibaba-cloud-explore-new-opportunities-in-ai-and-cloud-technology_603629"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "MoU only; non-binding.",
+          "verdict": "Watch",
+          "soWhat": "Large leisure operators are testing hyperscaler AI tools; no committed spend yet."
+        },
+        {
+          "id": "2026-10-14-ai-19",
+          "headline": "U Mobile signs MoU with HLGY Energy to explore private 5G for smart solar farms under CRESS",
+          "detail": "Private 5G would support drone inspections, AI analytics and CCTV at HLGY's utility-scale solar assets, including the Kedah Rubber City solar plant.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/life/2026/10/12/u-mobile-and-hlgy-energy-collaborate-on-smart-solar-farm-solutions-powered-by-private-5g-connectivity/238821"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "MoU only; no value disclosed. Company press content.",
+          "verdict": "Watch",
+          "soWhat": "Telcos are pitching private 5G into renewable-energy assets as an enterprise revenue line."
         }
       ],
       "theme": "AI capacity, power-constrained"
@@ -220,13 +392,17 @@
         {
           "id": "2026-10-14-pd-2",
           "headline": "Budget 2027: first-home stamp duty waived up to RM500,000, and on the first RM500,000 of homes up to RM750,000, for 2027-2030 SPAs",
-          "detail": "Full exemption up to RM500,000; for RM500,001-RM750,000, the first RM500,000 is fully exempt and the balance 50%. Abandoned-project revivals get full exemption; SJKP guarantees of up to RM20bil target about 80,000 first-time buyers.",
+          "detail": "Full exemption up to RM500,000; for RM500,001-RM750,000, the first RM500,000 is fully exempt and the balance 50%. Abandoned-project revivals get full exemption; SJKP guarantees of up to RM20bil target about 80,000 first-time buyers. KPKT says SJKP has helped over 100,000 buyers, with guarantees of up to 120% that can cover renovation and furnishing.",
           "freshness": "recent",
           "publishedDate": "2026-10-09",
           "sources": [
             {
               "publisher": "Ministry of Finance (Budget 2027 speech)",
               "url": "https://mof.gov.my/portal/images/2026/10/09/Budget-2027-Speech.pdf"
+            },
+            {
+              "publisher": "NST",
+              "url": "https://www.nst.com.my/news/nation/2026/10/1551863/2027-budget-rm20b-guarantees-80000-first-time-homebuyers"
             }
           ],
           "watchlistCompanyKeys": [],
@@ -269,6 +445,41 @@
             }
           ],
           "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-pd-5",
+          "headline": "RHB keeps property Overweight: developers trade at 60% discount to RNAV (51% in May); Eco World top pick, TP RM2.66",
+          "detail": "RHB says negatives are priced in; Budget stamp-duty relief to 2030 helps Matrix, Mah Sing and LBS; Iskandar names (Eco World, UEM Sunrise, Sunway, Mah Sing, AME) set to benefit from the JS-SEZ masterplan due in December. 2Q26 property sales +32% y-o-y.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/13/developers-set-for-recovery-amid-budget-boost-and-johor-catalyst"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Analyst view (RHB Research); target price is a forecast.",
+          "verdict": "Positive",
+          "soWhat": "Valuations are deeply discounted; the JS-SEZ masterplan in December is the next catalyst.",
+          "watchOut": "Higher mortgage costs and softer mass-market demand."
+        },
+        {
+          "id": "2026-10-14-pd-6",
+          "headline": "Mitraland launches RM800mil GDV Bayou Quartz in Klang; Phase 1A 90% taken up",
+          "detail": "52-acre freehold landed scheme; Phase 1 has 287 garden and park villas from RM905,000. Phase 1A (118 units) 90% taken up since the August soft launch; Phase 1B (169 units) opened.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-10-10",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821337"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Unlisted developer; take-up is company-reported.",
+          "verdict": "Positive",
+          "soWhat": "Demand for landed homes near RM1mil remains firm in the Klang Valley."
         }
       ],
       "theme": "Budget relief, cost pressure"
@@ -481,13 +692,85 @@
           "soWhat": "EU market access for palm oil remains contingent on EUDR compliance.",
           "opportunity": "Major producers say they already meet EUDR requirements.",
           "watchOut": "Target date is a government aim, not a commitment."
+        },
+        {
+          "id": "2026-10-14-pl-4",
+          "headline": "Phillip Capital sees CPO at RM4,350-4,800/t in 4Q26; lifts 2026E average to RM4,470/t, sector Neutral, SDG top pick",
+          "detail": "2027E raised to RM4,500/t. Sector earnings now seen +3.6% in 2026E and +6.4% in 2027E. Inventories +48.8% y-o-y; refining margins pressured by Indonesian competition.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-13",
+          "sources": [
+            {
+              "publisher": "Phillip Capital Research (via i3investor)",
+              "url": "https://klse.i3investor.com/web/pricetarget/research/79744"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Analyst forecasts.",
+          "verdict": "Mixed",
+          "soWhat": "Firm prices are being offset by costs; a re-rating is not expected."
+        },
+        {
+          "id": "2026-10-14-pl-5",
+          "headline": "CIMB: RM2,000 minimum wage from June 2027 could cut planters' FY28 earnings by up to 7%",
+          "detail": "Estimated hit 0.2-4% in FY27 and 2-7% in FY28; most exposed are Johor Plantations, Ta Ann and Hap Seng Plantations. CIMB keeps Overweight on El Niño supply risk; top picks IOI, KLK, Genting Plantations, Hap Seng Plantations.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "sources": [
+            {
+              "publisher": "NST (via MPOB Prestasi Sawit)",
+              "url": "https://prestasisawit.mpob.gov.my/en/palmnews/news/40083"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Analyst estimate; assumes over half of estate workers affected.",
+          "verdict": "Negative",
+          "soWhat": "Labour-cost step-up will accelerate mechanisation.",
+          "opportunity": "Suppliers of agricultural machinery and automation.",
+          "watchOut": "Upstream planters with high general-worker share."
+        },
+        {
+          "id": "2026-10-14-pl-6",
+          "headline": "Budget 2027: RM100mil hybrid financing for 4,500 oil palm smallholders to replant, only half repayable",
+          "detail": "Also RM30mil for crop disease and pests (Ganoderma, bagworms, mealybugs), RM100mil for estate roads, and rubber production incentive raised to RM3.30/kg for 300,000+ smallholders.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/news/nation/2026/10/09/budget-2027-oil-palm-replanting-higher-rubber-production-among-key-measures-for-smallholders-says-anwar"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Budget proposal.",
+          "verdict": "Positive",
+          "soWhat": "Supports long-term smallholder yields; limited near-term earnings effect for listed planters."
         }
       ],
       "theme": "Record stocks, firm outlook"
     },
     {
       "sectorKey": "capitalFinancing",
-      "items": []
+      "items": [
+        {
+          "id": "2026-10-14-capf-1",
+          "headline": "Budget 2027 lifts loan and financing guarantees to RM57bil (from RM50bil); SJPP limit raised to RM50mil for mid-tier firms",
+          "detail": "BNM doubles its West Asia-affected SME facility to RM10bil; BPMB allocates RM7bil across seven sectors; SJPP and CGC provide up to RM32bil in guarantees, with RM1bil of SJPP for M&A.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/09/budget-2027-govt-raises-financing-and-guarantee-facilities-to-rm57bil"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Budget proposal; this covers SME and corporate financing, not licensed moneylending specifically.",
+          "verdict": "Positive",
+          "soWhat": "Government-guaranteed credit competes with, and de-risks, private SME lending.",
+          "watchOut": "Cheaper guaranteed loans may crowd out non-bank lenders."
+        }
+      ]
     },
     {
       "sectorKey": "consumerFinancing",
@@ -648,6 +931,32 @@
           ],
           "watchlistCompanyKeys": [],
           "detail": "Awarded by IJM Construction to Epicon's 70%-owned Concrete Empire; works run from mid-November 2026 to end-November 2028."
+        },
+        {
+          "id": "2026-10-14-ibs-2",
+          "headline": "Cement up to 7.4% and steel up to 5.1% y-o-y in September (DOSM); steel eased 2.4% m-o-m to RM3,431.90/t",
+          "detail": "Highest cement rise in Selangor, KL, Melaka and Negeri Sembilan (7.4%); steel highest in Perak (5.1%). Cement unchanged at RM25.80 per 50kg bag; cement up 0.3-1.9% m-o-m.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "sources": [
+            {
+              "publisher": "DOSM",
+              "url": "https://www.dosm.gov.my/uploads/release-content/file_20261009162720.pdf"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2618949"
+            },
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/12/building-material-costs-eases-in-september-steel-price-drops-but-cement-rises/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Official statistics.",
+          "verdict": "Mixed",
+          "soWhat": "Input costs for precast and contractors are higher than a year ago, though steel is easing monthly; the Budget's variation-of-price mechanism matters.",
+          "watchOut": "Margin squeeze on fixed-price contracts."
         }
       ]
     },
@@ -686,17 +995,58 @@
             }
           ],
           "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ht-3",
+          "headline": "Budget 2027 gives tourism RM935mil (+RM235mil); Visit Malaysia extended into 2027 with a flight-route matching grant",
+          "detail": "Grant targets new direct flights from China, India, Central Asia and Europe; Ecological Fiscal Transfer raised to RM270mil; Langkawi/Labuan duty-free limit to RM10,000 (48-hour stay). Hoteliers warn arrivals must turn into yield amid costs, Airbnb competition and luxury-room shortages in secondary cities.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/lifestyle/travel/2026/10/09/tourism-industry-gets-rm935mil-in-budget-2027"
+            },
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/11/rm935-million-tourism-boost-faces-profitability-test-as-industry-warns-of-key-gaps/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Budget allocation; industry comments are views.",
+          "verdict": "Positive",
+          "soWhat": "New routes support KL occupancy and room rates, but profitability depends on cost control.",
+          "opportunity": "Luxury hotels in Kota Bharu, Kuala Terengganu and Kuching are under-supplied, per operators.",
+          "watchOut": "Rising operating and manpower costs."
+        },
+        {
+          "id": "2026-10-14-ht-4",
+          "headline": "Genting Bhd proposes RM1.25bil rights issue, RM800mil to repay debt, as borrowings hit RM45.25bil",
+          "detail": "1H26 net profit down to RM74mil; gearing 0.51x from 0.43x, mainly from Resorts World New York City funding. Pricing at a 25-30% discount to TERP; major shareholders commit ~RM563.8mil. Completion expected 1Q2027.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-10-09",
+          "sources": [
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/09/genting-plans-rm1-25b-rights-issue-as-borrowings-swell-to-rm45-3b/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Proposal, subject to regulatory and shareholder approval.",
+          "verdict": "Negative",
+          "soWhat": "Malaysia's largest leisure group is deleveraging through equity; dilution for minorities.",
+          "watchOut": "Subject to approvals; source reports profit decline percentages inconsistently."
         }
       ]
     }
   ],
   "sectorCoverage": {
-    "aiTelcoIct": "Core set checked 12-14 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech flash; dates from article meta), TNGlobal feed, Malay Mail money feed, Bernama feed, NST business feed. Earlier-run items from company/HKEX filings kept. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. MCMC not checked.",
+    "aiTelcoIct": "Core set checked 12-14 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech flash; dates from article meta), TNGlobal feed, Malay Mail money feed, Bernama feed, NST business feed. Earlier-run items from company/HKEX filings kept. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. MCMC not checked. Top-up search pass 14 Oct added regional press (Business Times Singapore, DealStreetAsia), Digital News Asia, TMR and Malay Mail items.",
     "propertyDevelopment": "Core set checked: The Edge (KPKT abandoned-projects item), Malay Mail, NST. Earlier-run items from The Star, EdgeProp and MOF kept. The Star /property returned 404, not checked. A Land 33 RM32.3mil land purchase (The Star) was not included because its body was truncated.",
     "construction": "Core set checked: The Edge, NST (Epicon, AWC and Gamuda also reported there; ledes only), Malay Mail. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. Bursa: watchlist companies checked 1-14 Oct.",
-    "propertyInvestment": "Core set checked 12-14 Oct (The Edge, Malay Mail, TMR, Bernama, NST feeds): no Malaysia retail-mall or retail-REIT item found in the window. The Star business section checked; /property 404. Bursa REIT filings not checked. Not evidence of no news.",
+    "propertyInvestment": "Core set checked 12-14 Oct (The Edge, Malay Mail, TMR, Bernama, NST feeds): no Malaysia retail-mall or retail-REIT item found in the window. The Star business section checked; /property 404. Bursa REIT filings not checked. Not evidence of no news. Top-up pass 14 Oct: an NST analyst piece on Budget consumer and property stocks was found but its body could not be read, so not included.",
     "plantation": "Core set checked: The Edge Commodities flash (global grains/metals only in window), Malay Mail, TMR. MPOB and Kenanga items from the earlier run kept. No new Malaysian palm oil item in the core feeds for 13-14 Oct.",
-    "capitalFinancing": "Core set checked for licensed moneylending: no item found in the window. AmanahRaya Investment Management's suspension of three unit trust funds (The Edge, 13 Oct) was seen but is fund management, outside this sector's scope. KPKT moneylender lists not rechecked. Not evidence of no news.",
+    "capitalFinancing": "Core set checked for licensed moneylending: no item found in the window. AmanahRaya Investment Management's suspension of three unit trust funds (The Edge, 13 Oct) was seen but is fund management, outside this sector's scope. KPKT moneylender lists not rechecked. Not evidence of no news. Top-up pass 14 Oct added the Budget guarantee-facility item (SME/corporate financing, broader than moneylending).",
     "consumerFinancing": "Core set checked: The Edge (CTOS breach), Malay Mail. BNM/SC deepfake-scam warning (Malay Mail, 14 Oct) seen, not included as non-specific. ANGKASA, Bank Rakyat and cooperative releases not checked.",
     "cablesManufacturing": "Core set checked: The Edge, TMR, NST. Kinergy Advancement's RM479.4mil Perlis power plant funding item (NST) was seen, but only the lede was readable, so not included. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. A Star item on MIDA linking 25 local firms with TNB companies for RE opportunities was not included, because its body was not verified independently.",
     "buildingMaterialsIbs": "Core set checked: NST (Epicon precast; lede only), The Edge. No verified Chin Hin or OKA item in the window. CIDB not rechecked. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404.",
@@ -718,23 +1068,23 @@
   ],
   "keyTakeaways": [
     {
-      "headline": "Data-centre and chip capex is turning into real contracts down the supply chain",
-      "soWhat": "27 DCTF-approved projects worth RM225.97bil are mostly still under construction, and work is reaching main contractors (IJM's RM1.23bil AT&S job) and specialists (AWC's RM39.7mil, its fourth data-centre job in 12 months Port Dickson subcontract). PDG's reported US$1.2bil Johor loan shows debt funding is following. The Johor 300MW Realord plan is still only an MOU.",
+      "headline": "Johor data-centre money is getting bigger, and it is reaching contractors",
+      "soWhat": "DayOne now has RM30bil of bank financing for Johor after a RM15bil top-up from seven lenders, including CIMB and Maybank, and PDG reportedly seeks US$1.2bil. The money is turning into contracts: IJM's RM1.23bil AT&S plant, MN Holdings' RM293.88mil HV landing stations, and AWC and Kinergy subcontracts in Port Dickson.",
       "sectorKeys": [
         "aiTelcoIct",
         "construction"
       ],
       "itemIds": [
-        "2026-10-14-ai-5",
-        "2026-10-14-con-1",
-        "2026-10-14-con-5",
+        "2026-10-14-ai-11",
         "2026-10-14-ai-6",
-        "2026-10-14-ai-3"
+        "2026-10-14-con-1",
+        "2026-10-14-ai-15",
+        "2026-10-14-con-5"
       ]
     },
     {
       "headline": "Power is the bottleneck, and policy on it is shifting",
-      "soWhat": "MITI's Privasia approval requires off-grid power, Hibiscus is pitching on-site plants for data centres, and Masteel is buying into HV grid work. A reported rise in the CRESS access charge to 18 sen/kWh (unconfirmed) could cool corporate RE deals. Cable makers like Southern Cable remain booked on DC and HV orders (analyst view).",
+      "soWhat": "MITI's Privasia approval requires off-grid power, Hibiscus is pitching on-site plants for data centres, and Masteel is buying into HV grid work. A reported rise in the CRESS access charge to 18 sen/kWh (unconfirmed) could cool corporate RE deals. Cable makers like Southern Cable remain booked on DC and HV orders (analyst view). The government is also reviewing data centres' contracted versus actual power use and has floated requiring them to supply their own power.",
       "sectorKeys": [
         "cablesManufacturing",
         "aiTelcoIct"
@@ -745,7 +1095,8 @@
         "2026-10-14-cab-4",
         "2026-10-14-cab-3",
         "2026-10-14-cab-1",
-        "2026-10-14-cab-2"
+        "2026-10-14-cab-2",
+        "2026-10-14-ai-12"
       ]
     },
     {
@@ -792,8 +1143,8 @@
   "sourceTally": [
     {
       "source": "The Edge",
-      "scanned": 69,
-      "used": 10,
+      "scanned": 70,
+      "used": 11,
       "status": "checked",
       "note": "6 section/flash pages; 69 stories dated 12-14 Oct by article meta",
       "publishers": [
@@ -802,8 +1153,8 @@
     },
     {
       "source": "Malay Mail",
-      "scanned": 33,
-      "used": 2,
+      "scanned": 34,
+      "used": 3,
       "status": "checked",
       "note": "/feed/rss/money, 12-14 Oct",
       "publishers": [
@@ -821,10 +1172,10 @@
     },
     {
       "source": "The Malaysian Reserve",
-      "scanned": 10,
-      "used": 3,
+      "scanned": 14,
+      "used": 6,
       "status": "partial",
-      "note": "Feed holds latest 10 items (14 Oct only)",
+      "note": "Feed holds latest 10 items (14 Oct only); top-up pass opened 4 articles from 9-13 Oct (3 items)",
       "publishers": [
         "The Malaysian Reserve",
         "The Malaysian Reserve (Bernama)"
@@ -842,20 +1193,21 @@
     },
     {
       "source": "NST / Business Times",
-      "scanned": 14,
-      "used": 1,
+      "scanned": 18,
+      "used": 2,
       "status": "partial",
-      "note": "Business items in feed (14 Oct); article bodies need a browser, ledes only",
+      "note": "Business items in feed (14 Oct); article bodies need a browser, ledes only; top-up: 4 bodies blank via fetch, 1 used with corroboration",
       "publishers": [
-        "NST / Business Times (Bernama)"
+        "NST / Business Times (Bernama)",
+        "NST"
       ]
     },
     {
       "source": "The Star",
-      "scanned": 17,
-      "used": 12,
+      "scanned": 24,
+      "used": 18,
       "status": "checked",
-      "note": "Business and tech sections in the browser; /property returned 404",
+      "note": "Business and tech sections in the browser; /property returned 404; top-up pass 14 Oct opened 7 more articles (6 used)",
       "publishers": [
         "The Star",
         "The Star (Bernama), via Privasia"
@@ -885,6 +1237,25 @@
         "EdgeProp",
         "MPOB (preliminary statistics)",
         "Kenanga Research"
+      ]
+    },
+    {
+      "source": "Top-up search pass (regional, specialist, research)",
+      "scanned": 12,
+      "used": 7,
+      "status": "checked",
+      "note": "Targeted searches 14 Oct for items missed by the portal pass",
+      "publishers": [
+        "The Business Times (Singapore)",
+        "DealStreetAsia",
+        "Digital News Asia",
+        "Business Today",
+        "DOSM",
+        "BernamaBiz",
+        "Phillip Capital Research (via i3investor)",
+        "NST (via MPOB Prestasi Sawit)",
+        "NST (via KLSE Screener)",
+        "Alibaba Cloud"
       ]
     }
   ]
