@@ -9,13 +9,33 @@
     "2026-10-15T07:33:58+08:00",
     "2026-10-15T07:34:12+08:00",
     "2026-10-15T07:34:28+08:00",
+    "2026-10-15T07:38:31+08:00",
     "2026-10-15T07:40:00+08:00"
   ],
   "sectors": [
     {
       "sectorKey": "aiTelcoIct",
-      "theme": "Sovereign cloud, Selangor LOIs, TM DC",
+      "theme": "DayOne scale-up; sovereign cloud; TM DC",
       "items": [
+        {
+          "id": "2026-10-15-ai-4",
+          "headline": "DayOne upsizes Malaysia Johor financing to about US$7.2bil; 1GW billings live, 2.3GW bookings and 1.1GW reservations",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Company release: senior secured multi-currency syndicated term financing for the Johor platform now about US$7.2bil (builds on ~US$3.5bil May 2025 facility). Billings (income-generating IT capacity) surpassed 1GW (from 121MW end-2024). Bookings ~2.3GW from 15 customers; reservations 1.1GW (not guaranteed to convert). Figures as of 20 Sept 2026.",
+          "soWhat": "The largest Johor hyperscale platform is still scaling debt and contracted load after the earlier RM15bil add-on.",
+          "opportunity": "Funded construction and fit-out pipeline for contractors and power suppliers in Johor.",
+          "watchOut": "Company-defined metrics; reservations may not become bookings. Equity and debt concentration risk remains.",
+          "sources": [
+            {
+              "publisher": "DayOne / PR Newswire",
+              "url": "https://www.prnewswire.com/news-releases/dayone-upsizes-malaysia-financing-to-us7-2-billion-total-billings-surpass-1gw-and-bookings-reach-2-3gw-302908367.html"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Material update to the 13 Oct DayOne financing item in the prior edition."
+        },
         {
           "id": "2026-10-15-ai-1",
           "headline": "Govt developing a sovereign AI cloud for classified data, to be run by MCMC and the Communications Ministry",
@@ -84,8 +104,27 @@
     },
     {
       "sectorKey": "propertyDevelopment",
-      "theme": "Quiet overnight",
-      "items": []
+      "theme": "Battersea refinance",
+      "items": [
+        {
+          "id": "2026-10-15-pd-1",
+          "headline": "Battersea Power Station secures £280mil (RM1.52bil) refinancing from CIMB, OCBC, Maybank and StanChart",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-15",
+          "detail": "Facility supports the remaining 16 acres of the 42-acre London riverside site. Revised masterplan proposes up to 3.2mil sq ft more space. Prospect Place South (~300 homes) started early September. Malaysian shareholders S P Setia, Sime Darby Property and EPF have invested more than £5bil to date.",
+          "soWhat": "Malaysian developers keep funding a flagship overseas mixed-use project despite a quieter London market.",
+          "opportunity": "Next phases (incl. Prospect Place South and 200 council homes targeted early 2027) keep construction and retail leasing live.",
+          "watchOut": "Overseas exposure; quieter UK property market named by the company.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/15/battersea-power-station-secures-rm152bil-refinancing-loan"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
     },
     {
       "sectorKey": "construction",
@@ -120,8 +159,27 @@
     },
     {
       "sectorKey": "propertyInvestment",
-      "theme": "No retail-mall item",
-      "items": []
+      "theme": "CityWalk reposition",
+      "items": [
+        {
+          "id": "2026-10-15-pi-1",
+          "headline": "i-City appoints Savills to operate and reposition CityWalk (180,000 sq ft) as an AI/robotics retail hub in Shah Alam",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Savills to oversee operations, leasing, tenant mix and activation at the open-air mall, plus ~120,000 sq ft event space. Tied to the planned 500-unit i-Ris AI Living tower (completion targeted 2030). Concepts for AI/robotics retail to be introduced progressively subject to demand.",
+          "soWhat": "A rare retail-mall story: landlords are pitching AI/robotics as a repositioning theme, not just F&B refresh.",
+          "opportunity": "Experiential and tech-retail leasing if the AI Living narrative draws footfall.",
+          "watchOut": "Repositioning plan; no CapEx, rent or occupancy figures disclosed.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1917832/i-city-appoints-savills-reposition-citywalk"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
     },
     {
       "sectorKey": "plantation",
@@ -230,7 +288,7 @@
     },
     {
       "sectorKey": "hotels",
-      "theme": "Genting rights detail; Gamuda hotel",
+      "theme": "Genting rights; haze cost",
       "items": [
         {
           "id": "2026-10-15-ht-1",
@@ -267,35 +325,67 @@
             }
           ],
           "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-15-ht-3",
+          "headline": "Economist estimates haze costs Malaysia RM20mil-RM50mil a day (up to RM1.5bil a month); tourism arrivals could fall up to 8%",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Sunway University's Yeah Kim Leng: hardest-hit sectors tourism and aviation; palm yields may feel a 6-12 month lag; construction and logistics slowed. Public-health costs and productivity losses add to the bill. One KL hotel GM cited as estimating occupancy down 20-30% from a normal ~80% (single-property view).",
+          "soWhat": "Haze is now a quantified near-term hit to hotel demand, not only flight cancellations.",
+          "watchOut": "Estimates, not official statistics; one hotel occupancy anecdote is not industry data.",
+          "sources": [
+            {
+              "publisher": "The Straits Times (via The Star)",
+              "url": "https://www.straitstimes.com/asia/se-asia/economists-estimate-that-malaysia-loses-up-to-15-72-million-a-day-due-to-haze"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Economist/academic estimates. Single-hotel occupancy comment is anecdotal."
         }
       ]
     }
   ],
   "sectorCoverage": {
-    "aiTelcoIct": "Core set 14-15 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech, Commodities; dates from article published_time/created), Malay Mail money feed, TNGlobal feed, TMR feed, NST feed, The Star business (browser/fetch). New items: sovereign AI cloud, Selangor Galaxy DC LOI, TM/Phillip Capital note. DCTF RM226bil and Hibiscus-Seri Pajam also seen again on 14-15 Oct but already in the 14 Oct edition (no material new numbers). MCMC primary site not rechecked beyond Fahmi remarks.",
-    "propertyDevelopment": "Core set and EdgeProp checked for 14-15 Oct window: no new Malaysia property-launch / GDV / land-deal item verified beyond items already in the 14 Oct edition (Budget stamp duty, KPKT, etc.). The Star /property still not used (prior 404). Not evidence of no news.",
-    "construction": "Core set plus HLIB note via BernamaBiz/Focus Malaysia (14 Oct). Watchlist: Inta Bina named as HLIB preferred small-cap. Bursa watchlist pass in progress via browser at check time; KLSE Screener fetch failed (connection). AWC/Gamuda Taiwan/Epicon re-seen on Star 15 Oct but already covered 14 Oct.",
-    "propertyInvestment": "Core feeds and Star business scanned for retail malls / retail REITs 14-15 Oct: no verified Malaysia retail-property investment item in the window. Not evidence of no news.",
+    "aiTelcoIct": "Core set 14-15 Oct plus DayOne PR Newswire upsizing (material update to prior RM15bil item). Sovereign AI cloud, Selangor Galaxy DC LOI, TM/Phillip Capital retained. DCTF/Hibiscus re-seen but already covered 14 Oct.",
+    "propertyDevelopment": "Battersea £280mil refinance (Star 15 Oct) added. No new domestic launch/GDV item in the overnight window beyond prior edition.",
+    "construction": "HLIB/Focus Malaysia awards note; Inta Bina preferred small-cap. Bursa watchlist: all 12 checked in browser (see watchlistCoverage).",
+    "propertyInvestment": "EdgeProp: i-City appoints Savills to reposition CityWalk (180,000 sq ft) as AI/robotics retail hub (14 Oct).",
     "plantation": "Commodities flash on The Edge had no new Malaysian palm feature in-window (global metals/grains). Used BernamaBiz CPO futures/exports 14 Oct. An Edge URL titled Oct 1-15 ITS exports was checked and rejected: article created epoch maps to 2014 (nid 164901), not 2026. MPOB site not re-pulled beyond prior edition stocks.",
     "capitalFinancing": "Core set scanned for licensed moneylending: no item in the 14-15 Oct window. Budget guarantee items already in 14 Oct edition. Not evidence of no news.",
     "consumerFinancing": "TNGlobal Salary Hero entry; TMR/BNM National Fraud Portal. Civil-servant cooperative lenders and ANGKASA releases not checked overnight.",
-    "cablesManufacturing": "CRESS 18 sen confirmation and market reaction (Star 15 Oct) plus Yeo/Edge. Southern Cable / Master Tec: no new verified media item in window; Bursa browser pass still running. NST cable-theft scrapyard story seen, not used (crime enforcement, not manufacturing orders).",
-    "buildingMaterialsIbs": "Core set: no new Chin Hin, OKA or IBS/wall-panel contract verified for 14-15 Oct. Epicon NPE item already in 14 Oct edition. CIDB not rechecked.",
-    "hotels": "Genting Bursa-query reply (Edge); ASAI Gamuda Cove opening (EdgeProp). Firefly haze cancellations re-seen across TMR/NST/FMT but already in 14 Oct edition (to 16 Oct). MAH and Tourism Malaysia not rechecked overnight."
+    "cablesManufacturing": "CRESS 18 sen confirmation (Star/Edge). Bursa: Southern Cable EPF substantial-holder disposal 14 Oct (routine filing, not itemised). Cable-theft NST story seen, not used.",
+    "buildingMaterialsIbs": "No new Chin Hin/OKA/IBS contract in window. Chin Hin Ophira resort GDV (EdgeProp 12 Oct) seen in search pass but outside overnight window / not added.",
+    "hotels": "Genting rights clarification; ASAI Gamuda Cove opening; haze economic-cost estimates (ST/Star). Firefly cancellations already in 14 Oct edition."
   },
   "watchlistCoverage": [
-    "Inta Bina: tagged via HLIB preferred small-cap call in the construction awards note (analyst view).",
-    "Bursa Malaysia announcements for all 12 companies: browser pass running during this edition; KLSE Screener HTTP fetch failed (0-byte). Prior edition already covered Pesona buy-backs through 14 Oct, GDB proposals, Southern Cable subdivision, Inta Bina development filing.",
-    "No new verified media body naming OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, TCS, Nestcon or Kitacon in the 14-15 Oct core feeds."
+    "Bursa Malaysia announcements checked in the browser for all 12 companies (company filter 14-15 Oct 2026, plus full 14 Oct announcement scan). No 15 Oct filings visible at ~07:34 MYT.",
+    "14 Oct filings: Southern Cable — EPF substantial-shareholder change (ann 3714858): net disposal ~1.84mil shares on 9 Oct; holding 70,423,709 (5.509%). Pesona Metro — buy-back 14 Oct 64,600 shares at RM0.465-0.470 (ann 3714845) plus s127 notice for 24 Sep-7 Oct buy-backs (ann 3714733). TCS — routine company-secretary resignation/appointment (ann 3714850/3714851).",
+    "No 14-15 Oct announcements: OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, GDB, Inta Bina, Nestcon, Kitacon.",
+    "Media/analyst: Inta Bina tagged via HLIB preferred small-cap call. Southern Cable EPF disposal and Pesona buy-backs treated as routine filings (not separate items)."
   ],
   "generalCoverage": [
-    "Edition window: since the 14 Oct edition (last checks ~22:01-23:30 MYT) through morning 15 Oct 2026 MYT. Focused on new or materially updated items; duplicates from 14 Oct skipped unless facts moved.",
-    "The Edge section pages and article bodies read via __NEXT_DATA__ / article:published_time (never the site date banner). One palm ITS URL was discarded as a 2014 story resurfaced with a wrong banner date.",
-    "Feeds: Malay Mail money, TNGlobal, TMR, Bernama, NST, FMT, The Sun scanned. Bernama feed very shallow; TMR latest-10 depth limit still applies.",
-    "The Star business stories for 15 Oct opened by URL (5G/TM, CRESS, Hibiscus, AWC, etc.). Tech section listing was thin via fetch.",
+    "Edition window: since the 14 Oct edition through morning 15 Oct 2026 MYT. Same-morning enrichment added DayOne upsizing, Battersea refinance, CityWalk retail, haze cost estimates, and completed Bursa watchlist pass.",
+    "The Edge section pages and article bodies dated via __NEXT_DATA__ / article:published_time (never the site date banner). Rejected a misdated palm ITS URL (2014).",
+    "Feeds: Malay Mail money, TNGlobal, TMR, Bernama, NST, FMT, The Sun scanned. Bernama/TMR feed-depth limits apply; NST bodies often thin via fetch.",
+    "Bursa: all 12 watchlist companies checked in browser for 14-15 Oct; KLSE Screener unavailable (Cloudflare 522).",
     "Coverage is not exhaustive; unread or blocked sources are not evidence of no news."
   ],
   "keyTakeaways": [
+    {
+      "headline": "DayOne's Johor book is still getting bigger — financing now about US$7.2bil",
+      "soWhat": "After the earlier RM15bil bank top-up, DayOne says Malaysia financing is about US$7.2bil, with 1GW already billing and 2.3GW booked. That is the scale of funded DC work flowing to contractors, cables and power.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-10-15-ai-4",
+        "2026-10-15-con-1",
+        "2026-10-15-ai-3"
+      ]
+    },
     {
       "headline": "CRESS at 18 sen is now market fact, and DC offtakers feel it",
       "soWhat": "After Tuesday's four-sen SAC lift, RE stocks fell as much as about 9%. Analysts argue UHV users may still beat TNB peak tariffs on an illustrative 48 sen vs 51.18 sen comparison, but the policy flip is exactly the investor-confidence risk Yeo flagged.",
@@ -309,38 +399,27 @@
       ]
     },
     {
-      "headline": "Construction awards are running at a record pace on DC work",
-      "soWhat": "HLIB puts Q3 domestic awards at RM18.7bil (+75% y-o-y) with RM10bil from data centres, and keeps Inta Bina as its preferred small-cap. That is the spillover channel for watchlist builders even when they are not named on each DC award.",
-      "sectorKeys": [
-        "construction",
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-10-15-con-1",
-        "2026-10-15-ai-2"
-      ]
-    },
-    {
-      "headline": "Policy is pushing a sovereign AI stack while states still chase LOIs",
-      "soWhat": "Fahmi's sovereign AI cloud (MCMC/KKD) is about keeping classified data off foreign public clouds, while Selangor's RM3bil-plus LOI package still lists Galaxy Data Centre as intent only. Commercial DC buildout (TM Nxera take-up) and government cloud are moving on parallel tracks.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-10-15-ai-1",
-        "2026-10-15-ai-2",
-        "2026-10-15-ai-3"
-      ]
-    },
-    {
-      "headline": "Genting's rights issue is partly paying the interest bill",
-      "soWhat": "Of the RM429.5mil working-capital slice in the RM1.25bil rights issue, RM280mil is earmarked for interest and financing costs. That is a clearer deleveraging signal for leisure/hotel balance sheets than the headline raise alone.",
+      "headline": "Haze is hitting hotels and the wider economy in hard numbers",
+      "soWhat": "An economist puts daily losses at RM20mil-RM50mil (up to RM1.5bil a month), with tourism arrivals at risk of an up-to-8% drop. That sits on top of Firefly's Subang-Seletar cancellations already flagged yesterday.",
       "sectorKeys": [
         "hotels"
       ],
       "itemIds": [
+        "2026-10-15-ht-3",
         "2026-10-15-ht-1",
         "2026-10-15-ht-2"
+      ]
+    },
+    {
+      "headline": "Retail property finally has a story: CityWalk's AI reposition",
+      "soWhat": "i-City's Savills mandate for the 180,000 sq ft CityWalk mall is a concrete retail-landlord move, pitched around AI/robotics and the i-Ris tower — while Battersea's RM1.52bil refinance keeps Malaysian developers active offshore.",
+      "sectorKeys": [
+        "propertyInvestment",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-10-15-pi-1",
+        "2026-10-15-pd-1"
       ]
     }
   ],
@@ -357,10 +436,10 @@
     },
     {
       "source": "The Star",
-      "scanned": 18,
-      "used": 2,
+      "scanned": 22,
+      "used": 3,
       "status": "checked",
-      "note": "15 Oct business URLs opened (TM, CRESS, Hibiscus, AWC, Gamuda, EcoSys, etc.); bodies via fetch. /property not rechecked.",
+      "note": "15 Oct business URLs incl. TM, CRESS, Battersea; bodies via fetch",
       "publishers": [
         "The Star"
       ]
@@ -415,26 +494,26 @@
     },
     {
       "source": "Bursa announcements",
-      "scanned": null,
+      "scanned": 12,
       "used": 0,
-      "status": "pending-browser-check",
-      "note": "Browser pass for 12 watchlist companies in flight at publish; KLSE Screener curl failed",
+      "status": "checked",
+      "note": "All 12 watchlist companies in browser, 14-15 Oct; routine filings only (EPF/Pesona/TCS)",
       "publishers": []
     },
     {
       "source": "Top-up / regional / research",
-      "scanned": 12,
-      "used": 3,
+      "scanned": 16,
+      "used": 6,
       "status": "checked",
-      "note": "Focus Malaysia, BernamaBiz, EdgeProp, FMT/Sun feeds scanned",
+      "note": "Focus Malaysia, BernamaBiz, EdgeProp x2, PR Newswire, ST/Star haze",
       "publishers": [
         "BernamaBiz",
         "Focus Malaysia",
         "EdgeProp",
-        "FMT",
-        "The Sun"
+        "DayOne / PR Newswire",
+        "The Straits Times (via The Star)"
       ]
     }
   ],
-  "publishedAt": "2026-10-15T07:34:28+08:00"
+  "publishedAt": "2026-10-15T07:38:31+08:00"
 }
