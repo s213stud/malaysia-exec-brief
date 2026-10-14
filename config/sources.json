@@ -1,0 +1,83 @@
+{
+  "media": [
+    {
+      "key": "theedge",
+      "name": "The Edge",
+      "url": "https://theedgemalaysia.com",
+      "type": "media",
+      "required": true
+    },
+    {
+      "key": "thestar",
+      "name": "The Star",
+      "url": "https://www.thestar.com.my",
+      "type": "media",
+      "required": true
+    },
+    {
+      "key": "malaymail",
+      "name": "Malay Mail",
+      "url": "https://www.malaymail.com",
+      "type": "media",
+      "required": true
+    },
+    {
+      "key": "tnglobal",
+      "name": "TNGlobal (especially tech)",
+      "url": "https://technode.global",
+      "type": "media",
+      "required": true
+    },
+    {
+      "key": "tmr",
+      "name": "The Malaysian Reserve",
+      "url": "https://themalaysianreserve.com",
+      "type": "media",
+      "required": true
+    }
+  ],
+  "primary": [
+    {
+      "key": "bursa",
+      "name": "Bursa Malaysia announcements and company IR",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement",
+      "type": "primary"
+    },
+    {
+      "key": "mcmc",
+      "name": "MCMC and telco operators",
+      "url": "https://www.mcmc.gov.my",
+      "type": "primary"
+    },
+    {
+      "key": "cidb",
+      "name": "CIDB",
+      "url": "https://www.cidb.gov.my",
+      "type": "primary"
+    },
+    {
+      "key": "kpkt",
+      "name": "KPKT",
+      "url": "https://www.kpkt.gov.my",
+      "type": "primary"
+    },
+    {
+      "key": "mpob",
+      "name": "MPOB",
+      "url": "https://mpob.gov.my",
+      "type": "primary"
+    },
+    {
+      "key": "gov",
+      "name": "Government budget, policy and regulatory documents",
+      "url": "",
+      "type": "primary"
+    },
+    {
+      "key": "company",
+      "name": "Manufacturer and company releases",
+      "url": "",
+      "type": "primary"
+    }
+  ]
+}

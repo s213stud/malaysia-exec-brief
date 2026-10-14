@@ -1,0 +1,90 @@
+{
+  "label": "Company watchlist",
+  "_note": "Tickers MUST stay JSON strings to keep leading zeros.",
+  "companies": [
+    {
+      "key": "oka",
+      "group": "Building Materials",
+      "name": "OKA CORPORATION BHD",
+      "ticker": "7140",
+      "aliases": []
+    },
+    {
+      "key": "chinhin",
+      "group": "Building Materials",
+      "name": "CHIN HIN GROUP BERHAD",
+      "ticker": "5273",
+      "aliases": []
+    },
+    {
+      "key": "southerncable",
+      "group": "Cables",
+      "name": "SOUTHERN CABLE GROUP BERHAD",
+      "ticker": "0225",
+      "aliases": []
+    },
+    {
+      "key": "mastertec",
+      "group": "Cables",
+      "name": "MASTER TEC GROUP BERHAD",
+      "ticker": "0295",
+      "aliases": []
+    },
+    {
+      "key": "crest",
+      "group": "Construction",
+      "name": "CREST BUILDER HOLDINGS BHD",
+      "ticker": "8591",
+      "aliases": []
+    },
+    {
+      "key": "tujusetia",
+      "group": "Construction",
+      "name": "TUJU SETIA BERHAD",
+      "ticker": "5297",
+      "aliases": []
+    },
+    {
+      "key": "pesona",
+      "group": "Construction",
+      "name": "PESONA METRO HOLDINGS BHD",
+      "ticker": "8311",
+      "aliases": []
+    },
+    {
+      "key": "gdb",
+      "group": "Construction",
+      "name": "GDB HOLDINGS BERHAD",
+      "ticker": "0198",
+      "aliases": []
+    },
+    {
+      "key": "tcs",
+      "group": "Construction",
+      "name": "TCS GROUP HOLDINGS BERHAD",
+      "ticker": "0221",
+      "aliases": []
+    },
+    {
+      "key": "intabina",
+      "group": "Construction",
+      "name": "INTA BINA GROUP BERHAD",
+      "ticker": "0192",
+      "aliases": []
+    },
+    {
+      "key": "nestcon",
+      "group": "Construction",
+      "name": "NESTCON BERHAD",
+      "ticker": "0235",
+      "aliases": []
+    },
+    {
+      "key": "kitacon",
+      "group": "Construction",
+      "name": "KUMPULAN KITACON BERHAD",
+      "ticker": "5310",
+      "aliases": []
+    }
+  ]
+}

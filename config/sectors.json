@@ -1,0 +1,54 @@
+{
+  "sectors": [
+    {
+      "key": "aiTelcoIct",
+      "label": "AI / Telco / ICT",
+      "scope": "Malaysia-related AI, telecoms, ICT, digital infrastructure, data centres, cloud, technology investment, adoption and regulation."
+    },
+    {
+      "key": "propertyDevelopment",
+      "label": "Property Development",
+      "scope": "Property launches, development projects, sales, land transactions, relevant policy and company developments."
+    },
+    {
+      "key": "construction",
+      "label": "Construction",
+      "scope": "Contracts, tenders, project delivery, order books, costs, capacity, financing and material company developments."
+    },
+    {
+      "key": "propertyInvestment",
+      "label": "Property Investment",
+      "scope": "Retail property investment, malls, retail landlords and relevant retail-asset REIT developments. Do not silently broaden into all office-property news."
+    },
+    {
+      "key": "plantation",
+      "label": "Plantation",
+      "scope": "Plantation businesses, palm oil, production, stocks, exports, costs, labour, policy and material company developments."
+    },
+    {
+      "key": "capitalFinancing",
+      "label": "Capital Financing",
+      "scope": "Licensed moneylending and relevant capital-financing developments. Verify financial and regulatory terms precisely."
+    },
+    {
+      "key": "consumerFinancing",
+      "label": "Consumer Financing",
+      "scope": "Consumer-financing developments relevant to civil servants, including applicable lenders, cooperatives and policy."
+    },
+    {
+      "key": "cablesManufacturing",
+      "label": "Cables Manufacturing",
+      "scope": "Cable makers, orders, manufacturing capacity, costs and demand from grid, construction and data-centre projects."
+    },
+    {
+      "key": "buildingMaterialsIbs",
+      "label": "Building Materials / Wall Panels / IBS",
+      "scope": "Wall panels and industrialised building systems, plus the named building-materials watchlist companies. Do not replace IBS/wall-panel scope with generic materials news."
+    },
+    {
+      "key": "hotels",
+      "label": "Hotels",
+      "scope": "Hotel operators, investment, openings, operating performance, occupancy, tourism demand and relevant policy."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-13",
+  "demo": true,
+  "status": "published",
+  "checkedAt": [
+    "2026-10-13T08:25:00+08:00"
+  ],
+  "publishedAt": "2026-10-13T09:00:00+08:00",
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "items": []
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "items": []
+    },
+    {
+      "sectorKey": "construction",
+      "items": [
+        {
+          "headline": "DEMO ITEM: example of a recent development. Not real news.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-11",
+          "sources": [
+            {
+              "publisher": "Example Publisher (DEMO)",
+              "url": "https://example.com/demo-article-2"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "id": "2026-10-13-construction-1"
+        },
+        {
+          "headline": "DEMO ITEM: example of earlier context, with an analyst estimate labelled as such. Not real news.",
+          "freshness": "earlier-context",
+          "publishedDate": "2026-09-30",
+          "sources": [
+            {
+              "publisher": "Example Publisher (DEMO)",
+              "url": "https://example.com/demo-article-3"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "id": "2026-10-13-construction-2"
+        }
+      ],
+      "theme": "DEMO theme: placeholder"
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "items": []
+    },
+    {
+      "sectorKey": "plantation",
+      "items": []
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "items": []
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "items": []
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "items": [
+        {
+          "headline": "DEMO ITEM: example of a recent development. Not real news.",
+          "freshness": "recent",
+          "publishedDate": "2026-10-11",
+          "sources": [
+            {
+              "publisher": "Example Publisher (DEMO)",
+              "url": "https://example.com/demo-article-2"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "southerncable"
+          ],
+          "id": "2026-10-13-cablesManufacturing-3"
+        }
+      ],
+      "theme": "DEMO theme: placeholder"
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "items": []
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "propertyDevelopment": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "construction": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "propertyInvestment": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "plantation": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "capitalFinancing": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "consumerFinancing": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "cablesManufacturing": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "buildingMaterialsIbs": "DEMO: sources checked / blocked / partial / unsearched would be listed here.",
+    "hotels": "DEMO: sources checked / blocked / partial / unsearched would be listed here."
+  },
+  "watchlistCoverage": [
+    "DEMO: watchlist coverage note."
+  ],
+  "generalCoverage": [
+    "DEMO edition. All items are illustrative placeholders, not reported news. Remove before production.",
+    "Coverage is not exhaustive; an unreadable source is not evidence of no news."
+  ],
+  "keyTakeaways": [
+    {
+      "headline": "DEMO TAKEAWAY: example of a synthesised insight",
+      "soWhat": "Placeholder showing how a one-to-two sentence implication for executives will read. Not real analysis.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-10-13-construction-1"
+      ]
+    },
+    {
+      "headline": "DEMO TAKEAWAY: example linking two sectors",
+      "soWhat": "Placeholder showing a cross-sector takeaway that cites supporting items in both sectors.",
+      "sectorKeys": [
+        "construction",
+        "cablesManufacturing"
+      ],
+      "itemIds": [
+        "2026-10-13-construction-2",
+        "2026-10-13-cablesManufacturing-3"
+      ]
+    },
+    {
+      "headline": "DEMO TAKEAWAY: example of a watch-out",
+      "soWhat": "Placeholder showing a risk or watch-out framed for decision-makers. Not real analysis.",
+      "sectorKeys": [
+        "cablesManufacturing"
+      ],
+      "itemIds": [
+        "2026-10-13-cablesManufacturing-3"
+      ]
+    }
+  ]
+}
