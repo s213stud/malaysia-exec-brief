@@ -1,0 +1,440 @@
+{
+  "date": "2026-10-15",
+  "demo": false,
+  "status": "published",
+  "checkedAt": [
+    "2026-10-15T07:25:00+08:00",
+    "2026-10-15T07:32:00+08:00",
+    "2026-10-15T07:33:51+08:00",
+    "2026-10-15T07:33:58+08:00",
+    "2026-10-15T07:34:12+08:00",
+    "2026-10-15T07:34:28+08:00",
+    "2026-10-15T07:40:00+08:00"
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Sovereign cloud, Selangor LOIs, TM DC",
+      "items": [
+        {
+          "id": "2026-10-15-ai-1",
+          "headline": "Govt developing a sovereign AI cloud for classified data, to be run by MCMC and the Communications Ministry",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-15",
+          "detail": "Communications Minister Fahmi Fadzil said the cloud is meant to keep official documents beyond the reach of foreign laws that can make public clouds less secure. He also cited the digital economy at more than 25.5% of GDP and remaining Jendela connectivity gaps outside villages.",
+          "soWhat": "Putrajaya is treating AI infrastructure as a sovereignty issue, not only a commercial data-centre story.",
+          "opportunity": "Domestic hosting, security and network vendors may see government demand as the cloud is built.",
+          "watchOut": "Still in implementation; no capacity, budget or timeline was disclosed in the remarks.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821907"
+            },
+            {
+              "publisher": "NST",
+              "url": "https://www.nst.com.my/news/nation/2026/10/1555684/sovereign-ai-cloud-protect-malaysias-digital-sovereignty-says-fahmi"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Remarks on Bernama TV (14 Oct evening); Edge published_time 15 Oct 00:32 MYT."
+        },
+        {
+          "id": "2026-10-15-ai-2",
+          "headline": "Selangor draws over RM3bil in LOIs from four foreign firms, including AI hyperscale Galaxy Data Centre",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "LOIs at SIBS 2026 opening: Galaxy Data Centre (AI-focused hyperscale), Shenghui Biotechnology (corn deep-processing), XTC New Energy (battery materials) and Wuxi Weifu Environmental Catalysts. Facilitated by UOB Malaysia to Invest Selangor. Breakdowns and timelines not disclosed.",
+          "soWhat": "Another state-level AI data-centre pitch, still at LOI stage rather than committed FDI.",
+          "opportunity": "If Galaxy DC converts, Selangor adds to the Johor/Negeri Sembilan DC map for power and contractors.",
+          "watchOut": "Letters of intent only; specific amounts and timelines not disclosed.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821850"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/10/14/selangor-international-business-summit-state-attracts-over-rm3b-in-potential-investment-from-four-foreign-investors/239134"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-15-ai-3",
+          "headline": "Phillip Capital keeps TM Buy at RM9.17 TP; sees 5G fibre leasing and DC buildout (Nxera phase-1 >70% take-up) as growth drivers",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-15",
+          "detail": "Analyst forecast: 3Q26 wholesale-led revenue growth, but core net profit RM430mil-RM440mil (vs RM623mil in 3Q25) as tax rate normalises. Unifi ARPU RM132 in 2Q26. Nxera 64MW first phase >70% take-up with initial 20MW live in September; Asia Link Cable targeted ready-for-service 2Q27.",
+          "soWhat": "Incumbent telco exposure to hyperscaler connectivity and DC capacity remains a core AI/ICT equity thesis.",
+          "opportunity": "Wholesale backhaul, subsea and DC fit-out demand tied to TM Global and Nxera.",
+          "watchOut": "Analyst estimates and forecasts; near-term DC revenue still described as minimal.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/15/5g-rollout-dcs-to-buoy-tms-growth-trajectory"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Analyst view (Phillip Capital Research)."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Quiet overnight",
+      "items": []
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Record-year path; Inta Bina pick",
+      "items": [
+        {
+          "id": "2026-10-15-con-1",
+          "headline": "HLIB: Q3 domestic construction awards RM18.7bil (+75% y-o-y); 9M RM46.4bil; DC alone RM10bil in the quarter",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Analyst note: sector on track to beat the RM56bil 2016 domestic awards record in 2026. Mentions Gamuda's three Port Dickson hyperscale packages (combined RM5.3bil), MRCB-Theta Edge Penang LRT systems (~RM3bil) and Kerjaya Prospek's maiden DC job (RM858mil). Overweight retained; Gamuda preferred large-cap (TP RM5.75) and Inta Bina preferred small-cap (Buy, TP 76 sen).",
+          "soWhat": "Data-centre awards are now the main swing factor for Malaysian contractors' order books.",
+          "opportunity": "Watchlist name Inta Bina is HLIB's preferred small-cap on DC, semiconductor and RE spillover.",
+          "watchOut": "Analyst view and sector aggregates; CRESS SAC in the note still cited at 14 sen, before the reported move to 18 sen.",
+          "sources": [
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news-bm.php?id=2620056"
+            },
+            {
+              "publisher": "Focus Malaysia",
+              "url": "https://focusmalaysia.my/dc-boom-drives-75-surge-in-construction-contract-awards-sector-set-for-record-year/"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "intabina"
+          ],
+          "note": "Analyst view (Hong Leong Investment Bank). Inta Bina named in body as preferred small-cap."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "No retail-mall item",
+      "items": []
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Exports rebound early Oct",
+      "items": [
+        {
+          "id": "2026-10-15-pl-1",
+          "headline": "CPO futures extend gains: Oct contract RM4,427 (+RM29); Amspec says Oct 1-10 palm exports +37.73% to 491,954 tonnes",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Nov contract RM4,560 (+RM1), Dec RM4,700 (+RM18). Intertek reported Oct 1-10 exports +33.51% to 525,071 tonnes. Traders cite stronger early-October export demand and firmer energy prices for biodiesel feedstock demand, while record September stocks (3.51mil tonnes) still limit upside.",
+          "soWhat": "Early-month export rebound helps prices, but stock overhang remains the ceiling.",
+          "opportunity": "Short-window export strength into biodiesel demand if energy prices stay firm.",
+          "watchOut": "Surveyor figures for Oct 1-10 only; September stock build still elevated.",
+          "sources": [
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2620466"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "No moneylending item",
+      "items": []
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "Earned-wage entry; fraud portal",
+      "items": [
+        {
+          "id": "2026-10-15-cf-1",
+          "headline": "Salary Hero raises US$7.6mil Series A and enters Malaysia; targets 50 corporate partners by end-2027",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Bangkok earned-wage / financial-health platform; round led by Cento Ventures with Kairous Capital and M Venture Partners. Credit facility with regional lenders expanded to US$10mil. Operating in Malaysia since 2Q2026; Thailand base >100 companies and >300,000 employees.",
+          "soWhat": "Another workplace lending model aiming at B40 households, adjacent to consumer-finance and cooperative channels.",
+          "opportunity": "Employer payroll integrations as a distribution path versus traditional moneylenders.",
+          "watchOut": "Early market entry; 50-partner target is a company forecast to end-2027.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/10/14/thailand-based-salary-hero-raises-7-6m-enters-malaysia/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-15-cf-2",
+          "headline": "BNM: National Fraud Portal cut fund-tracing time by 75%; ~95% of scam cases are authorised push-payment fraud",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Assistant Governor Dr Norhana Endut said victims are often manipulated into approving payments, and instant payments shrink the intervention window. Portal automates reporting, tracing and recovery across payment networks; banks, telcos and platforms need shared intelligence.",
+          "soWhat": "Consumer lenders and credit scorers remain exposed to sophisticated authorised fraud even as recovery tools improve.",
+          "watchOut": "Cross-border and deepfake scams can still outrun domestic portals.",
+          "sources": [
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/14/malaysia-leveraging-national-fraud-portal-in-fight-against-digital-scams/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Remarks at IMF-World Bank meetings in Bangkok (Bernama via TMR)."
+        }
+      ]
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "CRESS 18 sen confirmed",
+      "items": [
+        {
+          "id": "2026-10-15-cab-1",
+          "headline": "CRESS Acceleration Package SAC confirmed at 18 sen/kWh (from 14 sen); RE stocks fall up to 9.1% as analysts say UHV users may still save vs TNB",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-15",
+          "detail": "Extra 4 sen/kWh borne by green electricity consumers, not developers. Conditions for the package still include min 10-year contract and COD by 31 Dec 2028; otherwise SAC stays 20 sen/kWh with three-year reviews. Illustrative total ~48 sen/kWh (30 sen solar + 18 sen SAC) vs TNB UHV peak 51.18 sen / off-peak 47.09 sen (ex-AFA). Yeo Bee Yin still seeking Petra/MITI/MOF clarification on the policy flip.",
+          "soWhat": "Grid-access pricing is now a live risk for corporate RE that underpins DC power and cable/HV demand.",
+          "opportunity": "If CRESS stays cheaper than TNB for UHV offtakers, DC RE build-out and related cable work can continue.",
+          "watchOut": "Policy U-turn risk; some offtakers may reassess. HLIB notes still citing 14 sen are stale on this point.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/15/cress-viability-intact"
+            },
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821870"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Material update to the 14 Oct CRESS item: market now treating 18 sen as confirmed. MBSB Research and industry views labelled as such."
+        }
+      ]
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "No IBS/watchlist item",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Genting rights detail; Gamuda hotel",
+      "items": [
+        {
+          "id": "2026-10-15-ht-1",
+          "headline": "Genting earmarks RM280mil of rights-issue working capital to pay interest costs; RM800mil still for debt repayment",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Reply to Bursa queries on the proposed RM1.25bil rights issue: RM280mil of the RM429.5mil working-capital slice for interest and financing costs; remaining RM149.5mil for general working capital. 25-30% TERP discount defended as needed to secure take-up. RM800mil debt repayment and RM20.5mil expenses unchanged.",
+          "soWhat": "Confirms leverage pressure: a large slice of fresh equity is going straight to interest service.",
+          "watchOut": "Still a proposal subject to approvals; dilution for minorities.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/821892"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Material update to the 9 Oct rights-issue item."
+        },
+        {
+          "id": "2026-10-15-ht-2",
+          "headline": "Gamuda Land opens ASAI Gamuda Cove, its first hotel: 280 rooms with Dusit International after 15 Sept pre-opening",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Official opening 10 Oct 2026 at Gamuda Cove, Selangor. Positioned to extend stays alongside the township's leisure, dining and commercial offer.",
+          "soWhat": "A major developer is adding proprietary hotel inventory inside a township rather than only selling homes.",
+          "opportunity": "Township leisure spend and longer visitor dwell time.",
+          "watchOut": "Single-asset opening; no occupancy or ADR figures disclosed.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1917836/gamuda-land%E2%80%99s-first-hotel-adds-gamuda-cove%E2%80%99s-leisure-offerings"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Core set 14-15 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech, Commodities; dates from article published_time/created), Malay Mail money feed, TNGlobal feed, TMR feed, NST feed, The Star business (browser/fetch). New items: sovereign AI cloud, Selangor Galaxy DC LOI, TM/Phillip Capital note. DCTF RM226bil and Hibiscus-Seri Pajam also seen again on 14-15 Oct but already in the 14 Oct edition (no material new numbers). MCMC primary site not rechecked beyond Fahmi remarks.",
+    "propertyDevelopment": "Core set and EdgeProp checked for 14-15 Oct window: no new Malaysia property-launch / GDV / land-deal item verified beyond items already in the 14 Oct edition (Budget stamp duty, KPKT, etc.). The Star /property still not used (prior 404). Not evidence of no news.",
+    "construction": "Core set plus HLIB note via BernamaBiz/Focus Malaysia (14 Oct). Watchlist: Inta Bina named as HLIB preferred small-cap. Bursa watchlist pass in progress via browser at check time; KLSE Screener fetch failed (connection). AWC/Gamuda Taiwan/Epicon re-seen on Star 15 Oct but already covered 14 Oct.",
+    "propertyInvestment": "Core feeds and Star business scanned for retail malls / retail REITs 14-15 Oct: no verified Malaysia retail-property investment item in the window. Not evidence of no news.",
+    "plantation": "Commodities flash on The Edge had no new Malaysian palm feature in-window (global metals/grains). Used BernamaBiz CPO futures/exports 14 Oct. An Edge URL titled Oct 1-15 ITS exports was checked and rejected: article created epoch maps to 2014 (nid 164901), not 2026. MPOB site not re-pulled beyond prior edition stocks.",
+    "capitalFinancing": "Core set scanned for licensed moneylending: no item in the 14-15 Oct window. Budget guarantee items already in 14 Oct edition. Not evidence of no news.",
+    "consumerFinancing": "TNGlobal Salary Hero entry; TMR/BNM National Fraud Portal. Civil-servant cooperative lenders and ANGKASA releases not checked overnight.",
+    "cablesManufacturing": "CRESS 18 sen confirmation and market reaction (Star 15 Oct) plus Yeo/Edge. Southern Cable / Master Tec: no new verified media item in window; Bursa browser pass still running. NST cable-theft scrapyard story seen, not used (crime enforcement, not manufacturing orders).",
+    "buildingMaterialsIbs": "Core set: no new Chin Hin, OKA or IBS/wall-panel contract verified for 14-15 Oct. Epicon NPE item already in 14 Oct edition. CIDB not rechecked.",
+    "hotels": "Genting Bursa-query reply (Edge); ASAI Gamuda Cove opening (EdgeProp). Firefly haze cancellations re-seen across TMR/NST/FMT but already in 14 Oct edition (to 16 Oct). MAH and Tourism Malaysia not rechecked overnight."
+  },
+  "watchlistCoverage": [
+    "Inta Bina: tagged via HLIB preferred small-cap call in the construction awards note (analyst view).",
+    "Bursa Malaysia announcements for all 12 companies: browser pass running during this edition; KLSE Screener HTTP fetch failed (0-byte). Prior edition already covered Pesona buy-backs through 14 Oct, GDB proposals, Southern Cable subdivision, Inta Bina development filing.",
+    "No new verified media body naming OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, TCS, Nestcon or Kitacon in the 14-15 Oct core feeds."
+  ],
+  "generalCoverage": [
+    "Edition window: since the 14 Oct edition (last checks ~22:01-23:30 MYT) through morning 15 Oct 2026 MYT. Focused on new or materially updated items; duplicates from 14 Oct skipped unless facts moved.",
+    "The Edge section pages and article bodies read via __NEXT_DATA__ / article:published_time (never the site date banner). One palm ITS URL was discarded as a 2014 story resurfaced with a wrong banner date.",
+    "Feeds: Malay Mail money, TNGlobal, TMR, Bernama, NST, FMT, The Sun scanned. Bernama feed very shallow; TMR latest-10 depth limit still applies.",
+    "The Star business stories for 15 Oct opened by URL (5G/TM, CRESS, Hibiscus, AWC, etc.). Tech section listing was thin via fetch.",
+    "Coverage is not exhaustive; unread or blocked sources are not evidence of no news."
+  ],
+  "keyTakeaways": [
+    {
+      "headline": "CRESS at 18 sen is now market fact, and DC offtakers feel it",
+      "soWhat": "After Tuesday's four-sen SAC lift, RE stocks fell as much as about 9%. Analysts argue UHV users may still beat TNB peak tariffs on an illustrative 48 sen vs 51.18 sen comparison, but the policy flip is exactly the investor-confidence risk Yeo flagged.",
+      "sectorKeys": [
+        "cablesManufacturing",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-15-cab-1",
+        "2026-10-15-ai-3"
+      ]
+    },
+    {
+      "headline": "Construction awards are running at a record pace on DC work",
+      "soWhat": "HLIB puts Q3 domestic awards at RM18.7bil (+75% y-o-y) with RM10bil from data centres, and keeps Inta Bina as its preferred small-cap. That is the spillover channel for watchlist builders even when they are not named on each DC award.",
+      "sectorKeys": [
+        "construction",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-15-con-1",
+        "2026-10-15-ai-2"
+      ]
+    },
+    {
+      "headline": "Policy is pushing a sovereign AI stack while states still chase LOIs",
+      "soWhat": "Fahmi's sovereign AI cloud (MCMC/KKD) is about keeping classified data off foreign public clouds, while Selangor's RM3bil-plus LOI package still lists Galaxy Data Centre as intent only. Commercial DC buildout (TM Nxera take-up) and government cloud are moving on parallel tracks.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-15-ai-1",
+        "2026-10-15-ai-2",
+        "2026-10-15-ai-3"
+      ]
+    },
+    {
+      "headline": "Genting's rights issue is partly paying the interest bill",
+      "soWhat": "Of the RM429.5mil working-capital slice in the RM1.25bil rights issue, RM280mil is earmarked for interest and financing costs. That is a clearer deleveraging signal for leisure/hotel balance sheets than the headline raise alone.",
+      "sectorKeys": [
+        "hotels"
+      ],
+      "itemIds": [
+        "2026-10-15-ht-1",
+        "2026-10-15-ht-2"
+      ]
+    }
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 48,
+      "used": 4,
+      "status": "checked",
+      "note": "6 section/flash pages via __NEXT_DATA__; article dates from published_time/created. Rejected one misdated palm ITS URL (2014 nid).",
+      "publishers": [
+        "The Edge Malaysia"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 18,
+      "used": 2,
+      "status": "checked",
+      "note": "15 Oct business URLs opened (TM, CRESS, Hibiscus, AWC, Gamuda, EcoSys, etc.); bodies via fetch. /property not rechecked.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "/feed/rss/money through 14 Oct",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 30,
+      "used": 1,
+      "status": "checked",
+      "note": "Feed 13-14 Oct; Malaysia-relevant items only",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 10,
+      "used": 1,
+      "status": "partial",
+      "note": "Feed holds latest ~10 items (14 Oct depth limit)",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "Bernama",
+      "scanned": 10,
+      "used": 0,
+      "status": "partial",
+      "note": "General RSS shallow; BernamaBiz used separately for HLIB/CPO",
+      "publishers": []
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 40,
+      "used": 1,
+      "status": "partial",
+      "note": "Feed scanned; some article bodies thin via fetch (lede/meta). Sovereign AI corroborated with Edge.",
+      "publishers": [
+        "NST"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": null,
+      "used": 0,
+      "status": "pending-browser-check",
+      "note": "Browser pass for 12 watchlist companies in flight at publish; KLSE Screener curl failed",
+      "publishers": []
+    },
+    {
+      "source": "Top-up / regional / research",
+      "scanned": 12,
+      "used": 3,
+      "status": "checked",
+      "note": "Focus Malaysia, BernamaBiz, EdgeProp, FMT/Sun feeds scanned",
+      "publishers": [
+        "BernamaBiz",
+        "Focus Malaysia",
+        "EdgeProp",
+        "FMT",
+        "The Sun"
+      ]
+    }
+  ],
+  "publishedAt": "2026-10-15T07:34:28+08:00"
+}
