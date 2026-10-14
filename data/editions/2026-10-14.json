@@ -6,7 +6,8 @@
     "2026-10-14T22:01:00+08:00",
     "2026-10-14T22:04:00+08:00",
     "2026-10-14T22:36:00+08:00",
-    "2026-10-14T22:38:00+08:00"
+    "2026-10-14T22:38:00+08:00",
+    "2026-10-14T22:50:00+08:00"
   ],
   "publishedAt": "2026-10-14T22:04:00+08:00",
   "sectors": [
@@ -110,13 +111,17 @@
           "verdict": "Watch",
           "freshness": "current",
           "publishedDate": "2026-10-14",
-          "detail": "Bloomberg report citing an unnamed person; proceeds also refinance existing debt. HSBC, Maybank IB, OCBC Malaysia, StanChart and UOB named as arrangers.",
+          "detail": "Reported three-year syndicated loan, citing an unnamed source; borrower Princeton Digital Group Labuan Alpha Ltd. Arrangers: HSBC (Singapore), Maybank IB, OCBC Malaysia, StanChart (Singapore) and UOB. Proceeds also refinance existing debt.",
           "soWhat": "Debt is now funding Johor hyperscale capacity at scale, with Maybank IB among the lead arrangers.",
           "watchOut": "Unconfirmed: the company and banks did not comment.",
           "sources": [
             {
               "publisher": "The Edge Malaysia",
               "url": "https://theedgemalaysia.com/node/821794"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/singapores-pdg-seeks-us12bil-loan-for-malaysia-data-center"
             }
           ],
           "watchlistCompanyKeys": []
@@ -151,6 +156,39 @@
             {
               "publisher": "The Edge Malaysia",
               "url": "https://theedgemalaysia.com/node/821857"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ai-9",
+          "headline": "RedPlanet IPO public tranche oversubscribed 85.28 times (1.77bil shares, ~RM336.72mil applied) ahead of LEAP-to-ACE move on 22 Oct",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-13",
+          "detail": "Figures refer to the Malaysian public portion only.",
+          "soWhat": "Strong retail demand for a geospatial and rail ICT provider shows appetite for small-cap tech listings.",
+          "watchOut": "Heavy oversubscription can mean volatile early trading.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/2026/10/13/redplanet039s-ipo-public-portion-oversubscribed-8528-times"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-ai-10",
+          "headline": "Infomina 1Q net profit rises to RM10.55mil from RM8.08mil; revenue up to RM76.19mil from RM54.63mil",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "detail": "Quarter to 31 Aug 2026, led by technology infrastructure O&M.",
+          "soWhat": "Tech-infrastructure operations and maintenance is driving growth, a sign of steady outsourcing demand.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/infomina-reports-higher-1q-earnings"
             }
           ],
           "watchlistCompanyKeys": []
@@ -267,6 +305,10 @@
             {
               "publisher": "The Star",
               "url": "https://www.thestar.com.my/business/business-news/2026/10/08/gdb-proposes-rm816mil-acquisitions-fundraising-exercise"
+            },
+            {
+              "publisher": "Bursa Malaysia filing",
+              "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3713349"
             }
           ],
           "watchlistCompanyKeys": [
@@ -297,7 +339,7 @@
         },
         {
           "id": "2026-10-14-con-4",
-          "headline": "Gamuda-MiTAC JV wins RM3.7bil Keelung MRT trackwork and systems contract in Taiwan; Gamuda share RM2.7bil",
+          "headline": "Gamuda-MiTAC JV wins RM3.72bil (NT$29.22bil) Keelung MRT trackwork and systems contract in Taiwan; Gamuda share RM2.7bil",
           "verdict": "Positive",
           "freshness": "current",
           "publishedDate": "2026-10-14",
@@ -307,25 +349,69 @@
             {
               "publisher": "The Edge Malaysia",
               "url": "https://theedgemalaysia.com/node/821847"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/gamuda-jv-secures-rm372bil-taiwan-mrt-contract"
             }
           ],
           "watchlistCompanyKeys": []
         },
         {
           "id": "2026-10-14-con-5",
-          "headline": "AWC wins RM40mil plumbing and sanitary subcontract from Gamuda Engineering for a Port Dickson hyperscale data centre",
+          "headline": "AWC wins RM39.7mil plumbing, water and sanitary subcontract from Gamuda Engineering for a Port Dickson hyperscale data centre",
           "verdict": "Positive",
           "freshness": "current",
           "publishedDate": "2026-10-14",
-          "detail": "Works started 14 Aug; completion due 22 Oct 2027. AWC won similar contracts worth RM45mil combined in April and August.",
+          "detail": "Awarded to unit Qudotech for cold water, rainwater harvesting, fire hydrant and sanitary works in Bandar Springhill. Works started 14 Aug; completion due 22 Oct 2027; revenue from FY27. Fourth data-centre job in 12 months (combined RM127.3mil); order book RM824.3mil at 30 June 2026, excluding this job.",
           "soWhat": "Data-centre work is filtering down to specialist M&E subcontractors, not just main contractors.",
           "sources": [
             {
               "publisher": "The Edge Malaysia",
               "url": "https://theedgemalaysia.com/node/821878"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/awc-secures-rm397mil-subcontract-for-port-dickson-data-centre"
             }
           ],
           "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-con-6",
+          "headline": "Inta Bina files proposed development by wholly-owned subsidiary Seiring Setia Sdn Bhd",
+          "verdict": "Watch",
+          "freshness": "recent",
+          "publishedDate": "2026-10-02",
+          "soWhat": "A new development plan from a watchlist contractor; size and terms are in the filing.",
+          "note": "Bursa filing; details not summarised.",
+          "sources": [
+            {
+              "publisher": "Bursa Malaysia filing",
+              "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3711771"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "intabina"
+          ]
+        },
+        {
+          "id": "2026-10-14-con-7",
+          "headline": "Pesona Metro filed 14 share buy-back notices between 1 and 14 Oct",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-14",
+          "soWhat": "Ongoing buy-backs; watch for any change in the pace or size of purchases.",
+          "note": "Based on the company's Bursa announcement list (company filter, 1-14 Oct), read in the browser.",
+          "sources": [
+            {
+              "publisher": "Bursa Malaysia filing",
+              "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "pesona"
+          ]
         }
       ],
       "theme": "Semiconductor jobs and Sarawak M&A"
@@ -519,6 +605,24 @@
             }
           ],
           "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-14-cab-5",
+          "headline": "Southern Cable share subdivision listed 12 Oct; EPF filed near-daily substantial-shareholding changes 1-14 Oct",
+          "verdict": "Watch",
+          "freshness": "recent",
+          "publishedDate": "2026-10-12",
+          "soWhat": "The split raises the share count and may lift liquidity; EPF filings show an active institutional holder.",
+          "note": "16 filings in the period, mostly EPF substantial-shareholder changes. Direction of EPF dealings not characterised here.",
+          "sources": [
+            {
+              "publisher": "Bursa Malaysia filing",
+              "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3713869"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "southerncable"
+          ]
         }
       ]
     },
@@ -532,14 +636,18 @@
           "freshness": "current",
           "publishedDate": "2026-10-14",
           "soWhat": "Highway work is feeding demand for precast (IBS) components.",
-          "note": "Only the article lede was readable; contract terms and timeline not verified beyond the value and scope.",
           "sources": [
             {
               "publisher": "NST / Business Times (Bernama)",
               "url": "https://www.nst.com.my/business/corporate/2026/10/1555498/epicon-unit-secures-rm4738mil-subcontract-npe-extension"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/14/epicon-secures-rm4738mil-subcontract-for-nnpe-extension"
             }
           ],
-          "watchlistCompanyKeys": []
+          "watchlistCompanyKeys": [],
+          "detail": "Awarded by IJM Construction to Epicon's 70%-owned Concrete Empire; works run from mid-November 2026 to end-November 2028."
         }
       ]
     },
@@ -583,34 +691,35 @@
     }
   ],
   "sectorCoverage": {
-    "aiTelcoIct": "Core set checked 12-14 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech flash; dates from article meta), TNGlobal feed, Malay Mail money feed, Bernama feed, NST business feed. Earlier-run items from company/HKEX filings kept. The Star: partially checked (earlier-run search only; browser check results not yet received). MCMC not checked.",
-    "propertyDevelopment": "Core set checked: The Edge (KPKT abandoned-projects item), Malay Mail, NST. Earlier-run items from The Star, EdgeProp and MOF kept. The Star property section: partially checked (browser check results not yet received). A Land 33 RM32.3mil land purchase (The Star) was not included because its body was truncated.",
-    "construction": "Core set checked: The Edge, NST (Epicon, AWC and Gamuda also reported there; ledes only), Malay Mail. The Star: partially checked (earlier-run search only; browser check results not yet received). Bursa contract filings: partially checked (browser check results not yet received).",
-    "propertyInvestment": "Core set checked 12-14 Oct (The Edge, Malay Mail, TMR, Bernama, NST feeds): no Malaysia retail-mall or retail-REIT item found in the window. The Star and Bursa REIT filings partially checked (browser check results not yet received). Not evidence of no news.",
+    "aiTelcoIct": "Core set checked 12-14 Oct: The Edge (Corporate, Malaysia, Highlight, Economic Focus, Tech flash; dates from article meta), TNGlobal feed, Malay Mail money feed, Bernama feed, NST business feed. Earlier-run items from company/HKEX filings kept. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. MCMC not checked.",
+    "propertyDevelopment": "Core set checked: The Edge (KPKT abandoned-projects item), Malay Mail, NST. Earlier-run items from The Star, EdgeProp and MOF kept. The Star /property returned 404, not checked. A Land 33 RM32.3mil land purchase (The Star) was not included because its body was truncated.",
+    "construction": "Core set checked: The Edge, NST (Epicon, AWC and Gamuda also reported there; ledes only), Malay Mail. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. Bursa: watchlist companies checked 1-14 Oct.",
+    "propertyInvestment": "Core set checked 12-14 Oct (The Edge, Malay Mail, TMR, Bernama, NST feeds): no Malaysia retail-mall or retail-REIT item found in the window. The Star business section checked; /property 404. Bursa REIT filings not checked. Not evidence of no news.",
     "plantation": "Core set checked: The Edge Commodities flash (global grains/metals only in window), Malay Mail, TMR. MPOB and Kenanga items from the earlier run kept. No new Malaysian palm oil item in the core feeds for 13-14 Oct.",
     "capitalFinancing": "Core set checked for licensed moneylending: no item found in the window. AmanahRaya Investment Management's suspension of three unit trust funds (The Edge, 13 Oct) was seen but is fund management, outside this sector's scope. KPKT moneylender lists not rechecked. Not evidence of no news.",
     "consumerFinancing": "Core set checked: The Edge (CTOS breach), Malay Mail. BNM/SC deepfake-scam warning (Malay Mail, 14 Oct) seen, not included as non-specific. ANGKASA, Bank Rakyat and cooperative releases not checked.",
-    "cablesManufacturing": "Core set checked: The Edge, TMR, NST. Kinergy Advancement's RM479.4mil Perlis power plant funding item (NST) was seen, but only the lede was readable, so not included. The Star: partially checked (earlier-run search only; browser check results not yet received).",
-    "buildingMaterialsIbs": "Core set checked: NST (Epicon precast; lede only), The Edge. No verified Chin Hin or OKA item in the window. CIDB not rechecked. The Star: partially checked (earlier-run search only; browser check results not yet received).",
+    "cablesManufacturing": "Core set checked: The Edge, TMR, NST. Kinergy Advancement's RM479.4mil Perlis power plant funding item (NST) was seen, but only the lede was readable, so not included. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404. A Star item on MIDA linking 25 local firms with TNB companies for RE opportunities was not included, because its body was not verified independently.",
+    "buildingMaterialsIbs": "Core set checked: NST (Epicon precast; lede only), The Edge. No verified Chin Hin or OKA item in the window. CIDB not rechecked. The Star: business and tech sections checked in the browser (paywall banner; some bodies shorter on reload); /property returned 404.",
     "hotels": "Core set checked: TMR/Bernama (Firefly haze), The Edge, Malay Mail. NST item proposing Langkawi or Penang as a Disney cruise hub was seen (proposal only, not included). MAH and Tourism Malaysia not checked."
   },
   "watchlistCoverage": [
-    "All 12 company names were searched in the core-set feeds and The Edge section pages for 12-14 Oct, and in every article body opened. No new verified mentions were found.",
-    "Carried from the earlier run: GDB Holdings (The Star, 8 Oct) and Southern Cable Group (The Star, 30 Sept, analyst note).",
-    "Excluded earlier: Nestcon (The Edge article dated Oct 2022) and Southern Cable Main Market transfer (2021), despite pages showing today's date.",
-    "Bursa announcements for the 12 companies: partially checked (browser check results not yet received)."
+    "Bursa announcements read in the browser for all 12 companies (company filter, 1-14 Oct 2026). A company's own filing counts as a verified mention.",
+    "Tagged: GDB (8 Oct proposals, ann 3713349; also a proposed share buy-back, ann 3713348), Southern Cable (12 Oct subdivision listing, ann 3713869; 16 filings in total), Pesona Metro (14 buy-back notices), Inta Bina (2 Oct proposed development, ann 3711771).",
+    "Filings not added as items: Chin Hin (13 Oct substantial-shareholder change by Datuk Seri Chiau Beng Teik, ann 3714325; 2 Oct provision of financial assistance, ann 3711648), Tuju Setia (13 Oct director dealings by Wee Eng Kong), TCS (14 Oct company secretary changes), Inta Bina (9 Oct director dealings).",
+    "No Bursa announcements 1-14 Oct: OKA, Master Tec, Crest Builder, Nestcon and Kitacon (Kitacon: none since 1 Sept).",
+    "Media: all 12 names searched in the core feeds, The Edge section pages and The Star business/tech. Earlier-run media mentions: GDB (The Star, 8 Oct) and Southern Cable (The Star, 30 Sept, analyst note). Excluded: Nestcon (2022 Edge story) and Southern Cable Main Market transfer (2021)."
   ],
   "generalCoverage": [
     "Redone late on 14 Oct 2026 with the core-set method (after the usual 09:00 MYT slot). Items are dated snapshots as of the check times.",
     "The Edge was read from its section pages, and each item's date comes from the article's published_time meta, not the site's date banner.",
     "Feed depth limits: The Malaysian Reserve and Bernama feeds return only the latest 10 items, and NST's feed about 14 hours of stories, so earlier 12-13 Oct stories from those three may be missed.",
-    "The Star and Bursa announcements are only partially checked in this edition: The Star via the earlier search-led run, and Bursa not company by company. Browser checks of both were under way and had not reported back at publication.",
+    "The Star (business and tech) and Bursa watchlist announcements were checked in the browser at about 22:50 MYT. The Star /property returned 404; StarPlus paywall banners appear and some bodies were shorter on reload.",
     "Coverage is not exhaustive; an unreadable or unchecked source is not evidence of no news."
   ],
   "keyTakeaways": [
     {
       "headline": "Data-centre and chip capex is turning into real contracts down the supply chain",
-      "soWhat": "27 DCTF-approved projects worth RM225.97bil are mostly still under construction, and work is reaching main contractors (IJM's RM1.23bil AT&S job) and specialists (AWC's RM40mil Port Dickson subcontract). PDG's reported US$1.2bil Johor loan shows debt funding is following. The Johor 300MW Realord plan is still only an MOU.",
+      "soWhat": "27 DCTF-approved projects worth RM225.97bil are mostly still under construction, and work is reaching main contractors (IJM's RM1.23bil AT&S job) and specialists (AWC's RM39.7mil, its fourth data-centre job in 12 months Port Dickson subcontract). PDG's reported US$1.2bil Johor loan shows debt funding is following. The Johor 300MW Realord plan is still only an MOU.",
       "sectorKeys": [
         "aiTelcoIct",
         "construction"
@@ -667,13 +776,16 @@
       ]
     },
     {
-      "headline": "GDB moves into Sarawak and property, at the cost of dilution",
-      "soWhat": "The proposed acquisitions would roughly double GDB's order book to RM741.81mil and add a RM500mil GDV Kuching project, funded by placement and rights. Shareholders face dilution, and the deal is still only a proposal.",
+      "headline": "Watchlist: GDB expands, Southern Cable splits shares, Pesona buys back",
+      "soWhat": "GDB's proposed Sarawak acquisitions would roughly double its order book to RM741.81mil but come with placement and rights dilution (proposal only). Southern Cable's share subdivision listed on 12 Oct, and Pesona Metro filed 14 buy-back notices in two weeks.",
       "sectorKeys": [
-        "construction"
+        "construction",
+        "cablesManufacturing"
       ],
       "itemIds": [
-        "2026-10-14-con-2"
+        "2026-10-14-con-2",
+        "2026-10-14-cab-5",
+        "2026-10-14-con-7"
       ]
     }
   ],
@@ -740,10 +852,10 @@
     },
     {
       "source": "The Star",
-      "scanned": null,
-      "used": 6,
-      "status": "partial",
-      "note": "Items carried from the earlier run. Partially checked: browser check results not received before publication",
+      "scanned": 17,
+      "used": 12,
+      "status": "checked",
+      "note": "Business and tech sections in the browser; /property returned 404",
       "publishers": [
         "The Star",
         "The Star (Bernama), via Privasia"
@@ -751,11 +863,13 @@
     },
     {
       "source": "Bursa announcements",
-      "scanned": null,
-      "used": 0,
-      "status": "partial",
-      "note": "Watchlist check. Partially checked: browser check results not received before publication",
-      "publishers": []
+      "scanned": 12,
+      "used": 4,
+      "status": "checked",
+      "note": "12 watchlist companies, 1-14 Oct (scanned = companies)",
+      "publishers": [
+        "Bursa Malaysia filing"
+      ]
     },
     {
       "source": "Other primary sources (earlier run)",
