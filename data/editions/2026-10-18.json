@@ -1,0 +1,574 @@
+{
+  "date": "2026-10-18",
+  "demo": false,
+  "status": "published",
+  "checkedAt": [
+    "2026-10-18T07:18:44+08:00",
+    "2026-10-18T07:19:00+08:00",
+    "2026-10-18T07:20:17+08:00",
+    "2026-10-18T07:21:43+08:00",
+    "2026-10-18T07:22:28+08:00",
+    "2026-10-18T07:23:35+08:00",
+    "2026-10-18T07:24:40+08:00",
+    "2026-10-18T07:30:00+08:00",
+    "2026-10-18T07:30:41+08:00",
+    "2026-10-18T07:32:30+08:00",
+    "2026-10-18T07:42:23+08:00",
+    "2026-10-18T07:55:00+08:00"
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Private 5G moves into ports; coverage targets may widen to economic hubs; Selangor chip IPO pipeline",
+      "items": [
+        {
+          "id": "2026-10-18-ai-1",
+          "headline": "Penang Port switches on Malaysia's first private 5G network on dedicated spectrum, covering about 2.5 sq km with latency below 15 milliseconds; ministry to seek Cabinet nod to extend 5G targets to ports, rail and highways",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Altel Communications built the network across the North Butterworth Container Terminal and Butterworth Deep Water Wharves. The 5G core and port applications sit entirely on port premises, separate from public mobile networks. It is designed for autonomous prime movers, remote-controlled cranes and gantries, and AI video analytics (Bernama, Malay Mail). Communications Minister Fahmi Fadzil said MCMC will review the Coverage of Populated Area (CoPA) metric to include economic areas such as ports, railway lines and highways. The ministry will prepare a Cabinet memorandum with the Transport Ministry, and may raise the idea at the ITU meeting in Doha in November. He urged manufacturers and oil palm plantation operators to adopt private 5G (Business Today).",
+          "soWhat": "Enterprise private 5G is becoming a product line for telcos and integrators, and a CoPA change would push coverage obligations into logistics corridors.",
+          "opportunity": "Private 5G and automation projects at ports, factories and estates. Rollout along rail and highway corridors if coverage targets are widened.",
+          "watchOut": "The CoPA change is a study and Cabinet paper only. No contract value was disclosed for the Penang Port network.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621692"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621692"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/10/17/penang-port-goes-high-tech-with-malaysias-first-dedicated-private-5g-network/239461"
+            },
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/17/mcmc-to-study-expanding-5g-coverage-to-economic-hubs/"
+            },
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/17/communications-ministry-mcmc-to-study-expanding-copa-metric-to-key-economic-areas/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Separately, an NST Business Times analysis (17 Oct, 09:49) on Malaysia's dual 5G networks (DNB with Ericsson; U Mobile with Huawei and ZTE) cites economists warning that losing either network could raise business costs (browser sweep; not itemised)."
+        },
+        {
+          "id": "2026-10-18-ai-2",
+          "headline": "Sidec targets six Selangor semiconductor and IC firms to go public by 2030, and will train 1,000 engineers a year from 2027 (3,000 by 2030) against about 10,000 industry vacancies",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Sidec CEO Yong Kai Ping set the IPO target at AiSEM@Selangor 2026 (14-17 Oct, KLCC). It aligns with the National Semiconductor Strategy goal of 10 firms of the scale of Main Market-listed SkyeChip, which is valued at about RM3bil. Phase Three of the IC Park programme will drive the training. Sidec also signed four robotics and autonomous-vehicle pilot collaborations (Work-E Robotics, eMooVit, Aliran Tenaga, NCT World) and agreed with X-FAB to give IC Design Park firms access to tape-out and fabrication support. It is exploring a third IC Design Park focused on robotics, autonomous systems and the low-altitude economy.",
+          "soWhat": "Selangor wants its chip-design cluster to become an IPO pipeline, which would bring ECM, advisory and financing business, but talent is the bottleneck.",
+          "opportunity": "IPO advisory, venture debt and SME financing for chip-design firms. Engineering-talent and campus property demand around Puchong and Cyberjaya.",
+          "watchOut": "The IPO count is an agency target, not a pipeline of filed listings. The 10,000 vacancies show the talent gap.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621628"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621628"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621767"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Follows the 17 Oct item on the six homegrown chips (ai-3). The RM150mil Selangor-Penang-Khazanah semiconductor fund also cited at the summit was announced with Budget 2027 (10 Oct), so it is not treated as new. The NCT robotics hub was covered 16 Oct."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Carey Island port city cleared for zoning; leasehold renewal costs in focus",
+      "items": [
+        {
+          "id": "2026-10-18-pd-1",
+          "headline": "Carey Island port city and special economic zone get in-principle approval: 1,011.7ha port area, +42 million TEU container capacity, up to 115,000 jobs and RM4.7bil GDP contribution by 2045",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "The National Physical Planning Council (MPFN), chaired by the Prime Minister, approved the Carey Island Development Master Plan, covering the National Maritime Port City and the Carey Island Port Special Economic Zone, at its 12 Oct meeting. Housing and Local Government Minister Nga Kor Ming announced the decision on 17 Oct. The plan includes Port Klang's third terminal on Carey Island and 38 million tonnes of conventional cargo capacity. Nga urged Selangor and Kuala Langat Municipal Council to zone the land in the Kuala Langat Local Plan 2030 in phases. Access is via SKVE, Pulau Indah Expressway and KESAS.",
+          "soWhat": "A zoning green light for a port-led SEZ in Kuala Langat opens land-use change for industrial, logistics and port-city development in southern Selangor.",
+          "opportunity": "Industrial, logistics and port-related land and construction in Kuala Langat, as zoning flows into the local plan.",
+          "watchOut": "In-principle approval only. The jobs and GDP figures are ministry projections to 2045, and there is no investment value, developer or timeline.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/822200"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/news/nation/2026/10/17/govt-approves-cipsez-maritime-port-city-projects-in-principle"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The Star rounds the port area to 1,011ha. The Sun also reported it (body not read)."
+        },
+        {
+          "id": "2026-10-18-pd-2",
+          "headline": "RM952,253 renewal premium for a 60-year-old leasehold shophouse in PJ Old Town shows the rising cost of renewing ageing leasehold titles",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Sunday Star Biz7 property feature (18 Oct) on owners of older leasehold properties whose tenures are nearing expiry. It says costly renewals and financing constraints raise questions about whether ageing owners can afford them. The article is paywalled: only the opening (the Jalan Othman, PJ Old Town example) was read.",
+          "soWhat": "Older leasehold stock in mature Klang Valley areas carries a renewal-cost overhang that affects resale value, bankability and redevelopment options.",
+          "opportunity": "Land-assembly and redevelopment of ageing leasehold blocks where owners cannot fund renewals.",
+          "watchOut": "Body only partly read (paywall). The figure is one example, not a state-wide rate.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/18/the-cost-of-leasehold-properties"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Same issue carries 'Beaches on borrowed time' (coastal erosion and Penang beachfront values) and 'The price of paradise'. Both are paywalled teasers and are not itemised."
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Penang reclamation and bridge works on schedule; RM83bil 2027 DE pipeline; Sabah roads",
+      "items": [
+        {
+          "id": "2026-10-18-con-1",
+          "headline": "Penang's Silicon Island has 202.3ha reclaimed of a 931ha plan; the RM420mil Pan Island Link 2A bridge targets a first section by December 2028 and full completion by June 2029",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Reclamation started in September 2023. Silicon Island Development opened a RM2.5mil experience centre, built in four months, to show the 931ha smart-city plan, including a 283ha Green Tech Park. Penang Infrastructure Corporation CEO Farizan Darus said the PIL 2A marine bridge will link Jalan Permatang Damar Laut directly to Silicon Island (Bernama, Malay Mail). Separately, Finance Minister II Amir Hamzah Azizan said Penang International Airport's expansion will lift capacity from 6.5 million to 12.5 million passengers a year by 2029, and Intel's chip-design and advanced-packaging expansion should start coming onstream by year-end (BernamaBiz).",
+          "soWhat": "Penang's northern-corridor build-out (reclamation, bridge, airport and LRT) keeps marine, civil and building work flowing through 2029.",
+          "opportunity": "Infrastructure, utility and building packages on Silicon Island and around the airport. Industrial and commercial land demand as reclaimed land is released.",
+          "watchOut": "Progress figures come from the state and its agency. No new contract was awarded.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621814"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621814"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/17/penangs-rm420m-link-road-to-silicon-island-targets-first-bridge-opening-by-2028/239495"
+            },
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/17/chow-penangs-silicon-island-reclamation-reaches-202-hectares-up-to-oct-2026/"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621820"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-18-con-2",
+          "headline": "RHB IB: Budget 2027's RM83bil development expenditure (from RM81bil in 2026) should keep public works flowing, led by ECRL, E-ART, KL NODE and LRT3 Phase 2",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Research-house view from a research note. RHB IB says infrastructure modernisation, public-transport expansion and green-transition projects should sustain public investment and crowd in private capital. Data-centre building in Selangor, Johor and Negeri Sembilan supports construction and specialised engineering demand. It cites about RM132bil of JS-SEZ investments between 2025 and June 2026, and the proposed Sedenak Nexus, projected to draw another RM12bil and create 45,000 jobs. Trade along the Bukit Kayu Hitam-Sadao corridor reached RM27bil in 1H2026.",
+          "soWhat": "Federal capex is edging up, not falling, and the rail and transit list gives contractors visibility into 2027.",
+          "opportunity": "Rail, transit and DC-related civil and M&E packages. Johor SEZ industrial builds.",
+          "watchOut": "Analyst view. The allocation is budgeted, and award timing for each project is not given.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621646"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621646"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-18-con-3",
+          "headline": "Sabah gets RM18.7bil in federal allocations under Budget 2027 (from RM17.6bil), plus RM3.3bil for Sabah and Sarawak roads and RM350mil for federal road maintenance",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Chief Minister Hajiji Noor said the money will go to water supply, electricity and roads. A master plan is being prepared for 1,205 acres (487.6ha) of SEDCO land in Kudat for a proposed Blue Economy Industrial Park under the 13MP, with a further 3,129 acres identified, including a proposed port. Sabah's own revenue was RM6.76bil in 2025, and he expects it to top RM7bil in 2026.",
+          "soWhat": "More federal money for Sabah utilities and roads widens the East Malaysian pipeline for civil and utility contractors.",
+          "opportunity": "Water, power and road packages in Sabah, and an early-stage Kudat industrial park and port.",
+          "watchOut": "Allocation figures, not contracts. The Kudat park is at master-plan stage.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621887"
+            },
+            {
+              "publisher": "Bernama (BM)",
+              "url": "https://www.bernama.com/bm/news.php?id=2621877"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Budget 2027 was tabled on 9 Oct, so the headline figures are not new, but this is the first Sabah breakdown in these editions."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "items": []
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Stocks at a 2026 high cap CPO; traders split on next week",
+      "items": [
+        {
+          "id": "2026-10-18-pl-1",
+          "headline": "CPO ends the week up RM71 at RM4,536/t (November), but a trader sees a technical correction to RM4,100-RM4,200 next week as stocks sit at 3.51 million tonnes, the 2026 high",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Friday-to-Friday, December rose RM84 to RM4,676 and January RM60 to RM4,769. Weekly volume rose to 604,284 lots. Interband's Jim Teh links the bearish view to September stocks of 3.51 million tonnes (+24.54% m-o-m). Iceberg X's David Ng instead expects a RM4,600-RM4,800 range, watching October exports, soyoil and crude. Physical October South gained RM50 to RM4,500.",
+          "soWhat": "High inventories keep the near-term price risk tilted down even after a firmer week.",
+          "watchOut": "Trader forecasts conflict: one range is well below current prices. Treat both as views, not guidance.",
+          "sources": [
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621590"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The 16 Oct closing prices were in the 17 Oct edition (pl-1), and the MPOB September stocks in the 14 Oct edition. New here: the week-on-week change and the traders' outlook. Agriculture grew 1.3% in 3Q26 on oil palm and livestock output (Kenanga, cf-2)."
+        }
+      ]
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "Bond-yield relief for banks; economist sees OPR hike in 1Q27",
+      "items": [
+        {
+          "id": "2026-10-18-cf-1",
+          "headline": "MBSB Research stays Positive on banks: MGS yields have eased from nearly 4.2% to about 3.8%, bank dividend yields are around 6% (Maybank and CIMB 6.5%, RHB 6.4%), and the financial index is about 13% off its peak",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Research-house view. Lower yields could let banks recover part of their 3Q26 investment losses in 4Q. Deposit competition will keep pressuring funding costs and net interest margins, because business-loan demand from construction and data-centre investment is strong, while retail loan demand is weaker. Top picks: Hong Leong Bank (Buy, TP RM29.80) and Public Bank (Buy, TP RM5.53). Risks: yields rising again, higher deposit costs, slower growth and weaker asset quality.",
+          "soWhat": "Lenders are competing harder for deposits to fund construction and DC loans, which keeps corporate borrowing available but squeezes margins.",
+          "watchOut": "Analyst view. Sensitive to a renewed rise in bond yields.",
+          "sources": [
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/17/relief-for-banking-sector-on-falling-bond-yields-but-damage-already-done/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The Star's Saturday Biz7 piece 'Banks in a battle' (17 Oct, paywalled teaser) makes the same deposit-competition and bond-yield point."
+        },
+        {
+          "id": "2026-10-18-cf-2",
+          "headline": "Kenanga keeps its 2026 GDP forecast at 5.3% after a 5.3% 3Q advance estimate, sees 4Q slowing to about 4.5%, and expects BNM to raise the OPR 25bp to 3.00% in 1Q2027",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Economist forecast. The 3Q advance estimate (+5.3% y-o-y; 2Q 6.0%) beat the 5.1% Bloomberg consensus, with q-o-q growth of 4.6%. Manufacturing grew 7.5%, services 5.4% and construction 6.0% (2Q 6.5%), and mining fell 4.9%. Kenanga expects the OPR to stay at 2.75% for the rest of 2026, with the hike driven by energy-price inflation risk. Full 3Q GDP data is due on 18 Nov. DOSM puts 9M2026 growth at 5.5%. Bank Muamalat's chief economist says full-year growth could beat the 4.8%-5.3% official projection, and expects the ringgit at RM4.07-RM4.09 next week (BernamaBiz). Economists quoted by NST/Business Times call the 5.3% a positive surprise despite the US-Iran conflict, and put trend growth at about 4.7% (analyst view).",
+          "soWhat": "Financing costs are more likely to rise than fall in early 2027, so lock in borrowing and pricing now.",
+          "watchOut": "Economists' forecasts differ: ANZ (17 Oct edition) expects a hike in November.",
+          "sources": [
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/17/kenanga-sees-malaysias-4q-gdp-slowing-to-4-5-despite-3q-resiliency/"
+            },
+            {
+              "publisher": "BernamaBiz",
+              "url": "https://www.bernamabiz.com/news.php?id=2621591"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/10/17/ringgit-seen-firmer-next-week-after-malaysias-3q-gdp-beats-expectations/239423"
+            },
+            {
+              "publisher": "NST",
+              "url": "https://www.nst.com.my/business/economy/2026/10/1557232/malaysias-gdp-growth-beats-expectations-watch"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The 3Q advance estimate itself was noted in the 17 Oct edition's general coverage. New here: Kenanga's 4Q and OPR-path forecast."
+        }
+      ]
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "items": []
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Regional haze alert hits the top level; Genting's deleveraging under scrutiny",
+      "items": [
+        {
+          "id": "2026-10-18-ho-1",
+          "headline": "Haze escalates: ASEAN monitor activates Alert Level 3 (its highest) for the southern region, and Johor keeps schools shut 5 more days from 19 Oct as respiratory cases jump 20.7% in a week",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "The Singapore-based ASEAN Specialised Meteorological Centre issued the alert on 16 Oct, its third this year after 27 March and 26 Aug, citing persistent hotspots, dry weather and winds carrying haze to neighbouring countries (Malay Mail/AFP). Johor's haze committee extended school closures, citing no significant improvement in readings. It said 30,648 asthma and upper respiratory infection cases were recorded in Johor this month (FMT). At 9.30am on 17 Oct, 24 areas had unhealthy readings, with Pasir Gudang highest at 196, plus Larkin 177, Nilai 173 and Klang 171 (The Edge).",
+          "soWhat": "The haze is now a regional, multi-week event, a direct hit on leisure travel, events and outdoor F&B in Johor and the Klang Valley.",
+          "watchOut": "Leisure-hotel occupancy, event cancellations and Singapore day-trip traffic into Johor. The PM-chaired meeting on 19 Oct may bring new measures.",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/world/2026/10/17/indonesia-fires-trigger-highest-level-regional-haze-alert-as-pollution-spreads-across-southeast-asia/239454"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/johor-schools-to-remain-closed-for-another-week"
+            },
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/822197"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Follows the 16 and 17 Oct haze items (school closures, Sunway Lagoon footfall, MOH API rule). New here: the ASMC Level 3 alert, the Johor extension and the case count. NST and The Sun also reported the Johor extension (bodies not read)."
+        },
+        {
+          "id": "2026-10-18-ho-2",
+          "headline": "The Edge Weekly: Genting needs more than its RM1.25bil rights issue to deleverage, despite a cash hoard above RM17.6bil; shares fell to a 52-week low of RM1.38 after the cash call",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-17",
+          "detail": "Weekly cover-story teaser (the full story is in print). Analysts turned to Sell on fears of more cash calls, but the company says none are planned. Another view sees the rights issue as a welcome shift from heavy debt funding. Rating agencies say non-core asset sales are crucial for deleveraging. The cash from Genting's only Malaysian casino has funded expansion into Singapore, the UK, the US and the Bahamas.",
+          "soWhat": "Balance-sheet pressure at Genting could bring asset sales, which would add to hospitality and land deal flow.",
+          "opportunity": "Possible disposals of non-core Genting assets (watch for hospitality or land sales).",
+          "watchOut": "Teaser only, and the full analysis is behind print. Asset sales are the rating agencies' view, not a company plan.",
+          "sources": [
+            {
+              "publisher": "The Edge Malaysia",
+              "url": "https://theedgemalaysia.com/node/822193"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The RM1.25bil rights-issue proposal was in the 14 Oct edition (ht-4), and the reply to Bursa queries in the 15 Oct edition. New here: the Edge Weekly analysis (RM17.6bil cash hoard, RM1.38 low, the rating agencies' call for asset sales)."
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Edge (Tech, corporate), Star tech (global only), Malay Mail, BernamaBiz/Bernama, Business Today, TNGlobal, search. Used: Penang Port private 5G with the MCMC CoPA review, and the Sidec IPO/talent targets. Seen, not itemised: MACC confirming a complaint on MyEG/Zetrix AI (Business Today 18 Oct) repeats its 13 Oct statement, and the Zetrix sukuk 22 Oct deadline is pending (17 Oct edition); the RM150mil Selangor-Penang-Khazanah semiconductor fund was a Budget 2027 announcement (10 Oct); Sidec Triple Accelerator winners (E23, Enygma, Recharge); IMF warns an AI-investment slowdown could cut 0.4% off global GDP by 2028 (global). Also seen: NST/Business Times dual-5G analysis (DNB-Ericsson vs U Mobile-Huawei/ZTE; economists' view, no figures), and ISF Group finalising a JV with a HK-listed unit of a Chinese water firm for smart meters and AI non-revenue-water monitoring, results expected 3Q-4Q 2027 (NST, 17 Oct 08:34; browser sweep; not on the watchlist). Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition. Browser sweep 2: TNB's Kangkar Tebrau substation fire, JB (Bernama via Edge, 17 Oct 13:03): supply restored within 77 minutes to residential areas (Bandar Dato Onn, Kempas, Ulu Tiram, Johor Jaya and others); no data-centre or industrial-park outage reported; cause under investigation. Already noted on 17 Oct; not itemised. Edge also carried global AI items (Nvidia's Huang in Berlin, SOX down 8 straight sessions; China's Star50 down nearly 40%; Anthropic AI safety bill), with no Malaysian angle.",
+    "propertyDevelopment": "Edge, Star (incl. Sunday Biz7 property), EdgeProp (nothing new since 16 Oct), Malay Mail, search. Used: Carey Island MPFN approval and the Star leasehold-renewal feature (partial). Rejected banner-dated old Edge launch stories (Effingham, Verdana, 9 Bukit Utama, MKH Kajang 2). Seen, not itemised: the IGB/Tan & Tan Aviera Bangsar South (RM655mil GDV) is an Edge advertorial; Star 'Beaches on borrowed time' and 'The price of paradise' are paywalled teasers; Sunway founder's RM200mil arts centre (Malay Mail showbiz, no property detail); a Tropicana Live+ sales promotion (TMR, promotional). Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition. IOI Properties' 16 Oct Bursa clarification on its Singapore hotel/retail talks was reported in the 17 Oct edition (ho-3), so it is not repeated.",
+    "construction": "Edge, Bernama/BernamaBiz, Malay Mail, search, i3investor. Used: Silicon Island/PIL 2A and Penang airport, the RHB IB view on the RM83bil DE, and the Sabah allocation. Rejected banner-dated old contract stories (Widad RM244m, IJM RM455.5m, Gadang RM188.8m, Bintulu Port RM311m, Haily RM17.5m). A fire destroyed 26 construction-worker quarters in Labuan (Bernama BM headline, not opened). No in-window contract award found in media. Watchlist: no in-window media. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition.",
+    "propertyInvestment": "Searched mall/REIT news. RHB REIT note (Sept), the IGB REIT Southkey piece (Edge 820152, earlier) and the IOIPG REIT offer (covered 16-17 Oct) predate the window. Marrybrown's plan for 30 new outlets by 2027 (BernamaBiz/Malay Mail) is F&B expansion with no property detail. No Malaysian retail-property deal found in window. Not evidence of no news. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition.",
+    "plantation": "BernamaBiz CPO weekly, Edge Commodities flash (global energy only), Malay Mail (Sarawak cocoa feature), search (CNA, Star, NST haze/concession stories, all 16-17 Oct and covered). Used: the CPO weekly outlook. Seen, not itemised: the rubber weekly outlook (BernamaBiz); MPOB not re-pulled. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition. Browser sweep 2: Edge's 'Singapore names seven companies over Indonesia haze fires' (node 822076, published 16 Oct, updated 17 Oct 14:56) is the same NEA story itemised on 17 Oct (pl-2, same URL), so it is not repeated. No Malaysian planter is named.",
+    "capitalFinancing": "Business Today (MBSB, Kenanga), BernamaBiz (ringgit and Bursa weekly outlooks), Malay Mail, Star Biz7 (paywalled), search for sukuk/IPO. Used: MBSB bank view and the Kenanga GDP/OPR forecast. Rejected banner-dated old Edge sukuk stories (Affin Islamic, Bank Islam, AmIslamic, Public Bank). Seen, not itemised: Bursa expected to stay cautious next week (Bernama/Malay Mail market outlook); RHB sees gold at US$4,000 if selling resumes. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition.",
+    "consumerFinancing": "Searched hire-purchase, BNPL and personal-financing news. Only background found (HP Amendment Act 2026 guide, SKP BNPL standards, Edge BNPL cover story, all pre-window). No in-window consumer-financing news found. Not evidence of no news. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition.",
+    "cablesManufacturing": "Edge, Star ('Grid charges temper RE euphoria', 17 Oct 00:00, a commentary repeating the CRESS 14+4 sen/kWh point covered 17 Oct), search on TNB tenders/CRESS (TNB tender pages are standing notices, not dated news). The TNB Kangkar Tebrau substation fire restoration update (Edge 822201, 17 Oct) follows the 17 Oct mention, and no cable order was found. A banner-dated old Southern Cable Main Market transfer story was rejected again. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition.",
+    "buildingMaterialsIbs": "Searched IBS, precast and wall-panel news. CIDB's CIS 18:2026 IBS-score manual (August public comment) is background. No in-window IBS or building-materials news found. Not evidence of no news. Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition.",
+    "hotels": "Edge (Weekly, Highlight), Malay Mail, FMT, NST/The Sun (bodies empty), Star nation, TMR headline, search (TTG Asia, Star tourism grant). Used: the ASMC haze alert with Johor school closures, and the Edge Weekly on Genting. Seen, not itemised: Star 'Push to bring Malaysia within reach' (17 Oct 00:00) on Tourism Malaysia's flight matching grant (the RM935mil Budget 2027 tourism allocation predates the window); TMR 'Tourism gains hinge on longer stays' (17 Oct 11:05; restates the Budget 2027 RM935mil tourism and culture allocation and RM240mil for the 2027 SEA Games/ASEAN Para Games, plus industry views); MAS resuming Jeddah/Madinah flights (TMR headline). Bursa: no filings dated 17-18 Oct on the whole list (checked about 07:30 MYT on 18 Oct); 16 Oct filings were covered in the 17 Oct edition. Browser sweep 2: Edge also carried MEF's call for haze workplace-safety measures (17 Oct 10:50; labour, not itemised)."
+  },
+  "watchlistCoverage": [
+    "Bursa Malaysia announcements: all 12 watchlist companies checked in a browser (18 Oct, about 07:30 MYT) in three passes: per-company search for 16-18 Oct, per-company newest-first list, and the full unfiltered 16-18 Oct list (409 rows). The list for 17-18 Oct is empty market-wide ('No data available in table'), so there are no new watchlist filings in this edition's window. The seven 16 Oct watchlist filings below were all in the 17 Oct edition and are not repeated as items. Bursa shows dates only, with no times. Viewer text was read, but PDF attachments were not opened.",
+    "GDB (0198): 2 filings on 16 Oct (director's interest and dealing notice) for executive director Dasmand Wong Wei Ming's 15,000,000-share buy for RM4.8mil on 13 Oct; direct stake 2.400%. Already reported (17 Oct edition, con-4). https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715680, https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715679",
+    "Chin Hin (5273): 1 filing on 16 Oct. Datuk Seri Chiau Beng Teik's 5,000,000-share off-market disposal on 13 Oct; still 22.296% direct, 38.596% indirect. Already reported (17 Oct edition, watchlist coverage). https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715498",
+    "Southern Cable (0225): 1 filing on 16 Oct. EPF net change of about -670,900 shares (computed) on 13 Oct; direct holding 69,752,809 (5.456%). Already reported (17 Oct edition, watchlist coverage). https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715673",
+    "Pesona Metro (8311): 1 filing on 16 Oct. Buy-back of 277,100 shares at RM0.460-0.475 for RM129,601.86; treasury shares now 18,387,300 (2.646%). Part of a run of daily buy-backs (14, 15 and 16 Oct notices). Minor; also listed in the 17 Oct edition's watchlist coverage. https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715652",
+    "TCS (0221): 1 filing on 16 Oct. Substantial holder Dato' Ong King Seng bought 100,000 shares in the open market on 14 Oct (about 0.015% of issued shares); direct stake 11.368%. Minor; also listed in the 17 Oct edition's watchlist coverage. https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715612",
+    "Inta Bina (0192): 1 filing on 16 Oct. Independent Non-Executive Chairman Dr Lim Pang Kiam (2.092% direct) gave notice of intention to deal during the closed period; quantity and direction not stated. Minor; also listed in the 17 Oct edition's watchlist coverage. https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715787",
+    "None in window (no filings dated 16-18 Oct), with newest filing dates: OKA (9 Sep, share registrar change), Master Tec (22 Sep, fax number discontinued), Crest Builder (15 Sep, award of contract, not opened), Tuju Setia (13 Oct, Wee Eng Kong interest and dealing notices, not read), Nestcon (22 Sep, committee merger), Kitacon (28 Aug, Tan Ah Kee holder notice).",
+    "Media and search pass (17 Oct 07:35 to 18 Oct ~07:30 MYT): no in-window article body names any of the 12 watchlist companies (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon) with new information.",
+    "Repeat, not new: Business Today 'GDB Holdings Director Acquires 15 Million Shares' (17 Oct 21:43) is the executive director's RM4.8mil purchase already itemised in the 17 Oct edition (con-4).",
+    "Rejected again: the Edge /article/ URL 'Southern Cable to transfer listing to Main Market on Oct 28' shows today's banner date, but it is the 2021 transfer."
+  ],
+  "generalCoverage": [
+    "Edition window: from the 17 Oct edition's research check (~07:35 MYT 17 Oct) to ~07:30 MYT 18 Oct 2026 (Sunday). Weekend flow was thin: The Edge had 16 in-window articles plus 1 opinion piece, the last updated at 20:11 on 17 Oct (IMF, node 822202), and EdgeProp had nothing after 16 Oct.",
+    "The Edge was dated via __NEXT_DATA__ created / article:published_time, never the site banner. About 16 banner-dated old /article/ URLs from search were rejected.",
+    "Star dates come from JSON-LD datePublished (UTC, converted to MYT). The Star's Saturday print pieces carry 17 Oct 00:00 MYT, just before the window. They were opened because the 17 Oct sweep left them unread, but most are paywalled and only teasers were read. Bernama/BernamaBiz dates are from the page timestamp; Malay Mail, NST, FMT and The Sun from article:published_time.",
+    "Macro context: the 3Q26 advance GDP estimate (+5.3%) was in the 17 Oct edition. Kenanga's follow-up forecast is itemised under Capital Financing (cf-2). The ringgit closed the week at 4.0795/0835 to the US dollar (BernamaBiz).",
+    "Browser sweep of The Star, TMR and NST (07:20-07:45 MYT on 18 Oct) has been merged. It added TMR as a second source for ai-1 and con-1 and confirmed the Star leasehold piece. Seen, not itemised: Rapid Bus plans 1,600 e-buses by 2031, and TMR's first-phase figure is inconsistent (250 buses at RM200mil vs 150 buses). Partial sources: The Star (no times on business pages, paywalled print), TMR (homepage only), NST (curated business pages), The Sun (JS shell, empty bodies), Bernama (BM RSS 500). See needs-browser.txt and browser-sweep.md in the work folder.",
+    "Bursa check merged (~07:30 MYT 18 Oct): no filings dated 17-18 Oct on the whole Bursa list, so no Bursa items in this edition. All 7 watchlist filings dated 16 Oct (Chin Hin, Southern Cable, GDB, Pesona Metro, TCS, Inta Bina) and the IOI Properties clarification were in the 17 Oct edition.",
+    "Browser sweep 2 (The Edge, NST, The Sun; 07:45-07:55 MYT 18 Oct) merged. The Edge: 16 in-window articles plus 1 opinion piece, not 14 with nothing after 17:53 as the fetch pass said; node 822202 (IMF committee chair: global economy resilient, delegates walk out on Russia's finance minister) was updated at 20:11 on 17 Oct, and node 822205 (Trump halts new Russia energy sanctions) is at 17:53. Neither carries a Malaysia figure, so neither is itemised. Edge global market items (Wall Street down on the AI rout and US$110 oil; CoreWeave -12% on the day) and politics (Bersama/Nik Nazmi, Melaka polls on 14 Nov) were seen and not itemised. NST economy: 'Malaysia's GDP growth beats expectations' (17 Oct 08:32) added as a source to cf-2. NST property and The Sun business had nothing Malaysian in window.",
+    "Coverage is not exhaustive. Unread or blocked sources are not evidence of no news."
+  ],
+  "keyTakeaways": [
+    {
+      "headline": "Port and island build-outs move forward: Carey Island SEZ cleared for zoning, and Penang's Silicon Island is 202.3ha reclaimed with the RM420mil link bridge on track",
+      "soWhat": "Two state-backed land banks, a 1,011.7ha port city in Kuala Langat and Penang's 931ha island, are moving from plan to zoning and works. They add to a federal DE budget that RHB IB says rises to RM83bil. Approvals are in principle and the projections are official targets.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-10-18-pd-1",
+        "2026-10-18-con-1",
+        "2026-10-18-con-2"
+      ]
+    },
+    {
+      "headline": "Haze reaches ASEAN's top alert level, and Johor schools stay shut for five more days from 19 Oct",
+      "soWhat": "A third Level 3 alert this year and a 20.7% weekly jump in respiratory cases in Johor point to weeks, not days, of disruption to leisure travel, events and outdoor F&B.",
+      "sectorKeys": [
+        "hotels"
+      ],
+      "itemIds": [
+        "2026-10-18-ho-1"
+      ]
+    },
+    {
+      "headline": "Rates and funding: bond-yield relief for banks now, but an OPR hike is pencilled in for early 2027",
+      "soWhat": "MBSB sees banks recovering some bond losses as MGS yields ease to about 3.8%, while Kenanga forecasts a 25bp hike to 3.00% in 1Q2027 (forecasts). Deposit competition to fund construction and DC loans keeps funding costs elevated.",
+      "sectorKeys": [
+        "capitalFinancing"
+      ],
+      "itemIds": [
+        "2026-10-18-cf-1",
+        "2026-10-18-cf-2"
+      ]
+    },
+    {
+      "headline": "Private 5G arrives at Penang Port, and the ministry may extend 5G coverage targets to ports, rail and highways",
+      "soWhat": "If the Cabinet adopts the CoPA review, coverage obligations would follow logistics corridors, adding work for telcos, tower firms and integrators beyond populated areas. It is still a proposal.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-18-ai-1"
+      ]
+    }
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 17,
+      "used": 3,
+      "status": "checked",
+      "note": "16 in-window articles plus 1 opinion piece (17 Oct 07:30 onward, by article stamp; 3 of the 16 are in window by update time only). Fetch pass: corporate, malaysia and 6 flash pages (Highlight, Economic Focus, Tech, Commodities, Edge Weekly, Property) parsed via __NEXT_DATA__, plus load-more offsets 14-74 for corporate/malaysia (back to 15 Oct); it found 14 and wrongly concluded nothing was published after 17:53. Browser sweep 2 (07:45-07:55 MYT 18 Oct) read the corporate, malaysia and Highlight pages and the homepage and opened 16 articles: node 822202 (IMF) was updated at 20:11 on 17 Oct and node 822205 (Trump/Russia sanctions) is at 17:53. Used: Carey Island (pd-1), haze readings (ho-1) and Genting Edge Weekly (ho-2). Singapore haze notices (822076, updated 17 Oct) repeat 17 Oct pl-2, and the TNB substation fire was noted on 17 Oct. The rest is global markets/AI, labour or politics. Not fully checked: Load More pages in the browser, Haze 24 areas and the opinion piece (listing stamps only), and paywalled bodies (mostly read to the lede). Search surfaced about 16 old /article/ URLs showing today's 'Sunday 18 Oct 2026' banner; all rejected.",
+      "publishers": [
+        "The Edge Malaysia"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 31,
+      "used": 2,
+      "status": "partial",
+      "note": "Browser sweep (07:20-07:45 MYT on 18 Oct): business feed loaded back to 16 Oct (57 links), with 23 business/insight and 13 tech pages opened. Business pages show the date but no time; 5 of the 17 Oct pieces carry '1d ago' labels (likely pre-window), and 15 others have unverified times. Fetch pass: Business, Business News, Tech, SMEBiz and Nation pages via fetch: 28 business/tech URLs dated 17-18 Oct, plus 3 nation stories opened (JSON-LD dates). The 17 Oct Saturday print/Insight pieces (left unopened on 17 Oct) are dated 17 Oct 00:00 MYT, just before this window; all were opened, but most are paywalled teasers (Banks in a battle, Budget won't shake market, Pay rise, Rare earths, AI boom) and none had new quantified Malaysian facts except as noted. 'Grid charges temper RE euphoria' repeats the CRESS 14+4 sen point covered 17 Oct. Sunday 18 Oct Biz7 property pieces are paywalled (leasehold used, partial). Tech items are global (Anthropic, CoreWeave). The browser sweep (browser-sweep.md) had not arrived at compile time.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 38,
+      "used": 4,
+      "status": "checked",
+      "note": "/feed/rss/money (8 in-window items) and the /news/malaysia page (30 in-window links). 7 opened. Used Penang Port 5G, Silicon Island, the ringgit/GDP outlook and the ASMC haze alert. Others were IMF/global, Marrybrown, Sarawak cocoa, RON95 fuel-quality probe and politics.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 3,
+      "used": 0,
+      "status": "checked",
+      "note": "technode.global feed: 3 items in window (China AI export controls, CERT-In, Proofpoint-Varonis), none Malaysian.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 19,
+      "used": 2,
+      "status": "partial",
+      "note": "Feed and homepage return HTTP 403 to curl. A browser sweep of the homepage (Cloudflare check cleared) found 19 in-window items, all dated 17 Oct (no 18 Oct items shown, possibly a cached or thin Sunday page), and read 8 bodies. 2 bodies (CoPA review, Silicon Island) were re-read via WebFetch and cited. Category pages were not used.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "Bernama",
+      "scanned": 34,
+      "used": 7,
+      "status": "partial",
+      "note": "EN RSS (10, undated), BM RSS (HTTP 500 on rssfeed.php; 10 BM items from the EN fetch path), the business page (IDs) and the BernamaBiz homepage (about 20 items). 25 article pages opened (https bernama.com/en and bernamabiz.com).",
+      "publishers": [
+        "BernamaBiz",
+        "Bernama",
+        "Bernama (BM)"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 53,
+      "used": 1,
+      "status": "partial",
+      "note": "The general feed has 50 items from 20:27 on 17 Oct to 07:15 on 18 Oct, all nation, world, sport and lifestyle; the business section is JS-rendered for curl. Browser sweep 1: /business (curated, 28 links, 1 in window) and /business/corporate (34 links, back to 16 Oct) gave the dual-5G analysis (09:49) and ISF's NRW JV (08:34), both coverage notes only. Browser sweep 2: /business/economy page 1 (back to 15 Oct) had 1 in-window item, 'Malaysia's GDP growth beats expectations' (17 Oct 08:32), used as a cf-2 source; /property page 1 had nothing in window (latest 15 Oct). Not checked: economy pages 2-5 and other sub-sections.",
+      "publishers": [
+        "NST"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 409,
+      "used": 0,
+      "status": "checked",
+      "note": "checked; dates only, viewer text read, PDFs not opened. All 12 watchlist companies were checked in three passes (per-company 16-18 Oct search, per-company newest-first list, and the full unfiltered 16-18 Oct list of 409 rows over 9 pages); all passes agreed. The 17-18 Oct list is empty market-wide, so nothing new is in this window. The 7 watchlist filings dated 16 Oct (Chin Hin, Southern Cable, GDB x2, Pesona Metro, TCS, Inta Bina) were all covered in the 17 Oct edition. Non-watchlist 16 Oct filings seen in the list (IOI Properties clarification, Cape EMS-Pro3C, Zetrix sukuk covenant) were also covered on 17 Oct. Filings after about 07:30 MYT on 18 Oct are not captured.",
+      "publishers": [
+        "Bursa Malaysia"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 3,
+      "used": 0,
+      "status": "checked",
+      "note": "The RSS (latest 16 Oct 14:51) and homepage (latest ID 1917875) show nothing new. Probing IDs 1917885-1917900 found only 1917886 (Duta Enclave valuation court case, 16 Oct), so nothing is in window.",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 55,
+      "used": 1,
+      "status": "checked",
+      "note": "General feed (50 items, 19:34 on 17 Oct to 06:52 on 18 Oct) and /feeds/rss/business (5 in-window items, all global). 2 opened. Used the Johor school-closure extension.",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "partial",
+      "note": "RSS is shallow (10 items from 22:16 on 17 Oct). Browser sweep 2 opened /business/ (one page, back to about 16 Oct): no Malaysian business story in window, only general items (Zelensky on Russia sanctions, Egypt, Subang Jaya flash floods, Nik Nazmi). Times are relative ('9h ago') and were not converted; sub-sections were not opened. Via curl, 2 article bodies (Carey Island, Johor schools) were empty.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "Regional / research / search pass",
+      "scanned": 45,
+      "used": 3,
+      "status": "checked",
+      "note": "23 targeted WebSearch queries (10 sectors, 12 watchlist names in 3 grouped queries plus Southern Cable, DC finance/IPO, Zetrix-MACC, Carey Island, Genting, Selangor fund, Star Sunday Biz). Business Today feed: 20 in-window items, 4 read via WebFetch. GDB's director share buy repeats a 17 Oct item. 'MACC confirms complaint on Zetrix/MyEG' (18 Oct) restates a 13 Oct MACC statement, so it is not new. The Business Times (Singapore) companies feed (11 in-window items) is global. DealStreetAsia (latest Malaysia story 16 Oct), Digital News Asia (none in window) and i3investor (RHB property 12 Oct, HLIB construction 14 Oct) all predate the window. Media Selangor/Business Today show the RM150mil Selangor-Penang-Khazanah chip fund was announced 10-13 Oct.",
+      "publishers": [
+        "Business Today",
+        "The Business Times (Singapore)"
+      ]
+    }
+  ],
+  "publishedAt": "2026-10-18T07:48:27+08:00"
+}
