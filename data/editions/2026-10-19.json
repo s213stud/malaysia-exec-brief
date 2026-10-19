@@ -1,0 +1,811 @@
+{
+  "date": "2026-10-19",
+  "demo": false,
+  "status": "published",
+  "checkedAt": [
+    "2026-10-19T07:23:00+08:00",
+    "2026-10-19T07:24:54+08:00",
+    "2026-10-19T07:26:21+08:00",
+    "2026-10-19T07:26:31+08:00",
+    "2026-10-19T07:27:00+08:00",
+    "2026-10-19T07:27:07+08:00",
+    "2026-10-19T07:30:20+08:00",
+    "2026-10-19T07:34:41+08:00",
+    "2026-10-19T08:09:51+08:00",
+    "2026-10-19T08:10:13+08:00"
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Power self-supply emerges as a data-centre approval condition and Sarawak prices DC power selectively; chip exports surge on AI; e-commerce law due in 2027",
+      "items": [
+        {
+          "id": "2026-10-19-ai-1",
+          "headline": "Fewer than 30 newly approved data-centre projects are said to carry a letter-of-award condition that developers secure their own off-grid power supply",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-19",
+          "detail": "StarBiz7 (Monday 19 Oct) reports that some data-centre investors received 'a rude awakening' a couple of weeks ago: letters of award issued to fewer than 30 newly approved DC projects are said to contain a condition requiring developers to secure their own 'off-grid' energy supply. The article is tagged off-grid power, power generation and natural gas. The story is paywalled and only its opening paragraph was read, so the scope, fuel options and deadlines are not known. A separate StarBiz piece the same day quotes Hibiscus Petroleum's Kenneth Pereira. He says the government is reviewing DC requirements, including on-site power supply, and that the Data Centre Task Force treats dependable power access as a key criterion. Hibiscus is in active talks with prospective customers for gas-fired power at SPD Tech Valley in Senawang.",
+          "soWhat": "If the condition applies across the new approvals, on-site power becomes a gating cost and timeline risk for the next wave of Malaysian data centres.",
+          "opportunity": "On-site generation, gas supply and power EPC work for data-centre developers (the article's tags point to power generation and natural gas).",
+          "watchOut": "Reported as 'said to'; the condition is not confirmed by MITI or MIDA in the text read. The first article is a partial read (paywall). Hibiscus is a would-be supplier with its own interest.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/data-centres-face-power-test"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/hibiscus-eyes-long-term-power-generation-profit"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Follows the 14 Oct edition item (ai-4) on MITI's approval of Privasia's Bagan Datuk data centre, conditional on off-grid power of up to 50MW. This report suggests the condition is broader. The Hibiscus-Seri Pajam partnership itself was covered 14 Oct; what is new is the active customer talks."
+        },
+        {
+          "id": "2026-10-19-ai-2",
+          "headline": "JENDELA Phase 2 in Perak will build or upgrade more than 30 transmitter sites in Orang Asli villages, plus coverage at 10 expressway locations (3 on PLUS, 7 on WCE)",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Perak communications committee chairman Mohd Azlan Helmi said the Dijadinet Highway project covers three North-South Expressway and seven West Coast Expressway locations, and asked MCMC and telcos to work together on both projects. Budget 2027 (9 Oct) allocated RM5bil to JENDELA, which next year targets 4G in all Orang Asli villages, coverage along 7,000km of roads and 1,700km of railway, and the MADANI Submarine Cable System (SALAM).",
+          "soWhat": "The RM5bil federal connectivity budget is turning into state-level site lists, which means tower, backhaul and civil work for telcos and their contractors.",
+          "watchOut": "No contract values, operators or timelines were given.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621977"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-ai-3",
+          "headline": "D&O Green Technologies: 2025 revenue fell 8% to RM989.7mil with a RM228.2mil net loss; 1H26 revenue fell 5.8% to RM457mil, but 2Q26 gross margin recovered to 14.6% from 4.9%",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "A Digital News Asia analysis uses D&O as a test of the National Semiconductor Strategy's goal of RM1bil-revenue local champions. D&O first passed RM1bil in 2023 (RM1.017bil) and reached RM1.076bil in 2024, then made a loss in 2025 on inventory impairments even though shipments rose 5.8%. It spent about RM32mil on R&D in 2025 with more than 180 R&D staff, and its Reset & Remodel programme had saved about RM22.8mil by end-June. Its largest shareholder Goh Nan Kioh raised his deemed interest to 31.8% by mid-October. Analyst views (as cited): PublicInvest sees FY2026 revenue returning to about RM1bil; MBSB Research expects a loss in FY2026 and a return to profit in FY2027; Phillip Capital cautions that the 2Q improvement may not yet be a sustainable turnaround.",
+          "soWhat": "Proprietary chip IP did not protect D&O from an automotive downturn, so scale alone is not enough for the NSS champion goal; the recovery case rests on margins.",
+          "watchOut": "Analyst estimates differ on the timing of a return to profit; D&O does not disclose seddLED or IC-design revenue separately.",
+          "sources": [
+            {
+              "publisher": "Digital News Asia",
+              "url": "https://www.digitalnewsasia.com/digital-economy/dos-rm1bil-journey-tests-what-it-takes-build-sustainable-malaysian-semiconductor"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-ai-4",
+          "headline": "E-Commerce Bill to be tabled at Parliament's first meeting of 2027; the first draft is complete and being refined",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Deputy Domestic Trade and Cost of Living Minister Fuziah Salleh said Malaysia has no specific e-commerce law today, so the ministry mostly negotiates between online sellers and platform providers. The Prime Minister said in the Budget 2027 speech (9 Oct) that the Bill aims to strengthen the accountability of online platforms and sellers. Separately, the ministry's Retail Access Programme has helped 1,862 entrepreneurs since 2023, covering 103 local brands and 552 SKUs placed with supermarkets.",
+          "soWhat": "Marketplaces, sellers, payment and delivery players should plan for formal platform-accountability duties from 2027.",
+          "watchOut": "The Bill's contents have not been published; obligations and penalties are unknown.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822216"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622032"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Also reported by Malay Mail, NST (19 Oct 06:40), Business Today and TMR (headline)."
+        },
+        {
+          "id": "2026-10-19-ai-5",
+          "headline": "Sarawak prices data-centre power at about 40 sen/kWh (vs 31 sen for other users) and is seeking 30-40% local content, as InvestSarawak says Malaysia has 3.5GW planned or approved and about 800MW operating",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-19",
+          "detail": "InvestSarawak CEO Timothy Ong told SunBiz that Sarawak's potential data-centre demand could be four to five times Malaysia's planned or approved capacity if every proposal went ahead, but the state is being selective. It offers 15- or 20-year power purchase agreements with fixed price escalation and will commit supply only to signed PPAs, not to speculative demand. A campus may employ only about 150 people, so the state wants projects that support semiconductors and other industries. It generally allows full foreign ownership outside sensitive sectors.",
+          "soWhat": "Sarawak's hydro-backed power comes at a premium and on its own terms, and that is the alternative to the off-grid condition reportedly attached to new Peninsular approvals.",
+          "opportunity": "Ong said local firms could start in non-core data-centre infrastructure such as cooling systems and services.",
+          "watchOut": "Projects without a signed PPA will not get power commitments, and local-content rules will vary by sector.",
+          "sources": [
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/sarawak-gets-selective-on-data-centres/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "InvestSarawak's own estimates, from an exclusive SunBiz interview. Read via WebFetch because curl is blocked."
+        },
+        {
+          "id": "2026-10-19-ai-6",
+          "headline": "HLIB: Malaysian exports of chipmaking equipment rose 71.1% and finished semiconductors 84.1% in 8M2026 on AI demand, but the US (about 14.5% of semiconductor exports) is preparing new excess-capacity findings",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-19",
+          "detail": "HLIB Research (analyst view) says Malaysia has 6.5% of global exports of semiconductor-related goods, with revealed comparative advantage above 1.0 across raw materials, wafers, equipment and finished products. Equipment exports are driven by multinational investment in measuring, checking and wafer-fab equipment. Finished-chip exports are driven by an AI-led memory shortage that is lifting storage and memory prices. Most products are exempt from the current 10% Section 301 tariff, but economist Doris Liew warns that uncertainty over the scope of US measures complicates investment planning. HLIB rates the risk of material supply disruption from West Asia (helium, bromine, fuel) as low. A separate StarBiz piece says the Oct 13 global tech selloff (Bursa's tech index fell 4.46% by midday that day) has not yet hit orders: QES Group's Chew Ne Weng says orders are continuing 'as usual' for now.",
+          "soWhat": "The AI cycle is lifting Malaysian chip exports, and that supports factory, utilities and industrial-park demand. US trade action remains the swing risk.",
+          "watchOut": "US excess-capacity findings could change tariff coverage and rates. Liew says companies may hold off on relocations or expansions until the rules are clear.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/semiconductor-sector-poised-for-continued-expansion"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/malaysian-chipmakers-unfazed-for-now"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Analyst view (HLIB Research)."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Affordability gap in new launches and a rising overhang; state-led affordable supply; industrial land takes off near Proton City",
+      "items": [
+        {
+          "id": "2026-10-19-pd-1",
+          "headline": "KRI: more than 80% of Johor's 2024 new launches were priced above RM400,000, affordable to only 25.5% of the state's households; nationally just 9% of new supply suits the 41.3% of households earning under RM6,000 a month",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "A Khazanah Research Institute study (Mismatches in the Malaysian Housing Market, 2026) found 63% of Johor launches at RM600,000 and above, affordable to 13.5% of households. In Penang, 37% of households earn under RM6,000 but only 6% of new launches suit them, and half of new supply is RM400,000 and above. Kuala Lumpur is more balanced: 45% of launches were below RM300,000 and another 11% at RM300,001-400,000, though 22% were above RM900,000. Nationally, households earning over RM12,000 are 22% of the total but can afford 52% of new launches. KRI uses a three-times-annual-income benchmark (about RM216,000 for a RM6,000-a-month household) and welcomed KPKT's proposal to review the uniform RM300,000 affordable threshold.",
+          "soWhat": "Data like this supports state-specific affordable-price thresholds, and shows the clearest unmet demand is mid-priced stock in Johor and Penang.",
+          "opportunity": "Products priced to local incomes in Johor and Penang, where supply is skewed to the top of the market.",
+          "watchOut": "A threshold review could change affordable quotas and price controls. KRI says a longer period is needed to confirm whether the Johor skew is structural.",
+          "sources": [
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/18/malaysias-housing-market-mismatch-disparity-in-property-prices-and-household-income/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-pd-2",
+          "headline": "Penang's 55.705-acre Kampung Manis railway-land site in Perai moves to redevelopment: 338 units planned on a 1.61ha affordable plot, 174 free replacement homes, and a 15-year lease for MSM's adjoining sugar refinery",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "RAC and the Penang State Housing Board handed site-clearance consent documents to 227 families. Of these, 174 get free 850 sq ft homes (market value put at RM350,000-400,000), and 53 non-permanent residents are offered homes at RM150,000 under rent-to-own. The affordable block sits on 1.61ha of RAC land and also includes a commercial centre, drive-thru outlets and serviced apartments. Works are expected to start end-2026 or early 2027 subject to development-plan approval, with 24 months to complete; displaced residents get RM700 a month in rent support. RAC signed a development agreement with Rivanis Ventures Sdn Bhd on 11 June; the site will be called Rivanis, and its first 36.025-acre parcel will be developed in stages over seven years. RAC will formalise a 15-year land lease for MSM's Prai refinery, which is not part of the project. Penang says it had delivered 172,550 affordable units (78.43% of its 220,000 target for 2030) as of 31 March.",
+          "soWhat": "Ending a resettlement issue that dragged on for more than 70 years opens a large Perai railway-land site for mixed development.",
+          "opportunity": "Contracting and supply for a multi-year mixed development on cleared federal land in Perai.",
+          "watchOut": "The start date depends on plan approval; the gross development value was not given.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622158"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622168"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "NST also reported both pieces (18 Oct 21:26 and 22:09); NST bodies did not load by curl."
+        },
+        {
+          "id": "2026-10-19-pd-3",
+          "headline": "Selangor targets 200,000 affordable and public housing units by 2028; KPKT's Budget 2027 allocation is RM6.355bil (up 4.38%), including RM1bil for Rumah Mesra Rakyat and Residensi Rakyat",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "State housing committee chairman Borhan Aman Shah said the state will monitor projects with REHDA, may revive a rent-to-own scheme, and recently took over 3,004 units at the Lembah Subang PPR. It is also considering state student housing. Other KPKT allocations include RM700mil for local-authority public facilities and RM320mil for slope repairs and drainage.",
+          "soWhat": "A state volume target of this size adds supply in the affordable segment and creates partnership work for Selangor developers.",
+          "watchOut": "No breakdown of how many of the 200,000 units are state-built versus developer-built, or of progress to date.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622146"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-pd-4",
+          "headline": "Residential overhang rose for a sixth straight quarter to 32,801 completed unsold units (RM16.37bil), plus 19,263 unsold serviced apartments (RM16.52bil), as consultants say Budget 2027 does little to clear stock",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-19",
+          "detail": "Consultant views in StarBiz. Olive Tree's Samuel Tan says stamp-duty relief up to RM750,000 will not move most of the overhang, especially serviced apartments. He wants conversion or repurposing options, rent-to-own and bulk-purchase schemes, and launch approvals guided by locality-level absorption data. JLL's Jamie Tan puts the stamp-duty saving at about RM15,700 on a RM750,000 home with 90% financing. Greenhill & Mason's Ruben Kelvin says construction cost inflation is eroding viability: the Producer Price Index averaged 4.6% in the first eight months of 2026, with crude materials up 15.4%. He also says the mid-market (households earning RM6,000-RM12,000 a month) is falling through the gap, because these buyers cannot carry new launches above RM700,000.",
+          "soWhat": "Demand-side relief helps first-time buyers, but rising input costs and unsold stock squeeze margins. That is especially true for serviced apartments and mid-market launches.",
+          "opportunity": "Sources suggest openings in mid-market product priced below RM700,000, rent-to-own schemes, and repurposing serviced-apartment stock.",
+          "watchOut": "Ready-mixed concrete, steel bar and roofing-tile costs are rising with fuel rationalisation, and abandoned projects add a risk premium for buyers.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/property-sector-looks-beyond-budget-2027"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Consultant and analyst views. The overhang figures are 1Q2026 data as quoted by Olive Tree. The Budget 2027 stamp-duty relief itself was covered in the 14 Oct edition."
+        },
+        {
+          "id": "2026-10-19-pd-5",
+          "headline": "Setia Awan's RM1.4bil, 447-acre Tanjong Malim Hi-Tech Park has 50% take-up in its 104-acre Phase 1, including two Proton-supply-chain investors worth about RM500mil",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-19",
+          "detail": "Phase 1 launched on 21 Sept. It offers infrastructure-ready parcels from five acres, for sale or lease, near Proton City and outside the designated Automotive High-Tech Valley (AHTV). The two confirmed FDI investors are Ningbo Fresh Technology and Sheentech Automotive Systems. Phase 1 infrastructure is due by early 2027 and the phase by 1H2028, with the full park by 3Q2029. Ionera, the 27.2-acre commercial component, has 168 units and more than 100 registrations and bookings, and Billion Group is set to anchor it under an MoU.",
+          "soWhat": "Industrial land around the auto/EV cluster is absorbing quickly, so developers with industrial land banks in Perak growth corridors have a live demand signal.",
+          "opportunity": "Infrastructure and factory-building works as investors start construction after early 2027.",
+          "watchOut": "Take-up depends on two investors so far. Further FDI is still under discussion.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/setia-awan-positioned-for-auto-sector-growth"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Company statements to StarBiz."
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Sabah delivery and audit pressure; Perak and Selangor small works and flood jobs",
+      "items": [
+        {
+          "id": "2026-10-19-con-1",
+          "headline": "Sabah Pan Borneo: only 4 of 35 Phase 1 packages are handed over (the Auditor-General's 11.4%), but 8 packages spanning 179km are to open in stages by end-2026; variation orders reportedly exceed RM514mil",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Sabah Works Minister Joachim Gunsalam said the 11.4% counts only fully handed-over packages; some alignments are at 90-93% physical progress. Approval of the variation orders lies with the federal Works and Finance ministries; he blamed hilly terrain, slope stability and changing peat and swamp soils. Delays followed the end of the Project Delivery Partner model, Covid-19, contractor appointments for new packages finalised only between February 2024 and January 2026, slow land acquisition and some contractors' performance.",
+          "soWhat": "Sabah's largest road job is in its delivery phase, but cost overruns and contractor performance are now under audit scrutiny.",
+          "watchOut": "The RM514mil VO figure is as reported, and federal approval is pending. The 179km opening is a state target.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622127"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-con-2",
+          "headline": "Sabah approves 24-hour operations at Sepanggar Bay Container Port; its expansion is 68.1% complete and due in October 2027, after the port handled 416,854 TEU in the first nine months of 2026",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Deputy Chief Minister Ewon Benedick said full 24-hour operation depends on depots, factories and agencies being ready, as many close as early as 5pm. A monthly task force is running 10 interim actions, including a temporary trailer-parking zone at KKIP. Sabah Ports' container handling rose 6.07% to 532,391 TEU in 2025, with Sepanggar handling 74.6% (396,964 TEU).",
+          "soWhat": "Congestion shows demand is outrunning capacity in Sabah, which supports the remaining port works and logistics and warehousing demand around KKIP.",
+          "watchOut": "Round-the-clock operation is approved but not yet enforced.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822219"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622062"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-con-3",
+          "headline": "Perak gets RM30mil to resurface at least 600 residential roads from next month, and 7 of its 10 priority projects were approved under Budget 2027",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Housing Minister Nga Kor Ming said the roadworks, funded from KPKT savings, start next month and should finish before Hari Raya next year. Menteri Besar Saarani Mohamad said the approved projects include cardiothoracic services at Raja Permaisuri Bainun Hospital in Ipoh, new education facilities in Sitiawan and Chemor, the Sepetang River Basin flood-mitigation plan and a fire and rescue station at Proton City, Tanjong Malim. Federal focus is on two of Perak's growth hubs, the Automotive Hi-Tech Valley in Tanjong Malim and Lumut Maritime Industrial City.",
+          "soWhat": "These are near-term, small-ticket jobs for Perak contractors, plus hospital, school and flood works in the 13MP pipeline.",
+          "watchOut": "No project values were given for the seven approved projects.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622077"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/18/anwar-approves-rm30m-to-resurface-600-roads-in-perak-says-nga-kor-ming/239603"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/18/saarani-perak-welcomes-approval-of-seven-priority-projects-under-budget-2027/239543"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-con-4",
+          "headline": "Selangor is studying new retention ponds and drain upgrades for Shah Alam, Klang and Kajang, on top of more than RM4bil of federal flood-mitigation projects; Budget 2027 set RM100mil for Klang Valley ponds and river maintenance",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "State infrastructure committee chairman Izham Hashim said some of the federal projects are under way or nearly complete and others are still being planned. The federal and state governments agreed on five flood measures, including assessing whether Batu Dam and Klang Gates Dam can meet water needs over the next 30 years. A proposed 'water highway' for the Klang Valley must be studied before it can enter the Water Master Plan.",
+          "soWhat": "Urban flood works are a growing Klang Valley pipeline for civil and drainage contractors.",
+          "watchOut": "Study stage only; the sites and budgets for new ponds are not yet set.",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/18/selangor-studying-retention-ponds-drainage-upgrades-for-shah-alam-klang-and-kajang-says-exco/239551"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "items": []
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Volume recovery at the largest planter",
+      "items": [
+        {
+          "id": "2026-10-19-pl-1",
+          "headline": "SD Guthrie's 3Q26 CPO output rose 15% year on year to 655,577 tonnes, with FFB up 8% to 2.48mil tonnes; nine-month CPO output is up 7% at 1.76mil tonnes",
+          "verdict": "Positive",
+          "freshness": "recent",
+          "publishedDate": "2026-10-18",
+          "detail": "Palm kernel output rose 16% to 145,017 tonnes. Quarter on quarter, CPO rose 9% from 602,278 tonnes and FFB 8% from 2.29mil tonnes. For the nine months, FFB edged up 1% to 6.68mil tonnes and palm kernel rose 6% to 385,550 tonnes. CPO grew faster than FFB, which points to better oil extraction.",
+          "soWhat": "Higher volumes at the largest Malaysian planter support 3Q revenue and show the estate output recovery is broad-based.",
+          "watchOut": "Production figures only; no prices, costs or earnings were disclosed.",
+          "sources": [
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/18/sd-guthries-crude-palm-oil-production-jumps-15-in-3q-2026/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The production disclosure was a Bursa filing dated 16 Oct (title noted in the 17 Oct edition's coverage, not itemised). Business Today reported the figures on 18 Oct (19:00 MYT)."
+        }
+      ]
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "A sukuk falls to sub-investment grade; state credit stays strong; ministers cite trade resilience",
+      "items": [
+        {
+          "id": "2026-10-19-cf-1",
+          "headline": "MARC downgrades Zetrix AI's RM2bil IMTN programme to BB+IS from AA-IS and keeps it on MARCWatch Negative; the issuer must fix a covenant breach by 22 Oct",
+          "verdict": "Negative",
+          "freshness": "recent",
+          "publishedDate": "2026-10-18",
+          "detail": "MARC said founder Wong Thean Soon's falling stake means he is no longer the single largest shareholder, a potential breach of Clause 12.1(p) of the trust deed, which the trustee confirmed on 16 Oct. If it is not fixed by 22 Oct, sukukholders' consent must be sought through an Extraordinary Resolution. The proposed Nasdaq listing via a SPAC merger, part of whose proceeds is meant for sukuk repayment, could slip to 1Q2027 from end-2026. New external auditors add uncertainty over the group's large capitalised development spending. The programme was placed on MARCWatch Developing on 18 Sept and moved to Negative on 4 Oct. Business Today notes the potential breach is not a declared default and does not make the sukuk immediately repayable.",
+          "soWhat": "A fall from AA- to sub-investment grade within a month of the first watch shows how fast governance events can reprice Malaysian corporate sukuk; holders face a decision after 22 Oct.",
+          "watchOut": "Further downgrades are possible if the covenant is not fixed, liquidity sources fail or new disclosures show more deterioration.",
+          "sources": [
+            {
+              "publisher": "MARC Ratings",
+              "url": "https://www.marc.com.my/rating-announcements/marc-ratings-downgrades-zetrix-ais-rating-maintains-marcwatch-negative/"
+            },
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/18/marc-slashes-zetrix-ais-rm2-billion-sukuk-rating-to-bb-questions-nasdaq-listing-plans/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "MARC's announcement is dated 16 Oct (19:45 MYT). The 17 Oct edition (ai-1) covered the covenant breach and the 22 Oct deadline but not the downgrade. NST also reported it (18 Oct 11:48); its body did not load by curl."
+        },
+        {
+          "id": "2026-10-19-cf-2",
+          "headline": "MARC affirms Perak at AA+ (stable): borrowings of RM154.6mil, debt-to-revenue of 11.6% against a 45.7% state median, and reserves of RM1.52bil",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Perak has run fiscal surpluses since 2022. Development spending averaged 32.4% of total spending in 2020-2024, above the 27.5% state median, and revenue grew 4% a year in 2019-2024 against 3.4% for spending. Reserves equal 118.3% of annual spending and about 9.9 times debt. Real GDP grew 5.7% in 2025 to RM91.5bil. MARC cites the Kerian Integrated Green Industrial Park and Lumut Maritime Industrial City as growth drivers, if policy stays consistent across electoral cycles.",
+          "soWhat": "A strong state balance sheet supports Perak's development pipeline, including the industrial parks and the works in con-3.",
+          "watchOut": "Spending pressure is rising: phase 2 of the civil-service pay scheme from January 2026, and a 10.2% higher 2026 allocation for supplies and services.",
+          "sources": [
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/18/marc-reaffirms-peraks-sub-sovereign-credit-rating-at-aa/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-cf-3",
+          "headline": "EPF sold 13.14mil CIMB shares on 13 Oct, cutting its stake to 18.38% from 18.50%; CIMB closed at RM7.20 on Friday, down 11.11% year to date",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "The sale was about 0.12% of CIMB's share capital, through the Citigroup-EPF Board nominee account. EPF still holds 1.979bil shares, worth about RM14.25bil at Friday's close (an indicative value, not sale proceeds). CIMB fell 3.74% on Friday; the shares were RM7.50 at the time of the sale. Banks have been under pressure from high bond yields.",
+          "soWhat": "Marginal selling by the largest local institution while bank shares are weak; a signal to watch, not yet a trend.",
+          "sources": [
+            {
+              "publisher": "Business Today",
+              "url": "https://www.businesstoday.com.my/2026/10/18/epf-disposes-13-million-cimb-shares-as-stock-falls-11-11-ytd/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "StarBiz7 (19 Oct, paywalled) separately says CIMB Investment Bank is engaging clients across sectors on debt, equity and M&A exercises under the MY Value Up programme (teaser only)."
+        },
+        {
+          "id": "2026-10-19-cf-4",
+          "headline": "Malaysia's total trade rose 27% in the first eight months of 2026, and no single market takes more than 17% of exports, says Finance Minister II",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Speaking in Bangkok at the IMF-World Bank Annual Meetings, Amir Hamzah Azizan said a broader base (E&E, semiconductors, data centres and advanced manufacturing) and stronger fiscal buffers will cushion external shocks in 2027. Geopolitical tension and shifting trade patterns remain the key risks. The government is building domestic industrial ecosystems so manufacturers can source more parts locally.",
+          "soWhat": "The official view is that diversification limits the damage from any single shock, which supports the financing and rates backdrop for 2027.",
+          "watchOut": "This is a minister's view. Bank of America's Malaysia head told StarBiz (19 Oct) that oil at US$120-125 a barrel would be a 'danger signal' that could force more drastic government measures.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822217"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622019"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/10/18/malaysias-diversified-economy-export-markets-to-cushion-external-shocks-in-2027-says-amir-hamzah/239589"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/19/new-crude-oil-crisis-looms"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "The Bank of America view is from The Star, 'New crude oil crisis looms' (19 Oct 00:00 MYT, partly paywalled)."
+        }
+      ]
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "BNPL scale and early stress among young users; public medical cover for the M40; payment-charge rumour denied",
+      "items": [
+        {
+          "id": "2026-10-19-cof-1",
+          "headline": "MediAsas, a standalone medical insurance and takaful plan for the M40, launches in January 2027 after 340,000 private policies were surrendered over unaffordable premiums",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Health Minister Dzulkefly Ahmad said the plan offers basic cover with transparent cost control. A pilot has run in the Klang Valley since end-July, and policyholders can pay from EPF Akaun Sejahtera (Account 2). MOF earlier said it covers people up to age 85 with two product options. For vulnerable groups, Tabung Bantuan Perubatan rises 50% to RM60mil, and PeKa B40 gets RM80mil.",
+          "soWhat": "A low-cost, state-designed plan will compete with private medical cards for the M40, and EPF Account 2 becomes a funding source for premiums.",
+          "watchOut": "Premiums, insurer panels and benefit limits were not given in the text read.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822212"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621991"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/18/mediasas-plan-to-offer-financial-health-safety-net-to-malaysias-m40-says-dzulkefly/239577"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-19-cof-2",
+          "headline": "MOF says there is no service charge on QR payments from 1 Nov; a viral poster claiming one is false",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "The ministry said in a Facebook post that there is no official announcement of QR service charges and urged the public not to share the poster. It did not say who was behind it.",
+          "soWhat": "Removes a rumoured cost on the most-used retail payment rail; misinformation on payment fees can still hit merchant adoption.",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/18/no-qr-payments-are-not-getting-a-service-charge-from-nov-1-says-finance-ministry/239579"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Bernama (18 Oct, 16:01) and TMR (homepage headline) also carried the denial."
+        },
+        {
+          "id": "2026-10-19-cof-3",
+          "headline": "Malaysians made 173.9mil BNPL transactions worth RM14.7bil in 1H2026; under-30s accounted for RM5.4bil, and 4% of their RM2.4bil outstanding balance (RM96.8mil) is non-performing",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-19",
+          "detail": "The figures are from a Finance Ministry written reply published on the Parliament website, as reported by FMT. Users aged 30 and below made 65.9mil transactions, 37.9% of the count and 36.7% of the value. Active BNPL account holders reached 8mil in 1Q2026, up from 7.5mil at end-2025. MOF puts BNPL at about 0.3% of household debt. Since the Consumer Credit Act 2025 took effect on 1 March, BNPL falls under the Consumer Credit Commission: conduct rules cover disclosure, fees, affordability and collection; an affordability check is required for limits above RM1,000; and providers are moving into licensing.",
+          "soWhat": "BNPL is now mainstream instalment credit, and a 4% NPL among young users shows where the stress shows first. Licensing and affordability checks raise compliance costs, which favours larger, well-capitalised providers.",
+          "watchOut": "Rising delinquency among young borrowers, and tighter affordability checks that could slow growth in BNPL volumes.",
+          "sources": [
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/19/young-malaysians-spent-rm5-4bil-through-bnpl-in-just-six-months"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Government data from a parliamentary written reply. The reply's exact date is not given in the article."
+        }
+      ]
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "CIDB says IBS savings need volume; 3D printing awaits a framework",
+      "items": [
+        {
+          "id": "2026-10-19-ibs-1",
+          "headline": "CIDB: 3D concrete printing can cut build time by more than 80% (walls printed in about 15 hours), but IBS savings need volume of 200-500 units; construction had about 600,000 foreign workers at the end of 2025",
+          "verdict": "Watch",
+          "freshness": "recent",
+          "publishedDate": "2026-10-18",
+          "detail": "CIDB IBS CEO Zuraihi Abdul Ghani told EdgeProp that the government aims to cut dependence on foreign workers by 10% by 2030. CIDB has more than 140 certified IBS manufacturers producing 280-300 certified components, and about 10 certified modular makers (more exist, mostly exporting from Johor to Singapore). The minimum IBS score is 70 for government projects of RM10mil and above, and private projects of RM50mil and above with GFA of at least 50,000 sq m. A Penang IBS exporter's cost of about RM300 psf compares with RM120-150 psf for conventional affordable housing. One 3D printer can cost up to RM4mil, and 3DCP is not yet classified under IBS (a framework is being drafted). Nuvah is about to deliver Malaysia's first 3D-printed luxury bungalow, Villa Bayu at Eco Majestic, Semenyih. Contractors using uncertified products face site sealing and compounds of up to RM100,000.",
+          "soWhat": "IBS demand depends on project volume and on enforcing the IBS score, so precast and modular makers gain most where large developments and labour curbs meet.",
+          "opportunity": "Volume IBS and precast supply for large housing schemes as foreign-labour targets tighten.",
+          "watchOut": "Cost parity with conventional building is not there for small projects, and CIDB enforcement is limited by manpower.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1917892/3d-printing-promises-faster-builds-cheaper-homes-remain-horizon"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Published online 18 Oct; it first appeared in EdgeProp's 8 Oct monthly print edition."
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Haze still disrupting outdoor and marine tourism",
+      "items": [
+        {
+          "id": "2026-10-19-ho-1",
+          "headline": "Haze: 26 areas recorded unhealthy API readings on Sunday afternoon (Pasir Gudang worst at 182); schools in five states reopen today with outdoor activities suspended, and dive operators are told to cancel unsafe sea trips",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-18",
+          "detail": "Beyond Pasir Gudang, seven Johor areas were unhealthy (Kota Tinggi 179, Larkin 170) and five in Selangor (Shah Alam 157); all three Melaka stations were unhealthy, and Putrajaya read 155. Schools in Selangor, Negeri Sembilan, Melaka, Pahang and Penang reopen on 19 Oct, and Negeri Sembilan postponed end-of-year exams. The Malaysia Scuba Diving Association urged tourists not to insist on paid sea trips when haze or weather makes them unsafe, and asked east-coast island operators to put safety ahead of last-minute bookings before the seasonal closure.",
+          "soWhat": "Haze is cutting into outdoor and island tourism just before the east-coast monsoon closure.",
+          "watchOut": "Readings change hourly; no hotel cancellation or occupancy data was reported.",
+          "sources": [
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622104"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/18/nationwide-haze-surge-pushes-api-past-150-in-26-areas-pasir-gudang-worst-at-182/239627"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822221"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622117"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2622063"
+            },
+            {
+              "publisher": "Bernama",
+              "url": "https://www.bernama.com/en/news.php?id=2621966"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "note": "Update to the 18 Oct edition's haze item (ho-1). Earlier on 18 Oct, Bernama reported Pasir Gudang at 190 (11:31 MYT)."
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge (Tech/corporate flash, listings parsed; global AI items only besides the e-commerce Bill), Bernama ID probe, Malay Mail, Business Today, DNA, TNGlobal (2 in-window items, none Malaysian), BT Singapore (global AI/Nscale), Star Monday StarBiz7 (paywalled), search. Used: StarBiz7 off-grid DC condition (partial read), JENDELA Perak, D&O analysis, E-Commerce Bill, The Sun Sarawak DC interview (19 Oct 07:20), StarBiz Hibiscus on-site power (folded into ai-1), HLIB semiconductor exports. Seen, not itemised: StarBiz Infomina analyst upgrades (order book RM614mil; its 1Q results were in the 14 Oct edition); Microsoft dropping Nscale's UK data centre over grid delays (global); Samsung/TSMC/Nvidia memory (global); MCMC-EC connectivity tests at Melaka polling centres for OCR-VA; YTF women-in-tech awards. Zetrix AI's rating action is under Capital Financing (cf-1). Bursa: no filings 17-19 Oct. Browser sweep of The Star, TMR and NST: not received at compile time, so those three sources are partial.",
+    "propertyDevelopment": "Checked: Edge (City & Country weekly teaser), EdgeProp (RSS, IDs 1917880-1917905), Bernama, Malay Mail, Business Today, search. Used: KRI affordability study, Kampung Manis/Rivanis (Bernama x2), Selangor 200,000-unit target, StarBiz Monday property outlook (overhang/costs) and Setia Awan Tanjong Malim Hi-Tech Park. Seen, not itemised: Edge City & Country (18 Oct) on Gombak's ECRL/transit-terminal prospects and Penang 2Q26 residential (teaser only; Aviera Bangsar South was noted 18 Oct); EdgeProp Rehda Institute senior-living opinion (from the 8 Oct print issue); EdgeProp advertorials (SkyAman, Clarissa Langkawi). Search returned banner-dated old Edge launch stories (Serenia City, Icon City, Hillpark, Seringin), all rejected. Bursa: no filings 17-19 Oct. Browser sweep of The Star, TMR and NST: not received at compile time, so those three sources are partial.",
+    "construction": "Checked: Bernama ID probe, Edge, Malay Mail, search (contract awards), Bursa. Used: Pan Borneo Sabah audit response, Sepanggar port, Perak roads/projects, Selangor flood works. Seen, not itemised: Masidi says Sabah's RM18.7bil Budget 2027 allocation largely covers operating costs incl. ~120,000 federal civil servants (follow-up to 15 and 18 Oct items); Gua Musang-Kota Bharu Bailey bridge due 24 Oct. Search surfaced IJM's RM1.23bil Kulim contract (12 Oct, pre-window) and banner-dated old Edge awards (SunCon LRT3, Widad), rejected. No in-window contract award found. Bursa: no filings 17-19 Oct. Browser sweep of The Star, TMR and NST: not received at compile time, so those three sources are partial.",
+    "propertyInvestment": "Searched mall/REIT news; Edge listings, Business Today, BT Singapore (S-REIT items only). Search returned the RHB REIT note (Sept), JLL 2Q26 KL retail and a banner-dated old Pavilion REIT story (rejected). No Malaysian retail-property deal or REIT news found in the window. Not evidence of no news.",
+    "plantation": "Checked: Business Today, Edge Commodities flash (global energy), Bernama, search (CPO futures; last session was Friday 16 Oct, covered 18 Oct). Used: SD Guthrie 3Q production. Seen, not itemised: Star/Straits Times on Singapore-listed planters (Wilmar -1.2%, Golden Agri -3.5% on 16 Oct) hit by Singapore's haze probe, which names no Malaysian planter; Budget 2027 agriculture expert piece (paddy, not palm); banner-dated old Edge CPO stories rejected. MPOB not re-pulled. Bursa: no filings 17-19 Oct.",
+    "capitalFinancing": "Checked: Business Today, MARC site, Edge Economic Focus, Bernama, Malay Mail, Star StarBiz7 (paywalled), Kenanga weekly notes via search. Used: Zetrix AI downgrade, Perak AA+, EPF-CIMB, Amir Hamzah trade view (with BofA oil warning). Seen, not itemised: Bursa expected to stay cautious this week (NST, 18 Oct 10:06, body unreadable); Kenanga sees USD/MYR at RM4.08-4.09 this week (pre-window note); split views on a 5 Nov OPR move (pre-window). Bursa: no filings 17-19 Oct. Browser sweep of The Star, TMR and NST: not received at compile time, so those three sources are partial.",
+    "consumerFinancing": "Checked: Malay Mail, Bernama, Edge, search (HP/BNPL/personal financing). Used: MediAsas, QR-charge denial, FMT BNPL data from an MOF written reply (19 Oct 07:30). Seen, not itemised: Star i-Emas flexible-withdrawal expert piece (19 Oct); NST/Business Times 'MBSB explores acquisitions' (19 Oct 07:54; body not readable, logged for browser); EPF i-Emas monthly-payout vox pop (Bernama/Malay Mail; scheme was a Budget 2027 measure); Perkeso EIS benefits up to RM25,000 (feature); minimum-wage expert views (RM2,000 from June 2027, covered 14 Oct). No HP or personal-financing news in window. Not evidence of no news.",
+    "cablesManufacturing": "Searched TNB tenders and cable news; Edge, Bernama, Malay Mail. TNB tender pages are standing notices. The StarBiz7 off-grid DC condition (ai-1) is relevant to grid and cable demand but gives no cable detail. No in-window cable order or watchlist news. Not evidence of no news. Bursa: no filings 17-19 Oct.",
+    "buildingMaterialsIbs": "Checked: EdgeProp, search (IBS/precast/CIDB). Used: CIDB 3DCP/IBS interview (EdgeProp, online 18 Oct, from the 8 Oct print issue). Edge City & Country mentions concerns over induction-furnace steel quality (teaser only). No watchlist building-materials news. Bursa: no filings 17-19 Oct.",
+    "hotels": "Checked: Bernama, Malay Mail, Edge, Star Monday StarBiz7 (Genting rights-issue analysis, paywalled; the RM1.25bil rights issue was covered 14, 15 and 18 Oct), The Sun (Shangri-La KL GM story, body not readable), search. Used: haze update with MSDA advisory. Not read: The Sun 'KL remains Southeast Asia's most dynamic hospitality market' (19 Oct 06:51; Cloudflare/empty body), so not itemised. Browser sweep of The Star, TMR and NST: not received at compile time, so those three sources are partial."
+  },
+  "watchlistCoverage": [
+    "Bursa Malaysia announcements (browser check, ~07:23-07:28 MYT 19 Oct): the unfiltered list for 17-19 Oct 2026 shows 0 entries market-wide ('No data available in table', re-run at ~07:27). Sanity check: 16-19 Oct returns 409 rows, all dated 16 Oct, and the 16 Oct filings were covered in the 17 Oct edition. So none of the 12 watchlist companies (OKA 7140, Chin Hin 5273, Southern Cable 0225, Master Tec 0295, Crest Builder 8591, Tuju Setia 5297, Pesona Metro 8311, GDB 0198, TCS 0221, Inta Bina 0192, Nestcon 0235, Kitacon 5310) filed in the window. Filings after ~07:28 MYT on 19 Oct are not captured.",
+    "Media and search pass (18 Oct 07:30 to 19 Oct ~07:30 MYT): no in-window article body names any of the 12 watchlist companies with new information. Grouped searches returned only earlier items (e.g. Inta Bina's RM290mil GDV project, 3 Oct; Exsim's RM15.62mil subcontract from Nestcon, 8 Oct; banner-dated old Edge contract stories for Pesona Metro and Inta Bina, rejected). A 07:40 MYT per-company re-search found only earlier items, all outside the window: Chin Hin/CHGP RM62mil disposal (6 Oct), Pesona Metro RM154.67mil Cyberjaya job (in the 16 Oct edition), Southern Cable's 28 Oct Main Market transfer (seen 16 Oct), Nestcon RM243mil (Aug), GDB RM81.6mil acquisitions."
+  ],
+  "generalCoverage": [
+    "Edition window: from the 18 Oct edition's research check (~07:30 MYT 18 Oct) to ~07:30 MYT 19 Oct 2026 (Sunday into Monday), plus refreshes from 07:34 to 08:09 MYT 19 Oct: feeds re-pulled 5 times, Star listings re-pulled 5 times (about 60 new Monday links), Edge nodes 822222-822250, Bernama IDs up to 2622290, TMR via WebFetch. Weekend flow was thin: The Edge had 18 stories with in-window timestamps (newest local item node 822221 at 17:50 on 18 Oct; nodes 822226-822232 return 404), Bursa had no filings, and many Star Monday pieces are paywalled.",
+    "Dating: The Edge by __NEXT_DATA__ created / article:published_time (never the site banner; about 10 banner-dated old /article/ URLs from search were rejected). Star by JSON-LD (16:00Z on 18 Oct = 00:00 MYT on 19 Oct). Bernama by page timestamp. Malay Mail, NST, FMT by article:published_time. Business Today by feed pubDate (no time on page). MARC by its announcement page.",
+    "Two items are 'recent' rather than 'current': the MARC Zetrix downgrade (announced 16 Oct 19:45, first in media 18 Oct, not in earlier editions) and SD Guthrie's production (Bursa 16 Oct, reported 18 Oct). The EdgeProp IBS piece was posted online 18 Oct from the 8 Oct print issue.",
+    "Macro context: Finance Minister II says trade rose 27% in 8M2026 (cf-4). Bank of America's Malaysia head flags US$120-125 oil as a danger signal (StarBiz, 19 Oct).",
+    "Coverage is not exhaustive. Unread or blocked sources are not evidence of no news. See needs-browser.txt in the work folder."
+  ],
+  "keyTakeaways": [
+    {
+      "headline": "A sukuk falls to sub-investment grade: MARC cuts Zetrix AI's RM2bil programme to BB+ from AA- ahead of a 22 Oct covenant deadline",
+      "soWhat": "Within a month of the first watch, a governance-driven shareholding change has moved an AA- sukuk to sub-investment grade. Holders may have to vote after 22 Oct, and repayment partly depends on a Nasdaq SPAC listing that may slip to 1Q2027.",
+      "sectorKeys": [
+        "capitalFinancing"
+      ],
+      "itemIds": [
+        "2026-10-19-cf-1"
+      ]
+    },
+    {
+      "headline": "Data centres may have to bring their own power: fewer than 30 new approvals reportedly carry an off-grid supply condition",
+      "soWhat": "If confirmed, on-site power becomes a cost and timing gate for the next wave of data centres, adding to the 14 Oct Bagan Datuk case. Sarawak offers PPA-backed power at about 40 sen/kWh, but only to selected projects. The Star report is paywalled and unconfirmed, so treat it as a watch item.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-19-ai-1",
+        "2026-10-19-ai-5"
+      ]
+    },
+    {
+      "headline": "New launches miss local incomes: KRI finds over 80% of Johor's 2024 launches priced above RM400,000, and the residential overhang has risen for a sixth straight quarter to 32,801 units",
+      "soWhat": "KRI's data back a state-specific affordable threshold, which KPKT is reviewing. Consultants say Budget 2027's stamp-duty relief will not clear unsold stock. Selangor's 200,000-unit target and Penang's Kampung Manis plan add state-led competition, and partnership openings, in the affordable segment.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-10-19-pd-1",
+        "2026-10-19-pd-2",
+        "2026-10-19-pd-3",
+        "2026-10-19-pd-4"
+      ]
+    },
+    {
+      "headline": "Borneo infrastructure is in delivery mode, with strains: Sepanggar port expansion is 68.1% done while Pan Borneo Sabah has just 4 of 35 packages handed over",
+      "soWhat": "Sabah port congestion and the Pan Borneo variation orders (reportedly over RM514mil) show demand and cost pressure at once. Perak's RM30mil roadworks and 7 approved projects add small near-term jobs.",
+      "sectorKeys": [
+        "construction",
+        "capitalFinancing"
+      ],
+      "itemIds": [
+        "2026-10-19-con-1",
+        "2026-10-19-con-2",
+        "2026-10-19-con-3",
+        "2026-10-19-cf-2"
+      ]
+    },
+    {
+      "headline": "IBS needs scale: CIDB says savings come only at 200-500 units, as 600,000 foreign workers and a 10% cut target by 2030 push construction to automate",
+      "soWhat": "Precast and modular suppliers benefit most where large projects meet the IBS-score rule. 3D printing is still waiting for a CIDB framework.",
+      "sectorKeys": [
+        "buildingMaterialsIbs",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-10-19-ibs-1"
+      ]
+    }
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 18,
+      "used": 5,
+      "status": "checked",
+      "note": "Corporate, malaysia and flash Highlight, Economic Focus, Tech, Commodities parsed via __NEXT_DATA__ (74 listed stories; malaysia list reaches back to 17 Oct 16:52, corporate to 16 Oct, so no load-more paging was needed). Gap nodes 822207-822215 probed; 822226-822232 return 404. 18 in-window stories, 11 opened; used (e-commerce Bill, Sepanggar, MediAsas, Amir Hamzah, school reopening). The rest were global (Brent, US futures, Nscale, Samsung, China solar curbs, Venezuela, Russia sanctions, France riots) or politics. Edge Weekly/Options teasers dated 18 Oct 08:30 read to the lede.",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 68,
+      "used": 5,
+      "status": "partial",
+      "note": "First curl pass on the listings (business, business-news, tech, smebiz, nation) exposed 9 links dated 18-19 Oct. A 07:36 re-pull of news/latest, business and business/insight exposed 15 more Monday links, and a 07:48 re-pull 13 more. 11 of these were opened. Used: Hibiscus (ai-1) and HLIB semiconductors (ai-6). A 08:09 re-pull added 10 more, mostly global or ASEAN; the EFTA FTA opened turned out to be Vietnam's. A 08:04 re-pull added 13 more; 3 opened (palm-oil haze probe, i-Emas, World Bank debt), none itemised. A 07:54 re-pull added 8 more: QES/chipmakers (added to ai-6) and the Klang construction-waste task force (21 illegal sites; not itemised). Seen, not used: Westports HLIB note (FY26 low-single-digit growth guidance), Infomina, the Rawang old-town upgrade (study phase). The first 6 opened with full JSON-LD bodies: property outlook (used), Setia Awan (used), Telcos spectrum analyst views (already covered 17 Oct), Pantech (Phillip Capital, steel pipes; not a tracked sector), MCE Holdings (auto electronics), blockchain ESG column. Search found 3 more StarBiz7 pieces. First pass opened 7: Data centres face power test, Genting's debt-equity divide, Freight takes flight (FM Global), Translating strategy (CIMB IB), New crude oil crisis looms (BofA), Pay must reflect skills (18 Oct 00:00, pre-window). Most are paywalled teasers. Used ai-1 (2 sources), ai-6, pd-4, pd-5 and cf-4 (watch-out). Browser sweep not received at compile time.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 56,
+      "used": 6,
+      "status": "checked",
+      "note": "/feed/rss/money (6 in-window) and /feed/rss/malaysia (50, back to 18 Oct 10:49). 13 opened. Used Perak roads and projects, Selangor flood works, Amir Hamzah, MediAsas, QR denial and the haze readings. Others were politics, crime, sport or lifestyle.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 2,
+      "used": 0,
+      "status": "checked",
+      "note": "technode.global feed: 2 in-window items (RapidCanvas Series B; Norfund Philippine solar), none Malaysian.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 7,
+      "used": 0,
+      "status": "partial",
+      "note": "Feed and homepage return HTTP 403 to curl. At 07:38 I read two bodies via WebFetch: SA500/NINE (SA500 already covered 17 Oct; new figures: 1,486 firms helped, a RM200mil fund recycled into over RM2bil of financing) and the Worldwide Holdings nuclear panel (held 15 Oct, before the window). Neither is itemised. WebFetch homepage: 7 headlines (17-18 Oct): MCMC Threads probe, MOF QR denial, E-Commerce Bill, Worldwide Holdings nuclear (FMT had it on 15 Oct), Selangor contractor financing/NINE (SA500 was 15 Oct), Indonesia haze, Amir Hamzah. No bodies read. Browser sweep not received at compile time.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "Bernama",
+      "scanned": 104,
+      "used": 10,
+      "status": "partial",
+      "note": "EN RSS (10, undated); BM RSS HTTP 500. Probed article IDs 2621890-2622215 by curl: 104 non-sport titles with timestamps 17 Oct 23:10 to 19 Oct 00:09. 17 bodies opened. Used JENDELA, Pan Borneo, Kampung Manis, MSM lease, Selangor housing, Sepanggar, Perak roads, Amir Hamzah, e-commerce Bill, MediAsas, haze, schools and the MSDA advisory. BernamaBiz homepage had nothing newer than ID 2622019.",
+      "publishers": [
+        "Bernama",
+        "BernamaBiz"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 61,
+      "used": 0,
+      "status": "partial",
+      "note": "General feed: 50 items from 20:32 on 18 Oct to 07:15 on 19 Oct, 1 business item (MediAsas). The business section is JS-rendered for curl, and 6 NST bodies were empty (date meta only), so NST is not cited as a source. Search found NST's Zetrix (18 Oct 11:48) and Bursa weekly outlook (10:06). Refreshes at 07:34, 07:44, 07:54 and 08:04 added 11 items, among them Business Times pieces on Gamuda FY27 earnings (07:53) and MBSB acquisitions (07:54). It was not readable by curl or WebFetch and is logged in needs-browser.txt. Browser sweep not received at compile time.",
+      "publishers": [
+        "NST"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "Browser check (~07:23-07:28 MYT 19 Oct): 0 entries market-wide for 17-19 Oct (re-run at 07:27); 16-19 Oct = 409 rows, all 16 Oct (covered 17 Oct). All 12 watchlist names therefore have nothing in the window. Company Announcements tab only; filings after ~07:28 not captured.",
+      "publishers": [
+        "Bursa Malaysia"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 6,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS (4 items 18 Oct) and ID probe 1917880-1917905 (newest real ID 1917892). Used the CIDB 3DCP/IBS interview. Others: senior-living opinion, 2 advertorials, and pre-window items (Genting/Huawei Kulai, KPKT drainage, DBKL case, chip-design parks, Duta Enclave).",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 69,
+      "used": 1,
+      "status": "checked",
+      "note": "General feed (50 items, 18 Oct 20:32 to 19 Oct 07:00), business feed (6 in-window, all global), a 08:04 refresh (13 more) and a 08:09 refresh (no new Malaysian business item). 2 opened: Sabah/Sarawak logistics subsidies (economists' views; not itemised) and BNPL data (used, cof-3).",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 11,
+      "used": 1,
+      "status": "partial",
+      "note": "RSS is shallow (10 items from 22:21 on 18 Oct, plus 1 new at the 07:34 refresh). Used: the Sarawak data-centre interview (19 Oct 07:20), read via WebFetch. The Shangri-La KL hospitality story (19 Oct 06:51) returned an empty body via curl and a Cloudflare check via WebFetch, so it was not read.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "Business Today",
+      "scanned": 20,
+      "used": 5,
+      "status": "checked",
+      "note": "Feed: 20 in-window items. 5 read via WebFetch (curl 403): Zetrix downgrade, Perak AA+, SD Guthrie, EPF-CIMB, KRI housing study. All used.",
+      "publishers": [
+        "Business Today"
+      ]
+    },
+    {
+      "source": "Regional / research / primary / search pass",
+      "scanned": 40,
+      "used": 2,
+      "status": "checked",
+      "note": "18 WebSearch queries: 10 sectors, watchlist names in 2 grouped queries, Zetrix/MARC, DC off-grid, Star Monday business, Shangri-La, Selangor NINE, Worldwide nuclear, ringgit/OPR, Budget 2027 property/construction. Also BT Singapore companies feed (17 in-window, no Malaysian corporate story), Digital News Asia feed (1, used), MARC announcement page (used). Not pulled: MOF, BNM, MPOB, CIDB, KPKT sites.",
+      "publishers": [
+        "Digital News Asia",
+        "MARC Ratings"
+      ]
+    }
+  ],
+  "publishedAt": "2026-10-19T08:10:13+08:00"
+}
