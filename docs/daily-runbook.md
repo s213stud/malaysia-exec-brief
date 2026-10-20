@@ -2,6 +2,8 @@
 
 The full daily procedure, written so any agent can pick it up. Read `editorial-guide.md` for style and `deployment.md` for hosting.
 
+Full step-by-step screening method: see screening-methodology.md
+
 ## Schedule (MYT, every day including weekends)
 - 07:17: start the research run.
 - Save a first full draft early as `data/editions/<YYYY-MM-DD>.json` with `status: "published"`.
