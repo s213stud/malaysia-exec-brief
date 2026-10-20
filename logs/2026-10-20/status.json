@@ -1,0 +1,10 @@
+{
+  "TNGlobal": {
+    "status": "checked",
+    "note": "technode.global feed: 12 items in window, 1 Malaysian. Used: Aolani's 500MW LOIs (ai-4). Others are regional or global (GIC-PHP, Foxconn, Horizon3, GoTo, Pine Labs, Carsome Q&A)."
+  },
+  "Bursa announcements": {
+    "status": "partial",
+    "note": "filtered list not saved; count 367 reported by browser check only. Only the 6 filings whose bodies were saved are logged."
+  }
+}

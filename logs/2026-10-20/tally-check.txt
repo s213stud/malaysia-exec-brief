@@ -1,0 +1,12 @@
+tally --check 2026-10-20 (scope: TNGlobal)
+  TNGlobal: logs scanned=12 used=1 status=checked | edition scanned=12 used=1 status=checked | discovered=30 opened=1
+OK: edition sourceTally matches logs
+exit=0
+
+--- unscoped (--all), shown for transparency ---
+tally --check 2026-10-20 (scope: TNGlobal, Bursa announcements)
+  TNGlobal: logs scanned=12 used=1 status=checked | edition scanned=12 used=1 status=checked | discovered=30 opened=1
+  Bursa announcements: logs scanned=6 used=4 status=partial | edition scanned=367 used=4 status=checked | discovered=6 opened=6
+MISMATCH Bursa announcements: scanned logs=6 edition=367
+MISMATCH Bursa announcements: status logs=partial edition=checked
+exit=1

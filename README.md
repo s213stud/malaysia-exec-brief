@@ -9,7 +9,9 @@ Static, mobile-first daily executive news brief for Malaysia. Plain HTML/CSS/JS 
 - `data/editions/YYYY-MM-DD.json`: one file per edition
 - `scripts/validate.js`, `scripts/build.js`: validate and render to `dist/`
 - `src/`: CSS and the filter script
-- `tests/`: validator tests (`npm test`)
+- `tests/`: validator and tally tests (`npm test`)
+- `logs/YYYY-MM-DD/`: raw source logs for a run (articles, Bursa list, checks)
+- `scripts/tally.js`: computes `sourceTally` from the logs
 
 ## Commands
     npm test            # validator tests
@@ -26,6 +28,8 @@ Production: demo editions removed; CI runs `build:prod`, which refuses demo data
 See `docs/editorial-guide.md`, `docs/deployment.md` and `docs/restore.md`.
 
 The full daily procedure for any agent taking over is [docs/daily-runbook.md](docs/daily-runbook.md). Full step-by-step screening method: see [docs/screening-methodology.md](docs/screening-methodology.md).
+
+Triggers, publishing route and failure handling: [docs/operations.md](docs/operations.md) (routine exports in [docs/routines/](docs/routines/)). Raw source logs and script-generated tallies: [docs/source-logs.md](docs/source-logs.md), `logs/<date>/`, `npm run tally -- <date> --check`.
 
 ## Screenshots
 `scripts/shots.sh` (needs google-chrome) rebuilds `screenshots/`. Font: Poppins (Google Fonts, 400/500/600/700), falling back to system sans.

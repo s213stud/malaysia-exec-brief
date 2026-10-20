@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-20",
+  "complete": false,
+  "checkSources": [
+    "TNGlobal"
+  ],
+  "note": "Retrospective log built on 20 Oct from files saved by the 20 Oct run. Only TNGlobal has full saved evidence (the whole feed plus the one opened article). Bursa is logged as incomplete. All other sources were not logged; see docs/source-logs.md."
+}

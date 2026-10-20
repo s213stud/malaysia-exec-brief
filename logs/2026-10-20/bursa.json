@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-20T07:37:00+08:00",
+  "method": "browser (automated browser agent on the bot computer's own desktop browser; no login). Filing bodies read via KLSE Screener mirrors of the original Bursa filings.",
+  "filters": {
+    "dateFrom": "2026-10-19",
+    "dateTo": "2026-10-20",
+    "market": null,
+    "category": null,
+    "keywords": null
+  },
+  "complete": false,
+  "reportedCount": 367,
+  "note": "filtered list not saved; count 367 reported by browser check only. results[] holds only the filings whose bodies were saved during the run. The edition note also names ann 3716209 (Pesona Metro share buy-back) and 3716185 (Inta Bina closed-period notice) as seen and not itemised; no saved copy exists, so they are not logged here. Market/category/keyword filters were not recorded (null = not recorded, not \"none\").",
+  "results": [
+    {
+      "annId": "3716263",
+      "company": "GDB Holdings",
+      "title": "Acceptance of sub-contract agreement with I-Ilham Corporation by GDB Infra",
+      "date": "2026-10-19",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3716263",
+      "opened": true,
+      "decision": "included",
+      "reason": "Material filing; body read",
+      "itemId": "2026-10-20-con-1"
+    },
+    {
+      "annId": "3716152",
+      "company": "Southern Cable Group",
+      "title": "Private placement of up to 10% (fund raising)",
+      "date": "2026-10-19",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3716152",
+      "opened": true,
+      "decision": "included",
+      "reason": "Material filing; body read",
+      "itemId": "2026-10-20-cb-3"
+    },
+    {
+      "annId": "3716159",
+      "company": "Southern Cable Group",
+      "title": "Changes in substantial shareholder interest: Employees Provident Fund Board",
+      "date": "2026-10-19",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3716159",
+      "opened": true,
+      "decision": "included",
+      "reason": "Material filing; body read",
+      "itemId": "2026-10-20-cb-3"
+    },
+    {
+      "annId": "3715941",
+      "company": "Sime Darby Property",
+      "title": "Circular to shareholders: proposed acquisition of ~556.96 acres freehold land, Mukim of Senai, Kulai",
+      "date": "2026-10-19",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715941",
+      "opened": true,
+      "decision": "included",
+      "reason": "Material filing; body read",
+      "itemId": "2026-10-20-pd-4"
+    },
+    {
+      "annId": "3715842",
+      "company": "Zetrix AI",
+      "title": "Withdrawal of first interim dividend for FY ending 31 Dec 2026",
+      "date": "2026-10-19",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3715842",
+      "opened": true,
+      "decision": "included",
+      "reason": "Material filing; body read",
+      "itemId": "2026-10-20-cf-4"
+    },
+    {
+      "annId": "3716270",
+      "company": "Zetrix AI",
+      "title": "Dealings outside closed period: Group Managing Director disposal",
+      "date": "2026-10-19",
+      "url": "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3716270",
+      "opened": true,
+      "decision": "included",
+      "reason": "Material filing; body read",
+      "itemId": "2026-10-20-cf-4"
+    }
+  ]
+}

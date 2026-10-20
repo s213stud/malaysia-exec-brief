@@ -4,6 +4,8 @@ The full daily procedure, written so any agent can pick it up. Read `editorial-g
 
 Full step-by-step screening method: see screening-methodology.md
 
+Triggers, the 08:43 backup and what to do if publishing fails: see [operations.md](operations.md). Raw logging and tallies: see [source-logs.md](source-logs.md). Every run writes `logs/<date>/` and generates `sourceTally` with `node scripts/tally.js <date>`, then runs `--check` before publishing. Don't type tally totals in by hand.
+
 ## Schedule (MYT, every day including weekends)
 - 07:17: start the research run.
 - Save a first full draft early as `data/editions/<YYYY-MM-DD>.json` with `status: "published"`.
@@ -42,7 +44,7 @@ Cover the window since the last edition. Skip stories already covered in earlier
 
 ## Publishing
 - Run `npm test` and `npm run build:prod` on Node 20.
-- Commit only the new `data/editions/<date>.json` to `main`. Pushing to `main` triggers the GitHub Pages deploy (`.github/workflows/deploy.yml`).
+- Commit only the new `data/editions/<date>.json` and `logs/<date>/` to `main`. Pushing to `main` triggers the GitHub Pages deploy (`.github/workflows/deploy.yml`).
 - Confirm the live page shows today's date: `https://s213stud.github.io/malaysia-exec-brief/editions/<date>/`. The raw JSON is not served; only the built pages are.
 - Don't regenerate or overwrite earlier editions when pushing.
 
