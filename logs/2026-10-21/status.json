@@ -1,0 +1,42 @@
+{
+ "The Edge": {
+  "status": "checked",
+  "note": "Node probe 822410-822660 via __NEXT_DATA__: 172 articles fetched, 149 in window, all dated by created epoch (+08:00), never the site banner. Category pages returned a shared 20-story payload only."
+ },
+ "The Star": {
+  "status": "partial",
+  "note": "Browser sweep of /business and /tech (07:24-07:27 MYT). /business/property now 404s. 4 articles opened; remaining in-window headlines triaged by title only."
+ },
+ "Malay Mail": {
+  "status": "checked",
+  "note": "Money RSS: 50 items, 8 in window; DNB-MRT 5G opened (ai-2); others not sector-relevant or daily market moves."
+ },
+ "TNGlobal": {
+  "status": "checked",
+  "note": "Feed 403 to curl, ok via WebFetch: 13 in-window items, all regional (Vietnam/Korea/HK/Thailand) or global; no Malaysia angle."
+ },
+ "The Malaysian Reserve": {
+  "status": "checked",
+  "note": "Browser sweep of /category/business/ (Cloudflare blocks curl): 16 headlines 19-20 Oct; GDB (con-5) and Maxis (ai-3) opened."
+ },
+ "NST / Business Times": {
+  "status": "partial",
+  "note": "General feed: 50 items in window; BNPL opened (cof-1); BNM Islamic strategy headline duplicates cf-2; remainder sports/world/politics triaged by title."
+ },
+ "FMT": {
+  "status": "partial",
+  "note": "Feed: 50 items in window; AI data-training ban opened (ai-1); remainder largely sports/world/politics triaged by title."
+ },
+ "The Sun": {
+  "status": "checked",
+  "note": "RSS: 10 items in window, none sector-relevant."
+ },
+ "EdgeProp": {
+  "status": "checked",
+  "note": "Browser sweep of /news: 11 latest headlines; Propel Global (pd-2) and RHB M-REIT outlook (pi-1) opened; branded Editor's Pick items excluded."
+ },
+ "Bursa announcements": {
+  "status": "checked",
+  "note": "bursamalaysia.com filtered grid did not populate in this session; full daily list captured from the KLSE Screener mirror (443 entries dated 20 Oct, 0 dated 21 Oct at ~07:36 MYT), links to original Bursa filings; watchlist and sector filings reviewed, material filings opened."
+ }
+}
