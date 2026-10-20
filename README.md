@@ -25,6 +25,8 @@ Production: demo editions removed; CI runs `build:prod`, which refuses demo data
 
 See `docs/editorial-guide.md`, `docs/deployment.md` and `docs/restore.md`.
 
+The full daily procedure for any agent taking over is [docs/daily-runbook.md](docs/daily-runbook.md).
+
 ## Screenshots
 `scripts/shots.sh` (needs google-chrome) rebuilds `screenshots/`. Font: Poppins (Google Fonts, 400/500/600/700), falling back to system sans.
 
