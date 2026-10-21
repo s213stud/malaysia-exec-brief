@@ -1,0 +1,693 @@
+{
+  "date": "2026-10-22",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-10-22T07:20:46+08:00",
+    "2026-10-22T07:21:20+08:00",
+    "2026-10-22T07:22:35+08:00",
+    "2026-10-22T07:23:25+08:00",
+    "2026-10-22T07:24:46+08:00",
+    "2026-10-22T07:25:55+08:00",
+    "2026-10-22T07:26:28+08:00"
+  ],
+  "publishedAt": "2026-10-22T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Data sovereignty is now operational, not just procurement policy: the Waze ban for civil servants (Israeli-law data-control concern) took effect immediately, with MPs already pressing on other apps",
+      "soWhat": "Foreign apps and platforms handling Malaysian government or personal data face rising restriction risk; vendors with government contracts should map data-controller jurisdiction exposure now.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "consumerFinancing"
+      ],
+      "itemIds": [
+        "2026-10-22-ai-1"
+      ]
+    },
+    {
+      "headline": "Zetrix AI's sukuk covenant deadline lands today with TS Wong's stake down to 1.841%; without a remedy or waiver the breach can trigger RM2.16 billion of early repayment",
+      "soWhat": "Watch for the outcome filing today; counterparties should check exposure to Zetrix receivables and its government-collection floats.",
+      "sectorKeys": [
+        "capitalFinancing"
+      ],
+      "itemIds": [
+        "2026-10-22-cf-1"
+      ]
+    },
+    {
+      "headline": "Gamuda's FY27 outlook - property sales more than doubling to RM7 billion, a record RM63.9 billion order book and a possible RM4-5 billion Perak water EPCC within six months",
+      "soWhat": "The construction upcycle is broadening into property earnings; the Perak water EPCC is the next material order-book catalyst.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-10-22-pd-1"
+      ]
+    },
+    {
+      "headline": "Haze has become a cross-sector cost line: palm pollination risk for future supply, November tour cancellations for hotels, and Indonesia sanctioning 32 concession companies",
+      "soWhat": "Plantation supply and hotel bookings both need a risk haircut into 2027; watch CPO forward prices and Q4 occupancy.",
+      "sectorKeys": [
+        "plantation",
+        "hotels"
+      ],
+      "itemIds": [
+        "2026-10-22-pl-1",
+        "2026-10-22-ho-1",
+        "2026-10-22-pl-3"
+      ]
+    },
+    {
+      "headline": "Property deal assumptions changed twice overnight: Urban Renewal Bill replacement values will factor in regulated developer profits, while the 30% Bumiputera equity floor for GLC/GLIC disposals stays",
+      "soWhat": "Update feasibility models: higher land-assembly cost on urban-renewal plays, one less structural hurdle on GLC/GLIC asset deals.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-10-22-pd-2",
+        "2026-10-22-pd-3"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Waze banned for civil servants on Israel-link data fears as chip design gets an ARM-access boost and a Japan AI-memory tie-up; telco stocks sink 20% YTD",
+      "items": [
+        {
+          "id": "2026-10-22-ai-1",
+          "headline": "Government bans Waze for all civil servants with immediate effect, citing potential misuse of government and personal data by the Israeli regime; PM urges the public to switch to local app TuJu",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "The Prime Minister's Office said the decision by PM Anwar Ibrahim follows Tuesday's National Cyber Security Committee meeting and rests on Waze Mobile Ltd being the controller of user data while incorporated and operating under Israeli law. Bernama reported Chief Secretary Shamsul Azri Abu Bakar directed all secretaries-general and department heads on Oct 20 to notify officers for immediate implementation. Anwar urged Malaysians to switch to local alternatives such as TuJu, developed by the Malaysian Highway Authority with Prosignal Consortium and launched in November 2025. MPs are already seeking clarity in Parliament on the ban and the security risks of other apps.",
+          "soWhat": "Foreign apps and platforms handling Malaysian government or personal data now face demonstrated restriction risk; any vendor with government contracts should map its data-controller jurisdiction exposure.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822712"
+            },
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/news/malaysia-news/malaysia-will-not-compromise-on-national-security-risks-linked-to-waze-mkn/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Local alternatives (TuJu) and domestic sovereign-data services gain a forced-adoption test bed across 1.7 million civil servants.",
+          "watchOut": "The stated basis is the data controller's jurisdiction, not a technical audit - the same logic can be extended to other foreign apps without warning."
+        },
+        {
+          "id": "2026-10-22-ai-2",
+          "headline": "High capital requirements still hamper Malaysian semiconductor design firms despite subsidised ARM blueprint access, Johari tells Parliament",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Miti Minister Johari Abdul Ghani said Xenith Technology (automotive chips), SkyeChip and GreatAsic Technology (data centres) and Oppstar Technology (mini server chips) have received Compute Subsystem tokens worth RM30-40 million to use ARM designs under a 2025 Economy Ministry initiative; four of seven CSS tokens and four of 25 AFA tokens are allocated. He put chip-design cost at US$50-300 million over two to two-and-a-half years and cited capital as the key handicap for local firms. Under the National Semiconductor Strategy, 22,849 high-skilled workers were trained as at 3Q 2026 against a 60,000-engineer 2030 target.",
+          "soWhat": "Grant-heavy support de-risks design R&D but does not solve the US$50-300m capital wall - watch for a financing instrument (fund, credit guarantee or off-take scheme) as the next policy leg.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822645"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Four named local design houses (Xenith, SkyeChip, GreatAsic, Oppstar) now hold subsidised ARM access - early partners or investors get leverage on state-backed IP.",
+          "watchOut": "Only 4 of 7 CSS and 4 of 25 AFA tokens are allocated, suggesting absorptive capacity, not budget, is the binding constraint."
+        },
+        {
+          "id": "2026-10-22-ai-3",
+          "headline": "SkyeChip partners Japan's SAIMEMORY on next-generation Z-Angle Memory for AI data centres",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-22",
+          "detail": "SkyeChip Bhd will provide design and engineering support plus custom intellectual-property solutions for SAIMEMORY Corp's Z-Angle Memory (ZAM) programme, a high-capacity, high-bandwidth, lower-power memory technology aimed at AI training and inference environments. Both companies framed the engagement as a long-term collaboration toward ZAM commercialisation. SkyeChip is one of the four ARM-token recipients named in Parliament the same week.",
+          "soWhat": "A Malaysian design house is being pulled into a Japanese memory maker's AI roadmap - evidence the NSS is converting subsidised design access into international programme roles.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/22/skyechip-in-saimemory-ai-partnership"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Local design-services demand from foreign AI-hardware programmes; validates Malaysia's chip-design niche over pure manufacturing.",
+          "watchOut": "ZAM is pre-commercial; revenue timing and SkyeChip's economics (NRE vs royalties) are undisclosed."
+        },
+        {
+          "id": "2026-10-22-ai-4",
+          "headline": "AI to spur Southeast Asia's digital economy to US$368 billion GMV in 2026, up 17%, with enterprise workloads 45-60% of AI usage in Singapore and Malaysia - e-Conomy SEA",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "The 11th e-Conomy SEA report by Google, Temasek and Bain (titled 'Building the Intelligent Economy') projects regional GMV rising about 17% to US$368 billion in 2026 and past US$1 trillion by 2035. It introduces an AI-usage measure in tokens: regional use runs at roughly 10% of US levels, consumers account for about 60% of tokens, and enterprise workloads make up 45-60% of usage in Singapore and Malaysia. Regional tech funding rose more than fivefold in 1H 2026, concentrated in data-centre operators, and AI demand is projected to rise up to 60-fold by 2030.",
+          "soWhat": "Malaysia's enterprise-heavy AI usage mix supports the data-centre and cloud investment thesis; the token metric gives boards a new benchmark for AI adoption.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822627"
+            },
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/10/21/southeast-asia-digital-economy-can-reach-368b-gmv-in-2026-ai-usage-to-surge/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Data-centre and AI-infrastructure funding momentum into Malaysia-linked capacity.",
+          "watchOut": "Report is Bloomberg-carried and sponsor-published (Google/Temasek/Bain); treat projections as vendor-framed."
+        },
+        {
+          "id": "2026-10-22-ai-5",
+          "headline": "Telco and media stocks extend losses, sector index down nearly 20% year to date; Axiata -35%, Reach Ten -33%, CelcomDigi -22%",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "The Bursa Malaysia Telecommunications and Media Index fell 0.93% to 377.77 on Wednesday, taking its 2026 decline to 19.62%. Bloomberg data shows Axiata down 34.9% YTD, Reach Ten 33.0% and CelcomDigi 21.9%; Media Chinese fell 31.6% and Media Prima 29.4%. An unnamed analyst attributed the slide to broad market sentiment rather than company news, kept a 'buy' on CelcomDigi on merger savings from 2027 and 'neutral' on Axiata, and said clarity on Digital Nasional Bhd's outlook would be a positive for CelcomDigi and Maxis. Consensus target prices have been cut 12.2% (Axiata, to RM2.51) and 9.5% (CelcomDigi, to RM3.51) since January, still implying 40%+ upside.",
+          "soWhat": "The market is pricing sector drift until DNB's structure resolves - the 5G wholesale question is now the single biggest telco valuation lever.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822711"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Consensus still sees 40%+ upside in Axiata and CelcomDigi if DNB clarity lands.",
+          "watchOut": "The supporting analyst view is unattributed and sentiment-driven; treat the upside case accordingly."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Gamuda targets a doubling of property sales while two parliamentary answers reset URB valuation and Bumiputera equity assumptions; Radium logs 40% take-up in Kepong",
+      "items": [
+        {
+          "id": "2026-10-22-pd-1",
+          "headline": "Gamuda targets property sales more than doubling to RM7 billion in FY27 on a RM9.4 billion launch pipeline across Vietnam, Singapore and Malaysia - MBSB Research",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-22",
+          "detail": "MBSB Research, after Gamuda's results briefing, expects FY27 construction revenue and PBT to grow about 60% year-on-year with 90% of revenue covered by existing contracts on a record RM63.9 billion pro forma order book. Property sales are targeted to more than double to RM7 billion in FY27 off a RM9.4 billion launch pipeline over FY27-28, with property earnings strengthening from FY28. The research house also sees a possible RM4-5 billion EPCC award for the Northern Perak Water Supply Scheme within six months, following the implementation agreement between the Perak government and Khazanah Air Perak (Gamuda's 50:50 JV with PKNPk), and estimates about RM198 million annual revenue attributable to Gamuda from the 40-year Penang bulk-supply deal signed in July 2026.",
+          "soWhat": "Gamuda is converting its construction upcycle into a property earnings leg; the Perak water EPCC is the next material order-book catalyst with a six-month window.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/22/gamuda-expects-property-sales-to-double-in-fy27"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Suppliers and subcontractors across Vietnam, Singapore and Malaysia launches; water-infrastructure value chain if the EPCC lands.",
+          "watchOut": "Figures are an analyst's read of management guidance, not company-issued targets; the water EPCC depends on funding finalisation."
+        },
+        {
+          "id": "2026-10-22-pd-2",
+          "headline": "Urban Renewal Bill: replacement-property valuations will factor in developers' projected profits, regulated and agreed by the government - Nga Kor Ming",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "In a written parliamentary reply to Fong Kui Lun (PH-Bukit Bintang), the Housing and Local Government Minister said owners affected by urban redevelopment would get terms no less favourable, with replacement properties valued to reflect existing-home value plus future value from developers' projected profits, which would be regulated and agreed by the government. The URA, tabled in August 2025 and postponed at second reading over consent-threshold objections, remains on the order paper despite a Cabinet decision in January to withdraw it for improvements. Nga said the bill complements the Strata Titles Act 1985, whose acquisition scope is limited to strata schemes.",
+          "soWhat": "If enacted as described, profit-sharing valuation raises the cost basis of urban redevelopment - feasibility models for ageing-strata plays need a higher land-assembly assumption.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822601"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1917954/urban-renewal-bill-factor-developers%E2%80%99-projected-profits-valuing-replacement-properties"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Clearer compulsory-acquisition mechanics could unlock stranded dilapidated urban sites.",
+          "watchOut": "The bill is unpassed and politically contested; consent thresholds remain the flashpoint."
+        },
+        {
+          "id": "2026-10-22-pd-3",
+          "headline": "Government keeps the 30% Bumiputera equity minimum under the Property Acquisition Guidelines for GLC/GLIC disposals, enforced administratively",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "The Economy Ministry, in a written reply to Lim Guan Eng (PH-Bagan), confirmed the minimum 30% Bumiputera equity requirement stays in place under the Property Acquisition Guidelines effective since July 2022, subject to its approval. On the proposed increase to 50% for private companies acquiring GLC/GLIC properties above RM20 million, the ministry said that after stakeholder review the government decided to enforce the agenda through administrative measures requiring all GLCs and GLICs to implement Bumiputera economic empowerment, rather than the new quota.",
+          "soWhat": "Deal certainty improves: buyers of GLC/GLIC strategic assets avoid a 50% equity condition, but should expect administrative conditions on Bumiputera participation in approvals.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822610"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1917946/bumiputera-equity-minimum-stays-30-under-property-guidelines"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "GLC/GLIC asset recycling (sale-and-leaseback, land monetisation) faces one less structural hurdle.",
+          "watchOut": "'Administrative measures' are unpublished - conditionality will surface deal by deal at approval stage."
+        },
+        {
+          "id": "2026-10-22-pd-4",
+          "headline": "Radium Development records 40% take-up for RM506 million Radium Evara in Kepong after sales-gallery opening",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Radium Development said its RM506 million-GDV Radium Evara, 797 units of 800-1,250 sq ft at an average RM450,000, saw a 40% take-up following the opening of its sales gallery and initial buyer selection. The project holds GreenRE Provisional Silver certification and leans on Kepong's mature ecosystem (MRR2, Jalan Kuching, DUKE, KTM/MRT access).",
+          "soWhat": "Mid-market KL demand is holding for well-located sub-RM500k product; a 40% opening take-up sets the benchmark for comparable launches this quarter.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822613"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Validates pricing for mass-market high-rise in mature KL suburbs.",
+          "watchOut": "Take-up is from a company press statement at gallery opening, before loan-rejection attrition shows up in bookings-to-SPA conversion."
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Sunway Healthcare formalises a 325-bed Putrajaya hospital JV for a Q4 2027 start, Encorp bags a related-party Felda job, and Mudajaya's China-stake debt swap clears its advisory hurdle",
+      "items": [
+        {
+          "id": "2026-10-22-con-1",
+          "headline": "Sunway Healthcare and Putrajaya Holdings formalise 60:40 JV to build a 325-bed private hospital in Putrajaya; construction to start Q4 2027, completion targeted 2031",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Sunway Medical Centre Putrajaya, a multi-specialty tertiary hospital with a dedicated burns unit, will sit on a 2.5-acre freehold site near Putrajaya Sentral in Precinct 7. The JV (tentatively SunPutra Ventures) between Sunway Healthcare Ventures and Putrajaya Holdings' Tapak Senja will buy the land for RM40 million from Putrajaya Development, subject to approvals and a land-use change from mixed development to commercial. Funding targets a 60:40 debt-to-equity mix; on completion the hospital is leased to a Sunway Healthcare operating unit for 15 years at annual rental starting at 5.5% of gross development costs. Putrajaya Holdings is a subsidiary of KLCC (Holdings), wholly owned by PETRONAS. The agreement follows an April 2025 heads of agreement.",
+          "soWhat": "A defined pipeline project for the 2027-2031 construction window with blue-chip counterparties; the leaseback structure (5.5% of GDC) sets a reference yield for healthcare assets.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822722"
+            },
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/21/sunway-healthcare-inks-jv-for-325-bed-putrajaya-hospital-construction-to-start-in-late-2027/"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11688727"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Design, piling and M&E packages from Q4 2027; healthcare-fitout specialists benefit earlier in planning.",
+          "watchOut": "Land purchase still conditional on approvals and land-use conversion; start date can slip."
+        },
+        {
+          "id": "2026-10-22-con-2",
+          "headline": "Encorp unit accepts RM16.96 million Felda staff-housing contract from its 67% majority shareholder",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Encorp Construction & Engineering, wholly owned by Encorp Bhd, accepted a letter of award for a RM16.96 million staff-housing build for Felda, which holds 67.129% of Encorp via Felda Investment Corporation. The award follows a June 2025 MoU and earlier Felda work including the Lamanda Chuping first phase completed in 2024; contract details are still being finalised.",
+          "soWhat": "Small in value but it extends Encorp's captive Felda order flow - related-party awards are now the company's core pipeline, with the governance discount that carries.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822699"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/22/encorp-unit-bags-rm17mil-felda-contract"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Follow-on Felda housing phases if this award converts cleanly.",
+          "watchOut": "Related-party award with details unfinalised; scope and margin are not yet bankable."
+        },
+        {
+          "id": "2026-10-22-con-3",
+          "headline": "Independent adviser tells Mudajaya shareholders to back the RM118 million Real Jade stake sale to major shareholder Minyi to settle debt; EGM on Nov 5",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "SCS Global Advisory called the proposed disposal of a 45% stake in China cement maker Real Jade to Minyi Holdings for HK$234 million (RM118.45 million) 'fair and reasonable', recommending approval at the Nov 5 EGM. The price sits above the HK$150.49 million net-asset valuation and within the HK$224.68-248.45 million FCFF range; consideration offsets HK$244.97 million of debt owed to Minyi (an 11.76% shareholder, making this a related-party transaction). Mudajaya keeps an indirect 55% of Real Jade, whose upgraded cement plant was completed in September; expected disposal gain is HK$82.11 million.",
+          "soWhat": "Mudajaya swaps a non-core China asset for near-term default-risk relief without cash outflow - balance-sheet repair over growth; watch what the retained 55% earns post-upgrade.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822714"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/22/mudajaya-shareholders-should-back-sale"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11688397"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Freed working capital refocuses Mudajaya on domestic construction and its remaining China cement earnings.",
+          "watchOut": "The disposal settles debt to the buyer itself - minority shareholders should weigh the FCFF range against cement-cycle risk retained."
+        },
+        {
+          "id": "2026-10-22-con-4",
+          "headline": "ECRL pitches 90-container freight trains - 45 wagons or 90 TEUs per train - to pull cargo off highways ahead of its December opening",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Malaysia Rail Link CEO Darwis Abdul Razak said each ECRL freight train can carry about 45 wagons, equivalent to 90 TEUs, linking Kuantan Port and eventually Kemaman Port with Westports and Northport in Port Klang, and urged East Coast companies to shift goods for distances beyond 200 km. The pitch operationalises the ECRL as a freight corridor ahead of passenger service.",
+          "soWhat": "Port-to-port rail freight changes logistics economics for East Coast industrial and construction supply chains - cement, steel and plant movements to Kuantan/Kemaman gain a priced alternative to haulage.",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/10/21/ecrl-pitches-90-container-freight-trains-to-take-cargo-off-malaysian-highways/239972"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Freight-forwarding, warehousing and last-mile contracts around the four linked ports.",
+          "watchOut": "Tariffs and actual freight schedules are unannounced; uptake depends on port-handling integration."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "CLMT delivers 15% NPI growth with double-digit retail rental reversions",
+      "items": [
+        {
+          "id": "2026-10-22-pi-1",
+          "headline": "CapitaLand Malaysia Trust 3Q NPI rises 14.9% to RM79.4 million; DPU up 21.6% to 1.35 sen on 11.3% positive retail rental reversions",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "CLMT's 3QFY2026 gross revenue rose 9.1% to RM126.54 million and distributable income jumped 32.2% to RM46.33 million; year-to-date DPU is 4.00 sen, up 12%. Retail occupancy held at 93.1% (portfolio 94.3% including 2025's industrial/logistics acquisitions), gearing is 38.3% at a 4.17% average cost of debt with 75% of borrowings on fixed rates. CEO Yong Su-Lin attributed performance to positive rental revisions, step-ups and the new industrial/logistics contributions.",
+          "soWhat": "Double-digit retail reversions confirm landlords still hold pricing power in Malaysian malls - supports near-term retail-REIT distributions and mall asset valuations.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822723"
+            },
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/21/capitaland-malaysia-trusts-3q-distributable-income-rises-32-dpu-increases-to-1-35-sen/"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11688651"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Retail landlords can push reversions; industrial/logistics diversification is paying for retail-anchored REITs.",
+          "watchOut": "Single-quarter reversion strength may not repeat if consumer traffic softens into 2027; 25% of debt is still floating."
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Haze threatens pollination and future palm supply as Indonesia sanctions 32 concession companies and Malaysia offers firefighting help",
+      "items": [
+        {
+          "id": "2026-10-22-pl-1",
+          "headline": "Indonesian haze threatens the weevils that pollinate oil palm; past disruptions cut fruit-set by as much as 20% - Bloomberg",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "The Indonesian Oil Palm Research Institute (IOPRI) warns that dense smoke and reduced sunlight from Indonesia's worst fire season in over a decade can disrupt pollinating weevils; during the 2015 haze, fruit-set ratios fell 5-20%. Bloomberg reports the risk compounds an already tight supply outlook: a strong El Nino, more Indonesian vegetable oil going to biofuel, and a USDA forecast of palm oil stockpiles falling to a nine-year low in 2026-27.",
+          "soWhat": "A pollination hit now shows up in production 6-12 months out - forward CPO supply risk is rising just as stocks are already forecast at nine-year lows; price-insurance and hedging windows matter.",
+          "sources": [
+            {
+              "publisher": "The Edge (Bloomberg)",
+              "url": "https://theedgemalaysia.com/node/822643"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "CPO price upside for low-cost Malaysian producers if Indonesian output degrades into 2027.",
+          "watchOut": "Impact is not yet measurable, per IOPRI's own researcher; treat as a developing risk, not a supply shock."
+        },
+        {
+          "id": "2026-10-22-pl-2",
+          "headline": "Malaysia and Indonesia propose an environment and climate MoU covering hotspot data sharing and joint management of high-risk fire areas",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Deputy Natural Resources and Environmental Sustainability Minister Syed Ibrahim Syed Noh told the Dewan Rakyat the proposed MoU would cover hotspot monitoring data sharing, high-risk area management and coordinated early action, anchored on the Asean Agreement on Transboundary Haze Pollution. Indonesia has accepted Malaysia's Sept 9 offer of firefighting assistance (water bombing, cloud seeding) for Kalimantan and Sumatra, with deployment coordinated by the Foreign Ministry and Nadma. Malaysia also proposed Asean-level 'science diplomacy' and a sustainable haze fund, to be discussed at the AATHP COP21 in Vietnam in December.",
+          "soWhat": "Cooperation is moving from statements to mechanics (data, deployment, funding) - plantation groups with Indonesian concessions should expect closer hotspot scrutiny of their own boundaries.",
+          "sources": [
+            {
+              "publisher": "The Edge (Bernama)",
+              "url": "https://theedgemalaysia.com/node/822665"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Shared monitoring data improves early-warning for estates near fire-prone concessions.",
+          "watchOut": "The MoU is at proposal stage; the AATHP has historically lacked enforcement teeth."
+        },
+        {
+          "id": "2026-10-22-pl-3",
+          "headline": "Indonesia sanctions 32 companies over forest and land fires across 1.93 million ha of concessions, suspending six; 120 cases under way - Xinhua",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-22",
+          "detail": "Indonesia's Forestry Ministry imposed administrative sanctions on 32 companies suspected over forest and land fires covering a combined 1.93 million hectares of concessions, with about 18,000 ha burned, Xinhua reported, citing Forestry Minister Raja Juli Antoni. Six companies had operations suspended and were ordered to restore damaged ecosystems; criminal proceedings may follow if investigations find violations. The ministry is handling 120 fire-related cases with updates expected next week.",
+          "soWhat": "Jakarta is enforcing on concessions at scale - any Malaysian planter with Indonesian operations or supply-chain links needs its fire-compliance file in order before the next disclosure round.",
+          "sources": [
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/bahasa/dunia/2026/10/22/indonesia-kenakan-sekatan-32-syarikat-terlibat-kebakaran-hutan"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Compliant Malaysian producers gain a supply-discipline narrative versus sanctioned Indonesian capacity.",
+          "watchOut": "Company names are undisclosed; exposure checks are not yet possible. Report is Xinhua-carried in Malay; treat details as single-source."
+        }
+      ]
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "Zetrix's sukuk covenant deadline arrives with the MD's stake at 1.841%",
+      "items": [
+        {
+          "id": "2026-10-22-cf-1",
+          "headline": "TS Wong's Zetrix AI stake falls to 1.841% after another disposal; today is the Oct 22 deadline to remedy the breached sukuk covenant",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Managing director Wong Thean Soon disposed of a further 460,000 shares at 5 sen (RM23,000), taking his direct stake to 0.541% (42.72 million shares) plus 1.3% via Asia Internet Holdings - 1.841% combined, versus over 30% before August's margin-call spiral. The covenant requiring him to remain the largest shareholder must be remedied by Oct 22 or Zetrix AI must seek sukuk holders' waiver; failing that, the breach could trigger early repayment of the RM2 billion principal plus RM164.5 million of future coupons (RM2.16 billion). Context: the group withdrew its planned 0.25 sen interim dividend on Monday to preserve working capital, owes JPJ RM314 million in unremitted collections under police investigation, holds RM541.6 million cash and RM532.88 million in digital assets against RM2.19 billion borrowings, and its auditor has exited. Shares fell 9.1% to 5 sen, valuing the group at RM404 million.",
+          "soWhat": "Today is the hard date: either a remedy, a waiver request, or default mechanics on RM2.16 billion. Counterparties should check exposure to Zetrix receivables and its government-collection floats.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822746"
+            },
+            {
+              "publisher": "The Malaysian Reserve",
+              "url": "https://themalaysianreserve.com/2026/10/21/zetrix-ais-wong-trims-stake-further-to-1-84-as-sukuk-deadline-looms/"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11689033"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "None identified.",
+          "watchOut": "Even with a waiver, the dividend withdrawal and JPJ arrears point to tightening liquidity; a waiver request itself reprices the sukuk."
+        }
+      ]
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "Putrajaya keeps the RCI option over KWAP and EPF governance on the table",
+      "items": [
+        {
+          "id": "2026-10-22-cof-1",
+          "headline": "Government open to a royal commission of inquiry into KWAP and EPF if concrete evidence warrants it - Azalina",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Minister in the PM's Department (Law and Institutional Reform) Azalina Othman Said, in a written parliamentary reply to Shahidan Kassim (PN-Arau), said an RCI into Retirement Fund Inc (KWAP) and the EPF may be considered if findings show clear public need, with governance and investment decisions of public funds examined through appropriate oversight mechanisms. She set out the RCI process: Cabinet memorandum, Cabinet approval, the Agong's consent, then gazetted terms of reference.",
+          "soWhat": "KWAP is the civil-service pension fund - any inquiry would put civil servants' retirement-fund governance and its investment decisions (including lending arms) under a spotlight; watch for whether the question stays political theatre or gains an evidence file.",
+          "sources": [
+            {
+              "publisher": "The Edge (Bernama)",
+              "url": "https://theedgemalaysia.com/node/822612"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "None identified.",
+          "watchOut": "This is a conditional answer to an opposition question, not an active inquiry; no wrongdoing is established or alleged by the government."
+        }
+      ]
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "No verified in-window news for listed cable makers; watchlist Southern Cable filed a routine EPF Section 138 notice",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "No verified in-window IBS, wall-panel or watchlist building-materials news; Pantech's 2Q profit doubling was excluded as O&G piping, outside scope",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Haze starts cancelling November bookings as the Sunway Hotel Seberang Jaya sale slips nine months",
+      "items": [
+        {
+          "id": "2026-10-22-ho-1",
+          "headline": "Haze begins to hit Malaysian tourism: inbound operators report November cancellations and fewer group bookings - Bloomberg",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "Bloomberg reports tour operators seeing cancellations for November and fewer group bookings, with overseas agents seeking air-quality updates, according to Malaysian Inbound Tourism Association president Mint Leong, who put potential revenue loss 'in the millions' of ringgit. KL, Singapore and Jakarta ranked among the world's 10 most-polluted major cities on Tuesday (IQAir); the haze has disrupted flights and closed schools in places. Malaysia targets 47 million visitors in 2026 under the extended Visit Malaysia campaign; 28.8 million arrived in January-August, and international visitors spent RM124.8 billion last year.",
+          "soWhat": "Hotels and attractions face a demand soft-patch in Q4's booking window - expect rate pressure in KL and haze-affected corridors and potential slippage against the 47-million-visitor target.",
+          "sources": [
+            {
+              "publisher": "The Edge (Bloomberg)",
+              "url": "https://theedgemalaysia.com/node/822638"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Domestic and regional-drive markets may partially backfill cancelled long-haul groups.",
+          "watchOut": "The Tourism Ministry has not quantified impact; the cancellation data is association-sourced, not official."
+        },
+        {
+          "id": "2026-10-22-ho-2",
+          "headline": "Sunway Healthcare and Sunway REIT extend the RM60 million Sunway Hotel Seberang Jaya sale deadline by nine months to July 28, 2027",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-21",
+          "detail": "The parties signed a supplemental agreement moving the conditions-fulfilment cut-off from Oct 28, 2026 to July 28, 2027 for Sunway Medical Centre Penang's purchase of the hotel (4,294 sq m leasehold plus building and fittings) from RHB Trustees as trustee for Sunway REIT. Unmet conditions were not disclosed; completion is due within three months after all conditions are fulfilled or waived, with other terms unchanged. The sale was originally struck in October 2025 to fund Sunway REIT's new Seberang Perai project.",
+          "soWhat": "A nine-month extension on a RM60 million related-party hotel sale signals condition hurdles - Sunway REIT's Seberang Perai funding timeline and Sunway Healthcare's Penang expansion both stretch.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/822726"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11688539"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "None identified.",
+          "watchOut": "Undisclosed conditions and a second longstop raise execution risk on both sides of the Sunway group."
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge node probe, Star, Malay Mail, NST, FMT, TNGlobal, The Sun, TMR. Used: Waze ban (ai-1, with The Sun), ARM tokens/semiconductor capital (ai-2), SkyeChip-SAIMEMORY (ai-3), e-Conomy SEA (ai-4, with TNGlobal), telco index YTD (ai-5). Seen, not itemised: PM on digital-economy competition/MSMEs (Edge 822692), Amirudin AI ethics call (822695), Prasarana open-payments timeline (822651), Revenue IF-WeSure payments tie-up (822756, B2B payments, out of sector focus).",
+    "propertyDevelopment": "Checked: Edge node probe, EdgeProp, Star, TMR. Used: Gamuda FY27 outlook (pd-1, MBSB-attributed), URB valuation reply (pd-2), Bumiputera equity 30% reply (pd-3), Radium Evara take-up (pd-4, company statement). Seen, not itemised: TWPH Indonesian land (printing, non-sector), EdgeProp evergreen content. The Capitol brands story (EdgeProp) skipped as likely branded and a continuation of the 20 Oct item.",
+    "construction": "Checked: Edge node probe, Star, Malay Mail, TMR, Bursa mirror. Used: Sunway Healthcare-Putrajaya JV (con-1), Encorp Felda (con-2), Mudajaya Real Jade (con-3), ECRL freight pitch (con-4). Seen, not itemised: MHB RM57m arbitration (O&G), ES Sunlogy RPT (manufacturing).",
+    "propertyInvestment": "Checked: Edge node probe, TMR, Star, EdgeProp, Bursa mirror. Used: CLMT 3Q (pi-1). AME REIT 2Q seen but excluded: industrial REIT, outside retail-only scope.",
+    "plantation": "Checked: Edge node probe, FMT, NST. Used: haze/pollination (pl-1, Bloomberg), Malaysia-Indonesia MoU (pl-2, Bernama), Indonesia sanctions (pl-3, Xinhua via FMT). Routine production-figure filings (Kim Loong, Kumpulan Fima, Riverview, Golden Land) not itemised.",
+    "capitalFinancing": "Checked: Edge node probe, TMR, Bursa mirror. Used: Zetrix stake/deadline (cf-1). No licensed-moneylending-specific item in window.",
+    "consumerFinancing": "Checked: Edge node probe, NST, FMT. Used: KWAP/EPF RCI reply (cof-1, Bernama). Tekun 4-day approvals (Edge 822652) seen but excluded: micro-enterprise financing, not civil-servant-linked.",
+    "cablesManufacturing": "Checked: Bursa mirror full list, Edge node probe, Star, TMR. No verified in-window cable-maker news. Watchlist Southern Cable: routine EPF S138 notice only. Not evidence of no news.",
+    "buildingMaterialsIbs": "Checked: Bursa mirror full list, Edge node probe, Star, TMR. No verified in-window IBS/wall-panel/watchlist building-materials news; Pantech 2Q (+90%) excluded as O&G piping outside scope. Not evidence of no news.",
+    "hotels": "Checked: Edge node probe, Star, EdgeProp, TMR. Used: haze tourism fallout (ho-1, Bloomberg), Sunway Hotel Seberang Jaya extension (ho-2). NWE Resources hospitality profile (Star Just-In) seen but not opened in time; logged as partial."
+  },
+  "generalCoverage": [
+    "Edition window: from the 21 Oct edition's checks (~07:36 MYT 21 Oct) to ~07:27 MYT 22 Oct 2026.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00), never the site date banner; feeds by pubDate; browser-opened pages by their in-body date lines.",
+    "Bursa: the full daily filing list was captured from the KLSE Screener mirror of Bursa announcements (which links to the original filings) after past sessions found bursamalaysia.com's filtered grid unreliable; material filings were opened through the mirror.",
+    "This edition is complete within the stated sources, window and sector scope; it is not exhaustive. \"No verified news\" is stated per sector where applicable and is not evidence of no news."
+  ],
+  "watchlistCoverage": [
+    "Bursa 21 Oct filings (full mirror list reviewed, 497 entries dated 21 Oct): Southern Cable, EPF Section 138 change (routine). GDB, Chapter 14 dealing notice (routine). Pesona Metro, share buy-back (routine). Southern Cable structured-warrant listings (routine market-making). None itemised.",
+    "Media: no in-window opened article body names OKA, Chin Hin Group Berhad, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon or Kitacon with new information."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 155,
+      "used": 17,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge",
+        "The Edge (Bloomberg)",
+        "The Edge (Bernama)"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 19,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 25,
+      "used": 4,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 12,
+      "used": 3,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 8,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 540,
+      "used": 5,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}
