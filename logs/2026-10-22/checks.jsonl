@@ -8,3 +8,4 @@
 {"source":"The Malaysian Reserve","url":"https://themalaysianreserve.com/category/business/","method":"webfetch","httpStatus":200,"result":"ok: 12 business headlines dated 21 Oct","at":"2026-10-22T07:25:55+08:00"}
 {"source":"EdgeProp","url":"https://www.edgeprop.my/news","method":"webfetch","httpStatus":200,"result":"ok: latest listing; 2 policy articles corroborated via Edge nodes","at":"2026-10-22T07:25:58+08:00"}
 {"source":"Bursa announcements","url":"https://www.klsescreener.com/v2/announcements (mirror of Bursa filings)","method":"curl","httpStatus":200,"result":"ok: 540 entries captured, 497 dated 21 Oct","at":"2026-10-22T07:23:25+08:00"}
+{"source": "The Star", "url": "https://www.thestar.com.my/tech", "method": "browser", "httpStatus": 200, "result": "ok: 12 tech headlines, all global wire (navigation commit timed out at 30s but page content loaded and was read)", "at": "2026-10-22T07:35:48+08:00"}

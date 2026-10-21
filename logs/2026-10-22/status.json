@@ -1,5 +1,14 @@
 {
-  "The Star": {"status":"partial","note":"Browser sweep 07:24-07:26 of /business incl. Just-In widget; /tech not separately swept this run (yesterday all global wire). Several Just-In headlines triaged by title only (auto, poultry, NWE Resources, Pantech, Westports)."},
-  "NST / Business Times": {"status":"partial","note":"Only the general /feed available (business feed 404); 50 items scanned, business items thin. Business-section browser sweep not completed this run."},
-  "FMT": {"status":"partial","note":"General feed (50 items) scanned; one body opened via webfetch. Site sections not swept."}
+  "The Star": {
+    "status": "partial",
+    "note": "Browser sweep 07:24-07:26 and 07:35-07:36: /business incl. Just-In widget, plus /tech (12 headlines, all global Reuters wire, no Malaysia items). Several Just-In business headlines triaged by title only (auto, poultry, NWE Resources, Pantech, Westports)."
+  },
+  "NST / Business Times": {
+    "status": "partial",
+    "note": "Only the general /feed available (business feed 404); 50 items scanned, business items thin. Business-section browser sweep not completed this run."
+  },
+  "FMT": {
+    "status": "partial",
+    "note": "General feed (50 items) scanned; one body opened via webfetch. Site sections not swept."
+  }
 }

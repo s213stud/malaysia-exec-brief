@@ -9,9 +9,10 @@
     "2026-10-22T07:23:25+08:00",
     "2026-10-22T07:24:46+08:00",
     "2026-10-22T07:25:55+08:00",
-    "2026-10-22T07:26:28+08:00"
+    "2026-10-22T07:26:28+08:00",
+    "2026-10-22T07:35:48+08:00"
   ],
-  "publishedAt": "2026-10-22T07:50:00+08:00",
+  "publishedAt": "2026-10-22T07:35:00+08:00",
   "keyTakeaways": [
     {
       "headline": "Data sovereignty is now operational, not just procurement policy: the Waze ban for civil servants (Israeli-law data-control concern) took effect immediately, with MPs already pressing on other apps",
@@ -651,7 +652,7 @@
     },
     {
       "source": "The Star",
-      "scanned": 25,
+      "scanned": 37,
       "used": 4,
       "status": "partial",
       "note": "",
