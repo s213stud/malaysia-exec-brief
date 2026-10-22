@@ -1,0 +1,18 @@
+{
+ "The Star": {
+  "status": "checked",
+  "note": "Browser sweep 07:23-07:24: /business front (10 headlines) + /tech front (10 headlines); 5 bodies opened and read."
+ },
+ "NST / Business Times": {
+  "status": "partial",
+  "note": "Only the general /feed available (business feed 404); 50 items scanned, business items thin. Business-section browser sweep not done this run."
+ },
+ "FMT": {
+  "status": "partial",
+  "note": "General feed (50 items) scanned. Site sections not swept."
+ },
+ "The Malaysian Reserve": {
+  "status": "partial",
+  "note": "Category pages blocked by an unsolved Cloudflare challenge; homepage and section listings swept via browser scroll instead."
+ }
+}

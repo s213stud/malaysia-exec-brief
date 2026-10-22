@@ -1,0 +1,620 @@
+{
+ "date": "2026-10-23",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-10-23T07:20:50+08:00",
+  "2026-10-23T07:21:06+08:00",
+  "2026-10-23T07:21:54+08:00",
+  "2026-10-23T07:22:24+08:00",
+  "2026-10-23T07:22:37+08:00",
+  "2026-10-23T07:23:35+08:00",
+  "2026-10-23T07:24:16+08:00",
+  "2026-10-23T07:26:41+08:00",
+  "2026-10-23T07:27:50+08:00",
+  "2026-10-23T07:28:02+08:00"
+ ],
+ "publishedAt": "2026-10-23T07:35:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "Zetrix AI's Oct 22 covenant deadline passed with no payment default; trustee Pacific Trustee meets sukuk holders TODAY (Oct 23) on a proposed resolution - waiver versus dissolution event on RM2b principal plus RM164.5m coupons",
+   "soWhat": "The RM2b sukuk's near-term path is decided in the next 24-48 hours; a waiver keeps Zetrix on schedule, a refusal lets the trustee demand immediate repayment, and ARIM-managed GLC funds carry RM500-600m of the exposure.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-23-ai-1"
+   ]
+  },
+  {
+   "headline": "Construction-cost inflation is now openly eroding developer margins: Glomac quantifies +5-9% landed, ~15% high-rise and ~30% earthworks/infrastructure cost increases, with industry margins down from ~30% to mid-teens or single digits",
+   "soWhat": "Expect repricing, redesigns and slower launches across property and construction; contractors with fixed-price books signed before the cost step-up carry the squeeze.",
+   "sectorKeys": [
+    "propertyDevelopment",
+    "construction"
+   ],
+   "itemIds": [
+    "2026-10-23-pd-1"
+   ]
+  },
+  {
+   "headline": "Cable supply is tightening just as regional data-cable projects firm up: Nexans flags multi-year capacity lead times while the US-backed MViSTA subsea system (Malaysia-linked) picks NEC or Alcatel ASN this month",
+   "soWhat": "Malaysian cable and connectivity players sit on the right side of a capacity-constrained market; procurement timing now decides project economics.",
+   "sectorKeys": [
+    "cablesManufacturing",
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-23-cb-1",
+    "2026-10-23-ai-3"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Zetrix clears its covenant deadline without default as holders meet today; Waze tells Malaysia the ban's claims are false; a US-backed subsea cable with a Malaysian layer picks its supplier this month",
+   "items": [
+    {
+     "id": "2026-10-23-ai-1",
+     "headline": "Zetrix AI says no payment default has occurred on its RM2b sukuk as the Oct 22 covenant deadline passes; trustee Pacific Trustee convenes holders today (Oct 23) to discuss a proposed resolution",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "The breach - managing director Wong Thean Soon ceasing to be the largest shareholder after forced margin-call sales cut his stake from nearly 30% in August to 1.841% - remains unresolved, but Zetrix said in a Bursa filing on Oct 22 that no payment default has occurred. Pacific Trustee will meet sukuk holders on Oct 23 to gather feedback on a proposed resolution as the basis for a mutually acceptable arrangement. Without a waiver, a dissolution event could let the trustee demand immediate repayment of RM2b principal and RM164.5m in future coupons. The Edge Weekly reported funds managed by AmanahRaya Investment Management hold less than 30% of the sukuk (implying RM500-600m exposure). Zetrix also still owes RM314m in unremitted collections to the Road Transport Department, which suspended the company's and MyEG's roles as JPJ collection agents from Oct 5.",
+     "soWhat": "The waiver decision lands within days; a refusal would accelerate RM2.16b of obligations against a company already cut off from a core revenue channel.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822898"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690029"
+      },
+      {
+       "publisher": "The Malaysian Reserve",
+       "url": "https://themalaysianreserve.com/2026/10/22/zetrix-ai-sukuk-holders-to-meet-oct-23-over-covenant-breach-says-no-payment-default/"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "A negotiated waiver would remove the immediate acceleration overhang and let Zetrix rebuild around its remaining concessions.",
+     "watchOut": "Even with a waiver, the covenant's largest-shareholder requirement is unmet while Wong's stake sits at 1.841%, leaving the sukuk structurally exposed to any holder vote."
+    },
+    {
+     "id": "2026-10-23-ai-2",
+     "headline": "Waze rejects the Malaysian government's data-misuse claims as 'completely false' after the civil-servant ban; Putrajaya clarifies the ban covers only official duties and keeps other navigation apps available",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Waze told TNGlobal that claims it collects sensitive government information or allows any entity to exploit personal user data are 'completely false', saying it adheres to strict privacy policies. Digital Minister Gobind Singh Deo told Parliament the ban applies only to public servants on official duties, citing Waze Mobile Ltd's incorporation under Israeli law and the legal-recourse difficulties that creates; the National Security Council said civil servants who defy the ban face disciplinary action. Transport Minister Anthony Loke separately promoted the ministry's open public transport data policy as a base for local app developers. Local alternative TuJu has passed 700,000 downloads amid an MCA Youth question over why Prosignal Consortium was picked to co-develop it.",
+     "soWhat": "The government is narrowing the ban's scope publicly while holding the security line - the dispute is now a jurisdictional standoff rather than a technical finding, and Google/Waze engagement could still reshape it.",
+     "sources": [
+      {
+       "publisher": "TNGlobal",
+       "url": "https://technode.global/2026/10/22/waze-says-it-adheres-to-strict-privacy-policies-after-malaysia-bans-civil-servants-from-using-app/"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822818"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822890"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "TuJu and other local apps get a policy tailwind and a forced user trial; Loke's open-data pitch could formalise a local mobility-app ecosystem.",
+     "watchOut": "The 'Israeli-law data controller' rationale is portable - other foreign platforms with Malaysian government touchpoints face the same test."
+    },
+    {
+     "id": "2026-10-23-ai-3",
+     "headline": "US-backed MViSTA subsea cable linking Malaysia, Vietnam, Singapore and Thailand will pick NEC or Alcatel ASN as supplier this month; Malaysian group OMS's LitUp Network to lay the 2,500km, US$400m system",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Developer Stavian High Tech Infrastructure told Reuters the 16-fibre-pair MViSTA cable, estimated at about US$400m and due in service late 2028, excludes Chinese suppliers from bidding and avoids the South China Sea area claimed by Beijing. Shareholders include Vietnam's Stavian, Tokyo-based Midas Capital and LitUp Network, a subsidiary of Malaysia's OMS Group, which will lay the cable; US consultancy APTelecom helped form the shareholder group. US cable maker SubCom was invited to bid but declined. The supplier decision is slated for later in October.",
+     "soWhat": "A Malaysian cable-layer is embedded in a geopolitically screened regional build - a template for how US-aligned infrastructure money will reach Malaysian contractors.",
+     "sources": [
+      {
+       "publisher": "The Edge (Reuters)",
+       "url": "https://theedgemalaysia.com/node/822819"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "OMS Group gains laying work and positioning for further US-backed regional cable and data-centre projects.",
+     "watchOut": "The China-exclusion design invites procurement friction and could complicate Malaysian operators' balancing between US and Chinese vendors."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "Glomac puts numbers on the margin squeeze and lobbies for upgrader stamp-duty relief; Perak launches a RM700m industrial city; Paramount, Radium and Mah Sing add pipeline and funding markers",
+   "items": [
+    {
+     "id": "2026-10-23-pd-1",
+     "headline": "Glomac says construction costs are up 5-9% for landed homes, about 15% for high-rise and about 30% for earthworks and infrastructure, squeezing developer margins from around 30% to mid-teens or single digits",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Group MD and CEO Datuk Seri FD Iskandar said after Glomac's AGM that developers are absorbing what they can and passing the rest to buyers, reviewing designs and seeking higher densities; larger developers now accept single-digit margins. He urged the government to extend stamp duty exemptions to owners selling their only property to upgrade. Glomac is keeping its RM371m FY2027 launch pipeline (RM163m launched, RM208m planned for 3Q), holds about RM130m of unsold stock, and says bookings in the first five months improved year on year, with landed demand resilient and commercial interest recovering. Shareholders approved a 1.38 sen dividend.",
+     "soWhat": "Quantified cost inflation from a mid-cap developer sets the sector's pricing baseline: launches continue, but only where density and design can recover margin.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822834"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/23/developers-face-cost-squeeze"
+      },
+      {
+       "publisher": "The Sun",
+       "url": "https://thesun.my/business/glomac-rising-construction-costs-hurting-developers-margins/"
+      },
+      {
+       "publisher": "The Malaysian Reserve",
+       "url": "https://themalaysianreserve.com/2026/10/22/glomac-shareholders-approve-1-38-sen-dividend-fy2027-launches-total-rm371m/"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Builders offering cost-certainty (IBS, standardised designs) gain leverage in developer procurement as margins tighten.",
+     "watchOut": "If selling prices cannot move with costs, smaller developers defer launches - order-book growth for contractors slows into 2027."
+    },
+    {
+     "id": "2026-10-23-pd-2",
+     "headline": "Perak launches the 287-acre Kerian Industrial City with RM700m GDV and a 12,000-job projection, to be built in four phases over 10 years",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Perak State Development Corporation (PKNP) said land acquisition is complete and planning permission obtained; phase one is targeted within three years. Menteri Besar Saarani Mohamad said KIC complements the Kerian Integrated Green Industrial Park, and talks involving SD Guthrie, Tenaga Nasional and InvestPerak are under way on a new Main Intake Substation to power the area; JKR is planning a road link from the Bandar Baharu toll exit. The site sits near USM's Engineering Campus and two skills institutes.",
+     "soWhat": "Northern-corridor industrial land keeps multiplying; power infrastructure (PMU) is the gating item, which directs contract flow to utility and civil works.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822848"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/daily-digest/2026-10-22"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Earthworks, power and industrial-building contractors get a 10-year pipeline in Perak; SD Guthrie-TNB-InvestPerak PMU talks signal near-term utility awards.",
+     "watchOut": "GDV and job numbers are state projections; phase-one delivery within three years depends on the substation and access-road timing."
+    },
+    {
+     "id": "2026-10-23-pd-3",
+     "headline": "Paramount Property tops out the RM266m Seiras tower at Utropolis Batu Kawan, its fifth residential phase there, ahead of a 4Q2027 completion",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "The 43-storey, 411-unit tower (about 1,033 sq ft units, dual-key and Penang's first triple-key layouts) launched in 2025 and now moves to architectural, fit-out and communal works for fully furnished units. The 44.3-acre Utropolis Batu Kawan is anchored by the UOW Malaysia KDU Penang campus near the second Penang bridge.",
+     "soWhat": "Batu Kawan's institutional-anchor model keeps producing sellable phases - mainland Penang demand remains a bright spot in the residential cycle.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822850"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Fit-out and furnishing trades benefit as the project shifts from structure to interiors through 2027.",
+     "watchOut": "Single-project milestone from a company statement; no sales rate disclosed for the topped-out tower."
+    },
+    {
+     "id": "2026-10-23-pd-4",
+     "headline": "Radium Development records a 40% take-up for Radium Evara in Kepong - 797 homes from RM450,000 average, completion targeted for 2030",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "The take-up follows the sales-gallery opening and initial buyer selection for the 5.314-acre project of three- and four-bedroom units (800-1,250 sq ft) aimed at owner-occupiers and multigenerational households, with MRR2, Jalan Kuching and DUKE access.",
+     "soWhat": "Mid-market KL product at RM450k still converts when unit sizes are family-oriented - a demand signal for the affordable-owner-occupier segment.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1917955/radium-evara-kepong-records-40-take"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Validates pricing power in the RM450k KL family segment for developers with land near established transport corridors.",
+     "watchOut": "40% at initial selection is an early marker; conversion to signed SPA and loan approval rates will test it."
+    },
+    {
+     "id": "2026-10-23-pd-5",
+     "headline": "Mah Sing completes a RM300m rated, unsecured sukuk murabahah issuance in two series after upsizing its programme from RM1b to RM2b, rated AA-IS",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Hong Leong Investment Bank announced the completed issuance under Mah Sing's existing programme on Oct 22, following the upsizing first announced on Sept 15.",
+     "soWhat": "A mid-cap developer can still raise rated unsecured ringgit debt at scale - credit markets are funding the sector's working capital despite the margin squeeze.",
+     "sources": [
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11689201"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Cheap-ish sukuk funding lets Mah Sing pace launches while competitors pause.",
+     "watchOut": "Rising leverage into a compressed-margin cycle raises sensitivity to any sales slowdown."
+    }
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "TNB hands a RM568m Paka substation to a Jati Tinggi-led consortium with Kerjaya Prospek aboard; Exsim stacks a third Binastra job; Aizo loses a RM37m sewage subcontract",
+   "items": [
+    {
+     "id": "2026-10-23-ct-1",
+     "headline": "A Jati Tinggi-led consortium secures TNB's RM568.2m Paka GIS transmission main intake substation in Terengganu - Jati Tinggi 55% (RM312.5m), Kerjaya Prospek 25% (RM142.1m), Betapec 20%",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "The two-year contract was received on Oct 21 and announced on Oct 22. TMR reports it is Jati Tinggi's first 500kV substation win and lifts its order book to a record RM1.5b; its shares rose 10.7% to RM1.34 (up 97% YTD). Kerjaya Prospek said the award extends its footprint into Terengganu and broadens its power-infrastructure exposure; its shares closed up 1.5% at RM3.30 (RM4.18b market cap).",
+     "soWhat": "Grid buildout money keeps flowing to second-tier contractors - TNB substation work is now a repeatable order-book engine beyond the usual big names.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822880"
+      },
+      {
+       "publisher": "The Malaysian Reserve",
+       "url": "https://themalaysianreserve.com/2026/10/22/jati-tinggis-order-book-hits-record-rm1-5b-after-first-500kv-substation-win/"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11689815"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11689543"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/23/kerjaya-prospek-bags-tnb-job"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Utility EPC capacity (500kV-class) is scarce; proven players can price for it as TNB's grid capex accelerates.",
+     "watchOut": "Consortium execution risk sits with the smallest partner; 500kV delivery is a step up in technical complexity for Jati Tinggi."
+    },
+    {
+     "id": "2026-10-23-ct-2",
+     "headline": "Exsim Hospitality wins a third Binastra subcontract this year - RM13.49m of carpentry works - taking its 2026 Binastra haul to about RM211.7m",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Unit Exsim Concepto secured the supply, fabrication, delivery and installation award from Binastra Builders under a main contract running to June 2028, with a 27-month defect liability period. It follows a RM138m MEP and fit-out subcontract in April and a RM73.66m building-services award in March.",
+     "soWhat": "Repeat awards signal Binastra is consolidating its fit-out supply chain around Exsim - sticky subcontractor relationships are becoming a competitive moat in high-rise residential.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822899"
+      },
+      {
+       "publisher": "The Malaysian Reserve",
+       "url": "https://themalaysianreserve.com/2026/10/22/exsim-hospitality-wins-rm13-5m-carpentry-subcontract-from-binastra-builders/"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11689935"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Fit-out specialists with proven main-contractor relationships can bank multi-year workstreams without tendering.",
+     "watchOut": "Customer concentration: Exsim's growth is increasingly tied to one main contractor's pipeline."
+    },
+    {
+     "id": "2026-10-23-ct-3",
+     "headline": "Aizo Group's RM36.79m Terengganu sewage-upgrading subcontract is terminated after project owner Ketengah cancels the main contract; the contractor reserves rights to claim losses",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Puncak Utara notified Aizo of the termination after receiving Ketengah's cancellation letter; Aizo said the FY2027 financial impact depends on reconciliation of completed work and potential claims, while core operations continue. The July 2024 subcontract covered sewage systems in Ketengah Jaya, Bukit Besi and Seri Bandi with completion due June 2027.",
+     "soWhat": "State-agency contract risk is live in Terengganu; small-cap subcontractors carry the tail risk when owners cancel upstream.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822908"
+      },
+      {
+       "publisher": "The Malaysian Reserve",
+       "url": "https://themalaysianreserve.com/2026/10/22/aizos-rm37m-sewerage-job-terminated-potential-claims-unresolved/"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690007"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "A re-tendered Ketengah package could reopen the scope for other contractors.",
+     "watchOut": "Claims for losses could exceed the worked value and hit Aizo's FY2027 earnings."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyInvestment",
+   "theme": "Pavilion REIT's quarter is flat but its hotel pivot lifts the nine-month line; the Court of Appeal orders IRB to refund compulsory-acquisition taxes",
+   "items": [
+    {
+     "id": "2026-10-23-pi-1",
+     "headline": "Pavilion REIT posts a flat 3QFY2026 net property income of RM145.6m, while nine-month NPI rises 6.9% on the Banyan Tree and Pavilion Hotel acquisitions and Pavilion Bukit Jalil occupancy",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "3Q gross revenue slipped to RM227.3m on lower Elite Pavilion Mall advertising income; distributable income fell 1.4% to RM96.5m (2.45 sen per unit). Nine-month revenue rose 3.7% to RM694.2m. Utilities costs rose on TNB's automatic fuel adjustment, partly offset by the new tariff structure. The REIT cited Retail Group Malaysia's maintained 3.8% retail-growth projection and expects resilient consumption with more measured growth.",
+     "soWhat": "Retail REIT income is ex-growth at the margin - the diversification into hotels is what is moving Pavilion's numbers now.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822893"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11689425"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/23/pavilion-reit-nine-month-results-show-improvement"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Visit Malaysia 2026 traffic supports the retail-and-hotel mix into year-end.",
+     "watchOut": "Advertising income softness and higher utility costs show the retail core's operating leverage is limited."
+    },
+    {
+     "id": "2026-10-23-pi-2",
+     "headline": "Court of Appeal rules the IRB must refund tax collected on compensation for compulsorily acquired property, applying the 2022 Federal Court ruling on Section 4C of the Income Tax Act retrospectively",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "A three-member panel upheld Lush Development's judicial review over RM22.47m compensation for seven Selangor parcels acquired in 2016, ordering repayment with 5% annual interest. The court rejected IRB's floodgates argument, holding the Wiramuda decision (Section 4C unconstitutional under Article 13(2)) applies retrospectively absent any prospectivity direction.",
+     "soWhat": "Landowners and developers who paid tax on past compulsory-acquisition compensation now have a confirmed refund route - a cash-recovery opportunity across the sector.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822888"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/daily-digest/2026-10-22"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Companies with historical compulsory-acquisition settlements can file for refunds plus 5% interest.",
+     "watchOut": "IRB may seek leave to appeal to the Federal Court; refunds could be slow while that runs."
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "TSH Resources tells the SGX its Indonesian estates are not behind the haze, putting all 274 detected hotspots in community enclaves outside its planted areas",
+   "items": [
+    {
+     "id": "2026-10-23-pl-1",
+     "headline": "TSH Resources denies its Indonesian operations contributed to transboundary haze, telling the SGX all 274 hotspots detected within its estate boundaries between Jan 1 and Oct 21 were in community enclave areas",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Responding to a Singapore Exchange query, TSH said the hotspots were outside its planted and operational areas. The Straits Times reported TSH was among seven listed companies Singapore Senior Minister K Shanmugam named on Oct 19 as having received SGX enquiries; Indonesia separately said it will revoke licences of foreign firms linked to forest fires, and its police linked 11 firms to the fires.",
+     "soWhat": "Haze accountability is becoming a listed-company disclosure issue; planters with Indonesian estates face rising SGX scrutiny and licence risk on both sides of the border.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822887"
+      },
+      {
+       "publisher": "The Malaysian Reserve",
+       "url": "https://themalaysianreserve.com/2026/10/22/tsh-resources-denies-haze-link-says-274-hotspots-were-in-community-enclave/"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11689319"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Planters with clean fire records and traceability gain standing with buyers and regulators.",
+     "watchOut": "Indonesia's licence-revocation threat targets foreign firms; enclave-versus-concession boundaries will be contested as El Nino persists into mid-2027."
+    }
+   ]
+  },
+  {
+   "sectorKey": "capitalFinancing",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "cablesManufacturing",
+   "theme": "Nexans says cable production capacity is becoming the bottleneck for AI data-centre construction",
+   "items": [
+    {
+     "id": "2026-10-23-cb-1",
+     "headline": "Nexans CFO says cable production capacity is emerging as a bottleneck for AI data-centre construction, with new XLPE lines taking about three years to build and buyers locking in six- to seven-year supply contracts",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Vincent Piquet told Reuters global cable capacity is tight, demand is rising faster than the industry can expand, and data centres consume large volumes of low- and medium-voltage cable. Grid constraints are already delaying projects - Oracle issued a force majeure notice to a Blue Owl unit over power supply at a New Mexico data centre - while French operator Enedis has shifted from annual procurement to six- or seven-year contracts to secure supply. Piquet does not expect AI-linked demand to slow.",
+     "soWhat": "A multi-year capacity shortage in power cable supports pricing and volume visibility for Malaysian cable manufacturers serving the data-centre and grid buildout.",
+     "sources": [
+      {
+       "publisher": "The Star (Reuters)",
+       "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/cable-capacity-emerges-as-bottleneck-for-ai-data-centres-nexans-says"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Malaysian cable makers with medium-voltage capability can ride the same shortage into data-centre and TNB grid orders.",
+     "watchOut": "The comments are from a European supplier; Malaysian capacity economics differ, and XLPE line investments are three-year commitments into a cycle."
+    }
+   ]
+  },
+  {
+   "sectorKey": "buildingMaterialsIbs",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "hotels",
+   "theme": "ParkCity-linked buyer takes Shimao's distressed dual-brand Hong Kong airport hotel complex for RM1.4b - below valuation, banks take losses",
+   "items": [
+    {
+     "id": "2026-10-23-ht-1",
+     "headline": "A ParkCity Group-linked company is buying Shimao's Sheraton Hong Kong Tung Chung and Four Points by Sheraton complex for about RM1.4b, with completion expected by end-2026",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-22",
+     "detail": "Oceanfront Hong Kong Ltd, tied to the privately held Desa ParkCity developer, will acquire both hotels with their business plus the T-Bay retail hub from the receivership of defaulted Chinese developer Shimao. SCMP quoted Deloitte's insolvency lead saying the price is well below valuation, with banks taking a loss. The complex is the third-largest room inventory in Hong Kong (218-room five-star Sheraton plus 1,000+ room Four Points) and the largest hotel adjacent to the airport, with about 610,000 sq ft GFA.",
+     "soWhat": "Malaysian private capital is buying distressed institutional-grade hotel assets in Hong Kong at below-valuation prices - contrarian hospitality positioning ahead of a travel upcycle.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822869"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/23/parkcity-linked-firm-buys-shimao-hotels-for-rm14bil"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1917968/massive-hong-kong-hotel-complex-be-sold-malaysian-developer-rm14-bil"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Distressed Hong Kong hospitality assets at discount prices offer Malaysian groups scale entries into a recovering gateway market.",
+     "watchOut": "The seller's distress implies weak current trading; airport-adjacent hotels depend on Hong Kong's aviation and MICE recovery holding."
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "Checked: Edge node probe (162 in-window nodes), Star /tech and /business, Malay Mail, NST, FMT, TNGlobal, The Sun, TMR. Used: Zetrix covenant outcome (ai-1, with Bursa filing and TMR), Waze response and ban scope (ai-2, TNGlobal/Edge), MViSTA cable supplier pick (ai-3, Edge-Reuters). Seen, not itemised: TuJu 700k downloads (Edge 822823), MCA Youth question on Prosignal (FMT), AI-PHP-flaw website outages (TMR/NST, global security), Meta/Nokia/SoftBank AI headlines (global).",
+  "propertyDevelopment": "Checked: Edge node probe, EdgeProp, Star, TMR, Bursa. Used: Glomac margins and stamp-duty ask (pd-1, four outlets), Kerian Industrial City (pd-2), Paramount Seiras (pd-3), Radium Evara take-up (pd-4), Mah Sing sukuk (pd-5). Seen, not itemised: NCT Alliance PIP recognition (EdgeProp, dated Oct 21, out of window), Midlands City purchasers suit (Edge 822813, court procedural), CHGP RM15m guarantee RPT (Bursa, minor), BMS scrapped RM24m Cheras land deal (Edge 822901/TMR, minor).",
+  "construction": "Checked: Edge node probe, TMR, Star, Bursa. Used: Jati Tinggi-Kerjaya TNB Paka award (ct-1, five sources), Exsim-Binastra subcontract (ct-2), Aizo termination (ct-3). Seen, not itemised: nothing further material in window.",
+  "propertyInvestment": "Checked: Edge node probe, Star, EdgeProp, Bursa (retail-focused). Used: Pavilion REIT 3Q (pi-1), IRB compulsory-acquisition refund ruling (pi-2). Seen, not itemised: CMLT industrial expansion (Star, non-retail angle, headline only), Pavilion REIT committee changes (routine).",
+  "plantation": "Checked: Edge node probe, TMR, Bursa, feeds. Used: TSH SGX haze response (pl-1). Seen, not itemised: MPOC November palm-oil price view (Edge 822783, market commentary), United Malacca takeover dealing disclosure (routine), PLS RRPT mandate renewal (routine).",
+  "capitalFinancing": "Checked: Edge node probe, feeds (Malay Mail, NST, FMT, The Sun), TMR, Star, Bursa. No verified in-window news on licensed moneylending. Seen, not in sector: Malaysia retains top global Islamic-finance ranking (TMR, broad market item), BNM repayment deferments for flood victims' families (banking relief, not moneylending).",
+  "consumerFinancing": "Checked: Edge node probe, feeds, TMR, Star, Bursa. No verified in-window news on civil-servant consumer financing. Seen, not in sector: GOfinance 5m users (NST; TNG Digital investment platform, not civil-servant financing).",
+  "cablesManufacturing": "Checked: Star /tech, Edge node probe, feeds, TMR, Bursa. Used: Nexans capacity bottleneck (cb-1, Star-Reuters). Seen, not itemised: Southern Cable EPF shareholding change and structured-warrant settlement (routine).",
+  "buildingMaterialsIbs": "Checked: Edge node probe, feeds, TMR, Star, EdgeProp, Bursa. No verified in-window news. Seen, not itemised: Uni Wall APS AGM-extension application (Bursa, administrative).",
+  "hotels": "Checked: Edge node probe, Star, EdgeProp, feeds, TMR, Bursa. Used: ParkCity-Shimao Hong Kong purchase (ht-1). Seen, not itemised: Exsim Hospitality subcontract (itemised under construction as fit-out works)."
+ },
+ "generalCoverage": [
+  "Edition window: from the 22 Oct edition's checks (~07:27 MYT 22 Oct) to ~07:28 MYT 23 Oct 2026.",
+  "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00), never the site date banner; feeds by pubDate; browser-opened pages by their in-body date lines.",
+  "Bursa: the full daily filing list was captured from the KLSE Screener mirror of Bursa announcements (which links to the original filings) after past sessions found bursamalaysia.com's filtered grid unreliable; material filings were opened and read.",
+  "All ten listed portals were checked this run: The Edge (node probe), The Star (business + tech, browser), Malay Mail, NST, FMT, The Sun (RSS), TNGlobal (web fetch), The Malaysian Reserve (browser), EdgeProp (browser), Bursa (KLSE mirror).",
+  "TMR category pages hit a Cloudflare challenge that the solver could not clear; the homepage and its section listings were swept instead, and in-window items were cross-read on other outlets.",
+  "Where a source gave only headlines, items were included only when at least one opened body verified the facts; Bloomberg/Reuters/unnamed-source claims are attributed to their origin publisher label."
+ ],
+ "watchlistCoverage": [
+  "Bursa 22 Oct filings (full mirror list reviewed, 479 entries dated 22 Oct): Southern Cable - EPF Section 138 change (routine). Chin Hin Group - director/substantial-holder Section 138/219 changes and Chapter 14 dealing (routine). Pesona Metro - share buy-back (routine). Chin Hin Group Property (7187, not watchlist 5273) RM15m guarantee RPT (minor, not itemised). Zetrix covenant update filing itemised under ai-1. None of the routine notices itemised.",
+  "Media: no in-window opened article body names OKA, Chin Hin Group Berhad, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon or Kitacon with new information."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 162,
+   "used": 13,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Edge",
+    "The Edge (Reuters)"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 13,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 50,
+   "used": 0,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "NST / Business Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 0,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 1,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 9,
+   "used": 1,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 20,
+   "used": 5,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Star",
+    "The Star (Reuters)"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 13,
+   "used": 6,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 7,
+   "used": 4,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 479,
+   "used": 7,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
+}
