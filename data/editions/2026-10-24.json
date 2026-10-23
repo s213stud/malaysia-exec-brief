@@ -1,0 +1,604 @@
+{
+ "date": "2026-10-24",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-10-24T07:20:44+08:00",
+  "2026-10-24T07:20:52+08:00",
+  "2026-10-24T07:21:22+08:00",
+  "2026-10-24T07:21:46+08:00",
+  "2026-10-24T07:22:01+08:00",
+  "2026-10-24T07:22:22+08:00",
+  "2026-10-24T07:22:36+08:00",
+  "2026-10-24T07:23:02+08:00",
+  "2026-10-24T07:24:14+08:00",
+  "2026-10-24T07:24:46+08:00",
+  "2026-10-24T07:29:48+08:00"
+ ],
+ "publishedAt": "2026-10-24T07:45:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "Zetrix AI's sukuk holders meeting ended with NO deal and no date for the next one; the company is simultaneously issuing 788.8m share options at a 28% discount and redesignating its chairman as the RM2b acceleration question stays open",
+   "soWhat": "The covenant breach is now an open-ended negotiation, not a deadline event - holders are not rushing to accelerate, but the absence of any resolution date leaves the RM2.16b obligation hanging over a company with RM541.6m cash and RM314m owed to JPJ.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-24-ai-1"
+   ]
+  },
+  {
+   "headline": "Telco balance-sheet moves cluster: Astro exits broadband to Maxis for up to RM83m while CelcomDigi lodges a RM10b sukuk programme, and the PM escalates the Waze dispute by floating a full public ban",
+   "soWhat": "Fixed-mobile consolidation and debt-funded capex are the sector's 2027 themes; Maxis buys fibre scale cheap while CelcomDigi pre-funds, and a Waze ban extension would reshuffle the consumer-app market.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-24-ai-3",
+    "2026-10-24-ai-4",
+    "2026-10-24-ai-2"
+   ]
+  },
+  {
+   "headline": "Power, not land, is now the binding constraint on Johor's data-centre boom: BMI estimates Johor DCs could take over 90% of Peninsular Malaysia's additional generation by 2031, with grid connection the real chokepoint",
+   "soWhat": "Expect project delays where connections are unsecured and a premium on shovel-ready, grid-connected sites - TNB's RM43b grid programme and substation contractors are the direct beneficiaries.",
+   "sectorKeys": [
+    "aiTelcoIct",
+    "construction",
+    "propertyDevelopment"
+   ],
+   "itemIds": [
+    "2026-10-24-ai-5"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Zetrix holders walk away without a deal as the PM raises the Waze stakes; Astro sells broadband to Maxis, CelcomDigi pre-funds RM10b, and Johor's data centres run into the grid",
+   "items": [
+    {
+     "id": "2026-10-24-ai-1",
+     "headline": "Zetrix AI's sukuk holders fail to reach a deal on the covenant breach at Friday's meeting; the next meeting has no date, and the group has offered 788.83m share options at a 28% discount",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Zetrix told Bursa no resolution was achieved at the Oct 23 sukukholders' meeting and a subsequent meeting will be arranged on a date to be determined. No payment default has been declared; without a waiver, the trustee can demand immediate repayment of RM2b principal and RM164.5m future coupons. The same evening the group offered 788.83m immediately exercisable share options at 5.4 sen (a 28% discount to the 7.5 sen close), including 27.5m to managing director Wong Thean Soon - a full exercise would raise about RM42.6m and dilute holders by roughly 9.1%. It also redesignated Datuk Dr Norraesah Mohamad as non-executive chairman, cancelled its 0.25 sen interim dividend to save about RM20m, and disclosed 3Q results will be released Nov 27. Cash stood at RM541.6m at June 30 against RM314m owed to JPJ.",
+     "soWhat": "Holders chose negotiation over acceleration, but with no date set, the overhang is now open-ended; the discounted option grant reads as both cash-raising and management retention under stress.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823060"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823088"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690849"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690851"
+      },
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/money/2026/10/23/zetrix-ai-redesignates-norraesah-mohamad-a"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "A negotiated restructuring would let Zetrix conserve its RM541.6m cash and rebuild without an acceleration fight.",
+     "watchOut": "Options exercisable immediately at a 28% discount add dilution and selling pressure exactly when confidence is weakest."
+    },
+    {
+     "id": "2026-10-24-ai-2",
+     "headline": "PM Anwar says the government could ban Waze entirely once local alternatives are ready, as TuJu apologises for glitches and targets stable navigation within two weeks",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Anwar said the Waze issue is 'a matter of the security of the people and the country' given Waze Mobile's Israeli incorporation and governing law, and a full ban is possible after alternatives are studied; he acknowledged TuJu's shortcomings after LLM admitted the app is incomplete. Prosignal Consortium apologised for navigation disruptions caused by the post-ban user surge (700,000+ downloads by Thursday) and expects stable navigation restored within two weeks - NST reports the navigation feature is targeted to return by Nov 6. Separately, TMR reports the government is formally demanding answers from Waze on Malaysian users' data security (site inaccessible this run; headline only).",
+     "soWhat": "The partial ban is now explicitly a stepping stone to a nationwide one - app ecosystems, advertisers and fleet operators should model a Malaysia without Waze.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822994"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823075"
+      },
+      {
+       "publisher": "NST / Business Times",
+       "url": "https://www.nst.com.my/news/nation/2026/10/1562221/tuju-navigation-feature-expected-be-res"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "TuJu and rival local apps get state-backed distribution and a two-week window to prove reliability at scale.",
+     "watchOut": "A full ban would be a first-of-its-kind consumer-app prohibition in the region and invites reciprocal scrutiny of Malaysian digital exports."
+    },
+    {
+     "id": "2026-10-24-ai-3",
+     "headline": "Astro proposes selling its broadband business to Maxis for up to RM83m cash, booking a RM31.4m net gain and refocusing on content and advertising",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Measat Broadcast Network Systems signed a conditional SPA with Maxis Broadband on Oct 23; the price scales with transferred subscribers - RM83m if at least 155,000 of the 178,631 subscribers (as at Feb 28) move, stepping down below that. Net book value of the assets is RM36.6m against a RM28m investment cost since the 2022 launch. Astro will use RM81.35m of proceeds for working capital and operations; completion is targeted by 2Q2027, subject to shareholder and MCMC approvals. Maxis funds the deal internally and gains fibre scale plus cross-sell into Astro households.",
+     "soWhat": "Astro is conceding fixed broadband to the telcos and monetising a subscale asset; Maxis buys 179k fibre-ready households at roughly RM465 per subscriber.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823061"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690819"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690829"
+      },
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/money/2026/10/23/astros-mbns-to-sell-broadband-business-ass"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Maxis accelerates fibre convergence cheaply; Astro simplifies its equity story around content economics.",
+     "watchOut": "Subscriber migration risk sits in the price mechanism - below 145k transfers, consideration erodes RM500 per head."
+    },
+    {
+     "id": "2026-10-24-ai-4",
+     "headline": "CelcomDigi lodges a RM10b perpetual-tenure sukuk programme rated AAA by RAM for refinancing, capex and working capital",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Unit CelcomDigi Telecommunications filed the murabahah (tawarruq) programme with the SC; AmInvestment Bank and CIMB are joint principal advisers and lead arrangers. Proceeds will refinance conventional and Islamic borrowings and fund capex and general corporate purposes. Group borrowings stood at RM14.46b at June 30 (from RM13.85b at end-2025) against RM684m cash; 1HFY2026 net profit fell 2.8% to RM816m on flat RM6.39b revenue. The stock is down about 24% YTD.",
+     "soWhat": "Malaysia's largest telco is terming out and Islamising its debt stack ahead of the next network-investment cycle - a read-across for sector capex intensity.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823041"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690201"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "AAA-rated perpetual sukuk capacity gives CelcomDigi cheap long-duration funding for 5G and fibre investment.",
+     "watchOut": "Borrowings rising while earnings shrink tightens the dividend room investors hold the stock for."
+    },
+    {
+     "id": "2026-10-24-ai-5",
+     "headline": "Johor's data centres could consume over 90% of Peninsular Malaysia's additional power generation by 2031, and grid connection - not generation - is the binding constraint, BMI (Fitch Solutions) warns",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "BMI estimates Johor DCs will need about 30TWh a year by 2031 (18% of peninsula supply, up from 6% in 2026), with 825MW operational and 3.9GW in the pipeline including YTL Power's 1.2GW campus (first 300MW by 1Q2027) and Vantage's 300MW Sedenak site. Johor faces the tightest power constraints among hubs BMI studied (Sydney, Melbourne, Batam); grid infrastructure takes 5-10 years versus faster DC builds, so projects without secured connections will slip. TNB plans RM43b of grid upgrades; more gas-fired generation is expected to fill the gap.",
+     "soWhat": "DC site value is migrating from land to grid access - expect delays for unconnected projects and a scramble for substation and transmission capacity.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822977"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/daily-digest/2026-10-23"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "TNB grid capex (RM43b) and gas generation become the picks-and-shovels trade; connected sites command scarcity premiums.",
+     "watchOut": "Announced DC capacity that cannot get connected becomes stranded capex - 3.9GW of pipeline is at risk of slippage."
+    },
+    {
+     "id": "2026-10-24-ai-6",
+     "headline": "Bloomberg feature: Penang's 931ha Silicon Island reclamation takes shape, targeting 220,000 jobs and hundreds of billions in economic value by 2050 as the state runs out of semiconductor land",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "TMR carries a Bloomberg feature (Netty Ismail) on the man-made island south of Penang: 2,300 acres reclaimed for semiconductor expansion plus offices, hotels and waterfront housing, with Chief Minister Chow Kon Yeow telling Bloomberg the state will own all reclaimed land and decide its use. The project answers land scarcity around Bayan Lepas, where Intel, AMD and ASE have expanded, and supports Malaysia's move from assembly and testing into chip design and advanced packaging on the AI demand wave.",
+     "soWhat": "Penang is manufacturing the land for its next 25 years of chip-industry growth - the buildout itself is a multi-year construction and infrastructure programme before any fab economics.",
+     "sources": [
+      {
+       "publisher": "The Malaysian Reserve (Bloomberg)",
+       "url": "https://themalaysianreserve.com/2026/10/23/malaysias-ai-island-takes-shape/"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Reclamation, marine civil and industrial-building contractors get a decade-long pipeline; Penang's ecosystem moves up the value chain.",
+     "watchOut": "A feature, not a milestone - job and value figures are 2050 projections from promoters; environmental and funding questions persist."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "Mah Sing-KLK open Phase 1B of the Kulai industrial park on a 90% Phase 1A take-up; KEB prices its RM79m ACE IPO",
+   "items": [
+    {
+     "id": "2026-10-24-pd-1",
+     "headline": "Mah Sing and KLK Land open Phase 1B of the RM2.2b MS Industrial Park @ Kulai for sale after a 90% take-up of Phase 1A",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "The 419-acre freehold park in Zone E of the Johor-Singapore SEZ offers semi-detached and detached factories plus 1-8 acre industrial parcels, including customisable plots suitable for data centres. Mah Sing holds 60% of the JV and KLK Land (wholly owned by Kuala Lumpur Kepong) 40%; the park anchors KLK Land's broader 2,500-acre Kulai township plan. It is Mah Sing's sixth industrial development.",
+     "soWhat": "Industrial product inside the JS-SEZ is clearing fast - 90% absorption on Phase 1A validates pricing and pulls forward the next phases.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823009"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1917984/mah-sing%E2%80%93klk-klk-kulai-industrial-park-reports-90-take-phase-1a"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "DC-suitable parcels position the park to capture Johor's grid-connected-land scarcity premium.",
+     "watchOut": "Company-statement take-up figures; conversion to SPAs and the power-connection reality will test the data-centre pitch."
+    },
+    {
+     "id": "2026-10-24-pd-2",
+     "headline": "Cheras developer KEB prices its ACE Market IPO at 35 sen, raising RM79.37m ahead of a Nov 16 listing",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "RM48.49m goes to KEB (land acquisition RM19m, working capital RM14.89m, debt repayment RM8.5m) and RM30.88m to MD Datuk KC Lim and son Vinson via an offer for sale. The company runs two projects with RM773m combined GDV, holds a pipeline of four projects worth RM941m and about 30 acres of land bank, and posted RM51.61m FY2025 net profit - a roughly 6x earnings valuation at the RM308.8m market cap. Applications close Nov 2.",
+     "soWhat": "The ACE IPO window is open for small profitable developers priced at single-digit earnings multiples - a funding route mid-tier peers will watch.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/822966"
+      },
+      {
+       "publisher": "The Sun",
+       "url": "https://thesun.my/business/keb-seeks-rm79-37m-from-ipo-eyes-land-acquisition-and-debt-redu"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690093"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Cheap IPO capital for landbanking ahead of a demand recovery in affordable-mid market housing.",
+     "watchOut": "39% of proceeds go to selling shareholders, and FY2025 earnings set a high base in a cost-squeezed year."
+    }
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "AZRB wins three months' creditor protection to attempt a scheme of arrangement; Malakoff hands TNB interconnection works to MMC's engineering arm",
+   "items": [
+    {
+     "id": "2026-10-24-ct-1",
+     "headline": "Ahmad Zaki Resources' subsidiary gets a three-month High Court restraining order shielding it from creditors while it works on a scheme of arrangement",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Ahmad Zaki Sdn Bhd's order runs Oct 21 to Jan 20, with a Dec 28 hearing for the convening application. The group faces winding-up petitions totalling about RM9.41m and drew a Bursa public reprimand last month for disclosing them 10-50 days late. At end-June, current liabilities of RM1.42b exceeded current assets of RM698.7m - negative working capital of RM721.3m. The stock is down 46% YTD at an RM52.8m market cap.",
+     "soWhat": "Another mid-tier contractor enters court-supervised restructuring - creditor behaviour across the construction chain will tighten for leveraged peers.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823039"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690253"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "A successful scheme would create a template for contractor restructurings short of PN17 collapse.",
+     "watchOut": "RM721m negative working capital against RM9.41m of known petitions suggests more claims surface during the scheme."
+    },
+    {
+     "id": "2026-10-24-ct-2",
+     "headline": "Malakoff awards MMC Engineering a RM34.39m contract for 33kV transmission and interconnection works - including underground cable systems - at its Sungai Udang waste-to-energy plant",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "The related-party job (MMC Corp owns 38.45% of Malakoff; MMC's group CEO sits on Malakoff's board as a non-independent director) covers design through commissioning of the link to TNB's Main Intake Substation Cheng in Melaka, due May 19, 2029. Malakoff states the terms are arm's length and not detrimental to minorities.",
+     "soWhat": "WTE and grid-interconnection work keeps flowing to linked contractors - transmission tie-ins are becoming a steady niche as generation projects multiply.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823056"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11690773"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Underground transmission cable and substation packages multiply with each new WTE, solar and DC connection.",
+     "watchOut": "Related-party awards invite governance scrutiny even when priced at arm's length."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyInvestment",
+   "theme": "Bandar Utama City Group opens One Square, a single-storey F&B and lifestyle hub next to 1 Utama",
+   "items": [
+    {
+     "id": "2026-10-24-pi-1",
+     "headline": "Bandar Utama City Group opens One Square, an F&B-and-lifestyle hub beside 1 Utama, betting on a smaller alternative to conventional malls",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "The predominantly single-storey, alfresco-format destination by Tan Sri Teo Chiang Liang's group sits within Bandar Utama's commercial centre near 1 Utama, One World Hotel and the First Avenue offices, targeting office workers and residents with dining, wellness and community space, a Centre Court for events, and a Village Grocer-run farmers' market at launch.",
+     "soWhat": "The most successful private retail landlord in the Klang Valley is formalising the small-format, F&B-led complement to mega-malls - a format with lower capex and faster fill than enclosed retail.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1917976/one-square-opens-bandar-utama-adds-neighbourhood-fb-hub-petaling-jaya"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "F&B-led neighbourhood formats monetise footfall the big malls generate without duplicating their cost base.",
+     "watchOut": "Single-format, single-landlord execution; tenant-mix durability past the launch programme is unproven."
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "IOI Corp's CEO maps a future beyond palm oil in a rare interview; Nanta warns 58,000 Sarawak smallholders could lose EU access without NCR titles",
+   "items": [
+    {
+     "id": "2026-10-24-pl-1",
+     "headline": "IOI Corp chief executive Datuk Lee Yeow Chor says the group's future will not depend on a single commodity, pushing solar, biomass, coconut and higher-value ingredients on plantation land",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-24",
+     "detail": "In a rare media interview with StarBiz 7, Lee said the 45-year palm-oil engine is being supplemented with new ventures using the group's land, plantation waste and downstream expertise. (Star's full article sits behind its paywall; only the opening section was readable this run.)",
+     "soWhat": "The country's most disciplined planter is formally diversifying its land economics - land, biomass and waste streams become strategic assets rather than by-products.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/24/branching-out-beyond-palm-oil"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Solar and biomass ventures monetise estate land and waste with infrastructure-style returns.",
+     "watchOut": "Diversification is at the intent stage; capital allocation details were behind the paywall and unverified this run."
+    },
+    {
+     "id": "2026-10-24-pl-2",
+     "headline": "Works Minister Nanta Linggi warns 58,000 Sarawak independent oil palm smallholders risk losing EU market access under the EUDR unless NCR land titles are issued faster",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Responding to the Sarawak Dayak Oil Palm Planters Association (Doppa), Nanta said many native smallholders cannot meet the EU Deforestation Regulation's legality and traceability tests because their NCR land lacks formal documentation. He urged the state to accelerate surveys, demarcation and title issuance alongside the appeal - through the state, the Plantation and Commodities Ministry and MPOCC - for a special EU exemption for NCR land, and asked for an update on the appeal's status. Doppa says the EUDR takes effect next year and flags compliance costs for certification and geolocation mapping.",
+     "soWhat": "EUDR compliance is becoming a land-title problem, not just an agronomy one - Sarawak's smallholder supply faces exclusion risk that mills and traders will price in.",
+     "sources": [
+      {
+       "publisher": "Borneo Post",
+       "url": "https://www.theborneopost.com/2026/10/23/nanta-58000-sarawak-oil-palm-smallholders-risk-losing-eu-market-access-without-ncr-land-titles/"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Certification, mapping and traceability services gain a mandated customer base of 58,000 smallholders.",
+     "watchOut": "If the EU exemption fails and titling stays slow, Sarawak smallholder FFB gets discounted or rejected at the mill gate."
+    }
+   ]
+  },
+  {
+   "sectorKey": "capitalFinancing",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "cablesManufacturing",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "buildingMaterialsIbs",
+   "theme": "",
+   "items": []
+  },
+  {
+   "sectorKey": "hotels",
+   "theme": "Penang doubles the short-stay room cap and cuts licence fees while closing the hotel-reclassification loophole; the Yeoh family's third generation deepens its bench at YTL Hospitality REIT",
+   "items": [
+    {
+     "id": "2026-10-24-ht-1",
+     "headline": "Penang raises its private short-stay room cap from five to ten and cuts licence fees, while tightening definitions so hotels cannot reclassify to dodge licensing",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Approved at the Oct 19 exco and effective Jan 1, 2027, the amended Private Short-term Accommodation By-Laws 2026 introduce a fixed RM500 annual licence per unit and a room-based fee ladder (RM400 for one room to RM1,800 for five to ten rooms), replacing the RM1,000 flat fee for up to three rooms. The state clarified the short-stay definition against hotels by nature, use and operating arrangements; the operators' association welcomed the lower fees. MBPP and MBSP will refine guidelines before the start date.",
+     "soWhat": "Legalised, bigger short-stay inventory in Penang raises competitive pressure on budget hotels - while the definition fix protects licensed hotels' regulatory moat.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823025"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Licensed short-stay operators scale to 10 rooms at lower cost; hotels keep a clearer regulatory boundary.",
+     "watchOut": "More legal STRA rooms in a Visit Malaysia 2026 year could compress budget-hotel rates on the island."
+    },
+    {
+     "id": "2026-10-24-ht-2",
+     "headline": "Two more third-generation Yeoh family members take alternate executive director roles at YTL Hospitality REIT, extending September's 12-member succession wave",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-23",
+     "detail": "Yeoh Keong Shyan, 40, was redesignated as alternate executive director to his father Tan Sri Francis Yeoh at manager Pintar Projek, and Yeoh Pei Xien, 25 - daughter of CEO Datuk Yeoh Seok Kah and already an alternate director at YTL Corp and YTL Power - was newly appointed alternate to Datuk Yeoh Soo Min. The moves follow September's appointments of 12 third-generation members across YTL Corp, YTL Power and Malayan Cement, with all seven second-generation branches now represented.",
+     "soWhat": "Succession scaffolding is being built openly across the YTL complex - continuity risk at the REIT is being managed years ahead of need.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823058"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "A deep, early bench reduces key-person discount on YTL-linked hospitality assets.",
+     "watchOut": "Alternate-director titles are grooming roles, not operating control - read no near-term strategy change into them."
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": [
+  {
+   "key": "aiTelcoIct",
+   "value": "Checked: Edge node probe (144 in-window nodes), Star /tech and /business, Malay Mail, NST, FMT, TNGlobal, The Sun, TMR (via search mitigation - site down). Used: Zetrix no-deal + options (ai-1), Waze full-ban signal + TuJu recovery (ai-2), Astro-Maxis disposal (ai-3), CelcomDigi sukuk (ai-4), BMI Johor power (ai-5), Silicon Island Bloomberg feature (ai-6). Seen, not itemised: U Mobile-MRT Corp ICQC 5G MOU (Edge 823001, MOU stage), U Mobile East Coast 5G roadshow (FMT, marketing beat), BNM joins MAS BLOOM digital-money pilot (TNGlobal), Redtone board change (Edge 823052, personnel), TMR 'govt demands answers from Waze' (site down, unverifiable body)."
+  },
+  {
+   "key": "propertyDevelopment",
+   "value": "Checked: Edge node probe, EdgeProp, Star, TMR, Bursa. Used: Mah Sing-KLK Kulai Phase 1B (pd-1), KEB IPO pricing (pd-2). Seen, not itemised: KTI Landmark-TAR UMT student housing tie-up (TMR headline, site down), 'A green haven in Subang Jaya' (Edge 823053, lifestyle feature), AZRB (itemised under construction)."
+  },
+  {
+   "key": "construction",
+   "value": "Checked: Edge node probe, Bursa, EdgeProp, feeds. Used: AZRB restraining order (ct-1), Malakoff-MMC interconnection (ct-2). Seen, not itemised: ECRL-Gombak LRT pedestrian bridge by March 2027 (NST, minor milestone), Seremban-Kuala Pilah-Bahau highway denial (Edge 822951, non-event)."
+  },
+  {
+   "key": "propertyInvestment",
+   "value": "Checked: EdgeProp, Edge node probe, Star, Bursa (retail-focused). Used: One Square opening (pi-1). Seen, not itemised: Capitaland Malaysia Trust / KLCC REIT / Pavilion routine shareholding and committee notices."
+  },
+  {
+   "key": "plantation",
+   "value": "Checked: Star (StarBiz7), Borneo Post, FMT, Edge node probe, Bursa. Used: IOI diversification interview (pl-1, paywalled beyond opener), Nanta EUDR smallholder warning (pl-2). Seen, not itemised: Singapore widens haze probe to local firms (NST), Fahmi 'no Malaysian companies linked to Indonesia fires' (TMR headline, site down, unverified body), United Malacca takeover dealing disclosures (routine), SD Guthrie/TSH/Johor Plantations routine notices."
+  },
+  {
+   "key": "capitalFinancing",
+   "value": "Checked: Edge node probe, feeds (Malay Mail, NST, FMT, The Sun), Star, Bursa. No verified in-window news on licensed moneylending. Seen, not in sector: BNM suspicious-transaction warning to professional service providers (theSun, AML compliance), state water assets firm's RM11.64b sukuk (Edge 822983, utility funding)."
+  },
+  {
+   "key": "consumerFinancing",
+   "value": "Checked: Edge node probe, feeds, Star, Bursa. No verified in-window news on civil-servant consumer financing. Seen, not in sector: PTPTN minimum-repayment tier for RM2,501-3,000 earners (Edge 823031, student loans), BNM flood-victim repayment deferments (Malay Mail, disaster relief)."
+  },
+  {
+   "key": "cablesManufacturing",
+   "value": "Checked: Star /tech, Edge node probe, feeds, Bursa. No verified in-window news specific to cable manufacturers. Seen, adjacent: Malakoff-MMC 33kV underground transmission cable package (itemised under construction, ct-2); Southern Cable EPF shareholding change (routine)."
+  },
+  {
+   "key": "buildingMaterialsIbs",
+   "value": "Checked: Edge node probe, feeds, EdgeProp, Star, Bursa. No verified in-window news. Seen, not itemised: Signature International Kayu Ara flagship opening (EdgeProp, retail showroom event, home-living products)."
+  },
+  {
+   "key": "hotels",
+   "value": "Checked: Edge node probe, EdgeProp, feeds, Bursa. Used: Penang STRA by-law amendments (ht-1), YTL Hospitality REIT board moves (ht-2). Seen, not itemised: Etihad Saudi flight suspension extension (Malay Mail, aviation ops)."
+  }
+ ],
+ "generalCoverage": [
+  "Edition window: from the 23 Oct edition's checks (~07:28 MYT 23 Oct) to ~07:25 MYT 24 Oct 2026.",
+  "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00), never the site date banner; feeds by pubDate; browser-opened pages by their in-body date lines.",
+  "Bursa: the full daily filing list was captured from the KLSE Screener mirror of Bursa announcements (which links to the original filings) after past sessions found bursamalaysia.com's filtered grid unreliable; material filings were opened and read.",
+  "All ten listed portals were attempted this run: The Edge (node probe), The Star (business + tech, browser), Malay Mail, NST, FMT, The Sun (RSS), TNGlobal (web fetch), The Malaysian Reserve, EdgeProp (browser), Bursa (KLSE mirror).",
+  "The Malaysian Reserve returned a site-wide 'Error establishing a database connection' on two browser attempts (~07:23-07:24); its 23 Oct headlines were recovered via web search and one exclusive (Silicon Island, a Bloomberg feature) was opened via web fetch - TMR-exclusive beats that could not be opened (Waze data-security demand, Fahmi haze statement) are noted as unverified, not used.",
+  "The Star's IOI Corp interview is paywalled beyond its opening section; only the visible portion was used and the limitation is stated in the item.",
+  "Where a source gave only headlines, items were included only when at least one opened body verified the facts; Bloomberg/Reuters/unnamed-source claims are attributed to their origin publisher label."
+ ],
+ "watchlistCoverage": [
+  "Bursa 23 Oct filings (full mirror list reviewed, 407 entries dated 23 Oct): Pesona Metro - share buy-back (routine). Southern Cable - EPF Section 138 change (routine). Chin Hin Group - Chapter 14 dealings and director interest changes (routine). Chin Hin Group Property (7187, not watchlist 5273) - director/substantial-holder changes and dealings (routine). None itemised.",
+  "Media: no in-window opened article body names OKA, Chin Hin Group Berhad, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon or Kitacon with new information."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 144,
+   "used": 11,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Edge"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 15,
+   "used": 2,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 50,
+   "used": 1,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "NST / Business Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 0,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 1,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 11,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 1,
+   "used": 1,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 4,
+   "used": 1,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "The Malaysian Reserve (Bloomberg)"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 4,
+   "used": 3,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 540,
+   "used": 6,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
+}

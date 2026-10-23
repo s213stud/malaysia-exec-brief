@@ -1,0 +1,18 @@
+{
+ "The Star": {
+  "status": "checked",
+  "note": "Browser sweep 07:23-07:24: /business and /tech fronts reviewed; tech front was all global wire; business front carried the IOI Corp StarBiz7 interview (paywalled beyond its opening section). Only verified rows logged."
+ },
+ "NST / Business Times": {
+  "status": "partial",
+  "note": "Only the general /feed available (business feed 404); 50 items scanned, business items thin. Business-section browser sweep not done this run."
+ },
+ "FMT": {
+  "status": "partial",
+  "note": "General feed (50 items) scanned; its Nanta smallholder link 404s (story itemised via Borneo Post original). Site sections not swept."
+ },
+ "The Malaysian Reserve": {
+  "status": "partial",
+  "note": "Site-wide database outage ('Error establishing a database connection') on two browser attempts; 23 Oct headlines recovered via web search and the Bloomberg Silicon Island feature opened via web fetch. TMR-only beats that could not be opened (Waze data-security demand, Fahmi haze statement, KTI-TAR UMT) are logged as unverified headlines, not itemised."
+ }
+}
