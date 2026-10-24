@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-25",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-10-25T07:21:16+08:00",
+    "2026-10-25T07:21:27+08:00",
+    "2026-10-25T07:22:35+08:00",
+    "2026-10-25T07:22:55+08:00",
+    "2026-10-25T07:24:28+08:00",
+    "2026-10-25T07:26:22+08:00",
+    "2026-10-25T07:27:32+08:00",
+    "2026-10-25T07:27:47+08:00"
+  ],
+  "publishedAt": "2026-10-25T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "PM Anwar says an unnamed global investor plans to invest US$50b (RM204b) in AI, new technology and data centres in Kuching and Peninsular Malaysia - one of the largest investments in the region, by his telling",
+      "soWhat": "If it lands, this dwarfs every DC commitment to date and re-anchors the AI-infrastructure thesis on Sarawak as well as the peninsula; until the investor is named, treat it as a political signal, not a commitment.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-25-ai-1"
+      ]
+    },
+    {
+      "headline": "Zetrix AI's unwind deepens: forced selling of his pledged shares has cut MD Wong Thean Soon's stake from almost 30% to 1.84%, leaving Socso (2.72%) and IFC (2.51%) as the largest shareholders of a rudderless register",
+      "soWhat": "With no anchor shareholder, a suspended JPJ collection task and an open-ended sukuk negotiation, Zetrix's equity story is now a restructuring trade, not an operating one.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-25-ai-2"
+      ]
+    },
+    {
+      "headline": "Penang's RM851m Air Itam bypass is 93% done and on track for April 2027 - but only because contractor Consortium Zenith is financing the last RM50m itself after the land-swap parcel meant to fund it failed to sell",
+      "soWhat": "Land-swap funding models for public infrastructure are exposed when the land side softens; expect more contractor-financed completions and repriced land deals.",
+      "sectorKeys": [
+        "construction",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-10-25-ct-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Anwar touts an unnamed US$50b AI and data-centre investor; Zetrix's forced-sale spiral leaves it without an anchor shareholder; the Waze ban debate moves to the experts",
+      "items": [
+        {
+          "id": "2026-10-25-ai-1",
+          "headline": "PM Anwar says a global investor plans to invest US$50b (RM204b) in AI, new technology and data centres in Kuching, Sarawak and Peninsular Malaysia",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-24",
+          "detail": "Speaking in Melaka on Saturday, Anwar said the investor - whom he did not name - conveyed the intention in a video conference with him 'last Tuesday', choosing Kuching and Peninsular Malaysia for what he described as one of the largest investments in the region. He framed it as proof that political stability is drawing technology capital, and pointed to jobs for young Malaysians. No timeline, structure or conditions were disclosed.",
+          "soWhat": "A US$50b pledge would dwarf every data-centre commitment made in Malaysia to date; until the investor is named and filings appear, treat it as a signal of intent, not bankable capex.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823124"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/international-investor-plans-to-invest-us-50bil-in-malaysia-s-tech-sector-says-pm"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Sarawak joins the peninsula as a named AI-DC destination - land, power and construction ecosystems in Kuching get a repricing catalyst.",
+          "watchOut": "Unnamed investor, no structure, no date - Malaysia has seen big announced numbers drift before."
+        },
+        {
+          "id": "2026-10-25-ai-2",
+          "headline": "Zetrix AI analysis: MD Wong Thean Soon's stake has collapsed from almost 30% to 1.84% after forced selling by financiers of his pledged shares, leaving Socso and IFC as the largest shareholders",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-24",
+          "detail": "The Edge's analysis pieces together the unwind: Wong's forced sales leave the company without a driving shareholder - Socso holds 216m shares (2.72%) and the World Bank's IFC 199.56m (2.51%). Former executive chairman Datuk Dr Norraesah Mohamad stepped back to a non-executive role on Friday and Datuk Seri Mohd Mokhtar Mohd Shariff left the board earlier this month. Market capitalisation is RM592.3m at Friday's close. The company was suspended from its JPJ collection task after failing to remit RM314m collected from May to September, and its April 2024 HeiTech Padu agreement to explore blockchain in the NIISe immigration project lapsed in April 2025.",
+          "soWhat": "The forced-sale disclosure explains the selldown's mechanics and confirms the register is now rudderless - recovery depends on the sukuk negotiation and a new anchor, neither dated.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823097"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "A cleaned-out register and RM592m market cap make Zetrix a cheap restructuring entry if the sukuk overhang resolves.",
+          "watchOut": "Forced selling may not be finished, and the cause of the original selldown remains unexplained - the 27 Nov results are the next hard datapoint."
+        },
+        {
+          "id": "2026-10-25-ai-3",
+          "headline": "Pushback and pressure on the Waze question: Yeo Bee Yin urges the government to consult industry experts before a nationwide ban, while deputy minister Teo tells TuJu's developer to urgently improve performance",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-24",
+          "detail": "Yeo Bee Yin said Putrajaya should consult industry experts and navigation technology specialists before deciding on a full Waze ban, after the PM floated the idea on Friday (24 Oct edition, ai-2). Separately, Teo Nie Ching said in Kulai that TuJu's developer must urgently fix performance to win public confidence (Bernama, carried by NST and listed on TMR's homepage). TuJu has said it expects stable navigation within about two weeks of the surge that followed the government-sector Waze ban.",
+          "soWhat": "The policy path is now contested in public - expert review versus escalation - which raises the odds of a conditional, standards-based outcome over an outright ban.",
+          "sources": [
+            {
+              "publisher": "NST / Business Times",
+              "url": "https://www.nst.com.my/news/nation/2026/10/1562653/yeo-bee-yin-consult-experts-deciding-nationwide-waze-ban"
+            },
+            {
+              "publisher": "NST / Business Times",
+              "url": "https://www.nst.com.my/news/nation/2026/10/1562670/teo-tuju-must-improve-performance-win-public-trust"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "A standards-based path would let Waze stay while forcing local alternatives to compete on merit.",
+          "watchOut": "If TuJu's two-week fix slips again, the political case for a full ban hardens."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Penang's Air Itam bypass nears completion on contractor financing after its land-swap funding parcel failed to sell",
+      "items": [
+        {
+          "id": "2026-10-25-ct-1",
+          "headline": "RM851m Air Itam-Tun Dr Lim Chong Eu bypass hits 93.19% progress for an April 2027 finish, with Consortium Zenith Construction financing the remaining ~RM50m itself after a Gurney Bay land-swap parcel went unsold",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-24",
+          "detail": "Penang CM Chow Kon Yeow said the 5.7km bypass's financing is unaffected even though part of the Gurney Bay land allocated under the land-swap mechanism was not sold in a recent bidding exercise; the state is prepared to transfer the land to CZC or its nominee, and CZC can sell it to a third party or develop it. Main bridge and viaduct works are complete; paving starts end of this month. The related multi-level U-turn flyover by IJM Land is 18.56% complete and also targeted for April 2027 so both open together.",
+          "soWhat": "Contractor financing is quietly becoming the default completion mechanism for land-swap infrastructure - watch for repriced land and margin pressure on the contractors carrying it.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823110"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "CZC gets development rights over unsold Gurney Bay land at a negotiated basis; IJM Land's flyover adds scope.",
+          "watchOut": "Unsold swap land signals soft demand for high-end Penang seafront plots - the model's weak link."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "StarBiz7 turns to hotel-suite investment as institutional capital flows into KL hospitality",
+      "items": [
+        {
+          "id": "2026-10-25-ht-1",
+          "headline": "StarBiz7 flags a wave of luxury hotel openings, rising occupancy and institutional capital moving into KL hospitality assets - and the individual-investor case for owning hotel suites",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-25",
+          "detail": "The Star's Sunday StarBiz7 lead (Joseph Wong) frames Kuala Lumpur's hospitality momentum - luxury openings, rising occupancy and steady institutional capital inflows - and asks what it means for individual property investors considering hotel-suite ownership. (Star's full article sits behind its paywall; only the opening section was readable this run.)",
+          "soWhat": "Mainstream business press is now merchandising hotel-suite investment to retail buyers - a sign the hospitality upcycle is deep enough to broaden the buyer base.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/25/hotel-ownership-one-suite-at-a-time"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Hotel operators and developers with strata-sale products gain a receptive retail channel in a strong occupancy market.",
+          "watchOut": "Retail hotel-suite products historically underdeliver on yield promises; the detail was behind the paywall and unverified this run."
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge node probe (30 in-window nodes), Malay Mail, NST, FMT, The Sun, TNGlobal, Star, TMR, Bursa. Used: US$50b unnamed tech investor (ai-1), Zetrix forced-sale analysis (ai-2), Waze/TuJu reactions (ai-3). Seen, not itemised: U Mobile-MRT Corp RTS Link ICQ 5G MOU (Star 25 Oct version; MOU-stage, excluded 24 Oct), OpenAI offline training (global), Indonesia gas curbs (regional energy).",
+    "propertyDevelopment": "Checked: Edge node probe, Star (StarBiz7), EdgeProp, Bursa, feeds. No verified in-window news. Seen, not itemised: 'Price homes affordable at cost' (Star 25 Oct, opinion column by Brig Gen Datuk Goh Seng Toh - commentary), 'Make cities spongy' (Star 25 Oct, urban-planning feature), Air Itam unsold Gurney Bay land (itemised under construction, ct-1).",
+    "construction": "Checked: Edge node probe, Bursa, EdgeProp, Star, feeds. Used: Air Itam bypass contractor financing (ct-1). Seen, not itemised: PRG Holdings winding-up/restraining-order filing and Meridian PN17 suspension notice (both 23 Oct filings, logged in the 24 Oct edition).",
+    "propertyInvestment": "Checked: EdgeProp, Star, Edge node probe, Bursa. No verified in-window retail news. Seen, not itemised: 'Malaysian property developer to buy Hong Kong hotels for RM1.4b' (EdgeProp, dated 22 Oct, pre-window), EdgeProp branded suites pieces (branded), Done Deal transaction notes (routine).",
+    "plantation": "Checked: Star, feeds, Edge node probe, Bursa. No verified in-window news. Seen, not itemised: IOI Corp 'Branching out beyond palm oil' (Star, itemised 24 Oct edition - dedupe), Singapore haze notices to 10 local firms (Edge/NST, environment enforcement), Johan Setia haze (NST, environment).",
+    "capitalFinancing": "Checked: Edge node probe, feeds, Star, Bursa. No verified in-window news on licensed moneylending. Seen, not in sector: 'Heavy price of paying later' (Star Insight on BNPL, commentary), BNM MyCoverageOKU insurance-access initiative (insurance inclusion, not moneylending).",
+    "consumerFinancing": "Checked: Edge node probe, feeds, Star, Bursa. No verified in-window news on civil-servant consumer financing. Seen, not in sector: Budget 2027 RM2,000 minimum-wage exemption for MSMEs below RM50m revenue (Star, labour policy), Uyarvu Madani grant applications (NST, aid programme).",
+    "cablesManufacturing": "Checked: Star, Edge node probe, feeds, Bursa. No verified in-window news on cable manufacturers.",
+    "buildingMaterialsIbs": "Checked: Edge node probe, feeds, EdgeProp, Star, Bursa. No verified in-window news.",
+    "hotels": "Checked: Star, Edge node probe, EdgeProp, feeds, Bursa. Used: StarBiz7 hotel-suite investment feature (ht-1, paywalled beyond opener). Seen, not itemised: Hong Kong hotel purchase headline (EdgeProp, dated 22 Oct, pre-window)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 24 Oct edition's checks (~07:29 MYT 24 Oct) to ~07:27 MYT 25 Oct 2026. Saturday is a thin news day: 30 in-window Edge nodes versus 144 yesterday, and Bursa had no new filings.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00), never the site date banner; feeds by pubDate (FMT and The Sun publish in UTC, normalised here to +08:00); browser-opened pages by their in-body date lines.",
+    "Bursa: KLSE Screener mirror checked (browser-UA fetch, pages 1-3); latest entry is ann 11690867 (23 Oct, 7:44pm), already captured in the 24 Oct log - no filings dated 24 Oct (Saturday, market closed) and no later 23 Oct filings. The mirror requires a browser user-agent; plain curl now returns an empty JSON stub.",
+    "All ten listed portals were attempted this run: The Edge (node probe), The Star (business front + 2 articles, browser), Malay Mail, NST (feed + 2 articles), FMT, The Sun (feeds), TNGlobal (web fetch), The Malaysian Reserve (browser), EdgeProp (browser), Bursa (KLSE mirror).",
+    "The Malaysian Reserve recovered from yesterday's site-wide database outage; its homepage was swept (Teo/TuJu story corroborated via NST originals). Its business category page is terminally blocked by an unsolvable Cloudflare challenge this run.",
+    "The Star's hotel-suite feature is paywalled beyond its opening section; only the visible portion was used and the limitation is stated in the item. Its affordable-homes piece is a signed opinion column and was excluded as commentary.",
+    "TNGlobal's front page carried no items dated 24-25 Oct (newest 23 Oct) - no in-window items this run.",
+    "Where a source gave only headlines, items were included only when at least one opened body verified the facts."
+  ],
+  "watchlistCoverage": [
+    "Bursa: no new filings since the 24 Oct capture (latest mirror entry ann 11690867, 23 Oct 7:44pm; Saturday, market closed). Nothing new on any of the 12 watchlist companies.",
+    "Media: no in-window opened body names OKA, Chin Hin Group Berhad, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon or Kitacon with new information. AWC Bhd (not watchlist) drew a substantial-shareholder notice from former Atlan CEO Datuk Lee Kok Khee (23 Oct filing)."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 30,
+      "used": 3,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 5,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 1,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 5,
+      "used": 1,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 2,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "The Star": {
+  "status": "partial",
+  "note": "Browser sweep 07:23-07:26: business front reviewed; hotel-suite feature paywalled beyond its opening section (itemised from visible portion); tech front not swept this run (business-only sweep on a thin Saturday)."
+ },
+ "NST / Business Times": {
+  "status": "partial",
+  "note": "General /feed (50 items) plus the Waze and TuJu articles opened directly. Business-section browser sweep not done."
+ },
+ "FMT": {
+  "status": "partial",
+  "note": "General feed (50 items; feed now 301-redirects, followed with -L). Site sections not swept."
+ },
+ "The Malaysian Reserve": {
+  "status": "partial",
+  "note": "Recovered from the 24 Oct site-wide database outage; homepage swept. Business category page terminally blocked by an unsolvable Cloudflare challenge (solver stuck 45s+)."
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "checkedAt": "2026-10-25T07:22:35+08:00",
+ "method": "curl with browser user-agent via KLSE Screener mirror (klsescreener.com/v2/announcements, pages 1-3); plain curl now returns an empty JSON stub. Mirror links each entry to the original Bursa filing",
+ "filters": {
+  "dateFrom": "2026-10-24",
+  "dateTo": "2026-10-24",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 0,
+ "note": "No new filings: the mirror's latest entry is ann 11690867 (23 Oct, 7:44pm), already captured in the 24 Oct log. 24 Oct was a Saturday (market closed) and no late-23 Oct filings appeared after yesterday's ~19:44 capture. Nothing new on any of the 12 watchlist companies.",
+ "results": []
+}
