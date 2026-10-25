@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "Bernama not separately checked; Bernama stories reached via NST/The Edge are logged under the carrying outlet. All ten listed portals attempted this run; The Malaysian Reserve homepage is Cloudflare-blocked this run. Bursa's one new filing (DBT-forbid notice) could not be attributed to a company."
+}

@@ -1,0 +1,361 @@
+{
+  "date": "2026-10-26",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-10-26T07:20:25+08:00",
+    "2026-10-26T07:21:00+08:00",
+    "2026-10-26T07:22:35+08:00",
+    "2026-10-26T07:24:40+08:00",
+    "2026-10-26T07:25:00+08:00"
+  ],
+  "publishedAt": "2026-10-26T07:40:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "The data-centre buildout is now a power-sector story on three fronts: Johor targets another 5GW of solar by 2031, Jera says 'speed to power' is the real constraint, and a new investment cycle is opening for gas-fired IPPs",
+      "soWhat": "Power delivery - not land or capital - is setting the pace of Malaysia's DC pipeline; grid-connection queues, turbine lead times and solar land allocation are the new gating items, and grid and cable suppliers sit directly in the flow.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-26-ai-2",
+        "2026-10-26-ai-3",
+        "2026-10-26-ai-4"
+      ]
+    },
+    {
+      "headline": "Anwar walks the Waze restriction back to a capability-conditional policy: no blanket ban on civil servants unless alternatives are proven inadequate",
+      "soWhat": "The 23-24 Oct escalation de-escalates; the operative risk shifts from an outright ban to procurement and compliance friction for foreign-owned navigation apps, with the government's own TuJu app still unproven.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-26-ai-1"
+      ]
+    },
+    {
+      "headline": "Penang orders an immediate stop-work on a hillside condominium and roadworks after a fatal Paya Terubong landslide, hours before a second slide in Tanjung Tokong buried two cars",
+      "soWhat": "Two slides in one day on Penang Island will harden the regulatory posture on hillside projects - expect slower approvals, mandatory geotechnical reviews and repriced hillside land.",
+      "sectorKeys": [
+        "construction",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-10-26-ct-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Power is the DC story: Johor's 5GW solar target, Jera's 'speed to power' warning and a gas-fired IPP investment cycle; Anwar de-escalates the Waze ban to a capability test",
+      "items": [
+        {
+          "id": "2026-10-26-ai-1",
+          "headline": "PM Anwar: Waze restriction for civil servants factors in security risks and sovereignty - a blanket ban only if alternatives prove inadequate",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-25",
+          "detail": "Speaking in Melaka on Saturday, Anwar said the restriction on civil servants using Waze takes into account the app's link to an Israel-headquartered company, legal jurisdiction and monitoring risks for officers handling security matters. He said the move is not intended to impose a blanket ban, which would only be considered after assessing whether alternative navigation applications have sufficient capabilities, and acknowledged shortcomings in the implementation of the government-backed TuJu app.",
+          "soWhat": "This is a de-escalation of the 23-24 Oct policy scare: the operative risk shifts from an outright ban to procurement and compliance friction, and the bar for a full ban is now explicitly a capability test the government's own TuJu app has not yet passed.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823132"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Local mapping and navigation vendors, TuJu included, get a defined window to prove capability before any blanket ban.",
+          "watchOut": "The capability test is undefined and politically driven - policy can still harden quickly if TuJu or another local option matures."
+        },
+        {
+          "id": "2026-10-26-ai-2",
+          "headline": "Johor targets about 5GW of new solar capacity by 2031 to meet data-centre demand",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-25",
+          "detail": "Johor investment, trade, consumer affairs and human resources committee chairman Lee Ting Han said the state aims to add about 5GW of solar energy over the next four to five years to meet data-centre demand, explicitly responding to a BMI/Fitch Solutions report on power constraints (itemised in the 24 Oct edition). He said 65 DC projects have been approved on land plots in Johor, 21 are operating and consuming about 1.1GW, and the pipeline needs another 4-5GW while keeping the grid robust for industrial and public supply.",
+          "soWhat": "Johor is moving from approving DC land to securing generation - solar developers, grid equipment and cable suppliers get a multi-year, state-backed demand line.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823158"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Solar EPCC, grid-connection works and power cables in Johor; the 4-5GW gap between approved demand and supply is the addressable market.",
+          "watchOut": "5GW of solar in four to five years implies land assembly and transmission upgrades at an unprecedented pace for the state, and intermittency means gas or other firming capacity is still required."
+        },
+        {
+          "id": "2026-10-26-ai-3",
+          "headline": "Jera: Malaysia has Asia's greatest potential for power and LNG supply to data centres, but 'speed to power' is the constraint",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-10-25",
+          "detail": "Izumi Kai, Asia CEO of Jera - Japan's largest power generator - told the Singapore International Energy Week that Malaysia holds the greatest potential in Asia for power generation and LNG supply to data centres, but transmission capacity, land and water are the constraints. 'It is not just about access to power. Speed to power matters just as much,' he said, stressing the need for regulatory and public approvals.",
+          "soWhat": "When the region's largest utility buyer names grid speed as the gating factor, queue position for power connections becomes an investable advantage for DC operators and the suppliers who can shorten it.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823163"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Existing power-connected DC sites and grid-infrastructure suppliers gain scarcity value.",
+          "watchOut": "Approvals and public acceptance, not demand, set the timeline - projects without secured supply face multi-year slippage."
+        },
+        {
+          "id": "2026-10-26-ai-4",
+          "headline": "DC boom opens a new investment cycle for gas-fired power generation - IPPs face turbine shortages, fuel-supply uncertainty and rising costs",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-26",
+          "detail": "The Star's StarBiz7 analysis by Gurmeet Kaur says Malaysia's push to expand data-centre capacity is opening a new investment cycle for gas-fired power generation, creating opportunities for established independent power producers. It flags hurdles for the race to build new plants: a global gas-turbine shortage, fuel-supply uncertainty and rising costs. (Full article is paywalled; itemised from the published standfirst.)",
+          "soWhat": "Firm power, not just green power, is being repriced by DC demand - IPPs that already hold turbine slots and gas contracts own the scarce asset.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/10/26/dc-boom-energises-power-players"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Established IPPs, turbine and EPC contractors, and gas infrastructure.",
+          "watchOut": "Turbine order books stretch years globally; late entrants pay up or wait, and fuel-supply terms will decide project bankability."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Paramount signs a state-backed Butterworth redevelopment with 350 affordable homes in phase one",
+      "items": [
+        {
+          "id": "2026-10-26-pd-1",
+          "headline": "Paramount Property signs redevelopment agreement with Penang State Housing Board for 15.3-acre Ujong Batu site in Butterworth; phase one delivers 350 Rumah MutiaraKu affordable homes",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-25",
+          "detail": "Paramount Property, the property arm of Paramount Corp Bhd (KL:PARAMON), signed a development agreement with the Penang State Housing Board (LPNPP) for the phased redevelopment of the 15.3-acre Ujong Batu site in Seberang Perai Utara, Butterworth. Phase one comprises 350 Rumah MutiaraKu affordable homes. The agreement was signed at The Light Hotel in the presence of Chief Minister Chow Kon Yeow; group CEO Jeffrey Chew represented Paramount.",
+          "soWhat": "State-backed affordable housing gives developers volume with pre-aligned approvals - lower margin, lower risk and a steadier pipeline on mainland Penang.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823178"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "A multi-phase, state-anchored pipeline in Seberang Perai with an affordable-housing first phase that de-risks approvals.",
+          "watchOut": "Affordable-home margins are thin; phasing and cross-subsidy from later phases will decide project profitability."
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Stop-work order on Penang hillside projects after a fatal landslide, with a second slide the same day",
+      "items": [
+        {
+          "id": "2026-10-26-ct-1",
+          "headline": "Penang Island City Council issues immediate stop-work order on hillside condominium and road projects after fatal Paya Terubong landslide; second slide same day buries two cars in Tanjung Tokong",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-25",
+          "detail": "After the Saturday-morning landslide at Taman Seri Rambai, Paya Terubong that killed Dr Wong Kar Lin, 73 - his wife and mother-in-law escaped - the Penang Island City Council (MBPP) issued an immediate stop-work order on a hillside condominium construction and roadworks near the site. Six houses were advised to relocate temporarily and slope-stabilisation works were incomplete, said state infrastructure committee chairman Zairil Khir Johari; the developer was not named in the report. That evening, a second landslide near Leisure Bay Condominium in Tanjung Tokong partly buried two cars, with no casualties reported (JBPM, via FMT).",
+          "soWhat": "Two slides in one day on Penang Island will harden the regulatory posture on hillside projects - expect approval delays, mandatory geotechnical reviews and pressure on hillside land values.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823152"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/25/landslide-partly-buries-2-cars-in-tanjung-tokong"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Slope-stabilisation and geotechnical contractors see stepped-up demand and stricter enforcement work.",
+          "watchOut": "Stop-work orders can spread to other active hillside sites on the island; the unnamed developer's identity matters when it surfaces."
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "No verified in-window retail-property news",
+      "items": []
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "No verified in-window news",
+      "items": []
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "No verified in-window news",
+      "items": []
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "No verified in-window news",
+      "items": []
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "No verified in-window news; grid-buildout demand signal tracked under AI/Telco/ICT",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "No verified in-window news",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Tourism Malaysia concedes the 47 million visitor target is slipping away",
+      "items": [
+        {
+          "id": "2026-10-26-ht-1",
+          "headline": "Tourism Malaysia faces uphill task to hit 47 million international visitor target; Jan-Aug arrivals of 28.8 million up just 1.8% y/y as Iran war disrupts travel",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-26",
+          "detail": "Tourism Malaysia director-general Mohd Amirul Rizal Abdul Rahim told SunBiz that international arrivals have been below target since March due to disruptions caused by the Iran war, and current projections point to a shortfall against the 47 million target. The agency is intensifying promotions through events and concerts, strengthening airline connectivity and expanding into new source markets for the year-end holiday season. Malaysia recorded 28.8 million international visitors between January and August 2026, up 1.8% year-on-year.",
+          "soWhat": "With 28.8 million banked through August, 47 million for the year implies an unreachable year-end run-rate - hotel occupancy and rate assumptions pegged to the target should be revised down, though the events and concerts push cushions gateway-city hotels.",
+          "sources": [
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/tourism-malaysia-uphill-task-to-achieve-47-million-international-visitors-this-year/"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Event-led promotions and concert calendars favour city hotels with entertainment-driven demand.",
+          "watchOut": "The arrivals shortfall since March is structural to 2026; watch how much promotional spending the year-end catch-up attempt commits."
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge node probe (52 in-window nodes), Star business front + DC-boom article, Malay Mail/NST/FMT/Sun feeds, TNGlobal, Bursa mirror. Used: Waze de-escalation (ai-1), Johor 5GW solar (ai-2), Jera speed-to-power (ai-3), gas-fired IPP cycle (ai-4). Seen, not itemised: AI-focused polytechnic in Lumut under 13MP Rolling Plan 3 (Edge 823176, education policy), Singapore's 2027 Asean power-grid and subsea-cable chairmanship agenda (Edge 823171, regional policy), Dongshan USD 1.3b HK listing and Goldman Kospi cut (global markets), Musk-Starlink Ukraine (global).",
+    "propertyDevelopment": "Checked: Edge node probe, Star, EdgeProp, Bursa, feeds. Used: Paramount Ujong Batu (pd-1). Seen, not itemised: EdgeProp homepage items dated 22-23 Oct (pre-window): Mah Sing-KLK Kulai industrial park 90% Phase 1A take-up, One Square Bandar Utama opening, KEB IPO; branded suites pieces (branded).",
+    "construction": "Checked: Edge node probe, Bursa, EdgeProp, Star, feeds. Used: Penang stop-work order after fatal Paya Terubong landslide (ct-1), corroborated by FMT's Tanjung Tokong report.",
+    "propertyInvestment": "Checked: EdgeProp, Star, Edge node probe, Bursa. No verified in-window retail news. Seen, not itemised: EdgeProp Done Deal transaction notes (routine), 'Malaysian property developer to buy Hong Kong hotels for RM1.4b' (22 Oct, pre-window).",
+    "plantation": "Checked: Star, feeds, Edge node probe, Bursa. No verified in-window news. Seen, not itemised: 'Branching out beyond palm oil' (Star StarBiz7, 24 Oct, feature analysis).",
+    "capitalFinancing": "Checked: Bursa mirror, Edge node probe, feeds. No verified in-window licensed-moneylending or capital-financing news.",
+    "consumerFinancing": "Checked: feeds, Edge node probe, Bursa. No verified in-window news. The Waze civil-servant restriction (ai-1) concerns app policy, not financing.",
+    "cablesManufacturing": "Checked: Bursa, Edge node probe, feeds. No verified in-window news on Southern Cable, Master Tec or peers. Seen, not itemised: Singapore's 2027 Asean subsea-cable framework agenda (Edge 823171, regional policy); grid-buildout demand signal tracked in ai-2/ai-3/ai-4.",
+    "buildingMaterialsIbs": "Checked: Bursa, Edge node probe, EdgeProp, feeds. No verified in-window wall-panel/IBS news.",
+    "hotels": "Checked: The Sun (feed + article), Star, feeds. Used: Tourism Malaysia 47m target shortfall (ht-1). Seen, not itemised: 'Hotel ownership, one suite at a time' (Star StarBiz7, 25 Oct, feature on hotel-suite investment models, no new transaction)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 25 Oct edition's checks (~07:27 MYT 25 Oct) to ~07:21 MYT 26 Oct 2026. Sunday carried most of the window's weight: 52 in-window Edge nodes, and Bursa had one new filing this morning.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00), never the site date banner; feeds by pubDate (FMT and The Sun publish in UTC, normalised here to +08:00); browser-opened pages by their in-body date lines.",
+    "Bursa: KLSE Screener mirror checked (browser-UA fetch, page 1). One new filing since Friday's capture: 'Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1)' (ann 11690869, 26 Oct 7:17am) - the mirror shows no company name and the original Bursa page is JS-rendered and unreadable this run; logged as seen-but-unidentified, not itemised.",
+    "All ten listed portals were attempted this run: The Edge (node probe), The Star (business front + article, browser), Malay Mail, NST, FMT, The Sun (feeds; Sun article via browser), TNGlobal (feed/scan), The Malaysian Reserve (browser), EdgeProp (browser), Bursa (KLSE mirror).",
+    "The Malaysian Reserve is blocked this run: its homepage returns an unsolvable Cloudflare challenge (it was readable on 25 Oct). No TMR content was verified today.",
+    "The Star's DC-boom article is paywalled beyond its standfirst; only the verified standfirst was used and the limitation is stated in the item. The Sun's tourism article body was verified via browser after its feed entry proved to be a stub.",
+    "TNGlobal carried no items dated 24-26 Oct (newest 23 Oct) - second consecutive zero day."
+  ],
+  "watchlistCoverage": [
+    "Bursa: one new filing since Friday's capture - 'Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1)' (ann 11690869, 26 Oct 7:17am). The mirror row shows no company name and the original filing page did not render; no watchlist link established and it was not itemised.",
+    "Media: no opened in-window body names OKA, Chin Hin Group Berhad, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon or Kitacon with new information. Lim Seong Hai, AWC, Tanco, KTI, Paramount and SSF appeared in-window but are not watchlist names."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 52,
+      "used": 5,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 3,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 5,
+      "used": 1,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 1,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcements"
+      ]
+    }
+  ]
+}

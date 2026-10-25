@@ -1,0 +1,28 @@
+{
+ "checkedAt": "2026-10-26T07:21:00+08:00",
+ "method": "curl with browser user-agent via KLSE Screener mirror (klsescreener.com/v2/announcements, page 1); plain curl returns an empty JSON stub. Mirror links each entry to the original Bursa filing",
+ "filters": {
+  "dateFrom": "2026-10-25",
+  "dateTo": "2026-10-26",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 1,
+ "note": "One new filing since Friday's capture: ann 11690869 (26 Oct, 7:17am), 'Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1)'. The mirror row shows no company name; the original Bursa page (ann_id=3718279) is JS-rendered and did not render in the cloud browser, and i3investor's latest page is a comments feed. Logged as seen-but-unidentified, not itemised; no watchlist link established. Nothing else new on any of the 12 watchlist companies.",
+ "results": [
+  {
+   "annId": "11690869",
+   "title": "Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1)",
+   "company": "",
+   "publishedAt": "2026-10-26T07:17:00+08:00",
+   "url": "http://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id=3718279",
+   "mirrorUrl": "https://www.klsescreener.com/v2/announcements/view/11690869",
+   "opened": true,
+   "decision": "excluded",
+   "reason": "company not identified (mirror row blank; Bursa original JS-rendered and unreadable this run); no watchlist link established",
+   "itemId": null
+  }
+ ]
+}

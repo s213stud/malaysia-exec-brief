@@ -1,0 +1,18 @@
+{
+ "The Star": {
+  "status": "partial",
+  "note": "Business front swept 07:22-07:24; DC-boom article itemised from its verified standfirst only (paywalled beyond); three other Monday StarBiz7 features title-triaged, not opened."
+ },
+ "NST / Business Times": {
+  "status": "partial",
+  "note": "General feed (50 items) reviewed. Business-section browser sweep not done."
+ },
+ "FMT": {
+  "status": "partial",
+  "note": "General feed (50 items; 301 redirect followed with -L). Site sections not swept."
+ },
+ "The Malaysian Reserve": {
+  "status": "blocked",
+  "note": "Homepage returns an unsolvable Cloudflare challenge this run (was readable 25 Oct); no TMR content verified."
+ }
+}
