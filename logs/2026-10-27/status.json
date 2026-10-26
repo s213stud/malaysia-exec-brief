@@ -1,0 +1,22 @@
+{
+ "The Star": {
+  "status": "partial",
+  "note": "Business front Just-In list swept (browser, 07:24); nine Monday items title-triaged, none opened beyond Edge-covered stories."
+ },
+ "NST / Business Times": {
+  "status": "partial",
+  "note": "General feed (50 items) reviewed. Business-section browser sweep not done."
+ },
+ "FMT": {
+  "status": "partial",
+  "note": "General feed (50 items; 301 redirect followed). Site sections not swept."
+ },
+ "The Malaysian Reserve": {
+  "status": "blocked",
+  "note": "Homepage Cloudflare challenge, second consecutive run; no TMR content verified."
+ },
+ "Malay Mail": {
+  "status": "partial",
+  "note": "Feed reviewed; article pages Cloudflare-block plain curl, so the two itemised articles were opened in the cloud browser instead."
+ }
+}

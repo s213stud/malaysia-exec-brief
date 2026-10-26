@@ -1,0 +1,478 @@
+{
+ "date": "2026-10-27",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-10-27T07:20:31+08:00",
+  "2026-10-27T07:21:00+08:00",
+  "2026-10-27T07:22:10+08:00",
+  "2026-10-27T07:23:13+08:00",
+  "2026-10-27T07:24:29+08:00",
+  "2026-10-27T07:25:13+08:00"
+ ],
+ "publishedAt": "2026-10-27T07:45:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "SoftBank's Masayoshi Son is the unnamed US$50b investor, and Moody's puts a price on the power buildout to serve the data-centre boom: 14-17GW of new generation by 2035 costing RM80-95b",
+   "soWhat": "The DC thesis now has a named anchor investor and a quantified utility capex cycle; TNB, IPPs and the grid supply chain (cables included) hold a decade-long demand line, with execution and funding risk as the swing factors.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-27-ai-1",
+    "2026-10-27-ai-2",
+    "2026-10-27-ai-3",
+    "2026-10-27-ai-4"
+   ]
+  },
+  {
+   "headline": "Watchlist builder GDB lands its biggest job ever - a RM1.02b ParkCity Residences contract, 1.9x its market capitalisation - on a busy Monday for construction wins",
+   "soWhat": "GDB's order book reaches about RM2.05b with earnings visibility to 2031; mid-cap builders (Econpile, Pansar, Aneka Jaringan) are also converting the development pipeline into orders.",
+   "sectorKeys": [
+    "construction"
+   ],
+   "itemIds": [
+    "2026-10-27-ct-1",
+    "2026-10-27-ct-2"
+   ]
+  },
+  {
+   "headline": "Retail property rules are being rewritten on two fronts: a national licensing regime for short-stay rentals with platform verification, and a court ruling that JMBs cannot lock out owners over unpaid fees",
+   "soWhat": "Unlicensed STRA units face delisting pressure while JMB enforcement weakens - compliance-capable operators gain share, and strata cash-flow management needs a legal rethink.",
+   "sectorKeys": [
+    "propertyInvestment"
+   ],
+   "itemIds": [
+    "2026-10-27-pi-1",
+    "2026-10-27-pi-2"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "SoftBank named as the US$50b investor; Moody's quantifies RM80-95b of power capex by 2035; Malaysia-Singapore power integration moves on three tracks; MyDCD's DC-engineering IPO; Maxis buys Astro's broadband base",
+   "items": [
+    {
+     "id": "2026-10-27-ai-1",
+     "headline": "SoftBank's Masayoshi Son is the unnamed investor behind the US$50b Malaysia tech outlay, choosing Kuching and Peninsular Malaysia for AI and data-centre projects",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "Bloomberg reports that SoftBank Group Corp's Masayoshi Son has chosen locations in Malaysia for US$50 billion in technology investments, according to PM Anwar Ibrahim, who held a video conference with Son last Tuesday. Anwar said Son picked Sarawak's Kuching and Peninsular Malaysia for projects including data centres, in artificial intelligence and new technology. SoftBank representatives did not immediately respond to a request for comment. This names the investor behind the 'unnamed US$50b global investor' item in the 25 Oct edition.",
+     "soWhat": "A named backer with a track record of mega-scale AI-infrastructure bets (US$500b Ohio project, up to EUR 75b in France) converts a political announcement into a credible pipeline signal - but nothing is bankable until filings, land and power allocations appear.",
+     "sources": [
+      {
+       "publisher": "The Edge (Bloomberg)",
+       "url": "https://theedgemalaysia.com/node/823180"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Sarawak (Kuching) joins the peninsula as a named AI-DC destination; land, power and construction ecosystems in both regions get a repricing catalyst.",
+     "watchOut": "Still no structure, timeline or conditions; SoftBank has form for announcing big numbers ahead of capital commitments."
+    },
+    {
+     "id": "2026-10-27-ai-2",
+     "headline": "Moody's: Malaysia can be a key regional data-centre hub if it holds its power edge - 14-17GW of added generation by 2035 implies RM80-95b of TNB and IPP investment",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "Moody's Ratings assistant vice president Chelsia Ng told Bernama that Malaysia's competitive advantage stems from competitively priced, readily available power and supportive government initiatives, with DESAC tax incentives already linked to power and water efficiency benchmarks and Johor applying more stringent project approvals. Moody's estimates 14-17GW of additional generation capacity will be needed by 2035 for Peninsular Malaysia, entailing RM80-95 billion of investment by Tenaga Nasional Bhd and independent power producers; data centres could reach about 31% of Peninsular electricity consumption by 2035, from 4% in 2025, with demand growing about 5.8% a year over the next decade. DC-led demand is credit-positive for utilities long-term but brings execution, funding and leverage risks; firm baseload needs keep gas central.",
+     "soWhat": "This is the first rating-agency sizing of the Malaysian DC power bill - a decade-long, RM80-95b capex line for TNB, IPPs and their suppliers, with gas-fired firming explicitly in the mix.",
+     "sources": [
+      {
+       "publisher": "Malay Mail (Bernama)",
+       "url": "https://www.malaymail.com/news/money/2026/10/26/moodys-sees-malaysia-as-key-regional-data-centre-hub-if-edge-maintained/240621"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "TNB, IPPs, grid contractors and cable suppliers; DESAC-compliant developers gain an approval edge.",
+     "watchOut": "Moody's itself flags execution, funding and leverage risks during the build phase; power-tariff and efficiency-benchmark tightening will squeeze marginal DC projects."
+    },
+    {
+     "id": "2026-10-27-ai-3",
+     "headline": "Malaysia-Singapore power integration advances on three tracks: up to 2GW more interconnection, harmonised renewable-certificate rules, and a Maybank-DBS-IFC financing framework for the US$6b Southern Johor RE Corridor",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "At the Singapore International Energy Week, DPM Fadillah Yusof said the Asean Power Grid must move to implementation: Malaysia has a 1GW interconnection with Singapore, marine surveys began in October for up to 2GW of additional capacity (Singapore Energy Interconnections, SP PowerAssets and Tenaga Nasional Bhd), and talks continue on an up-to-1GW subsea cable from Sarawak. The two countries' energy regulators formed a working group to harmonise renewable energy certificate rules under a renewed MOU. Separately, Maybank, DBS and the World Bank's IFC agreed with Ditrolic Energy Holdings Sdn Bhd to develop a financing framework for the US$6 billion (RM25 billion) Southern Johor Renewable Energy Corridor - solar plus battery storage developed with Johor's Permodalan Darul Ta'zim, with close to 90% of green capacity already booked and a 600MW Singapore import approval in hand.",
+     "soWhat": "Cross-border supply is becoming the release valve for the peninsula's power constraint - and bankability work by three major lenders signals the export-oriented RE buildout is financing up.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823208"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823200"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823240"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Subsea cable and transmission suppliers, solar developers in Johor, and lenders with regional franchises.",
+     "watchOut": "REC sales overseas are still barred for Malaysian certificates and cross-border rules are unfinished; the Sarawak subsea cable remains talk-stage."
+    },
+    {
+     "id": "2026-10-27-ai-4",
+     "headline": "DC-engineering firm MyDCD launches ACE Market IPO at 56 sen to raise RM268.8m, riding a RM1.32b order book - with 85% of revenue from Binastra",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "MyDCD Bhd, a mechanical, electrical, plumbing and fire-protection (MEPF) engineering firm focused on data centres, priced its ACE Market IPO at 56 sen per share, raising RM268.8 million (RM187.6m in new shares for the company, RM81.2m offer-for-sale to eight shareholders), with listing set for Nov 17. It had RM1.32 billion of jobs on hand at end-September, providing revenue to 2032, and expects a market capitalisation of about RM1 billion. Net profit grew from RM16.8m (FY2023) to RM66.8m (FY2026), a 58.4% CAGR, though margins are narrowing; 85% of FY2026 revenue came from Binastra Builders Sdn Bhd, the construction unit of Binastra Corporation Bhd (KL:BNASTRA). CEO Chris Ow Yong says clients hold secured utility allocations, so utility disruptions are unlikely to hit its order book.",
+     "soWhat": "The DC construction supply chain is now liquid enough to list - but this is a concentrated subcontractor bet on Binastra's DC pipeline, not a diversified sector proxy.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823218"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823258"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Pure-play exposure to DC MEPF fit-out demand through 2032.",
+     "watchOut": "85% single-customer concentration and narrowing PAT margins; a Binastra slowdown is a MyDCD slowdown."
+    },
+    {
+     "id": "2026-10-27-ai-5",
+     "headline": "Maxis to acquire Astro's broadband business, lifting its fibre base about 22% to over 991,000 subscribers; analysts see only a modest boost",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "Maxis Bhd's (KL:MAXIS) proposed acquisition of Astro Malaysia Holdings Bhd's (KL:ASTRO) broadband business could expand its fibre customer base by about 22% to over 991,000 subscribers if all accounts are retained, according to Phillip Capital, RHB Investment Bank and Kenanga. Kenanga is neutral on the deal for both parties - a capital-light scale-up for Maxis with a modest RM2.5m 2027 earnings contribution, while Astro monetises a sub-scale, non-core business with an estimated RM31.4m net gain. Analysts tracked by Bloomberg carry 14 holds and nine buys on Maxis with an average target of RM4.04.",
+     "soWhat": "Consolidation of sub-scale fibre assets into the big carriers continues; the deal is strategically tidy but too small to change Maxis's earnings story - the real swing factors remain 5G competition and DNB losses.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823197"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Fixed-broadband scale economics for Maxis if churn is contained through the migration.",
+     "watchOut": "Retention risk on Astro's base; wholesale fibre access costs persist."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "No verified in-window development-launch news; Monday's residential pipeline shows up through contractor wins (GDB, Econpile)",
+   "items": []
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "GDB's record RM1.02b ParkCity win headlines a busy Monday for builder contract flow",
+   "items": [
+    {
+     "id": "2026-10-27-ct-1",
+     "headline": "GDB Holdings lands its biggest job to date: a RM1.02b contract to build ParkCity Residences in Desa ParkCity - about 1.9x its market capitalisation",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "GDB Holdings Bhd (KL:GDB) secured a RM1.02 billion construction contract for ParkCity Residences, a luxury residential development in Desa ParkCity, Kuala Lumpur - two blocks of 49 and 63 storeys housing 433 apartments, a seven-storey podium and a two-storey basement car park. Awarded by Perdana ParkCity Sdn Bhd to wholly owned Grand Dynamic Builders Sdn Bhd, construction runs from November to August 2031. Year-to-date wins reach a record RM1.81 billion and the outstanding order book about RM2.05 billion, giving earnings visibility through 2031; the contract equals about 1.92x GDB's RM531.1 million market capitalisation. GDB has delivered Perdana ParkCity projects since 2013 (One Central Park, Westside III, Park Regent).",
+     "soWhat": "A repeat-client flagship award de-risks execution and extends GDB's runway to 2031 - but its last reported quarter showed a 39% profit decline, so margin delivery on this book is the proof point.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823274"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11691117"
+      }
+     ],
+     "watchlistCompanyKeys": [
+      "gdb"
+     ],
+     "opportunity": "Record order book with a decade-long client relationship; pipeline across Peninsular and East Malaysia.",
+     "watchOut": "2QFY2026 net profit fell 39.3%; luxury-residential cycles can stretch timelines and margins."
+    },
+    {
+     "id": "2026-10-27-ct-2",
+     "headline": "Mid-cap contract flow continues: Econpile wins RM24.4m piling for a 53-storey Jalan Tun Razak serviced apartment; Pansar takes RM170.9m Samalaju water-infrastructure subcontract",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "Econpile Holdings Bhd (KL:ECONBHD) will do site clearing, retaining wall and piling for a 315-unit serviced apartment on Jalan Tun Razak for Beverly 37 Sdn Bhd (via REIN Architects), phase one from Nov 5; it follows a RM48.8m Jalan Pavilion job in June that took FY2026 wins to RM404m. Pansar Bhd (KL:PANSAR) accepted a RM170.9 million letter of award from KKB Engineering Bhd (KL:KKB) for civil and structural works on phase two of the Samalaju, Sarawak water upgrade under SCORE - a 160 MLD raw water intake and a 120 MLD treatment plant over 36 months from November.",
+     "soWhat": "Klang Valley high-rise piling and Sarawak infrastructure are both feeding mid-cap order books - breadth, not just one-off megaprojects, is carrying the sector.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823277"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823279"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Piling specialists and Sarawak-linked contractors see sustained award flow.",
+     "watchOut": "Econpile's shares are down 45% over one year despite the wins - the market is pricing margin and collection risk, not headlines."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyInvestment",
+   "theme": "National short-stay rental framework pairs licensing with platform verification; court curbs JMB lockout powers",
+   "items": [
+    {
+     "id": "2026-10-27-pi-1",
+     "headline": "Housing Ministry drafts national short-stay (STRA) framework: only registered, licensed premises may operate, platforms must verify licences automatically and delist offenders",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "The Ministry of Housing and Local Government (KPKT), through PLANMalaysia with the Tourism Ministry, state governments and local authorities, is drafting STRA planning guidelines as a uniform national authority, Deputy Minister Datuk Aiman Athirah Sabu told the Dewan Rakyat. Only premises registered and fully compliant with local authority licensing may legally operate; strata schemes remain bound by JMB/MC by-laws under the Strata Management Act 2013; and digital platforms are expected to implement automatic licence-status verification before listing and to delist unlicensed premises, with enforcement under the Town and Country Planning Act 1976.",
+     "soWhat": "The compliance bar for Airbnb-style rentals is moving from patchwork local rules to a national licensing-and-platform-verification regime - unlicensed units face structural delisting risk once platforms are made the enforcement chokepoint.",
+     "sources": [
+      {
+       "publisher": "The Edge (Bernama)",
+       "url": "https://theedgemalaysia.com/node/823211"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Compliant, licensed operators and professionally managed strata assets gain share as informal supply exits.",
+     "watchOut": "Guidelines are still in drafting; timing and state-level adoption will vary, and JMB by-laws can still ban STRA outright."
+    },
+    {
+     "id": "2026-10-27-pi-2",
+     "headline": "Court rules JMBs cannot bar owners from their own units over unpaid maintenance fees",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "A court has ruled that joint management bodies (JMBs) cannot prevent property owners from accessing their own units as leverage for unpaid maintenance charges, FMT reported. The decision limits a common enforcement tactic used by strata managers against delinquent owners.",
+     "soWhat": "JMBs lose their cheapest collection lever; expect more reliance on formal debt recovery and tighter cash-flow management in ageing strata buildings - relevant to retail landlords and their yields.",
+     "sources": [
+      {
+       "publisher": "FMT",
+       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/jmbs-can-t-bar-owners-from-units-over-unpaid-fees"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Professional strata managers with formal collection and legal processes differentiate from self-managed JMBs.",
+     "watchOut": "Collection shortfalls in high-default buildings could pressure sinking funds and maintenance quality."
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "BMI flags Malaysian palm oil in the 2026-2027 El Nino drought path; Matang suspends its CFO pending an internal probe",
+   "items": [
+    {
+     "id": "2026-10-27-pl-1",
+     "headline": "BMI: 2026-2027 El Nino puts Malaysian palm oil and regional hydropower at risk - drought exposure rises sharply across South-east Asia",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "BMI (Fitch Solutions) said Southern Africa and South-east Asia face the sharpest rise in drought, heat and power risks from the 2026-2027 El Nino. In South-east Asia, drought puts rice, Thai sugar, Indonesian and Malaysian palm oil and Vietnamese robusta at risk, with around 90 million more people exposed to drought on average in past events. Malaysia is among countries most exposed on hydropower drought risk, but with hydro under 20% of generation, impacts are more likely to appear as peak-power constraints than system-wide shortages.",
+     "soWhat": "A confirmed El Nino track would tighten CPO supply into 2027 - supportive for prices but negative for yields and estate costs - while adding a seasonal peak-power risk to the peninsula's already-tight grid.",
+     "sources": [
+      {
+       "publisher": "Malay Mail (Bernama)",
+       "url": "https://www.malaymail.com/news/money/2026/10/26/bmi-malaysia-among-south-east-asian-economies-facing-el-nino-crop-power-risks/240704"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "CPO price upside benefits upstream planters; water-efficient estates and mills gain an operational edge.",
+     "watchOut": "Drought hits FFB yields with a 6-9 month lag; watch MPOB monthly output data for the first confirmation."
+    },
+    {
+     "id": "2026-10-27-pl-2",
+     "headline": "Matang suspends CFO and acting COO Tan Theng Hwee pending internal probe into governance and conduct matters",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "ACE Market-listed Matang Bhd (KL:MATANG) - oil palm plantation management, FFB sales and durian operations - suspended CFO and acting COO Tan Theng Hwee pending an internal investigation into governance, operational and management conduct matters. The group called it a neutral administrative measure with no findings of wrongdoing to date; group consultant Hoi Siew Chien assumes both roles. Matang's largest shareholder is MCA's investment arm Huaren Holdings Sdn Bhd with 25.49%.",
+     "soWhat": "A suspension of the finance and operations chief at a small-cap planter raises reporting and control questions regardless of the neutral framing - the probe's scope and duration are the tells.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823284"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "None immediate; a clean outcome removes an overhang.",
+     "watchOut": "Small-cap governance probes can widen; no stated duration for the suspension."
+    }
+   ]
+  },
+  {
+   "sectorKey": "capitalFinancing",
+   "theme": "No verified in-window licensed-moneylending or capital-financing news",
+   "items": []
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "No verified in-window news",
+   "items": []
+  },
+  {
+   "sectorKey": "cablesManufacturing",
+   "theme": "No company-specific in-window news; demand signal from the RM80-95b grid capex cycle (Moody's, ai-2) and cross-border interconnection (ai-3)",
+   "items": []
+  },
+  {
+   "sectorKey": "buildingMaterialsIbs",
+   "theme": "No verified in-window news",
+   "items": []
+  },
+  {
+   "sectorKey": "hotels",
+   "theme": "September airport traffic falls 12% y/y, though regional airports grow international passengers",
+   "items": [
+    {
+     "id": "2026-10-27-ht-1",
+     "headline": "Malaysia Airports' September traffic falls 12% y/y to 7.8m passengers - but Subang, Ipoh and Penang post international growth",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-26",
+     "detail": "Malaysia Airports Holdings Bhd said its Malaysian network handled 7.8 million passengers in September 2026, down 12% y/y, with international traffic down 2.2% to 4.3m and domestic down 21.8% to 3.4m. Against that, Subang (+24.1% international to 59,000), Ipoh (+16.6% to 31,000) and Penang (+5.3% to 348,000, about 57% of its total movements) grew internationally, and KLIA added Sun PhuQuoc Airways (Sept 1) and Gulf Air (Sept 30, its 10th West Asian carrier). Year-to-date Malaysian operations handled 75.2 million passengers.",
+     "soWhat": "The headline decline confirms the soft arrival trend behind Tourism Malaysia's 47m-target shortfall (yesterday's edition), but international growth at secondary airports and new carrier adds show the connectivity push landing selectively - gateway-city hotels with event calendars hold up better than the national average.",
+     "sources": [
+      {
+       "publisher": "The Edge (Bernama)",
+       "url": "https://theedgemalaysia.com/node/823206"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Penang and secondary-city hotels benefit from international route gains; new West Asian and Vietnam links feed KLIA.",
+     "watchOut": "A 21.8% domestic decline signals weak local travel demand into the year-end push."
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "Checked: Edge node probe (104 in-window nodes), Malay Mail (feed + 2 browser-opened articles), NST/FMT/Sun feeds, TNGlobal (WP API), Star business front, Bursa mirror (409 filings). Used: SoftBank US$50b named (ai-1), Moody's DC-hub view (ai-2), Malaysia-Singapore power triad (ai-3), MyDCD IPO (ai-4), Maxis-Astro broadband (ai-5). Seen, not itemised: nuclear 12-month decision timeline (FMT, policy process), Oxford economist DC-risk warning (FMT, commentary), PAS Waze-restriction reaction (FMT, politics), PIE Industrial AI-server recovery (Edge 823266, earnings preview), KEB IPO (Edge 823253; identity ambiguous - Edge calls it a property developer, EdgeProp links it to Johor DC power infrastructure), Tata Communications US$450m AI connectivity (India), SpaceX-Apollo chip financing (global), FMM SME push (generic), AI polytechnic Lumut (education policy).",
+  "propertyDevelopment": "Checked: Edge node probe, Star, EdgeProp, Bursa, feeds. No verified in-window development-launch news. Seen, not itemised: Bandar Madani township (RM250m road upgrades, 15-year phased government project, FMT), Citaglobal's RM50m divestment of 20% of Manjaran to BProperty (Star, minor), Ampang Jaya local-plan challenge leave (Edge 823242, residents' legal win).",
+  "construction": "Checked: Edge node probe, Star, Bursa, EdgeProp, feeds. Used: GDB RM1.02b ParkCity (ct-1), Econpile + Pansar (ct-2). Seen, not itemised: Aneka Jaringan RM53.35m Rio City Town Centre job (Star), KKB Engineering's RM49.78m arbitration win vs Shapadu Energy (Star + Bursa filing), West River RM17.95m M&E contracts (Star, minor), Kerjaya Prospek order-book research note (Sun, research), PMW International RM50m Sarawak factory groundbreaking (Edge 823233).",
+  "propertyInvestment": "Checked: Edge node probe (Bernama), FMT, EdgeProp. Used: national STRA framework (pi-1), JMB lockout ruling (pi-2). Seen, not itemised: EdgeProp's own short-stay framework write-up (corroborates pi-1, not opened), SSF Home RM42.47m warehouse land buy (Star, corporate occupier not retail investment), Unitrade Molok container manufacturing (Star, non-sector).",
+  "plantation": "Checked: Malay Mail (BMI/Bernama), Edge node probe, Bursa, feeds. Used: BMI El Nino crop/power risk (pl-1), Matang CFO suspension (pl-2). Seen, not itemised: oleochemical and palm-based nutraceutical push (Edge 823261, Dewan Rakyat policy answer, no new money), crop insurance expansion study (Edge 823248, preliminary), Matang monthly production figures filing (routine).",
+  "capitalFinancing": "Checked: Bursa mirror (409 filings), Edge node probe, feeds. No verified in-window licensed-moneylending or capital-financing news.",
+  "consumerFinancing": "Checked: feeds, Edge node probe, Bursa. No verified in-window news. Seen: net-disposable-income approach for aid eligibility from 2027 (Edge 823260, welfare policy, not consumer credit).",
+  "cablesManufacturing": "Checked: Bursa mirror, Edge node probe, feeds. Watchlist: Southern Cable - warrant conversion of 200,300 shares at RM0.275 (listing 27 Oct, routine) and an EPF S138 change (routine); no operational news. Sector demand signal tracked in ai-2/ai-3. Seen: SKA Capital's six TNB-linked jobs worth RM89.3m (Edge 823236, sub-contract scale).",
+  "buildingMaterialsIbs": "Checked: Bursa, Edge node probe, EdgeProp, feeds. No verified in-window wall-panel/IBS or OKA/Chin Hin news.",
+  "hotels": "Checked: Edge node probe (Bernama/MAHB), Sun, NST, feeds. Used: MAHB September traffic (ht-1). Seen, not itemised: Lufthansa returning to KL with daily Frankfurt flights planned in 2027 (NST headline, not opened), Tourism Malaysia 47m-target shortfall (itemised in the 26 Oct edition, ht-1 there)."
+ },
+ "generalCoverage": [
+  "Edition window: from the 26 Oct edition's checks (~07:21 MYT 26 Oct) to ~07:18 MYT 27 Oct 2026. A full working Monday: 104 in-window Edge nodes and 409 Bursa filings dated 26 Oct.",
+  "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00), never the site date banner; feeds by pubDate (FMT and The Sun publish in UTC, normalised here to +08:00); browser-opened pages by their in-body date lines. Wire copy is attributed: SoftBank (Bloomberg), STRA/MAHB/TNB-Sinohydro/oleochemical (Bernama via The Edge), Moody's and BMI (Bernama interviews via Malay Mail).",
+  "Bursa: KLSE Screener mirror checked with browser-UA fetch (pages 1-22, 660 unique entries spanning 23-26 Oct); 409 filings dated 26 Oct saved in full. Watchlist on 26 Oct: Southern Cable (warrant conversion + EPF S138 - routine), Pesona Metro (buy-back - routine), GDB (the RM1.02b contract filing, itemised via The Edge, ct-1). No other watchlist filings.",
+  "All ten listed portals were attempted this run: The Edge (node probe), The Star (business front, browser), Malay Mail (feed + 2 articles via browser - article pages are Cloudflare-blocked to plain curl), NST, FMT, The Sun (feeds), TNGlobal (WP API; front page 403 to curl), The Malaysian Reserve (browser), EdgeProp (browser), Bursa (KLSE mirror).",
+  "The Malaysian Reserve is Cloudflare-blocked for a second consecutive run (homepage challenge); no TMR content verified.",
+  "Dedupe notes: Paramount's Ujong Batu agreement (EdgeProp homepage) is a duplicate of the 26 Oct edition's pd-1. The SoftBank item resolves (names) the unnamed investor in the 25 Oct edition's ai-1; the MAHB traffic data continues the tourism-arrivals thread from the 26 Oct edition's ht-1."
+ ],
+ "watchlistCoverage": [
+  "GDB Holdings Berhad (0198): itemised - RM1.02b ParkCity Residences contract, its largest ever (ct-1); the corresponding 'OTHERS' Bursa filing (ann 11691117, 5:09pm) matches the company statement.",
+  "Southern Cable Group Berhad (0225): two filings - conversion of 200,300 warrants at RM0.275 (new listing 27 Oct; routine) and an EPF S138 substantial-shareholder change (routine). Not itemised.",
+  "Pesona Metro Holdings Berhad (8311): immediate share buy-back announcement (routine). Not itemised.",
+  "Media: no other opened in-window body names OKA, Chin Hin Group Berhad, Master Tec, Crest Builder, Tuju Setia, TCS, Inta Bina, Nestcon or Kitacon with new information."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 104,
+   "used": 9,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Edge",
+    "The Edge (Bloomberg)",
+    "The Edge (Bernama)"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 12,
+   "used": 2,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "Malay Mail",
+    "Malay Mail (Bernama)"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 49,
+   "used": 0,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "NST / Business Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 1,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 4,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 9,
+   "used": 0,
+   "status": "partial",
+   "note": "",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 5,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 409,
+   "used": 1,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Bursa announcements",
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
+}
