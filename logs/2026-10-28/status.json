@@ -2,7 +2,8 @@
  "date": "2026-10-28",
  "status": "published",
  "items": 12,
- "sectorsWithItems": 7,
+ "sectorsWithItems": 6,
  "blockers": [],
- "generatedAt": "2026-10-28T07:33:00+08:00"
+ "generatedAt": "2026-10-28T07:33:00+08:00",
+ "note": "corrected from 7 (miscount in run report): aiTelcoIct, propertyDevelopment, construction, buildingMaterialsIbs, plantation, hotels"
 }
