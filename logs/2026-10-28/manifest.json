@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "Bernama not separately checked; Bernama/wire stories reached via The Edge/Malay Mail/NST are logged under the carrying outlet with attribution. All ten listed portals attempted this run; TMR back up after 2 blocked days. Bursa official site blocked; mirror used (493 filings dated 27 Oct). Edge probe gap (26 Oct evening, nodes 823286-823336) recovered and re-triaged this run."
+}

@@ -1,0 +1,10 @@
+{"ts": "2026-10-28T07:17:30+08:00", "source": "The Edge", "method": "node probe 823286-823400 via curl", "result": "ok: 115 fetched, 108 resolved, 60 in-window; 26 Oct evening gap (823286-823336) re-triaged", "status": "ok"}
+{"ts": "2026-10-28T07:22:00+08:00", "source": "Malay Mail", "method": "RSS feed via curl; 2 articles in cloud browser (curl Cloudflare-blocked)", "result": "ok: 13 in-window; cruise + Lufthansa opened", "status": "ok"}
+{"ts": "2026-10-28T07:22:13+08:00", "source": "NST / Business Times", "method": "RSS feed via curl; article via cloud browser (JS-rendered)", "result": "ok: 49 in-window; Matrix + YNH candidates", "status": "ok"}
+{"ts": "2026-10-28T07:22:13+08:00", "source": "FMT", "method": "RSS feed via curl -L; article via curl", "result": "ok: 50 in-window; 32.2m tourists opened", "status": "ok"}
+{"ts": "2026-10-28T07:22:13+08:00", "source": "The Sun", "method": "RSS feed via curl", "result": "ok: 10 items, mostly PR; nothing itemised", "status": "ok"}
+{"ts": "2026-10-28T07:22:33+08:00", "source": "Bursa announcements", "method": "KLSE Screener mirror, pages 1-22, browser UA", "result": "ok: 493 filings dated 27 Oct; TNB sukuk, Bintai, YNH opened; watchlist routine only", "status": "ok"}
+{"ts": "2026-10-28T07:22:53+08:00", "source": "TNGlobal", "method": "WP API", "result": "ok: 6 posts; SIEW Singapore; nothing itemised", "status": "ok"}
+{"ts": "2026-10-28T07:24:07+08:00", "source": "The Star", "method": "cloud browser business front + 1 article", "result": "ok: TNB/Bintai/Matrix corroboration; SK GDP opened and excluded", "status": "ok"}
+{"ts": "2026-10-28T07:25:27+08:00", "source": "The Malaysian Reserve", "method": "cloud browser (anti-bot solver passed)", "result": "ok: back up after 2 blocked days; Zetrix + haze-tourism opened", "status": "ok"}
+{"ts": "2026-10-28T07:28:03+08:00", "source": "EdgeProp", "method": "cloud browser front + Nanta article", "result": "ok: IBS forum corroboration opened; Matrix/SkyWorld headlines logged", "status": "ok"}
