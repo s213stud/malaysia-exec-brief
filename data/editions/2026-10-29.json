@@ -1,401 +1,401 @@
 {
-  "date": "2026-10-29",
-  "status": "published",
-  "demo": false,
-  "checkedAt": [
-    "2026-10-29T07:20:36+08:00",
-    "2026-10-29T07:21:29+08:00",
-    "2026-10-29T07:23:10+08:00",
-    "2026-10-29T07:24:34+08:00",
-    "2026-10-29T07:25:05+08:00",
-    "2026-10-29T07:27:00+08:00"
-  ],
-  "publishedAt": "2026-10-29T07:45:00+08:00",
-  "keyTakeaways": [
-    {
-      "headline": "Maxis and U Mobile are reviving merger talks - Maxis is picking banks and law firms as advisers, and a combination worth roughly RM38b would overtake CelcomDigi as Malaysia's biggest mobile operator",
-      "soWhat": "Consolidation from four operators to three would redraw the telco market just as U Mobile's second 5G network goes live; watch for adviser appointments, a valuation framework (U Mobile's owners want RM10b+) and MCMC's stance on spectrum and competition.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-10-29-ai-1"
-      ]
-    },
-    {
-      "headline": "Data-centre power rules harden: the Energy Commission is drafting self-generation and renewable-energy guidelines for DCs, a 30% RE requirement is confirmed, and water-short states are told they cannot host DCs",
-      "soWhat": "Two days after SD Guthrie's CEO flagged energy as the gating factor, the government is formalising the constraint set - self-generation, backup-for-demand-control, 30% RE and water sufficiency. DC economics now depend on who can solve power and water, favouring Johor incumbents and landowners with generation options.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-10-29-ai-2"
-      ]
-    },
-    {
-      "headline": "The solar EPCC wave gets sized: Maybank IB sees RM18-28b of contracts in 2027-2028 from CRESS acceleration and LSS6, and Ann Joo has already taken a RM61.89m interconnection subcontract",
-      "soWhat": "DC-driven renewable demand is converting into a quantified EPCC pipeline with a December 2028 COD incentive (SAC cut to 14 sen/kWh). Contractors with high-voltage grid-connection track records are the beneficiaries; cables demand follows the same buildout.",
-      "sectorKeys": [
-        "construction"
-      ],
-      "itemIds": [
-        "2026-10-29-co-2",
-        "2026-10-29-co-3"
-      ]
-    }
-  ],
-  "sectors": [
-    {
-      "sectorKey": "aiTelcoIct",
-      "theme": "Telco consolidation revives while DC power rules harden",
-      "items": [
-        {
-          "id": "2026-10-29-ai-1",
-          "headline": "Maxis and U Mobile revive merger plan that would create Malaysia's biggest mobile operator; Maxis is soliciting bank and law-firm proposals",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-10-29",
-          "detail": "The billionaire families behind Maxis Bhd and U Mobile Sdn Bhd are reviving plans to combine the companies in a deal creating the country's biggest wireless operator by market value, people with knowledge of the matter told Bloomberg. Maxis, backed by the holding company of the late T Ananda Krishnan, is asking a select group of banks and law firms to submit proposals and could pick advisers shortly. U Mobile's owners may seek a valuation of RM10 billion or more; Maxis is worth about RM28.3 billion after a ~5% share decline this year, and a combination would overtake CelcomDigi Bhd (~RM29 billion market value). U Mobile - controlled by a vehicle backed by Tunku Tun Aminah Sultan Ibrahim and Tan Sri Vincent Tan - is the country's second 5G network operator, completing migration to its own 5G network in July. Talks have been on and off for years and stalled earlier this year over valuations, per The Edge. Maxis has neither denied nor confirmed the report (Malay Mail headline).",
-          "soWhat": "A Maxis-U Mobile combination would take the market from four national operators to three with the strongest 5G position, at a valuation now framed at RM38b+ combined. The process signal matters: soliciting adviser proposals is further than the talks have gone before. Watch adviser appointments, structure (merger vs buyout), and MCMC's conditions.",
-          "sources": [
-            {
-              "publisher": "The Star (Bloomberg)",
-              "url": "https://www.thestar.com.my/business/business-news/2026/10/29/billionaires-revive-plan-to-create-msias-biggest-telco"
-            },
-            {
-              "publisher": "The Edge (Bloomberg)",
-              "url": "https://theedgemalaysia.com/node/823619"
-            },
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/money"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Telco consolidation re-rates sector economics; towercos, fibre and 5G supply chain see a clearer customer map.",
-          "watchOut": "Unnamed sources and no company confirmation; prior rounds stalled on valuation."
-        },
-        {
-          "id": "2026-10-29-ai-2",
-          "headline": "Energy Commission drafting self-generation and renewable-energy guidelines for data centres; 30% RE requirement confirmed, water-short states ruled out",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "Deputy Prime Minister Datuk Seri Fadillah Yusof told the Dewan Rakyat the Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and renewable energy use for the data-centre sector, in line with the government's decision to require the sector to use at least 30% renewable energy. DCs are encouraged to build solar self-generation for own consumption to avoid raising supply costs for other consumers, and to fit backup generators usable for demand control during critical grid periods. Separately, Datuk Johari Abdul Ghani said states without sufficient water supply cannot host data centres (EdgeProp).",
-          "soWhat": "The constraint set SD Guthrie's CEO flagged on 27 Oct is now formal policy direction: 30% RE, self-generation, demand-control backup and water sufficiency. This raises the bar for new DC sites, strengthens the case for solar EPCC (co-3) and grid investment (TNB's RM4.8b sukuk, 28 Oct), and favours landowners who can bundle power and water solutions.",
-          "sources": [
-            {
-              "publisher": "The Edge (Bernama)",
-              "url": "https://theedgemalaysia.com/node/823576"
-            },
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Self-generation rules create a direct demand line for solar EPCC, batteries and grid services around DC sites.",
-          "watchOut": "Framework still in drafting; compliance costs could slow DC commitments in constrained states."
-        }
-      ]
-    },
-    {
-      "sectorKey": "construction",
-      "theme": "Solar EPCC pipeline sized at RM18-28b; a RM1.2b Perlis port lands; Ann Joo takes the first subcontract",
-      "items": [
-        {
-          "id": "2026-10-29-co-1",
-          "headline": "Berjaya Construction to design and build the Sanglang Port development in Perlis - a RM1.2 billion project with RM675 million initial construction cost",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "Berjaya Property Bhd's unit Berjaya Construction Bhd will undertake design-and-build works for the Sanglang Port development in Perlis, partnering owner-developer Sanglang Port Mutiara Perlis Sdn Bhd. The project has an estimated total development cost of about RM1.2 billion including initial estimated construction costs of RM675 million, to be developed in stages; the filing does not disclose the specific value of Berjaya Construction's job, which covers procurement, design development, engineering and construction delivery. The port complements the Tuanku Syed Sirajuddin Free Commercial Zone - Perlis Inland Port and the Chuping Valley Industrial Area. Berjaya Corporation founder Tan Sri Vincent Tan Chee Yioun framed it as strategic infrastructure investment.",
-          "soWhat": "A sizeable design-and-build role in northern-port infrastructure gives Berjaya Construction a multi-year delivery pipeline tied to the Perlis logistics build-out (PIP + Chuping). Staged development means the RM675m initial tranche is the near-term order-book addition.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/823600"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11692833"
-            },
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Northern-corridor logistics infrastructure spending (port, inland port, industrial area) compounds for regional contractors.",
-          "watchOut": "Berjaya Construction's specific contract value undisclosed; staged execution ties revenue to project milestones."
-        },
-        {
-          "id": "2026-10-29-co-2",
-          "headline": "Ann Joo's IAC Infrastructure takes a RM61.89 million subcontract for interconnection and transmission works on a ~100MWac northern-region solar plant",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "Ann Joo Resources Bhd's indirect wholly-owned IAC Infrastructure Sdn Bhd executed a RM61.89 million subcontract agreement on 2 October 2026 (announced 28 October) with an EPCC contractor for turnkey design-and-build, testing and commissioning of interconnection facilities and transmission line works for an approximately 100MWac large-scale solar photovoltaic plant in the northern region. Power will be delivered to the national grid via Tenaga Nasional's transmission system; completion is expected by 3Q2027.",
-          "soWhat": "Ann Joo is converting the solar build-out into order book through the grid-connection niche - the exact capability Maybank IB flags as the bottleneck skill for the coming EPCC wave (co-3). A steel group diversifying into energy infrastructure with a second recent win (RM37.4m battery storage in Kedah per NST related coverage).",
-          "sources": [
-            {
-              "publisher": "New Straits Times",
-              "url": "https://www.nst.com.my/business/corporate/2026/10/1565781/ann-joo-unit-bags-rm6189mil-solar-subcontract-deal"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11693225"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Interconnection/transmission subcontracts scale with every LSS and CRESS project reaching construction.",
-          "watchOut": "Subcontract position means margin and counterparty exposure sit with the main EPCC contractor."
-        },
-        {
-          "id": "2026-10-29-co-3",
-          "headline": "Maybank IB sizes Malaysia's solar EPCC opportunity at RM18-28 billion across 2027-2028 from the CRESS acceleration package and LSS6",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-10-29",
-          "detail": "Maybank Investment Bank estimates Malaysia's solar EPCC sector could secure RM18 billion to RM28 billion of contracts in 2027 and 2028, driven by data-centre renewable demand and the LSS6 programme. CRESS could generate RM9-18 billion in near-term EPCC opportunities and LSS6 another RM9-10 billion. The CRESS acceleration package cuts the developer system access charge from 20 sen/kWh to 14 sen/kWh for projects achieving commercial operation by December 2028 (plus a 4 sen/kWh Green Consumer SAC, effective 18 sen, subject to TNB regulatory-period revision). Maybank IB expects the deadline to accelerate CRESS finalisation over six to nine months, with construction potentially starting by mid-2027; industry checks suggest 2GW to 4GW of CRESS projects could be finalised. Winners: contractors with track records, strong balance sheets and high-voltage grid-connection experience.",
-          "soWhat": "The DC boom's renewable-energy requirement (30%, ai-2) now has a quantified local supply chain attached: RM18-28b of EPCC work in two years with a hard COD incentive. This is the clearest demand signal yet for solar contractors and, downstream, for cable and interconnection suppliers.",
-          "sources": [
-            {
-              "publisher": "TNGlobal",
-              "url": "https://technode.global/2026/10/28/malaysias-solar-sector-eyes-up-to-7b-in-epcc-contracts/"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Grid-connection-capable contractors and cable suppliers face a two-year order pipeline.",
-          "watchOut": "Research estimate, not awarded work; CRESS finalisation pace depends on SAC economics and TNB approvals."
-        }
-      ]
-    },
-    {
-      "sectorKey": "propertyDevelopment",
-      "theme": "A RM280m diversification deal collapses back to core property",
-      "items": [
-        {
-          "id": "2026-10-29-pd-1",
-          "headline": "Oriental Interest terminates its RM280 million acquisition of Chin Hin (Jitra) and CHJ Motor, refocusing on property development and construction",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "Oriental Interest Bhd will not proceed with the proposed RM280 million acquisition of the entire equity of Chin Hin (Jitra) Sdn Bhd and CHJ Motor Holdings Sdn Bhd from vendor LLSB 1980 Holdings Sdn Bhd; both sides mutually agreed to terminate, revoke and rescind the conditional sale and purchase agreement via a termination agreement dated 28 October 2026. The company cited longer-than-anticipated timeframes and additional resources needed for regulatory and procedural completion, plus a reassessment of business strategies. Oriental Interest said it remains focused on its core property development and general construction businesses with a healthy pipeline, growing unbilled sales and a sizeable landbank. Note: the target entities are private Sdn Bhds sharing the Chin Hin name - the watchlist-listed Chin Hin Group Property Berhad is not a party to this deal.",
-          "soWhat": "A diversification exit that returns Oriental Interest to pure property and construction focus; the terminated auto-distribution deal would have taken the group off-strategy. The walk-away rationale (regulatory timeframes) also reads as discipline on capital allocation.",
-          "sources": [
-            {
-              "publisher": "New Straits Times",
-              "url": "https://www.nst.com.my/business/corporate/2026/10/1565717/oriental-interest-terminates-proposed-acquisition-chin-hin-jitra"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11693471"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "None direct; watch whether the freed capital funds land or project launches instead.",
-          "watchOut": "Deal termination signals either regulatory friction or cold feet; any break-fee or deposit terms were not disclosed in opened sources."
-        }
-      ]
-    },
-    {
-      "sectorKey": "plantation",
-      "theme": "Results season opens with TDM's swing to profit; Matang's governance probe widens",
-      "items": [
-        {
-          "id": "2026-10-29-pl-1",
-          "headline": "TDM Berhad's 3Q2026 net profit jumps to RM14.97 million from RM1.71 million as revenue rises 11% to RM258.2 million",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "TDM Berhad's 3Q2026 (period ended 30 September 2026) revenue rose to RM258.24 million from RM232.55 million a year earlier, with net profit of RM14.97 million versus RM1.71 million. For the nine months, revenue reached RM638.12 million (from RM536.76 million) with net profit of RM23.40 million against a RM13.29 million loss a year earlier. The Terengganu-based group runs plantation and healthcare divisions.",
-          "soWhat": "The first plantation result of the reporting season confirms the volume-led recovery HLIB previewed (28 Oct edition): nine-month earnings swung RM36.7m into profit. Attention now turns to the bigger planters reporting from 5 November.",
-          "sources": [
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11693281"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Sector earnings momentum into the November reporting season.",
-          "watchOut": "TDM mixes plantation with healthcare; division-level drivers sit in the full quarterly PDF, not the summary."
-        },
-        {
-          "id": "2026-10-29-pl-2",
-          "headline": "Matang's CFO-cum-COO suspension draws a Bursa query; board says it is reviewing the suspension amid an internal probe",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "Matang Berhad replied to a Bursa Malaysia query letter (IQL-27102026-00001) on the suspension of its chief financial officer cum chief operation officer, first announced on 26 October. The Star reports the board is reviewing the suspension amid an internal probe. The suspension centres on a single officer holding both the CFO and COO roles.",
-          "soWhat": "Governance uncertainty at the small planter deepens - a combined finance-and-operations chief under suspension concentrates key-person risk. Watch for the review outcome and any financial-reporting implications.",
-          "sources": [
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11693379"
-            },
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "None; governance monitoring item.",
-          "watchOut": "Internal probe scope undisclosed; audit and results-timeline risk if the review extends."
-        }
-      ]
-    },
-    {
-      "sectorKey": "hotels",
-      "theme": "Boutique supply joins the KL pipeline",
-      "items": [
-        {
-          "id": "2026-10-29-ht-1",
-          "headline": "RM850 million Wolo Hotel & Residences Mont Kiara to feature a 63-room boutique hotel under Design Hotels and Marriott Bonvoy, completing 4Q2030",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-10-28",
-          "detail": "Magma Kiara Sdn Bhd, a subsidiary of Magma Group Bhd, signed a non-binding memorandum of collaboration with interior fit-out specialist Jalex Sdn Bhd to explore appointing it hotel interior adviser for Wolo Hotel & Residences, Mont Kiara KL. The approximately RM850 million, 60-storey mixed-use development comprises 378 private residences, 98 serviced residences, a 63-room boutique hotel (Levels 49-56) and retail space along Persiaran Dutamas; the hotel will be affiliated with Design Hotels and participate in Marriott Bonvoy on opening. Construction is underway with completion targeted for 4Q2030. Jalex's portfolio spans 88 hotel projects including the upcoming Waldorf Astoria Kuala Lumpur and The Conrad Hotel.",
-          "soWhat": "KL's boutique-hotel pipeline keeps building at the luxury end - a Design Hotels/Bonvoy affiliation gives the project international distribution from day one. The 4Q2030 timeline means supply lands after the current demand upcycle, and the interior-adviser MOC is early-stage, but the project itself is funded and under construction.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/823571"
-            }
-          ],
-          "watchlistCompanyKeys": [],
-          "opportunity": "Branded-residence plus boutique-hotel formats continue to attract capital into KL's northern corridor.",
-          "watchOut": "Non-binding MOC; boutique scale (63 rooms) limits market impact; completion four years out."
-        }
-      ]
-    }
-  ],
-  "sectorCoverage": {
-    "aiTelcoIct": "Checked: Edge node probe (226 nodes fetched 823380-823625, 170 resolved incl. the 27 Oct afternoon batch re-triage), Star, MM (front page; feed Cloudflare-blocked), NST feed, FMT feed, TNGlobal, EdgeProp, Bursa mirror (409 filings dated 28 Oct). Used: Maxis-U Mobile merger revival (ai-1, Bloomberg), DC self-generation/RE framework (ai-2, Bernama). Seen, not itemised: MCMC e-waste road map (Edge 823466), MCMC 170k scam-content removals (FMT), SKMM cyberbullying stats (Sun), OpenAI-Google chips and SK Hynix (global wires), Chief Justice AI practice directions (legal), AI guidelines for lawyers (NST), corporate-mafia Op Viking RM409m freeze (Edge 823538; enforcement, no listed company named). Zetrix watch: remuneration-committee change filing (28 Oct, 7:07pm) is housekeeping from the 28 Oct Wong Kok Chau resignation; still no next sukukholders' meeting date.",
-    "propertyDevelopment": "Checked: Edge probe, NST/FMT feeds, Star, EdgeProp, Bursa mirror. Used: Oriental Interest termination (pd-1). Seen, not itemised: PHB RM300m Penang logistics buy (institutional), Eonmetall RM273.3m Kapar land sale unconditional (steel manufacturer land monetisation), Matrix Kulai research follow-on (Star), Farmiera RM5m Selangor land (tiny), KL residents' land-acquisition challenge (legal process).",
-    "construction": "Checked: Edge probe, NST feed, TNGlobal, Star, Bursa mirror. Used: Berjaya Sanglang Port (co-1), Ann Joo solar subcontract (co-2), Maybank IB solar EPCC sizing (co-3). Seen, not itemised: T7 Global PETRONAS-Eni commissioning (O&G services), UUE research note (Star), Gamuda routine filings, AWC additional-listing (equity admin).",
-    "propertyInvestment": "Checked: Edge probe, EdgeProp, Star, feeds. No verified in-window retail-investment news. Seen: Tower REIT 1Q +16.3% (institutional), Atrium REIT quarterly (institutional), EdgeProp Done Deals (transactional).",
-    "plantation": "Checked: Edge probe, Bursa mirror, Star, feeds. Used: TDM 3Q results (pl-1), Matang query reply (pl-2). Seen, not itemised: SD Guthrie DC follow-on coverage (EdgeProp; itemised 28 Oct), El Nino haze weekly feature (Edge 823427, stub).",
-    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No licensed-moneylending-specific news in window. Seen: Op Viking corporate-mafia asset freeze (Edge 823538; enforcement update), Fitch Islamic finance US$800b outlook (Bernama), Islamic finance market depth (Star).",
-    "consumerFinancing": "Checked: Edge probe, feeds. No civil-servant financing news in window. Seen: PSD one-off promotions process (NST; civil-service HR, not financing), EPF retirement-adequacy remarks (policy).",
-    "cablesManufacturing": "Checked: Edge probe, Bursa mirror (watchlist grep across 409 filings), feeds. No cables-sector news in window; solar/grid items (co-2, co-3) corroborate the demand line. Southern Cable filings routine (EPF S138; new SCGBHD-C11 call warrants).",
-    "buildingMaterialsIbs": "Checked: Edge probe, EdgeProp, feeds. No IBS/wall-panel-specific news in window. Seen, not itemised: Pantech 2Q (revenue RM281.5m +24%, net RM19.39m; generic pipes/fittings for O&G - outside IBS scope per config), Iconic Worldwide revenue target (small-cap).",
-    "hotels": "Checked: FMT/MM/NST feeds, Edge probe, Star, EdgeProp. Used: Wolo Mont Kiara boutique hotel (ht-1). Seen, not itemised: MotoGP Sepang 80k fans/day logistics (NST), Lufthansa/cruise follow-ons (28 Oct items)."
+ "date": "2026-10-29",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-10-29T07:20:36+08:00",
+  "2026-10-29T07:21:29+08:00",
+  "2026-10-29T07:23:10+08:00",
+  "2026-10-29T07:24:34+08:00",
+  "2026-10-29T07:25:05+08:00",
+  "2026-10-29T07:27:00+08:00"
+ ],
+ "publishedAt": "2026-10-29T07:28:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "Maxis and U Mobile are reviving merger talks - Maxis is picking banks and law firms as advisers, and a combination worth roughly RM38b would overtake CelcomDigi as Malaysia's biggest mobile operator",
+   "soWhat": "Consolidation from four operators to three would redraw the telco market just as U Mobile's second 5G network goes live; watch for adviser appointments, a valuation framework (U Mobile's owners want RM10b+) and MCMC's stance on spectrum and competition.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-29-ai-1"
+   ]
   },
-  "generalCoverage": [
-    "Edition window: from the 28 Oct edition's checks (~07:18 MYT 28 Oct) to ~07:18 MYT 29 Oct 2026, plus completion of the 27 Oct afternoon Edge batch (nodes 823380-823530, created 27 Oct after the previous probe) - re-triaged today; nothing significant had been missed (all covered via other portals or non-sector).",
-    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological (drafts resolve late), so the probe scans a wide range daily and filters by created time. Feeds by pubDate (FMT and The Sun publish in UTC, normalised to +08:00). Wire copy attributed: Maxis-U Mobile (Bloomberg via The Star and The Edge), DC self-generation (Bernama via The Edge).",
-    "Access: Malay Mail's RSS feed is Cloudflare-walled; the MM website money front page was read in the browser instead (no challenge encountered). The Malaysian Reserve returns a 403 bot wall via curl and is logged as blocked without challenge-bypass attempts. NST article pages JS-render (browser used). Bursa official site blocks automation; 409 filings dated 28 Oct read via the KLSE Screener mirror.",
-    "The Edge's 29 Oct morning output was largely unpublished at research time; this edition covers 28 Oct output as usual, with any late-resolving nodes caught in the next run's re-triage."
-  ],
-  "watchlistCoverage": [
-    "Southern Cable Group Berhad (0225): routine 28 Oct filings - EPF S138 change and new SCGBHD-C11 structured call warrants; not itemised.",
-    "Chin Hin note: 'Oriental Interest terminates acquisition of Chin Hin (Jitra) Sdn Bhd and CHJ Motor Holdings Sdn Bhd' involves private companies sharing the Chin Hin name, NOT watchlist-listed Chin Hin Group Property Berhad (5273); per the naming rule this is not a watchlist flag.",
-    "No watchlist company named in an itemised article today."
-  ],
-  "sourceTally": [
+  {
+   "headline": "Data-centre power rules harden: the Energy Commission is drafting self-generation and renewable-energy guidelines for DCs, a 30% RE requirement is confirmed, and water-short states are told they cannot host DCs",
+   "soWhat": "Two days after SD Guthrie's CEO flagged energy as the gating factor, the government is formalising the constraint set - self-generation, backup-for-demand-control, 30% RE and water sufficiency. DC economics now depend on who can solve power and water, favouring Johor incumbents and landowners with generation options.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-29-ai-2"
+   ]
+  },
+  {
+   "headline": "The solar EPCC wave gets sized: Maybank IB sees RM18-28b of contracts in 2027-2028 from CRESS acceleration and LSS6, and Ann Joo has already taken a RM61.89m interconnection subcontract",
+   "soWhat": "DC-driven renewable demand is converting into a quantified EPCC pipeline with a December 2028 COD incentive (SAC cut to 14 sen/kWh). Contractors with high-voltage grid-connection track records are the beneficiaries; cables demand follows the same buildout.",
+   "sectorKeys": [
+    "construction"
+   ],
+   "itemIds": [
+    "2026-10-29-co-2",
+    "2026-10-29-co-3"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Telco consolidation revives while DC power rules harden",
+   "items": [
     {
-      "source": "The Edge",
-      "scanned": 80,
-      "used": 4,
-      "status": "checked",
-      "note": "226 nodes fetched (823380-823625), 170 resolved incl. 27 Oct afternoon re-triage",
-      "publishers": [
-        "The Edge",
-        "The Edge (Bloomberg)",
-        "The Edge (Bernama)"
-      ]
+     "id": "2026-10-29-ai-1",
+     "headline": "Maxis and U Mobile revive merger plan that would create Malaysia's biggest mobile operator; Maxis is soliciting bank and law-firm proposals",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "The billionaire families behind Maxis Bhd and U Mobile Sdn Bhd are reviving plans to combine the companies in a deal creating the country's biggest wireless operator by market value, people with knowledge of the matter told Bloomberg. Maxis, backed by the holding company of the late T Ananda Krishnan, is asking a select group of banks and law firms to submit proposals and could pick advisers shortly. U Mobile's owners may seek a valuation of RM10 billion or more; Maxis is worth about RM28.3 billion after a ~5% share decline this year, and a combination would overtake CelcomDigi Bhd (~RM29 billion market value). U Mobile - controlled by a vehicle backed by Tunku Tun Aminah Sultan Ibrahim and Tan Sri Vincent Tan - is the country's second 5G network operator, completing migration to its own 5G network in July. Talks have been on and off for years and stalled earlier this year over valuations, per The Edge. Maxis has neither denied nor confirmed the report (Malay Mail headline).",
+     "soWhat": "A Maxis-U Mobile combination would take the market from four national operators to three with the strongest 5G position, at a valuation now framed at RM38b+ combined. The process signal matters: soliciting adviser proposals is further than the talks have gone before. Watch adviser appointments, structure (merger vs buyout), and MCMC's conditions.",
+     "sources": [
+      {
+       "publisher": "The Star (Bloomberg)",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/29/billionaires-revive-plan-to-create-msias-biggest-telco"
+      },
+      {
+       "publisher": "The Edge (Bloomberg)",
+       "url": "https://theedgemalaysia.com/node/823619"
+      },
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/money"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Telco consolidation re-rates sector economics; towercos, fibre and 5G supply chain see a clearer customer map.",
+     "watchOut": "Unnamed sources and no company confirmation; prior rounds stalled on valuation."
     },
     {
-      "source": "Malay Mail",
-      "scanned": 1,
-      "used": 1,
-      "status": "blocked",
-      "note": "feed Cloudflare-walled; money front read in browser",
-      "publishers": [
-        "Malay Mail"
-      ]
-    },
-    {
-      "source": "NST / Business Times",
-      "scanned": 51,
-      "used": 2,
-      "status": "checked",
-      "note": "feed path /feed; articles via browser",
-      "publishers": [
-        "New Straits Times"
-      ]
-    },
-    {
-      "source": "FMT",
-      "scanned": 50,
-      "used": 0,
-      "status": "checked",
-      "note": "",
-      "publishers": [
-        "Free Malaysia Today"
-      ]
-    },
-    {
-      "source": "The Sun",
-      "scanned": 10,
-      "used": 0,
-      "status": "checked",
-      "note": "",
-      "publishers": [
-        "The Sun"
-      ]
-    },
-    {
-      "source": "TNGlobal",
-      "scanned": 1,
-      "used": 1,
-      "status": "checked",
-      "note": "WP API",
-      "publishers": [
-        "TNGlobal"
-      ]
-    },
-    {
-      "source": "The Star",
-      "scanned": 5,
-      "used": 3,
-      "status": "checked",
-      "note": "business front + telco article; Just-In carousel truncates in ax reads",
-      "publishers": [
-        "The Star",
-        "The Star (Bloomberg)"
-      ]
-    },
-    {
-      "source": "The Malaysian Reserve",
-      "scanned": 0,
-      "used": 0,
-      "status": "blocked",
-      "note": "403 bot wall via curl; terminal per no-solver rule",
-      "publishers": [
-        "The Malaysian Reserve"
-      ]
-    },
-    {
-      "source": "EdgeProp",
-      "scanned": 4,
-      "used": 1,
-      "status": "checked",
-      "note": "front page headlines; no article opened",
-      "publishers": [
-        "EdgeProp"
-      ]
-    },
-    {
-      "source": "Bursa announcements",
-      "scanned": 18,
-      "used": 5,
-      "status": "checked",
-      "note": "409 filings dated 28 Oct via KLSE Screener mirror; watchlist grep: routine only",
-      "publishers": [
-        "Bursa announcement (via KLSE Screener mirror)"
-      ]
+     "id": "2026-10-29-ai-2",
+     "headline": "Energy Commission drafting self-generation and renewable-energy guidelines for data centres; 30% RE requirement confirmed, water-short states ruled out",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "Deputy Prime Minister Datuk Seri Fadillah Yusof told the Dewan Rakyat the Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and renewable energy use for the data-centre sector, in line with the government's decision to require the sector to use at least 30% renewable energy. DCs are encouraged to build solar self-generation for own consumption to avoid raising supply costs for other consumers, and to fit backup generators usable for demand control during critical grid periods. Separately, Datuk Johari Abdul Ghani said states without sufficient water supply cannot host data centres (EdgeProp).",
+     "soWhat": "The constraint set SD Guthrie's CEO flagged on 27 Oct is now formal policy direction: 30% RE, self-generation, demand-control backup and water sufficiency. This raises the bar for new DC sites, strengthens the case for solar EPCC (co-3) and grid investment (TNB's RM4.8b sukuk, 28 Oct), and favours landowners who can bundle power and water solutions.",
+     "sources": [
+      {
+       "publisher": "The Edge (Bernama)",
+       "url": "https://theedgemalaysia.com/node/823576"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Self-generation rules create a direct demand line for solar EPCC, batteries and grid services around DC sites.",
+     "watchOut": "Framework still in drafting; compliance costs could slow DC commitments in constrained states."
     }
-  ]
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "Solar EPCC pipeline sized at RM18-28b; a RM1.2b Perlis port lands; Ann Joo takes the first subcontract",
+   "items": [
+    {
+     "id": "2026-10-29-co-1",
+     "headline": "Berjaya Construction to design and build the Sanglang Port development in Perlis - a RM1.2 billion project with RM675 million initial construction cost",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "Berjaya Property Bhd's unit Berjaya Construction Bhd will undertake design-and-build works for the Sanglang Port development in Perlis, partnering owner-developer Sanglang Port Mutiara Perlis Sdn Bhd. The project has an estimated total development cost of about RM1.2 billion including initial estimated construction costs of RM675 million, to be developed in stages; the filing does not disclose the specific value of Berjaya Construction's job, which covers procurement, design development, engineering and construction delivery. The port complements the Tuanku Syed Sirajuddin Free Commercial Zone - Perlis Inland Port and the Chuping Valley Industrial Area. Berjaya Corporation founder Tan Sri Vincent Tan Chee Yioun framed it as strategic infrastructure investment.",
+     "soWhat": "A sizeable design-and-build role in northern-port infrastructure gives Berjaya Construction a multi-year delivery pipeline tied to the Perlis logistics build-out (PIP + Chuping). Staged development means the RM675m initial tranche is the near-term order-book addition.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823600"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11692833"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Northern-corridor logistics infrastructure spending (port, inland port, industrial area) compounds for regional contractors.",
+     "watchOut": "Berjaya Construction's specific contract value undisclosed; staged execution ties revenue to project milestones."
+    },
+    {
+     "id": "2026-10-29-co-2",
+     "headline": "Ann Joo's IAC Infrastructure takes a RM61.89 million subcontract for interconnection and transmission works on a ~100MWac northern-region solar plant",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "Ann Joo Resources Bhd's indirect wholly-owned IAC Infrastructure Sdn Bhd executed a RM61.89 million subcontract agreement on 2 October 2026 (announced 28 October) with an EPCC contractor for turnkey design-and-build, testing and commissioning of interconnection facilities and transmission line works for an approximately 100MWac large-scale solar photovoltaic plant in the northern region. Power will be delivered to the national grid via Tenaga Nasional's transmission system; completion is expected by 3Q2027.",
+     "soWhat": "Ann Joo is converting the solar build-out into order book through the grid-connection niche - the exact capability Maybank IB flags as the bottleneck skill for the coming EPCC wave (co-3). A steel group diversifying into energy infrastructure with a second recent win (RM37.4m battery storage in Kedah per NST related coverage).",
+     "sources": [
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/business/corporate/2026/10/1565781/ann-joo-unit-bags-rm6189mil-solar-subcontract-deal"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11693225"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Interconnection/transmission subcontracts scale with every LSS and CRESS project reaching construction.",
+     "watchOut": "Subcontract position means margin and counterparty exposure sit with the main EPCC contractor."
+    },
+    {
+     "id": "2026-10-29-co-3",
+     "headline": "Maybank IB sizes Malaysia's solar EPCC opportunity at RM18-28 billion across 2027-2028 from the CRESS acceleration package and LSS6",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Maybank Investment Bank estimates Malaysia's solar EPCC sector could secure RM18 billion to RM28 billion of contracts in 2027 and 2028, driven by data-centre renewable demand and the LSS6 programme. CRESS could generate RM9-18 billion in near-term EPCC opportunities and LSS6 another RM9-10 billion. The CRESS acceleration package cuts the developer system access charge from 20 sen/kWh to 14 sen/kWh for projects achieving commercial operation by December 2028 (plus a 4 sen/kWh Green Consumer SAC, effective 18 sen, subject to TNB regulatory-period revision). Maybank IB expects the deadline to accelerate CRESS finalisation over six to nine months, with construction potentially starting by mid-2027; industry checks suggest 2GW to 4GW of CRESS projects could be finalised. Winners: contractors with track records, strong balance sheets and high-voltage grid-connection experience.",
+     "soWhat": "The DC boom's renewable-energy requirement (30%, ai-2) now has a quantified local supply chain attached: RM18-28b of EPCC work in two years with a hard COD incentive. This is the clearest demand signal yet for solar contractors and, downstream, for cable and interconnection suppliers.",
+     "sources": [
+      {
+       "publisher": "TNGlobal",
+       "url": "https://technode.global/2026/10/28/malaysias-solar-sector-eyes-up-to-7b-in-epcc-contracts/"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Grid-connection-capable contractors and cable suppliers face a two-year order pipeline.",
+     "watchOut": "Research estimate, not awarded work; CRESS finalisation pace depends on SAC economics and TNB approvals."
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "A RM280m diversification deal collapses back to core property",
+   "items": [
+    {
+     "id": "2026-10-29-pd-1",
+     "headline": "Oriental Interest terminates its RM280 million acquisition of Chin Hin (Jitra) and CHJ Motor, refocusing on property development and construction",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "Oriental Interest Bhd will not proceed with the proposed RM280 million acquisition of the entire equity of Chin Hin (Jitra) Sdn Bhd and CHJ Motor Holdings Sdn Bhd from vendor LLSB 1980 Holdings Sdn Bhd; both sides mutually agreed to terminate, revoke and rescind the conditional sale and purchase agreement via a termination agreement dated 28 October 2026. The company cited longer-than-anticipated timeframes and additional resources needed for regulatory and procedural completion, plus a reassessment of business strategies. Oriental Interest said it remains focused on its core property development and general construction businesses with a healthy pipeline, growing unbilled sales and a sizeable landbank. Note: the target entities are private Sdn Bhds sharing the Chin Hin name - the watchlist-listed Chin Hin Group Property Berhad is not a party to this deal.",
+     "soWhat": "A diversification exit that returns Oriental Interest to pure property and construction focus; the terminated auto-distribution deal would have taken the group off-strategy. The walk-away rationale (regulatory timeframes) also reads as discipline on capital allocation.",
+     "sources": [
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/business/corporate/2026/10/1565717/oriental-interest-terminates-proposed-acquisition-chin-hin-jitra"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11693471"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "None direct; watch whether the freed capital funds land or project launches instead.",
+     "watchOut": "Deal termination signals either regulatory friction or cold feet; any break-fee or deposit terms were not disclosed in opened sources."
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "Results season opens with TDM's swing to profit; Matang's governance probe widens",
+   "items": [
+    {
+     "id": "2026-10-29-pl-1",
+     "headline": "TDM Berhad's 3Q2026 net profit jumps to RM14.97 million from RM1.71 million as revenue rises 11% to RM258.2 million",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "TDM Berhad's 3Q2026 (period ended 30 September 2026) revenue rose to RM258.24 million from RM232.55 million a year earlier, with net profit of RM14.97 million versus RM1.71 million. For the nine months, revenue reached RM638.12 million (from RM536.76 million) with net profit of RM23.40 million against a RM13.29 million loss a year earlier. The Terengganu-based group runs plantation and healthcare divisions.",
+     "soWhat": "The first plantation result of the reporting season confirms the volume-led recovery HLIB previewed (28 Oct edition): nine-month earnings swung RM36.7m into profit. Attention now turns to the bigger planters reporting from 5 November.",
+     "sources": [
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11693281"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Sector earnings momentum into the November reporting season.",
+     "watchOut": "TDM mixes plantation with healthcare; division-level drivers sit in the full quarterly PDF, not the summary."
+    },
+    {
+     "id": "2026-10-29-pl-2",
+     "headline": "Matang's CFO-cum-COO suspension draws a Bursa query; board says it is reviewing the suspension amid an internal probe",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "Matang Berhad replied to a Bursa Malaysia query letter (IQL-27102026-00001) on the suspension of its chief financial officer cum chief operation officer, first announced on 26 October. The Star reports the board is reviewing the suspension amid an internal probe. The suspension centres on a single officer holding both the CFO and COO roles.",
+     "soWhat": "Governance uncertainty at the small planter deepens - a combined finance-and-operations chief under suspension concentrates key-person risk. Watch for the review outcome and any financial-reporting implications.",
+     "sources": [
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11693379"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "None; governance monitoring item.",
+     "watchOut": "Internal probe scope undisclosed; audit and results-timeline risk if the review extends."
+    }
+   ]
+  },
+  {
+   "sectorKey": "hotels",
+   "theme": "Boutique supply joins the KL pipeline",
+   "items": [
+    {
+     "id": "2026-10-29-ht-1",
+     "headline": "RM850 million Wolo Hotel & Residences Mont Kiara to feature a 63-room boutique hotel under Design Hotels and Marriott Bonvoy, completing 4Q2030",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-28",
+     "detail": "Magma Kiara Sdn Bhd, a subsidiary of Magma Group Bhd, signed a non-binding memorandum of collaboration with interior fit-out specialist Jalex Sdn Bhd to explore appointing it hotel interior adviser for Wolo Hotel & Residences, Mont Kiara KL. The approximately RM850 million, 60-storey mixed-use development comprises 378 private residences, 98 serviced residences, a 63-room boutique hotel (Levels 49-56) and retail space along Persiaran Dutamas; the hotel will be affiliated with Design Hotels and participate in Marriott Bonvoy on opening. Construction is underway with completion targeted for 4Q2030. Jalex's portfolio spans 88 hotel projects including the upcoming Waldorf Astoria Kuala Lumpur and The Conrad Hotel.",
+     "soWhat": "KL's boutique-hotel pipeline keeps building at the luxury end - a Design Hotels/Bonvoy affiliation gives the project international distribution from day one. The 4Q2030 timeline means supply lands after the current demand upcycle, and the interior-adviser MOC is early-stage, but the project itself is funded and under construction.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823571"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Branded-residence plus boutique-hotel formats continue to attract capital into KL's northern corridor.",
+     "watchOut": "Non-binding MOC; boutique scale (63 rooms) limits market impact; completion four years out."
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "Checked: Edge node probe (226 nodes fetched 823380-823625, 170 resolved incl. the 27 Oct afternoon batch re-triage), Star, MM (front page; feed Cloudflare-blocked), NST feed, FMT feed, TNGlobal, EdgeProp, Bursa mirror (409 filings dated 28 Oct). Used: Maxis-U Mobile merger revival (ai-1, Bloomberg), DC self-generation/RE framework (ai-2, Bernama). Seen, not itemised: MCMC e-waste road map (Edge 823466), MCMC 170k scam-content removals (FMT), SKMM cyberbullying stats (Sun), OpenAI-Google chips and SK Hynix (global wires), Chief Justice AI practice directions (legal), AI guidelines for lawyers (NST), corporate-mafia Op Viking RM409m freeze (Edge 823538; enforcement, no listed company named). Zetrix watch: remuneration-committee change filing (28 Oct, 7:07pm) is housekeeping from the 28 Oct Wong Kok Chau resignation; still no next sukukholders' meeting date.",
+  "propertyDevelopment": "Checked: Edge probe, NST/FMT feeds, Star, EdgeProp, Bursa mirror. Used: Oriental Interest termination (pd-1). Seen, not itemised: PHB RM300m Penang logistics buy (institutional), Eonmetall RM273.3m Kapar land sale unconditional (steel manufacturer land monetisation), Matrix Kulai research follow-on (Star), Farmiera RM5m Selangor land (tiny), KL residents' land-acquisition challenge (legal process).",
+  "construction": "Checked: Edge probe, NST feed, TNGlobal, Star, Bursa mirror. Used: Berjaya Sanglang Port (co-1), Ann Joo solar subcontract (co-2), Maybank IB solar EPCC sizing (co-3). Seen, not itemised: T7 Global PETRONAS-Eni commissioning (O&G services), UUE research note (Star), Gamuda routine filings, AWC additional-listing (equity admin).",
+  "propertyInvestment": "Checked: Edge probe, EdgeProp, Star, feeds. No verified in-window retail-investment news. Seen: Tower REIT 1Q +16.3% (institutional), Atrium REIT quarterly (institutional), EdgeProp Done Deals (transactional).",
+  "plantation": "Checked: Edge probe, Bursa mirror, Star, feeds. Used: TDM 3Q results (pl-1), Matang query reply (pl-2). Seen, not itemised: SD Guthrie DC follow-on coverage (EdgeProp; itemised 28 Oct), El Nino haze weekly feature (Edge 823427, stub).",
+  "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No licensed-moneylending-specific news in window. Seen: Op Viking corporate-mafia asset freeze (Edge 823538; enforcement update), Fitch Islamic finance US$800b outlook (Bernama), Islamic finance market depth (Star).",
+  "consumerFinancing": "Checked: Edge probe, feeds. No civil-servant financing news in window. Seen: PSD one-off promotions process (NST; civil-service HR, not financing), EPF retirement-adequacy remarks (policy).",
+  "cablesManufacturing": "Checked: Edge probe, Bursa mirror (watchlist grep across 409 filings), feeds. No cables-sector news in window; solar/grid items (co-2, co-3) corroborate the demand line. Southern Cable filings routine (EPF S138; new SCGBHD-C11 call warrants).",
+  "buildingMaterialsIbs": "Checked: Edge probe, EdgeProp, feeds. No IBS/wall-panel-specific news in window. Seen, not itemised: Pantech 2Q (revenue RM281.5m +24%, net RM19.39m; generic pipes/fittings for O&G - outside IBS scope per config), Iconic Worldwide revenue target (small-cap).",
+  "hotels": "Checked: FMT/MM/NST feeds, Edge probe, Star, EdgeProp. Used: Wolo Mont Kiara boutique hotel (ht-1). Seen, not itemised: MotoGP Sepang 80k fans/day logistics (NST), Lufthansa/cruise follow-ons (28 Oct items)."
+ },
+ "generalCoverage": [
+  "Edition window: from the 28 Oct edition's checks (~07:18 MYT 28 Oct) to ~07:18 MYT 29 Oct 2026, plus completion of the 27 Oct afternoon Edge batch (nodes 823380-823530, created 27 Oct after the previous probe) - re-triaged today; nothing significant had been missed (all covered via other portals or non-sector).",
+  "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological (drafts resolve late), so the probe scans a wide range daily and filters by created time. Feeds by pubDate (FMT and The Sun publish in UTC, normalised to +08:00). Wire copy attributed: Maxis-U Mobile (Bloomberg via The Star and The Edge), DC self-generation (Bernama via The Edge).",
+  "Access: Malay Mail's RSS feed is Cloudflare-walled; the MM website money front page was read in the browser instead (no challenge encountered). The Malaysian Reserve returns a 403 bot wall via curl and is logged as blocked without challenge-bypass attempts. NST article pages JS-render (browser used). Bursa official site blocks automation; 409 filings dated 28 Oct read via the KLSE Screener mirror.",
+  "The Edge's 29 Oct morning output was largely unpublished at research time; this edition covers 28 Oct output as usual, with any late-resolving nodes caught in the next run's re-triage."
+ ],
+ "watchlistCoverage": [
+  "Southern Cable Group Berhad (0225): routine 28 Oct filings - EPF S138 change and new SCGBHD-C11 structured call warrants; not itemised.",
+  "Chin Hin note: 'Oriental Interest terminates acquisition of Chin Hin (Jitra) Sdn Bhd and CHJ Motor Holdings Sdn Bhd' involves private companies sharing the Chin Hin name, NOT watchlist-listed Chin Hin Group Property Berhad (5273); per the naming rule this is not a watchlist flag.",
+  "No watchlist company named in an itemised article today."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 80,
+   "used": 4,
+   "status": "checked",
+   "note": "226 nodes fetched (823380-823625), 170 resolved incl. 27 Oct afternoon re-triage",
+   "publishers": [
+    "The Edge",
+    "The Edge (Bloomberg)",
+    "The Edge (Bernama)"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 1,
+   "used": 1,
+   "status": "blocked",
+   "note": "feed Cloudflare-walled; money front read in browser",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 51,
+   "used": 2,
+   "status": "checked",
+   "note": "feed path /feed; articles via browser",
+   "publishers": [
+    "New Straits Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Free Malaysia Today"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 1,
+   "used": 1,
+   "status": "checked",
+   "note": "WP API",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 5,
+   "used": 3,
+   "status": "checked",
+   "note": "business front + telco article; Just-In carousel truncates in ax reads",
+   "publishers": [
+    "The Star",
+    "The Star (Bloomberg)"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "403 bot wall via curl; terminal per no-solver rule",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 4,
+   "used": 1,
+   "status": "checked",
+   "note": "front page headlines; no article opened",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 18,
+   "used": 5,
+   "status": "checked",
+   "note": "409 filings dated 28 Oct via KLSE Screener mirror; watchlist grep: routine only",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
 }
