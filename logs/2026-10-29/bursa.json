@@ -1,0 +1,2941 @@
+{
+ "date": "2026-10-28",
+ "source": "KLSE Screener mirror (bursamalaysia.com blocks automation)",
+ "complete": true,
+ "count": 409,
+ "results": [
+  {
+   "company": "BERJAYA PROPERTY BERHAD",
+   "title": "Berjaya Construction - Sanglang Port design-and-build",
+   "id": "11692833",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-10-29-co-1"
+  },
+  {
+   "company": "MATANG BERHAD",
+   "title": "Suspension of CFO cum COO (Bursa query reply)",
+   "id": "11693379",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-10-29-pl-2"
+  },
+  {
+   "company": "TDM BERHAD",
+   "title": "3Q2026 quarterly report",
+   "id": "11693281",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-10-29-pl-1"
+  },
+  {
+   "company": "ORIENTAL INTEREST BERHAD",
+   "title": "OTHERS - acquisition termination",
+   "id": "11693471",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-10-29-pd-1"
+  },
+  {
+   "company": "ANN JOO RESOURCES BERHAD",
+   "title": "OTHERS - solar subcontract",
+   "id": "11693225",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-10-29-co-2"
+  },
+  {
+   "company": "PANTECH GROUP HOLDINGS BERHAD",
+   "title": "2Q quarterly report",
+   "id": "11693107",
+   "opened": true,
+   "decision": "seen-not-itemised"
+  },
+  {
+   "company": "YNH PROPERTY BERHAD",
+   "title": "RRPT mandate + buy-back renewal (routine)",
+   "id": "11693489",
+   "opened": true,
+   "decision": "seen-not-itemised"
+  },
+  {
+   "company": "ZETRIX AI BERHAD",
+   "title": "Remuneration committee change (routine)",
+   "id": "11693499",
+   "opened": false,
+   "decision": "seen-not-itemised"
+  },
+  {
+   "company": "SOUTHERN CABLE GROUP BERHAD",
+   "title": "EPF S138 + SCGBHD-C11 warrants (routine)",
+   "id": "11693217",
+   "opened": false,
+   "decision": "seen-not-itemised"
+  }
+ ],
+ "filings": [
+  {
+   "date": "28 Oct",
+   "time": "7:10 pm",
+   "company": "KENANGA KLCI DAILY 2X LEVERAGED ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693503"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:06 pm",
+   "company": "KENANGA KLCI DAILY (-1X) INVERSE ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693501"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:07 pm",
+   "company": "ZETRIX AI BERHAD",
+   "title": "Change in Remuneration Committee - MR WONG KOK CHAU",
+   "id": "11693499"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:00 pm",
+   "company": "EQ8 FTSE CHINA 50 ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693497"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:58 pm",
+   "company": "SAMAIDEN GROUP BERHAD",
+   "title": "PART A - CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF EXISTING  SHAREHOLDERS MANDATE AND PROPOSED NEW",
+   "id": "11693493"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:57 pm",
+   "company": "EQ8 MSCI SEA ISLAMIC DIVIDEND ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693495"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:56 pm",
+   "company": "FTSE4GOOD BURSA MALAYSIA ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693491"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:55 pm",
+   "company": "EQ8 FTSE MALAYSIA ENHANCED DIVIDEND WAQF ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693487"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:53 pm",
+   "company": "EQ8 MSCI MALAYSIA ISLAMIC DIVIDEND ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693481"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:52 pm",
+   "company": "COMPUTER FORMS (MALAYSIA) BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693483"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:52 pm",
+   "company": "EQ8 DOW JONES ISLAMIC MARKET MALAYSIA TITANS 25 ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693485"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:51 pm",
+   "company": "SAMAIDEN GROUP BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11693479"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:48 pm",
+   "company": "ETA GROUP BERHAD",
+   "title": "OTHERS",
+   "id": "11693477"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:47 pm",
+   "company": "CNERGENZ BERHAD",
+   "title": "OTHERS",
+   "id": "11693473"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:46 pm",
+   "company": "KANGER INTERNATIONAL BERHAD",
+   "title": "OTHERS",
+   "id": "11693475"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:39 pm",
+   "company": "SBS NEXUS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11693469"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:42 pm",
+   "company": "ORIENTAL INTEREST BERHAD",
+   "title": "OTHERS",
+   "id": "11693471"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:35 pm",
+   "company": "SAMAIDEN GROUP BERHAD",
+   "title": "Immediate Announcement of Changes in Treasury Shares",
+   "id": "11693443"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:35 pm",
+   "company": "TANCO HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' SRI ANDREW TAN JUN SUAN",
+   "id": "11693445"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:35 pm",
+   "company": "LIM SEONG HAI CAPITAL BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11693447"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - TAN SRI DATO' MOHAMED MANSOR BIN FATEH DIN",
+   "id": "11693449"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "LIM SEONG HAI CAPITAL BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATUK LIM KENG GUAN",
+   "id": "11693453"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATUK SERI FATEH ISKANDAR BIN TAN SRI DATO' MOHAMED MANSOR",
+   "id": "11693451"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATUK SERI FATEH ISKANDAR BIN TAN SRI DATO' MOHAMED MANSOR",
+   "id": "11693455"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - TAN SRI DATO' MOHAMED MANSOR BIN FATEH DIN",
+   "id": "11693457"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - ENCIK FATEH IDZHAM BIN DATUK SERI FATEH ISKANDAR",
+   "id": "11693459"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693463"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "GLOMAC BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - ENCIK FATEH IDZHAM BIN DATUK SERI FATEH ISKANDAR",
+   "id": "11693461"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "TANCO HOLDINGS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATO' SRI ANDREW TAN JUN SUAN",
+   "id": "11693465"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:34 pm",
+   "company": "LIM SEONG HAI CAPITAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATUK LIM KENG GUAN",
+   "id": "11693467"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:33 pm",
+   "company": "AXIATA GROUP BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693437"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:32 pm",
+   "company": "ORIENTAL INTEREST BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693439"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:32 pm",
+   "company": "TANCO HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693441"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:30 pm",
+   "company": "FSBM HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693433"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:30 pm",
+   "company": "GUAN CHONG BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - GUAN CHONG RESOURCES SDN. BHD.",
+   "id": "11693435"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:29 pm",
+   "company": "YNH PROPERTY BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693415"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:29 pm",
+   "company": "CLOUDPOINT TECHNOLOGY BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693417"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:29 pm",
+   "company": "AQUAWALK GROUP BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - FOONG CHUEN HOE",
+   "id": "11693419"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:54 pm",
+   "company": "YNH PROPERTY BERHAD",
+   "title": "OTHERS",
+   "id": "11693489"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:28 pm",
+   "company": "TEGRA BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - CIK NUR ATISYA BINTI MOHD YUNUS",
+   "id": "11693421"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:28 pm",
+   "company": "TEGRA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATIN SERI YASMIN HANIM ARBEE BINTI MOHAMMED ISA ARBEE",
+   "id": "11693423"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:28 pm",
+   "company": "TEGRA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KENANGA INVESTORS BERHAD FOR TEGUH SEDAYA SDN BHD",
+   "id": "11693425"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:28 pm",
+   "company": "TEGRA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - CIK NUR ATISYA BINTI MOHD YUNUS",
+   "id": "11693427"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:28 pm",
+   "company": "TEGRA BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693429"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:28 pm",
+   "company": "LIANSON FLEET GROUP BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693431"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:27 pm",
+   "company": "TELADAN GROUP BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693413"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:22 pm",
+   "company": "MITRAJAYA HOLDINGS BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693411"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:21 pm",
+   "company": "MITRAJAYA HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11693405"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:21 pm",
+   "company": "TA WIN HOLDINGS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693407"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:20 pm",
+   "company": "MITRAJAYA HOLDINGS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - MR BIBHUTI NATH JHA",
+   "id": "11693409"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:19 pm",
+   "company": "AXIS REAL ESTATE INVESTMENT TRUST",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - LEMBAGA TABUNG HAJI",
+   "id": "11693395"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:19 pm",
+   "company": "MITRAJAYA HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11693397"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:18 pm",
+   "company": "MITRAJAYA HOLDINGS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - IR AIK SIAW KONG",
+   "id": "11693401"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:18 pm",
+   "company": "AXIS REAL ESTATE INVESTMENT TRUST",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693399"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:18 pm",
+   "company": "PUBLIC BANK BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693403"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:17 pm",
+   "company": "MITRAJAYA HOLDINGS BERHAD",
+   "title": "Notice of SBB by a Company Pursuant to Section 127 (16) of CA 2016",
+   "id": "11693389"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:17 pm",
+   "company": "AXIS REAL ESTATE INVESTMENT TRUST",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693387"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:16 pm",
+   "company": "AME ELITE CONSORTIUM BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693391"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:15 pm",
+   "company": "GREATECH TECHNOLOGY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693383"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:14 pm",
+   "company": "TITIJAYA LAND BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693385"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:13 pm",
+   "company": "TITIJAYA LAND BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693381"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:16 pm",
+   "company": "ORIENTAL INTEREST BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : RELATED PARTY TRANSACTIONS",
+   "id": "11693393"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:11 pm",
+   "company": "DXN HOLDINGS BHD.",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693373"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:11 pm",
+   "company": "BERJAYA FOOD BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693375"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:13 pm",
+   "company": "MATANG BERHAD",
+   "title": "MATANG BERHAD (\"MATANG\" OR THE \"COMPANY\") SUSPENSION OF CHIEF FINANCIAL OFFICER AND CHIEF OPERATION OFFICER",
+   "id": "11693379"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:09 pm",
+   "company": "TOMYPAK HOLDINGS BERHAD",
+   "title": "Change in Financial Year End",
+   "id": "11693369"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:10 pm",
+   "company": "TITIJAYA LAND BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS",
+   "id": "11693377"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:08 pm",
+   "company": "GE-SHEN CORPORATION BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693371"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:07 pm",
+   "company": "TITIJAYA LAND BERHAD",
+   "title": "Annual Audited Accounts - 30 Jun 2026",
+   "id": "11693365"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:07 pm",
+   "company": "FRASER & NEAVE HOLDINGS BHD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693367"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:04 pm",
+   "company": "BRIGHT PACKAGING INDUSTRY BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693363"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:03 pm",
+   "company": "SBS NEXUS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - MR WONG CHUN MUN",
+   "id": "11693353"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:02 pm",
+   "company": "SBS NEXUS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR WONG CHUN MUN",
+   "id": "11693355"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:02 pm",
+   "company": "SBS NEXUS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - WARREN CHENG",
+   "id": "11693357"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:02 pm",
+   "company": "BATU KAWAN BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693359"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:01 pm",
+   "company": "JATI TINGGI GROUP BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693343"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:05 pm",
+   "company": "JATI TINGGI GROUP BERHAD",
+   "title": "OTHERS",
+   "id": "11693361"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:01 pm",
+   "company": "RANHILL UTILITIES BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693345"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:00 pm",
+   "company": "STRATUS GLOBAL HOLDINGS BERHAD",
+   "title": "Notice of Interest Sub. S-hldr (Section 137 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693349"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:59 pm",
+   "company": "ORKIM BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693295"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:59 pm",
+   "company": "VP-DJ SHARIAH CHINA A-SHARES 100 ETF - MYR",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11693297"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:00 pm",
+   "company": "YB VENTURES BERHAD",
+   "title": "OTHERS",
+   "id": "11693351"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:59 pm",
+   "company": "KUMPULAN JETSON BERHAD",
+   "title": "Notice of Interest Sub. S-hldr (Section 137 of CA 2016) - MR P. G. DORAISAMY A/L P. GOPAL",
+   "id": "11693299"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:58 pm",
+   "company": "RIMBUNAN SAWIT BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATUK TIONG CHIONG IE",
+   "id": "11693301"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:58 pm",
+   "company": "RIMBUNAN SAWIT BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693303"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:58 pm",
+   "company": "ES CERAMICS TECHNOLOGY BHD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693305"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWV9: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693311"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWVW: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693313"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWU7: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693315"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWV8: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693317"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWV6: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693321"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWWA: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693319"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWU1: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693323"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWU2: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693325"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWVZ: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693329"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWU8: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693327"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWUY: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693331"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWVY: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693333"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWV5: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693335"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWUZ: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693337"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-PWVX: PW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693339"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HSI-CWWB: CW HANG SENG INDEX (MACQ)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11693341"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:57 pm",
+   "company": "ES CERAMICS TECHNOLOGY BHD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11693309"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:57 pm",
+   "company": "NI HSIN GROUP BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693291"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:58 pm",
+   "company": "BTM RESOURCES BERHAD",
+   "title": "Change in Nomination and Remuneration Committee - MISS WONG SEE MEI",
+   "id": "11693307"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:57 pm",
+   "company": "BTM RESOURCES BERHAD",
+   "title": "Change in Audit Committee - MISS WONG SEE MEI",
+   "id": "11693293"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:55 pm",
+   "company": "KAWAN FOOD BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693273"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:55 pm",
+   "company": "KUALA LUMPUR KEPONG BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693275"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:55 pm",
+   "company": "SIME DARBY PROPERTY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693277"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:54 pm",
+   "company": "BERJAYA PROPERTY BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693279"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:55 pm",
+   "company": "TDM BERHAD",
+   "title": "OTHERS",
+   "id": "11693271"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:54 pm",
+   "company": "TDM BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "id": "11693281"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:53 pm",
+   "company": "SIME DARBY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA",
+   "id": "11693283"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:53 pm",
+   "company": "SIME DARBY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693287"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:53 pm",
+   "company": "SIME DARBY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693285"
+  },
+  {
+   "date": "28 Oct",
+   "time": "6:01 pm",
+   "company": "CTOS DIGITAL BERHAD",
+   "title": "Third Interim Dividend",
+   "id": "11693347"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:53 pm",
+   "company": "CTOS DIGITAL BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "id": "11693289"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:51 pm",
+   "company": "OGX GROUP BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693257"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:50 pm",
+   "company": "ICENTS GROUP HOLDINGS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693261"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:50 pm",
+   "company": "CTOS DIGITAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693267"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:50 pm",
+   "company": "CTOS DIGITAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693265"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:50 pm",
+   "company": "OGX GROUP BERHAD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11693269"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:49 pm",
+   "company": "OGX GROUP BERHAD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11693241"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:49 pm",
+   "company": "99 SPEED MART RETAIL HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693243"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:48 pm",
+   "company": "HEXTAR TECHNOLOGIES SOLUTIONS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATO' ONG CHOO MENG",
+   "id": "11693247"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:48 pm",
+   "company": "HEXTAR TECHNOLOGIES SOLUTIONS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' ONG CHOO MENG",
+   "id": "11693245"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:48 pm",
+   "company": "HEXTAR TECHNOLOGIES SOLUTIONS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11693249"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:51 pm",
+   "company": "IOI PROPERTIES GROUP BERHAD",
+   "title": "MULTIPLE PROPOSALS",
+   "id": "11693259"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:48 pm",
+   "company": "SUM TECHNOLOGY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR NG YEW SUM",
+   "id": "11693251"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:48 pm",
+   "company": "PENTAMASTER CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693255"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:48 pm",
+   "company": "PENTAMASTER CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693253"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:47 pm",
+   "company": "KLCC REAL ESTATE INVESTMENT TRUST",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693235"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:50 pm",
+   "company": "PEGASUS HEIGHTS BERHAD",
+   "title": "MULTIPLE PROPOSALS",
+   "id": "11693263"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:46 pm",
+   "company": "SPORTS TOTO BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693237"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:45 pm",
+   "company": "KLCC PROPERTY HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693239"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:45 pm",
+   "company": "INSAS BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11693229"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:43 pm",
+   "company": "FITTERS DIVERSIFIED BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693215"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:43 pm",
+   "company": "SOUTHERN CABLE GROUP BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693217"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:43 pm",
+   "company": "VETECE HOLDINGS BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693219"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:43 pm",
+   "company": "MESTRON HOLDINGS BERHAD",
+   "title": "Notice of Interest Sub. S-hldr (Section 137 of CA 2016) - MR LIM HOCK SAN",
+   "id": "11693221"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:43 pm",
+   "company": "TECHBOND GROUP BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693223"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:42 pm",
+   "company": "ASTINO BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693227"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:43 pm",
+   "company": "ANN JOO RESOURCES BERHAD",
+   "title": "OTHERS",
+   "id": "11693225"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "MESTRON HOLDINGS BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693195"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "WESTPORTS HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693199"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "VANZO HOLDINGS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - MR WONG LIANG TZER",
+   "id": "11693197"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "VANZO HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693201"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "CEKD BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693203"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "VANZO HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - FRAGRANCE CENTURY SDN. BHD.",
+   "id": "11693205"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:45 pm",
+   "company": "VANZO HOLDINGS BERHAD",
+   "title": "First Interim Dividend",
+   "id": "11693231"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "VANZO HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR WONG LIANG TZER",
+   "id": "11693209"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:41 pm",
+   "company": "FEDERAL INTERNATIONAL HOLDINGS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693207"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:40 pm",
+   "company": "GDEX BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693211"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:40 pm",
+   "company": "ECOFIRST CONSOLIDATED BHD",
+   "title": "Consolidated results for the financial period ended 31/08/2026",
+   "id": "11693213"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:39 pm",
+   "company": "AFFIN BANK BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693189"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:39 pm",
+   "company": "PETRONAS CHEMICALS GROUP BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD (\"EPF BOARD\")",
+   "id": "11693193"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:37 pm",
+   "company": "YINSON HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693177"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:37 pm",
+   "company": "SORENTO CAPITAL BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693175"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:37 pm",
+   "company": "ALPHA IVF GROUP BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693181"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:39 pm",
+   "company": "ALPHA IVF GROUP BERHAD",
+   "title": "Interim Dividend",
+   "id": "11693191"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:36 pm",
+   "company": "MAYBULK BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693183"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:37 pm",
+   "company": "ASIAN PAC HOLDINGS BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS",
+   "id": "11693179"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:36 pm",
+   "company": "KJTS GROUP BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693185"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:36 pm",
+   "company": "ACO GROUP BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693187"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:35 pm",
+   "company": "REDPLANET BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' STEVE WAN SIEW KUM",
+   "id": "11693157"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:35 pm",
+   "company": "SUNWAY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693161"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:35 pm",
+   "company": "REDPLANET BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - STEVE & CO CAPITAL SDN. BHD.",
+   "id": "11693159"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:35 pm",
+   "company": "FRONTKEN CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693163"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:34 pm",
+   "company": "TENAGA NASIONAL BHD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693167"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:34 pm",
+   "company": "AMMB HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693169"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:34 pm",
+   "company": "GOLDEN PHAROS BERHAD",
+   "title": "DISCLOSURE ON QUARTERLY PRODUCTION",
+   "id": "11693165"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:33 pm",
+   "company": "GOLDEN PHAROS BERHAD",
+   "title": "MONTHLY PRODUCTION FIGURES (MINING / PLANTATION / TIMBER)",
+   "id": "11693173"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:33 pm",
+   "company": "BENALEC HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693171"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:33 pm",
+   "company": "ALPHA IVF GROUP BERHAD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11693147"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:33 pm",
+   "company": "ALPHA IVF GROUP BERHAD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11693149"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:33 pm",
+   "company": "GAMUDA BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11693153"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:33 pm",
+   "company": "GAMUDA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD (EPF BOARD)",
+   "id": "11693151"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:32 pm",
+   "company": "GAS MALAYSIA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693155"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:30 pm",
+   "company": "MN HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693137"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:30 pm",
+   "company": "GAS MALAYSIA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693135"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:30 pm",
+   "company": "TAFI INDUSTRIES BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED NEW SHAREHOLDERS' MANDATE AND RENEWAL OF EXISTING SHAREHOLDERS' MAN",
+   "id": "11693141"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:30 pm",
+   "company": "SUPERLON HOLDINGS BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693143"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:29 pm",
+   "company": "ANN JOO RESOURCES BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693121"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:30 pm",
+   "company": "AMBEST GROUP BERHAD",
+   "title": "NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) : ESOS",
+   "id": "11693139"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:29 pm",
+   "company": "MAXIM GLOBAL BERHAD",
+   "title": "Change of Address",
+   "id": "11693125"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:29 pm",
+   "company": "MALAYSIAN PACIFIC INDUSTRIES BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693129"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:29 pm",
+   "company": "DS SIGMA HOLDINGS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693127"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:29 pm",
+   "company": "ATRIUM REAL ESTATE INVESTMENT TRUST",
+   "title": "Income Distribution",
+   "id": "11693123"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:27 pm",
+   "company": "ATRIUM REAL ESTATE INVESTMENT TRUST",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "id": "11693133"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:29 pm",
+   "company": "AL-SALAM REAL ESTATE INVESTMENT TRUST",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS",
+   "id": "11693145"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:28 pm",
+   "company": "HAP SENG CONSOLIDATED BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS",
+   "id": "11693131"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:26 pm",
+   "company": "INARI AMERTRON BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693117"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:26 pm",
+   "company": "INARI AMERTRON BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693115"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:26 pm",
+   "company": "ECONPILE HOLDINGS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693119"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:27 pm",
+   "company": "CIMB GROUP HOLDINGS BERHAD",
+   "title": "OTHERS",
+   "id": "11693109"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:27 pm",
+   "company": "PANTECH GROUP HOLDINGS BERHAD",
+   "title": "First Interim Dividend",
+   "id": "11693111"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:26 pm",
+   "company": "SUNWAY BERHAD",
+   "title": "OTHERS",
+   "id": "11693113"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:25 pm",
+   "company": "TAFI INDUSTRIES BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11693101"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:25 pm",
+   "company": "MNRB HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - AMANAHRAYA TRUSTEES BERHAD-AMANAH SAHAM BUMIPUTERA",
+   "id": "11693103"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:25 pm",
+   "company": "TAS OFFSHORE BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693105"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:24 pm",
+   "company": "PANTECH GROUP HOLDINGS BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693107"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:22 pm",
+   "company": "FARM FRESH BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693091"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:22 pm",
+   "company": "THREE-A RESOURCES BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR TEO KWEE HOCK",
+   "id": "11693093"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:22 pm",
+   "company": "RHB BANK BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693095"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:22 pm",
+   "company": "PANTECH GROUP HOLDINGS BERHAD",
+   "title": "OTHERS",
+   "id": "11693097"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:21 pm",
+   "company": "AEON CO. (M) BHD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693073"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:21 pm",
+   "company": "BERJAYA ASSETS BERHAD",
+   "title": "CIRCULAR/STATEMENT TO SHAREHOLDERS IN RELATION TO THE:- PART A-PROPOSED RENEWAL OF AND NEW SHAREHOLDES' MANDATES FOR REC",
+   "id": "11693075"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:21 pm",
+   "company": "ASTRAMINA GROUP BERHAD",
+   "title": "Half yearly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693077"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:20 pm",
+   "company": "ECOMATE HOLDINGS BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693081"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:21 pm",
+   "company": "ECONPILE HOLDINGS BERHAD",
+   "title": "MATERIAL LITIGATION",
+   "id": "11693099"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:20 pm",
+   "company": "BERJAYA ASSETS BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11693079"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:20 pm",
+   "company": "PRESS METAL ALUMINIUM HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693083"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:20 pm",
+   "company": "CCK CONSOLIDATED HOLDINGS BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693087"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "ZECON BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693039"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "MANFORCE GROUP BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693043"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "IHH HEALTHCARE BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693051"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "TEO SENG CAPITAL BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693053"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:20 pm",
+   "company": "HO WAH GENTING BERHAD",
+   "title": "OTHERS",
+   "id": "11693089"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:20 pm",
+   "company": "MYCRON STEEL BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : RELATED PARTY TRANSACTIONS",
+   "id": "11693085"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "GREENYIELD BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - CHEW KEE FOO",
+   "id": "11693059"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "ELK-DESA RESOURCES BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693061"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "MI TECHNOVATION BERHAD",
+   "title": "OTHERS",
+   "id": "11693041"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "CAPITALAND MALAYSIA TRUST",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11693067"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "PETRONAS GAS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693069"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693071"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "NEXGRAM HOLDINGS BERHAD",
+   "title": "Change in Audit Committee - MR CHIA PENG LUN",
+   "id": "11693045"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "NEXGRAM HOLDINGS BERHAD",
+   "title": "Change in Nomination Committee - MR CHIA PENG LUN",
+   "id": "11693047"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "NEXGRAM HOLDINGS BERHAD",
+   "title": "Change in Boardroom - MR CHIA PENG LUN",
+   "id": "11693049"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "NEXGRAM HOLDINGS BERHAD",
+   "title": "Change in Remuneration Committee - MR CHIA PENG LUN",
+   "id": "11693055"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "THMY HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693021"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:19 pm",
+   "company": "LB ALUMINIUM BERHAD",
+   "title": "Change in Boardroom - MR MARK WING KONG",
+   "id": "11693057"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "ECO-SHOP MARKETING BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693023"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "TWL HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' TAN WEI LIAN",
+   "id": "11693025"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "TWL HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATIN SEK CHIAN NEE",
+   "id": "11693027"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "TWL HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - TWL CAPITAL BERHAD",
+   "id": "11693029"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "TWL HOLDINGS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATO' TAN WEI LIAN",
+   "id": "11693031"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:17 pm",
+   "company": "HONG LEONG BANK BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693033"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "SASBADI HOLDINGS BERHAD",
+   "title": "Second Interim Dividend",
+   "id": "11693063"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:16 pm",
+   "company": "B.I.G. INDUSTRIES BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11693035"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:18 pm",
+   "company": "ECOFIRST CONSOLIDATED BHD",
+   "title": "MULTIPLE PROPOSALS",
+   "id": "11693065"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:16 pm",
+   "company": "MANAGEPAY SYSTEMS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693037"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "MOBILIA HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693003"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "BONIA CORPORATION BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693001"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "BONIA CORPORATION BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11693005"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "IJM CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693007"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "POWER ROOT BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11693011"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "DATAPREP HOLDINGS BHD",
+   "title": "Change in Financial Year End",
+   "id": "11693013"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:14 pm",
+   "company": "MALAYAN BANKING BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11693015"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:14 pm",
+   "company": "FACB INDUSTRIES INCORPORATED BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11693017"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:14 pm",
+   "company": "SASBADI HOLDINGS BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11693019"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:44 pm",
+   "company": "ASDION BERHAD",
+   "title": "WINDING UP / RECEIVER & MANAGER / RESTRAINING ORDER / SPECIAL ADMINISTRATOR",
+   "id": "11693233"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:13 pm",
+   "company": "PAOS HOLDINGS BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 31/08/2026",
+   "id": "11692991"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:13 pm",
+   "company": "ASM AUTOMATION GROUP BERHAD",
+   "title": "Change in Financial Year End",
+   "id": "11692993"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:15 pm",
+   "company": "YOONG ONN CORPORATION BERHAD",
+   "title": "Final Dividend",
+   "id": "11693009"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:13 pm",
+   "company": "SMRT HOLDINGS BERHAD",
+   "title": "OTHERS",
+   "id": "11692995"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:12 pm",
+   "company": "KRETAM HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR CHIONG YONG FOO",
+   "id": "11692999"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:12 pm",
+   "company": "KRETAM HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR CHIONG HANG LEONG",
+   "id": "11692997"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:11 pm",
+   "company": "S & F CAPITAL BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692975"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:11 pm",
+   "company": "CIMB GROUP HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692977"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:11 pm",
+   "company": "YOONG ONN CORPORATION BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692979"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:11 pm",
+   "company": "MTAG GROUP BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692983"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:10 pm",
+   "company": "MATRIX CONCEPTS HOLDINGS BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' SERI LEE TIAN HOCK",
+   "id": "11692985"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:10 pm",
+   "company": "MATRIX CONCEPTS HOLDINGS BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "id": "11692989"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:10 pm",
+   "company": "MATRIX CONCEPTS HOLDINGS BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATO' SERI LEE TIAN HOCK",
+   "id": "11692987"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:11 pm",
+   "company": "SASBADI HOLDINGS BERHAD",
+   "title": "MEMORANDUM OF UNDERSTANDING",
+   "id": "11692981"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:09 pm",
+   "company": "DRB-HICOM BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692941"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:09 pm",
+   "company": "PINTARAS JAYA BHD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11692943"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:09 pm",
+   "company": "IOI CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692945"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "MIKRO MSC BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11692947"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "ANCOM NYLEX BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - DATUK LEE CHEUN WEI",
+   "id": "11692953"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "ANCOM NYLEX BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATUK LEE CHEUN WEI",
+   "id": "11692951"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "ANCOM NYLEX BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11692955"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR CHEW HIAN TAT",
+   "id": "11692957"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - MR LEE CHEE VUI",
+   "id": "11692959"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - HJT INTERNATIONAL GROUP (M) SDN. BHD.",
+   "id": "11692961"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - RYRT HOLDINGS SDN. BHD.",
+   "id": "11692963"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Director's Interest (Section 219 of CA 2016) - MR CHEW HIAN TAT",
+   "id": "11692965"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR SOO YU CHAI",
+   "id": "11692969"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR LEE CHEE VUI",
+   "id": "11692967"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "OCEANCASH PACIFIC BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11692971"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "id": "11692973"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:07 pm",
+   "company": "ORGABIO HOLDINGS BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692939"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:08 pm",
+   "company": "SOUTHERN SCORE BUILDERS BERHAD",
+   "title": "OTHERS",
+   "id": "11692949"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:05 pm",
+   "company": "CENGILD MEDICAL BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692929"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:05 pm",
+   "company": "V.S. INDUSTRY BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692931"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:05 pm",
+   "company": "NEXTGREEN GLOBAL BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11692933"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:05 pm",
+   "company": "TFP GROUP BERHAD",
+   "title": "Bonus Issue",
+   "id": "11692927"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:05 pm",
+   "company": "TIME DOTCOM BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692937"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:05 pm",
+   "company": "MYMBN BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11692935"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "SUNWAY REAL ESTATE INVESTMENT TRUST",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692901"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "BLD PLANTATION BHD.",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' SRI LAW KIU KIONG",
+   "id": "11692903"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "BLD PLANTATION BHD.",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - LAW KIONG HOLDINGS SDN. BHD.",
+   "id": "11692905"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "JOHOR PLANTATIONS GROUP BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "id": "11692911"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "JOHOR PLANTATIONS GROUP BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692909"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:02 pm",
+   "company": "AGX GROUP BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11692917"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:02 pm",
+   "company": "GFM SERVICES BERHAD",
+   "title": "Notice of SBB by a Company Pursuant to Section 127 (16) of CA 2016",
+   "id": "11692919"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "VSTECS BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS",
+   "id": "11692907"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:02 pm",
+   "company": "VINVEST CAPITAL HOLDINGS BERHAD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11692915"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:01 pm",
+   "company": "SUNGEI BAGAN RUBBER COMPANY (MALAYA) BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692921"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:01 pm",
+   "company": "KLUANG RUBBER COMPANY (MALAYA) BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692923"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:01 pm",
+   "company": "AME ELITE CONSORTIUM BERHAD",
+   "title": "DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Intention to Deal During Closed Period",
+   "id": "11692925"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:01 pm",
+   "company": "SHIN YANG GROUP BERHAD",
+   "title": "Immediate Announcement on Shares Buy Back",
+   "id": "11692897"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:03 pm",
+   "company": "TFP GROUP BERHAD",
+   "title": "MULTIPLE PROPOSALS",
+   "id": "11692913"
+  },
+  {
+   "date": "28 Oct",
+   "time": "5:01 pm",
+   "company": "ALLIANCE BANK MALAYSIA BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692899"
+  },
+  {
+   "date": "28 Oct",
+   "time": "4:08 pm",
+   "company": "MERCURY INDUSTRIES BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692895"
+  },
+  {
+   "date": "28 Oct",
+   "time": "3:55 pm",
+   "company": "VARIA BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692893"
+  },
+  {
+   "date": "28 Oct",
+   "time": "3:11 pm",
+   "company": "MEGA FORTRIS BERHAD",
+   "title": "MEGA FORTRIS BERHAD (\"Mega Fortris\" or \"the Company\") - PROPOSED RENEWAL OF EXISTING SHAREHOLDERS' MANDATE FOR RECURRENT",
+   "id": "11692889"
+  },
+  {
+   "date": "28 Oct",
+   "time": "3:10 pm",
+   "company": "MEGA FORTRIS BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692891"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "TM-C2H: CW TELEKOM MALAYSIA BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692877"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SPSETIA-C1I: CW S P SETIA BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692879"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "GREATEC-C33: CW GREATECH TECHNOLOGY BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692881"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "DAYANG-C62: CW DAYANG ENTERPRISE HOLDINGS BHD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692883"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "FBMKLCI-HEN: PW FTSE BURSA MALAYSIA KLCI INDEX (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692885"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "FBMKLCI-CRI: CW FTSE BURSA MALAYSIA KLCI INDEX (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692887"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "PCHEM-C2F: CW PETRONAS CHEMICALS GROUP BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692869"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "HIBISCS-C90: CW HIBISCUS PETROLEUM BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692871"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "UEMS-C2H: CW UEM SUNRISE BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692873"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "MATRIX-CS: CW MATRIX CONCEPTS HOLDINGS BERHAD (AM)",
+   "title": "Expiry/Maturity of the securities",
+   "id": "11692875"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:49 pm",
+   "company": "XL HOLDINGS BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692867"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:26 pm",
+   "company": "RHONG KHEN INTERNATIONAL BERHAD",
+   "title": "STATEMENT TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF AUTHORITY FOR THE COMPANY TO PURCHASE ITS OWN SHARES",
+   "id": "11692865"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:25 pm",
+   "company": "RHONG KHEN INTERNATIONAL BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692863"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:21 pm",
+   "company": "INNITY CORPORATION BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE FOR RECURRENT RELATED PARTY TRANSA",
+   "id": "11692861"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:18 pm",
+   "company": "AWC BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692859"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:09 pm",
+   "company": "INNITY CORPORATION BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692855"
+  },
+  {
+   "date": "28 Oct",
+   "time": "2:08 pm",
+   "company": "YTL POWER INTERNATIONAL BHD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692857"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:55 pm",
+   "company": "",
+   "title": "Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(3)",
+   "id": "11692853"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:53 pm",
+   "company": "YTL CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "id": "11692851"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:30 pm",
+   "company": "AIZO GROUP BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692849"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:21 pm",
+   "company": "BONIA CORPORATION BERHAD",
+   "title": "Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR CHIANG SANG SEM",
+   "id": "11692845"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:21 pm",
+   "company": "BURSA MALAYSIA BERHAD",
+   "title": "Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "id": "11692847"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:16 pm",
+   "company": "ICENTS GROUP HOLDINGS BERHAD",
+   "title": "OTHERS",
+   "id": "11692843"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:13 pm",
+   "company": "EDUSPEC HOLDINGS BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692841"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:06 pm",
+   "company": "T7 GLOBAL BERHAD",
+   "title": "OTHERS",
+   "id": "11692839"
+  },
+  {
+   "date": "28 Oct",
+   "time": "1:01 pm",
+   "company": "TSR CAPITAL BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692837"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:59 pm",
+   "company": "TAS OFFSHORE BERHAD",
+   "title": "General Meetings: Outcome of Meeting",
+   "id": "11692835"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:52 pm",
+   "company": "BERJAYA PROPERTY BERHAD",
+   "title": "OTHERS",
+   "id": "11692833"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:47 pm",
+   "company": "FARMIERA BERHAD",
+   "title": "TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS",
+   "id": "11692831"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:43 pm",
+   "company": "GREEN PACKET BERHAD",
+   "title": "Change in Financial Year End",
+   "id": "11692827"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:41 pm",
+   "company": "TAFI INDUSTRIES BERHAD",
+   "title": "General Meetings: Notice of Meeting",
+   "id": "11692825"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:42 pm",
+   "company": "GLOBALTEC FORMATION BERHAD",
+   "title": "OTHERS",
+   "id": "11692829"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:38 pm",
+   "company": "ECA INTEGRATED SOLUTION BERHAD",
+   "title": "NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) : FUND RAISING",
+   "id": "11692823"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:37 pm",
+   "company": "CRESCENDO CORPORATION BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692821"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:33 pm",
+   "company": "SKB SHUTTERS CORPORATION BERHAD",
+   "title": "PROPOSED NEW AUTHORITY TO SKB SHUTTERS CORPORATION BERHAD (SKB) TO PURCHASE ITS OWN ORDINARY SHARES OF UP TO TEN PERCENT",
+   "id": "11692819"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:30 pm",
+   "company": "SKB SHUTTERS CORPORATION BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692817"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:28 pm",
+   "company": "ICONIC WORLDWIDE BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692815"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:28 pm",
+   "company": "ICONIC WORLDWIDE BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE FOR RECURRENT RELATED PARTY TRANSACTIO",
+   "id": "11692813"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:22 pm",
+   "company": "TEO GUAN LEE CORPORATION BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE FOR RECURRENT RELATED PARTY TRANSA",
+   "id": "11692811"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:23 pm",
+   "company": "EG INDUSTRIES BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692809"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:20 pm",
+   "company": "TEO GUAN LEE CORPORATION BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692807"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:11 pm",
+   "company": "HARBOUR-LINK GROUP BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692803"
+  },
+  {
+   "date": "28 Oct",
+   "time": "12:11 pm",
+   "company": "HARBOUR-LINK GROUP BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE AND PROPOSED NEW SHAREHOLDERS' MAN",
+   "id": "11692805"
+  },
+  {
+   "date": "28 Oct",
+   "time": "11:28 am",
+   "company": "GOLDEN LAND BERHAD",
+   "title": "PART A - CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF SHAREHOLDERS MANDATE FOR RECURRENT RELATED PART",
+   "id": "11692801"
+  },
+  {
+   "date": "28 Oct",
+   "time": "11:28 am",
+   "company": "GOLDEN LAND BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692799"
+  },
+  {
+   "date": "28 Oct",
+   "time": "11:19 am",
+   "company": "VARIA BERHAD",
+   "title": "STATEMENT TO SHAREHOLDERS IN RELATION TO PROPOSED SHARE BUY-BACK AUTHORITY",
+   "id": "11692797"
+  },
+  {
+   "date": "28 Oct",
+   "time": "11:12 am",
+   "company": "BETAMEK BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692795"
+  },
+  {
+   "date": "28 Oct",
+   "time": "11:03 am",
+   "company": "KAREX BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692793"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:24 am",
+   "company": "SIME DARBY BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE    (I) PROPOSED ESTABLISHMENT OF A LONG TERM INCENTIVE PLAN COMPRISING AN EM",
+   "id": "11692791"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:25 am",
+   "company": "SUNZEN GROUP BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692789"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:22 am",
+   "company": "ECO WORLD DEVELOPMENT GROUP BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692787"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:19 am",
+   "company": "CENTRAL GLOBAL BERHAD",
+   "title": "Additional Listing Announcement /Subdivision of Shares",
+   "id": "11692785"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:12 am",
+   "company": "ASTRAL ASIA BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED NEW SHAREHOLDERS' MANDATE FOR RECURRENT RELATED PARTY TRANSACTIONS ",
+   "id": "11692781"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:12 am",
+   "company": "TSR CAPITAL BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE:-    I. PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE FOR EXISTING RECURRENT REL",
+   "id": "11692783"
+  },
+  {
+   "date": "28 Oct",
+   "time": "10:01 am",
+   "company": "WOODLANDOR HOLDINGS BHD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692779"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:47 am",
+   "company": "CWG HOLDINGS BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692775"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:47 am",
+   "company": "CWG HOLDINGS BERHAD",
+   "title": "Circular to Shareholders in relation to the Proposed New Shareholders' Mandate for Recurrent Related Party Transactions ",
+   "id": "11692777"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:39 am",
+   "company": "KYM HOLDINGS BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE    (I) PROPOSED ACQUISITION OF 700,000 ORDINARY SHARES IN REGEN HEALTHCARE S",
+   "id": "11692741"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SPRITZER-CE: CW SPRITZER BHD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692721"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "TSH-C27: CW TSH RESOURCES BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692723"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "NATGATE-C28: CW NATIONGATE HOLDINGS BERHAD (AM)",
+   "title": "TERM SHEET TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVER ORDINAR",
+   "id": "11692727"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "DUFU-C31: CW DUFU TECHNOLOGY CORP. BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692725"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SCGBHD-C11: CW SOUTHERN CABLE GROUP BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692729"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "PMETAL-C3E: CW PRESS METAL ALUMINIUM HOLDINGS BERHAD (AM)",
+   "title": "TERM SHEET TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVER ORDINAR",
+   "id": "11692731"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "MPI-C25: CW MALAYSIAN PACIFIC INDUSTRIES BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692735"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "CIMB-C2W: CW CIMB GROUP HOLDINGS BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692733"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "LHI-C41: CW LEONG HUP INTERNATIONAL BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692737"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "UWC-C33: CW UWC BERHAD (AM)",
+   "title": "TERM SHEET RELATING TO THE OFFERING OF UP TO 80,000,000 EUROPEAN STYLE NON-COLLATERALISED CASH-SETTLED CALL WARRANTS OVE",
+   "id": "11692739"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "MPI-C25: CW MALAYSIAN PACIFIC INDUSTRIES BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692747"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "UWC-C33: CW UWC BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692743"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SPRITZER-CE: CW SPRITZER BHD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692769"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "NATGATE-C28: CW NATIONGATE HOLDINGS BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692761"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SCGBHD-C11: CW SOUTHERN CABLE GROUP BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692763"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "CIMB-C2W: CW CIMB GROUP HOLDINGS BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692765"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "PMETAL-C3E: CW PRESS METAL ALUMINIUM HOLDINGS BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692767"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "DUFU-C31: CW DUFU TECHNOLOGY CORP. BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692771"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "TSH-C27: CW TSH RESOURCES BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692773"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "LHI-C41: CW LEONG HUP INTERNATIONAL BERHAD (AM)",
+   "title": "STRUCTURED WARRANTS ANNOUNCEMENT : INITIAL OFFERING",
+   "id": "11692745"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "LHI-C41: CW LEONG HUP INTERNATIONAL BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692757"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "NATGATE-C28: CW NATIONGATE HOLDINGS BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692755"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "CIMB-C2W: CW CIMB GROUP HOLDINGS BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692713"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "DUFU-C31: CW DUFU TECHNOLOGY CORP. BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692717"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SPRITZER-CE: CW SPRITZER BHD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692715"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "TSH-C27: CW TSH RESOURCES BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692759"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "MPI-C25: CW MALAYSIAN PACIFIC INDUSTRIES BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692749"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "PMETAL-C3E: CW PRESS METAL ALUMINIUM HOLDINGS BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692751"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "SCGBHD-C11: CW SOUTHERN CABLE GROUP BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692753"
+  },
+  {
+   "date": "28 Oct",
+   "time": "",
+   "company": "UWC-C33: CW UWC BERHAD (AM)",
+   "title": "Listing Information & Profile for Structured Warrants",
+   "id": "11692719"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:19 am",
+   "company": "UNITED MALACCA BERHAD",
+   "title": "TAKE-OVERS & MERGERS (PARAGRAPH/RULE 9.19 (47A))",
+   "id": "11692711"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:01 am",
+   "company": "LION INDUSTRIES CORPORATION BERHAD",
+   "title": "CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PART A PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE AND PROPOSED NEW SHAREHOLDE",
+   "id": "11692707"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:01 am",
+   "company": "LION INDUSTRIES CORPORATION BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11692705"
+  },
+  {
+   "date": "28 Oct",
+   "time": "9:00 am",
+   "company": "ABF MALAYSIA BOND INDEX FUND",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11692709"
+  },
+  {
+   "date": "28 Oct",
+   "time": "8:47 am",
+   "company": "EQ8 DOW JONES US TITANS 50 ETF",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11692703"
+  },
+  {
+   "date": "28 Oct",
+   "time": "8:02 am",
+   "company": "TRADEPLUS S&P NEW CHINA TRACKER-MYR",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11692701"
+  },
+  {
+   "date": "28 Oct",
+   "time": "8:01 am",
+   "company": "TRADEPLUS S&P NEW CHINA TRACKER-USD",
+   "title": "NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "id": "11692695"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:44 am",
+   "company": "NESTLE (MALAYSIA) BERHAD",
+   "title": "NESTLE - Notice of Book Closure",
+   "id": "11692693"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:42 am",
+   "company": "ECO-SHOP MARKETING BERHAD",
+   "title": "ECOSHOP - Notice of Book Closure",
+   "id": "11692691"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:40 am",
+   "company": "MATANG BERHAD",
+   "title": "MATANG - Notice of Book Closure",
+   "id": "11692689"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:36 am",
+   "company": "CWG HOLDINGS BERHAD",
+   "title": "CWG - Notice of Book Closure",
+   "id": "11692685"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:36 am",
+   "company": "",
+   "title": "Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1)",
+   "id": "11692687"
+  },
+  {
+   "date": "28 Oct",
+   "time": "7:35 am",
+   "company": "TEO GUAN LEE CORPORATION BERHAD",
+   "title": "TGL - Notice of Book Closure",
+   "id": "11692683"
+  }
+ ]
+}

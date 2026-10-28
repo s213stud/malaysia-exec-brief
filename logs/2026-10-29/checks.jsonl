@@ -1,0 +1,10 @@
+{"ts": "2026-10-29T07:20:36+08:00", "source": "The Edge", "method": "node probe 823380-823625 via curl", "result": "ok: 226 fetched, 170 resolved; covers 27 Oct afternoon re-triage + 28-29 Oct output", "status": "ok"}
+{"ts": "2026-10-29T07:21:19+08:00", "source": "Malay Mail", "method": "RSS feed via curl", "result": "blocked: feed Cloudflare challenge (terminal per no-solver rule); money front page read in browser instead (no challenge)", "status": "blocked"}
+{"ts": "2026-10-29T07:21:29+08:00", "source": "NST / Business Times", "method": "RSS feed via curl (/feed); articles via cloud browser (JS-rendered)", "result": "ok: 50 in-window; Chin Hin/Oriental Interest + Ann Joo opened", "status": "ok"}
+{"ts": "2026-10-29T07:21:29+08:00", "source": "FMT", "method": "RSS feed via curl -L", "result": "ok: 50 in-window; nothing itemised", "status": "ok"}
+{"ts": "2026-10-29T07:21:29+08:00", "source": "The Sun", "method": "RSS feed via curl", "result": "ok: 10 items; nothing itemised", "status": "ok"}
+{"ts": "2026-10-29T07:23:10+08:00", "source": "Bursa announcements", "method": "KLSE Screener mirror, pages 1-22, browser UA", "result": "ok: 409 filings dated 28 Oct; Berjaya Property, Matang, TDM, Pantech, YNH opened; watchlist routine only", "status": "ok"}
+{"ts": "2026-10-29T07:24:29+08:00", "source": "TNGlobal", "method": "WP API", "result": "ok: solar EPCC piece opened; rest Singapore/regional", "status": "ok"}
+{"ts": "2026-10-29T07:22:14+08:00", "source": "The Star", "method": "cloud browser business front + telco article", "result": "ok: telco merger piece opened; Just-In corroboration logged", "status": "ok"}
+{"ts": "2026-10-29T07:24:29+08:00", "source": "The Malaysian Reserve", "method": "curl homepage", "result": "blocked: 403 bot wall; terminal per no-solver rule (no bypass attempted)", "status": "blocked"}
+{"ts": "2026-10-29T07:24:55+08:00", "source": "EdgeProp", "method": "cloud browser front page", "result": "ok: headlines logged; no article opened", "status": "ok"}
