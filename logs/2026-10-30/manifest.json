@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "Bernama not separately checked; wire stories reached via carrying outlets are logged under those outlets. All ten listed portals attempted. MM RSS Cloudflare-walled (browser front used). TMR 403 bot wall - terminal, no bypass per standing rule. Bursa official blocked; mirror used (458 filings dated 29 Oct)."
+}

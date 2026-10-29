@@ -1,0 +1,10 @@
+{"ts": "2026-10-30T07:20:54+08:00", "source": "The Edge", "method": "node probe 823500-823950 via curl (xargs parallel)", "result": "ok: 451 fetched, 359 resolved incl. 29 Oct evening batch", "status": "ok"}
+{"ts": "2026-10-30T07:23:21+08:00", "source": "Malay Mail", "method": "RSS feed via curl", "result": "blocked: feed Cloudflare challenge (terminal per no-solver rule); money front page read in browser instead", "status": "blocked"}
+{"ts": "2026-10-30T07:23:13+08:00", "source": "NST / Business Times", "method": "RSS feed via curl (/feed); article body extracted from page payload", "result": "ok: 49 in-window; SKP consumer-credit article opened and itemised", "status": "ok"}
+{"ts": "2026-10-30T07:23:13+08:00", "source": "FMT", "method": "RSS feed via curl -L", "result": "ok: 50 in-window; MyEG tax item used as corroboration", "status": "ok"}
+{"ts": "2026-10-30T07:23:13+08:00", "source": "The Sun", "method": "RSS feed via curl", "result": "ok: 9 in-window; nothing itemised", "status": "ok"}
+{"ts": "2026-10-30T07:24:52+08:00", "source": "Bursa announcements", "method": "KLSE Screener mirror, pages 1-22, browser UA", "result": "ok: 458 filings dated 29 Oct; Zetrix sukuk/JPJ/litigation replies opened; watchlist routine only", "status": "ok"}
+{"ts": "2026-10-30T07:23:21+08:00", "source": "TNGlobal", "method": "WP API", "result": "ok: 13 in-window; all Singapore/regional", "status": "ok"}
+{"ts": "2026-10-30T07:26:20+08:00", "source": "The Star", "method": "cloud browser business front", "result": "ok: 17 headlines logged; Rohas-Centrix itemised, 3 corroborations", "status": "ok"}
+{"ts": "2026-10-30T07:23:21+08:00", "source": "The Malaysian Reserve", "method": "curl homepage", "result": "blocked: 403 bot wall; terminal per no-solver rule (no bypass attempted)", "status": "blocked"}
+{"ts": "2026-10-30T07:26:35+08:00", "source": "EdgeProp", "method": "cloud browser front page", "result": "ok: 6 headlines logged; covered items deduped", "status": "ok"}

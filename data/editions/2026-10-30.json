@@ -1,0 +1,515 @@
+{
+ "date": "2026-10-30",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-10-30T07:21:30+08:00",
+  "2026-10-30T07:23:21+08:00",
+  "2026-10-30T07:24:25+08:00",
+  "2026-10-30T07:24:52+08:00",
+  "2026-10-30T07:25:15+08:00",
+  "2026-10-30T07:25:38+08:00",
+  "2026-10-30T07:25:59+08:00",
+  "2026-10-30T07:26:20+08:00",
+  "2026-10-30T07:26:35+08:00",
+  "2026-10-30T07:27:38+08:00"
+ ],
+ "publishedAt": "2026-10-30T07:50:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "Zetrix AI confirms its RM2b sukuk covenant breach has triggered a dissolution event - no immediate repayment and no default, but the 23 Oct sukukholders' meeting passed no resolution and MD Wong Thean Soon is seeking a six-month cure (The Edge, citing sources); the same evening brought MyEG's RM353m tax suit, HeiTech's NIISe exit and two more board resignations",
+   "soWhat": "Repayment holds only while sukukholders tolerate an unresolved breach with a three-member board and parallel government suits - the next meeting date and any 9.19A default notice are the triggers to watch.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-10-30-ai-1",
+    "2026-10-30-ai-2",
+    "2026-10-30-ai-3"
+   ]
+  },
+  {
+   "headline": "Construction contract flow stays busy: Taghill's RM166m Exsim job in Penang, SLGC's first post-listing win (RM50.24m) and a RM155m settlement closing the Sabah Pan Borneo PDP termination",
+   "soWhat": "Mid-cap builders keep adding order book faster than capacity, and the PDP settlement sets the compensation benchmark for terminated delivery-partner models.",
+   "sectorKeys": [
+    "construction"
+   ],
+   "itemIds": [
+    "2026-10-30-co-1",
+    "2026-10-30-co-2",
+    "2026-10-30-co-3"
+   ]
+  },
+  {
+   "headline": "SD Guthrie is converting plantation land into a 1,623-acre Bukit Kerayong industrial park with YTL Power and Bumi Assets, while record 3.51m-tonne stocks push Putrajaya to consider suspending CPO export duties",
+   "soWhat": "Land monetisation plus possible duty relief would cushion planter margins against the weak-price signal that record stocks imply.",
+   "sectorKeys": [
+    "plantation"
+   ],
+   "itemIds": [
+    "2026-10-30-pl-1",
+    "2026-10-30-pl-2"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Zetrix's sukuk crunch deepens on all fronts while DC supply-chain M&A continues",
+   "items": [
+    {
+     "id": "2026-10-30-ai-1",
+     "headline": "Zetrix AI confirms its RM2b sukuk covenant breach has triggered a dissolution event - but no immediate repayment is required and no payment default has occurred; the 23 Oct sukukholders' meeting passed no resolution",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Zetrix AI Bhd told Bursa Malaysia, replying to the regulator's queries, that breaching the covenant requiring managing director Wong Thean Soon to remain its largest shareholder has triggered a dissolution event under its RM2 billion Sukuk Wakalah programme (RM2.16 billion outstanding). The company is not required to immediately repay the outstanding amount, has made all scheduled payments, and its next payment of RM214 million falls due in March 2027; a payment default would arise only if it fails to pay when due. The 23 Oct sukukholders' meeting ended with no resolution, so the programme's existing terms remain in force while Zetrix keeps engaging the trustee and sukukholders. The Edge, citing sources familiar with the discussions, reports Wong is seeking a six-month extension to restore compliance; margin-call forced sales cut his stake from nearly 30% to about 1.84%. Two more independent directors (Datuk Othman Semail, Mohaini Mohd Yusof) resigned after Wong Kok Chau, leaving a three-member board. Zetrix also replied to a separate Bursa query over the 27 Oct report that the government is suing it over RM314 million in JPJ arrears. Shares closed 5.88% lower at 8 sen (market cap RM610 million), down over 90% this year.",
+     "soWhat": "The dissolution-event confirmation crystallises the worst-case covenant path from the 22 Oct missed deadline: repayment stays on schedule only while sukukholders tolerate an unresolved breach. A three-member board, a founder at 1.84% and parallel government suits (JPJ arrears, MyEG tax) leave little room to negotiate the six-month cure Wong wants; the next sukukholders' meeting date is still unannounced.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823834"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694497"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694605"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "watchOut": "Watch for the next sukukholders' meeting date and whether any payment default notice follows; a default would accelerate the full RM2.16b."
+    },
+    {
+     "id": "2026-10-30-ai-2",
+     "headline": "Zetrix AI's wholly owned MyEG Sdn Bhd hit with RM353.13m IRB tax bill over transfer pricing; government files civil suit as MyEG appeals",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "MyEG Sdn Bhd received a RM353.13 million assessment from the Inland Revenue Board covering transfer pricing for assessment years 2021-2023: RM333.11 million in additional income tax plus RM20.02 million in deemed interest including penalties. The government has filed a civil suit over the matter. Zetrix AI said MyEG is confident in the merits of its position, will defend itself, and has filed an appeal with the Special Commissioners of Income Tax while seeking to resolve the matter.",
+     "soWhat": "A second government-front fight lands the same evening as the sukuk confirmation: between the RM353m tax claim, the RM314m JPJ arrears suit and the covenant breach, Zetrix faces concurrent pressure on cash, credibility and board capacity - all while its immigration-system franchise (NIISe) loses a teaming partner.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823835"
+      },
+      {
+       "publisher": "Free Malaysia Today",
+       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/myeg-hit-with-rm353-13mil-tax-bill-as-govt-sues"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694607"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-ai-3",
+     "headline": "HeiTech Padu confirms it is no longer working with Zetrix AI on the RM1.05b NIISe immigration system after their teaming agreement lapsed",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "HeiTech Padu Bhd said both parties mutually agreed not to extend their teaming agreement on the RM1.05 billion National Integrated Immigration System (NIISe) project, clarifying The Edge's 26 Oct report. The April 2024 agreement was a one-year temporary arrangement to explore IT-services opportunities; an August 2025 supplementary agreement defined roles. HeiTech Padu assured the development has no impact on the project.",
+     "soWhat": "Formal confirmation removes HeiTech Padu from the NIISe delivery structure just as Zetrix's financial stress peaks; for the market it clarifies who still stands behind Malaysia's biggest immigration-IT contract.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823859"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694135"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-ai-4",
+     "headline": "Rohas Tecnic buys 51% of data-centre M&E specialist Centrix Engineering for up to RM14.28m to capture AI-driven DC demand",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Rohas Tecnic Bhd signed a conditional share sale agreement to acquire 51% of Centrix Engineering (M) Sdn Bhd from Chin Kok You for up to RM14.28 million cash. Centrix provides mechanical and electrical engineering and EPCC solutions for mission-critical infrastructure - power and cooling for telecommunications, data centres, advanced manufacturing and renewable energy - and holds a CIDB Grade G7 licence. Rohas cited accelerating Malaysian data-centre investment from AI, cloud and hyperscale developments.",
+     "soWhat": "A small cheque but a clear signal: telco-tower fabricators are buying their way into the DC power-and-cooling chain, the segment Maybank IB sized this week at RM18-28b of 2027-28 solar-plus-DC-adjacent EPCC work.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/29/rohas-tecnic-to-acquire-51-stake-in-centrix-engineering-for-rm1428mil"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694507"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "DC M&E specialists with G7 licences are becoming acquisition targets as hyperscale work accelerates."
+    }
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "Contract flow stays busy: Taghill's RM166m Penang win, SLGC's first job since listing, and closure on the Sabah Pan Borneo PDP termination",
+   "items": [
+    {
+     "id": "2026-10-30-co-1",
+     "headline": "Taghill bags RM166m main building works for Exsim's twin-tower serviced-apartment project in George Town, Penang",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Taghill Holdings Bhd won a RM166 million contract from Exsim Waterfront Sdn Bhd for main building works on a commercial development of two towers with 493 serviced-apartment units in George Town. The 24-month job starts 18 Jan 2027 and should lift earnings from FY2027 (ending Nov 2027). Taghill's outstanding order book stood at about RM1.75 billion at end-August 2026, covering 18-24 months of activity.",
+     "soWhat": "Another Exsim-awarded package keeps Penang's high-rise pipeline feeding mid-cap builders; Taghill's order book now approaches eight times its annual revenue base, tightening its delivery execution risk.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823862"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/30/taghill-bags-rm166mil-construction-job"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694591"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-co-2",
+     "headline": "Newly listed SLGC lands RM50.24m EPC job for detached industrial factories in Telok Panglima Garang - its first win since debuting three weeks ago",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "SLGC Bhd's wholly owned SLG Construction Sdn Bhd received a RM50.24 million engineering, procurement and construction contract from ALH Construction Sdn Bhd for detached industrial factories and related infrastructure in Telok Panglima Garang, Selangor. The 30-month contract's commencement date is yet to be fixed. Johor-based SLGC listed on the ACE Market three weeks ago and provides design-and-build services for residential and non-residential projects.",
+     "soWhat": "A fast first contract validates SLGC's listing thesis and adds to the industrial-factory build pipeline along the Shah Alam-Klang corridor; subcontracting via ALH Construction also shows main contractors are parceling out factory work as demand outstrips capacity.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823827"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/30/slgc-lands-rm5024mil-epc-contract"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11693751"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-co-3",
+     "headline": "Putrajaya paid RM155m to settle the terminated Sabah Pan Borneo Highway PDP agreement, seven years on",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "The federal government paid RM155 million in compensation to Borneo Highway PDP Sdn Bhd (BHPSB) as a one-off settlement of disputed claims after its project delivery partner agreement for Phase 1 of the 706km Sabah Pan Borneo Highway was terminated on national-interest grounds. The Cabinet decision dates to 19 Dec 2018; the termination notice was issued 22 Apr 2019 and the agreement ended that September. Works Minister Datuk Seri Alexander Nanta Linggi disclosed the payment in a written parliamentary reply.",
+     "soWhat": "Closure of the PDP-era dispute removes a long-dangling contingent liability from the Pan Borneo programme and sets the compensation benchmark for terminated PDP structures - relevant precedent reading for any future re-tendering of big highway delivery models.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823720"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "Developers push on: Asian Pac's RM281m Kuantan retail JV, Tropicana's next Avisa phase and Parkland's IPO green light",
+   "items": [
+    {
+     "id": "2026-10-30-pd-1",
+     "headline": "Asian Pac partners KotaSAS on a RM281.3m-GDV retail and lifestyle precinct in Kuantan, its first East Coast venture, beside the upcoming ECRL station",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Asian Pac Holdings Bhd's subsidiary Everest Pioneer Sdn Bhd signed a sale and purchase agreement and joint development agreement with KotaSAS Sdn Bhd (a wholly owned unit of Tanah Makmur Bhd) for a retail and lifestyle destination in Kuantan with indicative GDV of RM281.3 million. The project introduces KotaSAS' first shopping mall alongside a lifestyle shoplot precinct within its Central Business District, walking distance from the upcoming KotaSAS East Coast Rail Link station, with potential future GDV of up to RM2 billion.",
+     "soWhat": "Retail development capital is following ECRL station geography; a first-mover mall inside KotaSAS gives Asian Pac the anchor position in Pahang's newest township before the rail line opens.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823749"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-pd-2",
+     "headline": "Tropicana launches Phase 2 of Avisa Residences at Tropicana Alam - 480 GreenRE terraced homes from RM612,800 after Phase 1 sold over 90%",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Tropicana Corp Bhd launched 480 GreenRE Bronze-certified Premium Green Terraces under Phase 2 of Avisa Residences at its 362-acre Tropicana Alam township in Puncak Alam. The two-storey homes (1,917-2,351 sq ft, 35.82 acres) are priced from RM612,800. Phase 1's 431 units achieved over 90% take-up.",
+     "soWhat": "Landed township product in the RM600k-800k band continues to clear; green certification is becoming a standard sales feature rather than a differentiator in new Selangor launches.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823739"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-pd-3",
+     "headline": "Melaka-based Parkland Bhd secures SC approval for a Main Market IPO; listing to be completed within six months",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Parkland Bhd obtained Securities Commission Malaysia approval for its proposed Main Market listing and must complete the IPO within six months. The developer of townships and residences in Johor, Melaka and Selangor has nine ongoing projects (six townships) across 779 acres plus its own construction arm. MD Datuk Tan See Sen said proceeds will accelerate development plans and land-bank expansion.",
+     "soWhat": "A second southern-region developer heads for listing this month (after SLGC's ACE debut), reopening the IPO window for mid-size township players with construction arms attached.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823782"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "SD Guthrie converts land into industrial parks while record stocks push Putrajaya toward an export-duty suspension",
+   "items": [
+    {
+     "id": "2026-10-30-pl-1",
+     "headline": "SD Guthrie partners YTL Power and Bumi Assets to develop a 1,623-acre industrial park at Bukit Kerayong, Selangor, investing up to RM101.12m for 30%",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "SD Guthrie Bhd will invest up to RM101.12 million for a 30% stake in Bukit Kerayong Industrial Developments Sdn Bhd (BKID), a joint venture with YTL Power International Bhd and Bumi Assets Sdn Bhd (35% each) to develop a 1,623-acre industrial park in Bukit Kerayong, Selangor. The outlay covers about RM3 million in shares and up to RM98.12 million of short-term advances for land acquisition and related costs; BKID starts with RM10 million paid-up capital. SD Guthrie nominates the JV's chief financial officer.",
+     "soWhat": "Malaysia's largest planter keeps converting agricultural land near Port Klang into higher-value industrial use - and pairing with YTL Power plugs the site into the power-and-data-centre ecosystem rather than plain warehousing. Land monetisation is becoming SD Guthrie's second earnings engine.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823833"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694451"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/10/30/sd-guthrie-bumi-assets-and-ytl-power-in-property-partnership"
+      }
+     ],
+     "watchlistCompanyKeys": [],
+     "opportunity": "Industrial-land JVs on plantation acreage near ports and power infrastructure are scaling up."
+    },
+    {
+     "id": "2026-10-30-pl-2",
+     "headline": "Putrajaya is gathering industry feedback on temporarily suspending CPO export duties as palm oil stocks hit a record 3.51m tonnes",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Plantation and Commodities Minister Datuk Seri Dr Noraini Ahmad told the Dewan Rakyat the government is collecting industry feedback on a proposal to temporarily suspend crude palm oil export duties to ease stock pressure and lift exports. Malaysian palm oil stocks reached a record 3.51 million tonnes in September, with production at an all-time high ahead of the October peak season.",
+     "soWhat": "A duty suspension would improve CPO export competitiveness against Indonesian supply immediately, but the record-stock backdrop that prompts it signals weak near-term prices; refiners and exporters gain margin while upstream margins stay squeezed.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823793"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-pl-3",
+     "headline": "Chin Teck Plantations' 4Q net profit falls 68.6% to RM36.6m on lower palm-product sales and the absence of a prior-year land disposal gain",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "Chin Teck Plantations Bhd reported 4QFY2026 (ended 31 Aug 2026) net profit of RM36.6 million versus RM115.74 million a year earlier, on revenue down 41.68% to RM56.37 million. Sales volumes of FFB, CPO and palm kernel fell despite higher average selling prices, and its share of associate and JV profits dropped to RM16.36 million from RM78.35 million, when a large land sale flattered the base.",
+     "soWhat": "First plantation result this season confirms the pattern: volumes are disappointing even with better prices, and last year's land-gain comparatives will depress headline y-o-y numbers across the sector.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823819"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694119"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-10-30-pl-4",
+     "headline": "TSH Resources says records show no links to the 10 Indonesian firms named by Singapore's NEA over forest fires; Indonesian police probe 97 corporations, 20 already suspects",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-29",
+     "detail": "TSH Resources Bhd told Bursa its review found no business relationship - subsidiary, associate, JV, shareholding, operational or supply-chain - with any of the 10 companies issued preventive measure notices by Singapore's National Environment Agency under the Transboundary Haze Pollution Act 2014. Separately, Indonesia's Bareskrim is investigating 97 corporations (22 foreign-linked) over forest and land fires, with 20 companies named as suspects, 16 domestic and four foreign-invested.",
+     "soWhat": "Haze-season legal exposure is being actively mapped onto listed planters by regulators in two jurisdictions; clean-bill filings like TSH's are becoming a standing disclosure requirement, and any named link would be an immediate ESG de-rating event.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823847"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/823822"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11694475"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "Consumer Credit Act machinery starts turning: SKP's whole-of-government advisory committee holds its first meeting",
+   "items": [
+    {
+     "id": "2026-10-30-cf-1",
+     "headline": "Suruhanjaya Kredit Pengguna forms a Consumer Credit Act 2025 advisory committee spanning seven ministries and regulators; first meeting targets interest-rate transparency, syariah products and debt-collection conduct",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-10-30",
+     "detail": "Suruhanjaya Kredit Pengguna (SKP) established an advisory committee under Section 36 of the Consumer Credit Act 2025, chaired by its executive chairman Abu Hassan Alshari Yahaya with senior representatives from the Finance Ministry, Housing and Local Government Ministry, Domestic Trade and Cost of Living Ministry, Entrepreneur Development and Cooperatives Ministry, Bank Negara Malaysia, the Securities Commission and the Malaysia Co-operative Societies Commission. At its inaugural meeting on Wednesday the committee discussed transparency in interest charges, syariah-compliant consumer credit products and protection against unethical debt collection, and agreed to work towards consolidating the non-bank consumer credit industry under a single regulator ahead of phase two of the CCA.",
+     "soWhat": "The CCA's operating structure is now real: a single-regulator direction for non-bank consumer credit would redraw compliance for moneylenders, cooperatives and civil-servant payroll-deduction lenders alike; expect tighter interest-charge disclosure standards first.",
+     "sources": [
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/business/corporate/2026/10/1566574/new-panel-coordinate-consumer-credit-rules"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "Checked: Edge node probe (451 nodes fetched 823500-823950, 359 resolved incl. the 29 Oct evening batch), Star business front, MM money front (feed Cloudflare-walled), NST feed+article, FMT feed, TNGlobal WP API, Bursa mirror (458 filings dated 29 Oct). Used: Zetrix sukuk dissolution-event reply (ai-1), MyEG tax bill (ai-2), HeiTech NIISe exit (ai-3), Rohas-Centrix DC M&A (ai-4). Seen, not itemised: Tencent-Visa cross-border payments MoU (823722), Tencent Cloud Malaysia investment pledge (823737), AI Governance Bill tabling early 2027 (823773), MCMC Roblox review (823831), Google/Alphabet AI-spending wobble (global wires), Samsung substrate plant in Vietnam (TNGlobal). JPJ note: the underlying 'Govt to sue Zetrix AI over RM314m JPJ arrears' story broke 27 Oct and was covered in the 28 Oct edition; today's hook is Zetrix's reply-to-query filing only. Zetrix watch RESOLVED in part: the 22 Oct remediation deadline lapsed; 23 Oct sukukholders' meeting passed no resolution; dissolution event confirmed 29 Oct; next meeting date still unannounced; The Edge (sources) says Wong seeks a six-month cure extension.",
+  "propertyDevelopment": "Checked: Edge probe, Star, MM, NST/FMT/Sun feeds, EdgeProp front, Bursa mirror. Used: Asian Pac-KotaSAS Kuantan retail precinct (pd-1), Tropicana Avisa Phase 2 (pd-2), Parkland SC approval (pd-3). Seen, not itemised: Kwasa Damansara 15-year feature (823768), strata-defaulter access ruling by Nga (823750), Menara Tun Perak sale offer (MM; non-retail office asset, outside retail-only property-investment scope), Sime Darby Property DC interview teaser (823849, paywalled-weekly teaser), Chow hillslope-projects legal warning (EdgeProp; Penang policy), Mayang Pasir sinkhole pipe cause (823866).",
+  "construction": "Checked: same probe set plus Bursa mirror. Used: Taghill RM166m (co-1), SLGC RM50.24m (co-2), Pan Borneo PDP settlement (co-3). Seen, not itemised: Central Spine Road Section 1B progress 14.73%, Dec 2028 (823788), Rural Roads allocation RM3.1b (823824; Budget restatement), Govt Procurement Act 2027 contractor-disclosure plan (823836; policy signal for 2027), stocks-with-momentum Pantech (823760; generic materials, out of scope), GIIB UMA query (Star front; off-watchlist small cap).",
+  "propertyInvestment": "Checked: Edge probe, EdgeProp, Star, MM, Bursa mirror. No verified item within the retail-only scope today: Axis REIT 3Q net property income -2.8% (823848) is industrial, not retail; Menara Tun Perak sale offer (MM) is an office asset. Both logged seen-not-itemised.",
+  "plantation": "Checked: Edge probe, feeds, Bursa mirror. Used: SD Guthrie-YTL-Bumi industrial park (pl-1), CPO export-duty suspension feedback (pl-2), Chin Teck 4Q (pl-3), TSH/NEA + Indonesian probes (pl-4). Seen, not itemised: SD Guthrie 3Q preview by CIMB (823741; analyst note), Felcra RM190.6m payout (823752), Sabah-peninsula FFB price-gap drivers (823769), MKH Oil Palm monthly production (Bursa; routine), NST Leader haze editorial (commentary, excluded).",
+  "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No licensed-moneylending item today; the SKP consumer-credit committee (cf-1) is adjacent and logged under consumerFinancing.",
+  "consumerFinancing": "Checked: NST feed + article (cf-1), Edge probe, other feeds. Used: SKP advisory committee's first meeting (cf-1). No civil-servant-specific lender news today.",
+  "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No cable-maker news; FMT's Sungai Kim Kim 'cable works' pollution item is utility-laying works, not manufacturers (seen-not-itemised). Watchlist cable names (Southern Cable, Master Tec) had routine filings only.",
+  "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror, watchlist names (OKA, Kitacon). No IBS/wall-panel or watchlist materials news today; Pantech momentum note excluded per scope.",
+  "hotels": "Checked: Edge probe, Star, MM, EdgeProp fronts, feeds, Bursa mirror. No hotel item today. Closest: Airbnb crisis-housing donation (MM; global, off-sector) and Taghill's serviced-apartment towers (logged under construction)."
+ },
+ "generalCoverage": [
+  "Edition window: from the 29 Oct edition's checks (~07:27 MYT 29 Oct) to ~07:17 MYT 30 Oct 2026. Edge probe overlapped yesterday's tail (823500-823950, 451 nodes) so late-resolving 29 Oct drafts were re-triaged this morning.",
+  "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological. Bursa official site blocks automation; the KLSE Screener mirror supplied the full 29 Oct filing list (458 rows, saved to logs).",
+  "Access: Malay Mail RSS feed remains Cloudflare-walled (terminal per the no-solver rule); the MM money front was read in the browser instead. The Malaysian Reserve returned a 403 bot wall via curl - treated as terminal, no bypass attempted. NST articles render via JS but bodies are extractable from the page payload; the SKP article was verified in-body.",
+  "Dedupe: 'Govt to sue Zetrix AI over RM314m JPJ arrears' (27 Oct) was covered in the 28 Oct edition - not re-itemised; only Zetrix's new reply-to-query filing is used. SD Guthrie's sukuk (28 Oct edition) is separate from today's industrial-park JV.",
+  "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
+ ],
+ "watchlistCoverage": [
+  "Southern Cable Group Berhad (0225): routine 29 Oct filing - EPF S138 substantial-shareholder change; not itemised.",
+  "GDB Holdings Berhad (0198): routine 29 Oct filings - Chapter 14 dealings notices and S138/director-interest changes; not itemised.",
+  "Pesona Metro Holdings Berhad (8311): routine share buy-back announcement 29 Oct; not itemised.",
+  "No watchlist company named in an itemised article today."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 160,
+   "used": 13,
+   "status": "checked",
+   "note": "451 nodes fetched (823500-823950), 359 resolved incl. 29 Oct evening batch re-triage",
+   "publishers": [
+    "The Edge"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 6,
+   "used": 0,
+   "status": "blocked",
+   "note": "feed Cloudflare-walled (terminal per no-solver rule); money front read in browser",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 49,
+   "used": 1,
+   "status": "checked",
+   "note": "feed path /feed; SKP article body verified",
+   "publishers": [
+    "New Straits Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 1,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "Free Malaysia Today"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 9,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 13,
+   "used": 0,
+   "status": "checked",
+   "note": "WP API",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 17,
+   "used": 4,
+   "status": "checked",
+   "note": "business front via browser; Rohas article via KLSE mirror read",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "403 bot wall via curl; terminal per no-solver rule",
+   "publishers": []
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 6,
+   "used": 0,
+   "status": "checked",
+   "note": "front page via browser",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 32,
+   "used": 9,
+   "status": "checked",
+   "note": "KLSE Screener mirror pages 1-22; 458 filings dated 29 Oct",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
+}
