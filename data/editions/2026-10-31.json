@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-31",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-10-31T07:20:42+08:00",
+    "2026-10-31T07:21:10+08:00",
+    "2026-10-31T07:22:04+08:00",
+    "2026-10-31T07:22:18+08:00",
+    "2026-10-31T07:22:23+08:00",
+    "2026-10-31T07:22:39+08:00",
+    "2026-10-31T07:22:59+08:00",
+    "2026-10-31T07:23:13+08:00"
+  ],
+  "publishedAt": "2026-10-31T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "MARC has cut Zetrix AI's RM2b sukuk to C - one notch above default - after the unresolved 23 Oct sukukholders' meeting, and the entire audit committee has quit, leaving a three-member board with MD Wong Thean Soon at 1.841%",
+      "soWhat": "The March 2027 RM214m payment is now a live default trigger; resolution depends on a sukukholder indulgence Zetrix does not yet have, while JPJ and MyEG tax suits compete for the same liquidity.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-31-ai-1",
+        "2026-10-31-ai-2"
+      ]
+    },
+    {
+      "headline": "The industrial-land JV wave accelerates: UEM Sunrise and AME Elite are pairing on a RM4b-GDV, 402-acre Gerbang Nusajaya industrial park (land RM972.1m), a day after SD Guthrie-YTL's Bukit Kerayong - which MBSB Research already frames as a potential 4GW data centre campus",
+      "soWhat": "Landowners are monetising acreage via shared-risk JVs rather than sales, and Johor plus Selangor industrial corridors are where DC and JS-SEZ demand is being priced first.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-31-pd-1",
+        "2026-10-31-ai-4"
+      ]
+    },
+    {
+      "headline": "MCMC has formalised spectrum assignments for both CelcomDigi (2600MHz and 900MHz; RM42m annual 2600 fee, RM3,500 per 900MHz apparatus) and Maxis (2600MHz effective 1 Nov), on top of the RM381.75m upfront fees",
+      "soWhat": "The 5G capacity path is now locked in and costed for both operators just as Maxis-U Mobile merger talk circulates, clarifying what each party brings to any combination.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-10-31-ai-3"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "MARC pushes Zetrix's sukuk to the brink of default as the board empties; spectrum assignments formalise for both mobile operators",
+      "items": [
+        {
+          "id": "2026-10-31-ai-1",
+          "headline": "MARC cuts Zetrix AI's RM2b sukuk to C - one notch above default - its second downgrade in two weeks; any missed payment takes it to D",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "MARC Ratings downgraded Zetrix AI Bhd's RM2 billion sukuk programme to C, indicating a high likelihood of non-repayment, and said any failure to make payments due would cut the rating to D (payment default). The cut - the second in two weeks, after AA- to BB+ on 16 Oct - follows the 23 Oct sukukholders' meeting that ended without a resolution and Zetrix's failure to remedy the covenant breach or obtain an indulgence from sukukholders. MARC flagged mounting liquidity pressures, growing financial claims, uncertain funding sources and governance weaknesses. The covenant requires founder-MD Wong Thean Soon to remain single largest shareholder; margin-call forced sales have cut his stake to 1.841% from over 30%.",
+          "soWhat": "With the rating at C, the March 2027 RM214m payment is now a live default trigger, not a formality: every Zetrix obligation (JPJ arrears suit, MyEG tax suit, operating cash) competes for the same shrinking liquidity, and MARC is effectively saying resolution depends on sukukholder indulgence the company does not yet have.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823997"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "watchOut": "Watch for any 9.19A payment-default announcement and whether a further indulgence or restructuring proposal reaches sukukholders before the March coupon."
+        },
+        {
+          "id": "2026-10-31-ai-2",
+          "headline": "Zetrix AI loses its entire audit committee; four of seven board members have resigned within a month, leaving three directors",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "All three audit committee members of Zetrix AI resigned - Datuk Othman Semail and Mohaini Mohd Yusof effective Thursday, three days after Wong Kok Chau quit as committee chairman and independent director - all citing personal commitments. Four of seven board members have now resigned within a month, leaving only group MD Wong Thean Soon and two non-independent directors. Zetrix also filed its own clarification on Friday confirming the HeiTech Padu teaming and supplemental agreements for the RM1.05b NIISe project had lapsed with no collaboration undertaken.",
+          "soWhat": "A company fighting for sukukholder indulgence now has no audit committee - the exact governance capacity MARC cited when cutting the rating. Regulators (Bursa/SC minimum board-composition rules) become the next pressure point.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823891"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11695731"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-31-ai-3",
+          "headline": "MCMC formalises spectrum assignments for CelcomDigi and Maxis: CelcomDigi discloses RM42m annual fee for 2600MHz plus RM3,500 per apparatus for 900MHz; Maxis's 2600MHz assignment effective 1 Nov",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "CelcomDigi Bhd received assignments for two blocks each in the 2600MHz and 900MHz bands, disclosing annual fees of RM42 million for the 2600MHz band over four years and RM3,500 per apparatus for 900MHz over five years - on top of the RM381.75 million upfront assignment fees disclosed 15 Oct. Maxis Bhd separately announced MCMC has issued its 2x10MHz 2600MHz spectrum assignment, effective 1 Nov 2026, following its 15 and 20 Oct acceptance announcements. Both operators say the spectrum supports capacity and service quality for 4G/5G.",
+          "soWhat": "The spectrum round is now fully executed for the two largest operators, locking in 5G capacity expansion paths and quantifying the annual fee drag; it also lands while merger talk (Maxis-U Mobile) circulates, sharpening what each party would bring to any combination.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823940"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11695031"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-31-ai-4",
+          "headline": "MBSB Research floats a potential 4GW data centre campus at the YTL Power-SD Guthrie-Bumi Assets Bukit Kerayong site, maintaining a buy on YTL Power (TP RM5.98)",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "MBSB Research said the Bukit Kerayong JV announced Thursday (YTL Power 35%, SD Guthrie 30%, Bumi Assets 35%) could be a strategic milestone significantly expanding YTL Power's development pipeline, and sees potential for a 4GW data centre campus at the 1,623-acre Selangor site. The house kept earnings forecasts and a sum-of-parts target price of RM5.98, citing the Kulai DC ramp-up and the planned Sedenak Tech Park West expansion.",
+          "soWhat": "Analyst framing confirms what the JV structure implied - Bukit Kerayong is a power-anchored DC play, not plain industrial land. A 4GW figure would dwarf anything currently operating in Malaysia; treat it as a ceiling scenario from the covering house, not a company plan, until the JV discloses a master plan.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823917"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "China's Jin Jiang enters Malaysia via Desaru while Avillion fights for its Bali resort lease",
+      "items": [
+        {
+          "id": "2026-10-31-ht-1",
+          "headline": "Jin Jiang Hotels to open Southeast Asia's first Renjoy Hotel in Desaru (rebranding Sand & Sandals) and a 7 Days Premium in Tanjung Malim in 1H2027",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Jin Jiang Hotels (Malaysia) signed a hotel management agreement with Techvance Hotel & Resort to refresh and rebrand the existing Sand & Sandals Desaru Beach Resort & Spa as Renjoy Hotel Desaru - Southeast Asia's first Renjoy - focusing on refreshed rooms, new dining and upgraded resort facilities. The group also plans a 7 Days Premium Hotel in Tanjung Malim, Perak in 1H2027, with details forthcoming.",
+          "soWhat": "China's largest hotel group is planting economy and upper-midscale flags in Malaysian secondary destinations rather than KL - a distribution play on Chinese outbound traffic that pressures independent beach resorts to join soft brands or lose the channel.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823903"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Owners of tired beach and highway-corridor assets gain a new rebranding/management counterparty."
+        },
+        {
+          "id": "2026-10-31-ht-2",
+          "headline": "Avillion in dispute with a claimed landowner over its Villa Cinta resort in Bali - alleged expired lease and unpaid rent",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Avillion Bhd's 99%-owned PT Avillion Indonesia received a solicitors' letter dated 13 Oct 2026 from representatives of Shirley Winarso, who claims ownership of the land under the Villa Cinta resort in Bali and alleges the lease expired 15 Jan 2026 without renewal, with outstanding rental obligations. Avillion operates beach resorts, hotels and spas in Malaysia and Indonesia.",
+          "soWhat": "A lease-expiry claim on an operating resort asset puts both revenue continuity and asset control at risk in Avillion's Indonesian portfolio; the company's response (and any injunction) will show how defensible its tenure is.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823922"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11694815"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "Penang's biggest mall in a decade opens its doors",
+      "items": [
+        {
+          "id": "2026-10-31-pi-1",
+          "headline": "The Waterfront Shoppes at The Light City, Penang holds soft opening - 700,000 sq ft NLA makes it the state's largest mall in over a decade",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "The Waterfront Shoppes (TWS) at The Light City - the integrated JV development between IJM Corp Bhd and Singapore's Perennial Holdings - officially soft-opened. The mall offers 700,000 sq ft of net lettable space with a 750-metre waterfront promenade combining shopping, dining, entertainment, recreation and public spaces, and is billed as Penang's largest shopping mall in more than a decade.",
+          "soWhat": "A rare large-scale retail completion tests Penang's post-pandemic consumption depth; leasing traction at TWS will read across to mainland George Town retail rents and to IJM-Perennial's next phases at The Light City.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823901"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "The industrial-land JV wave rolls on: UEM Sunrise-AME's RM4b Gerbang Nusajaya park, plus Terengganu and Penang progress markers",
+      "items": [
+        {
+          "id": "2026-10-31-pd-1",
+          "headline": "UEM Sunrise and AME Elite form 50:50 JV for a RM4b-GDV, 402-acre industrial park in Gerbang Nusajaya, Johor; land acquired from UEM's Nusajaya Rise for RM972.1m",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "UEM Sunrise Bhd (via UEM Land Bhd) and AME Elite Consortium Bhd (via AME Development Sdn Bhd) will hold equal stakes in Gerbang Synergy Sdn Bhd, which acquires 402 acres of freehold land in Gerbang Nusajaya from UEM Sunrise's wholly owned Nusajaya Rise Sdn Bhd for RM972.1 million to develop an industrial park with estimated GDV of RM4 billion.",
+          "soWhat": "Back-to-back mega industrial JVs (this, then SD Guthrie-YTL's Bukit Kerayong a day earlier) show landowners monetising acreage through shared-risk structures rather than outright sales - and AME Elite continues consolidating the Johor industrial-developer position just as JS-SEZ demand builds.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823990"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11695377"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11695627"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Industrial-park developers and contractors in the Johor corridor see a deepening pipeline."
+        },
+        {
+          "id": "2026-10-31-pd-2",
+          "headline": "Ting Mee Land breaks ground on 44-acre Garden Bay City in Kerteh, Kemaman as Phase 1 commercial hub The Walk hits 90% sales",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Ting Mee Land Sdn Bhd (a Garden World Group subsidiary) held the official groundbreaking for its 44-acre Garden Bay City integrated development in Kerteh, Kemaman, Terengganu. Phase 1 commercial lifestyle hub The Walk has achieved a 90% take-up, with construction about 25% complete before the ceremony.",
+          "soWhat": "Energy-corridor townships (Kerteh-Kemaman, near Paka and the petrochemical belt) keep absorbing commercial product - a demand signal for east-coast industrial-adjacent property that bigger developers have largely ignored.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823915"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-10-31-pd-3",
+          "headline": "Penang's Silicon Island: 202ha reclaimed (39% of Phase 1), Green Tech Park construction to be the 2027 focus, first industrial plot sales expected soon",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Chief Minister Chow Kon Yeow said 202.34 hectares of Silicon Island's 513.95-hectare Phase 1 had been reclaimed by October, with 2027 development focused on building a 283.28-hectare Green Tech Park for high-tech, green and sustainable industries. A 26.24-hectare site was provided in May for the LRT Pearl Line depot, and the process of selling the first industrial plots is expected to begin shortly.",
+          "soWhat": "Penang's industrial-land scarcity gets its first meaningful new supply in years; plot pricing at Silicon Island will set the benchmark for high-tech manufacturing land and signal how much ESG-compliant demand is really waiting.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824005"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Infrastructure money moves: RM5b repurposed to Perak water and a RM700m sukuk for Melaka's first waste-to-energy plant",
+      "items": [
+        {
+          "id": "2026-10-31-co-1",
+          "headline": "MOF Inc unit signs RM5b loan repurposing with China's Exim Bank to fund the Northern Perak Water Supply Scheme",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Suria Strategic Energy Resources Sdn Bhd, a Minister of Finance Inc company, and the Export-Import Bank of China signed a RM5 billion loan repurposing agreement to finance the Northern Perak Water Supply Scheme (NPWSS). The MOF framed it as a partial recovery of loans tied to the cancelled Trans-Sabah Gas Pipeline and Multi-Product Pipeline projects, redirecting the funds to infrastructure benefiting Perak and Penang.",
+          "soWhat": "A funded RM5b water scheme converts directly into a multi-year civil-works pipeline (intakes, treatment plants, transmission mains) for northern-corridor contractors - and the repurposing structure salvages value from two dead pipeline loans without new borrowings.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823966"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Northern-region water-infrastructure contractors and pipe/civil suppliers gain a funded RM5b programme to bid into."
+        },
+        {
+          "id": "2026-10-31-co-2",
+          "headline": "Malakoff sets up a RM700m green sukuk programme to part-finance Melaka's first waste-to-energy plant at Sungai Udang, completing 2029",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Malakoff Corp Bhd established a 30-year, RM700 million green sukuk programme through subsidiary Sungai Udang WTE Sdn Bhd, lodged with the Securities Commission, to partly finance Melaka's first WTE facility. Under a 34-year concession effective 18 Jun 2026, the plant will process up to 1,056 tonnes of municipal solid waste daily and generate 22.1MW of renewable electricity, diverting over 300,000 tonnes of waste from landfills annually, with completion expected in 2029.",
+          "soWhat": "WTE is moving from pilots to financed projects; the Sungai Udang EPC and subsequent O&M work adds a new infrastructure category to the local construction order-book mix, with more states expected to follow Melaka.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823970"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "Kimlun taps the debt market for working capital",
+      "items": [
+        {
+          "id": "2026-10-31-bm-1",
+          "headline": "Kimlun raises RM31.66m via Islamic commercial papers in two tranches for working capital, capex and refinancing",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-30",
+          "detail": "Kimlun Corp Bhd issued RM31.66 million of Islamic commercial papers - RM16.4 million at six months and RM15.26 million at one year - under its RM800 million combined ICP/IMTN programme. Proceeds fund shariah-compliant general corporate purposes, working capital, capital expenditure and refinancing of existing financing at the construction and precast concrete group.",
+          "soWhat": "Short-tenor paper for working capital and refinancing (rather than project expansion) reads as balance-sheet management while construction margins stay thin; for the IBS/precast segment it signals players are keeping powder dry rather than adding capacity ahead of the 2027 project cycle.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/823992"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11695195"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge node probe (501 nodes fetched 823800-824300, 220 resolved incl. the 30 Oct evening batch), Star business front (weekend features only), MM money front, NST feed, FMT feed, TNGlobal WP API, EdgeProp front, Bursa mirror (512 filings dated 30 Oct). Used: MARC sukuk cut to C (ai-1), audit-committee collapse (ai-2), CelcomDigi+Maxis spectrum (ai-3), MBSB 4GW Bukit Kerayong note (ai-4, attributed analyst view). Seen, not itemised: MyDCD 91%-upside analyst note (823898; unrated note), Rakuten Trade's week-long trading outage after cyberattack (823904; market-ops incident), Penang tech financial centre remarks by CM (823957), Safran's US$152m Malaysia aerospace expansion (TNGlobal; aerospace off-sector), tech-export competitiveness notes by CGS/Kenanga (commentary), Nvidia-bubble and AI-capex global wires. Zetrix watch: still no next sukukholders' meeting date; MARC now flags any missed payment as an immediate D; Zetrix's own 30 Oct filing confirmed the NIISe teaming lapse (corroborates 30 Oct edition ai-3).",
+    "propertyDevelopment": "Checked: Edge probe, Star, MM, NST/FMT/Sun feeds, EdgeProp, Bursa mirror. Used: UEM Sunrise-AME JV (pd-1), Garden Bay City groundbreaking (pd-2), Silicon Island progress (pd-3). Seen, not itemised: Matrix Kulai additional-info filing (base acquisition itemised 28 Oct), i-City 'powered by Nvidia' residences (NST; marketing-led), Nexus Sedenak five-sector identification (823960; MOU-stage), PKNS-Petronas petrol-station land MOU (823968; exploratory), SimeProp Sabah voluntary liquidation (housekeeping), Mi Technovation's RM332m Singapore property buy (corporate HQ purchase, non-retail).",
+    "construction": "Checked: same probe set plus Bursa mirror. Used: RM5b Perak water loan (co-1), Malakoff WTE sukuk (co-2). Seen, not itemised: YTL Construction's three industry awards incl. Gemas-JB EDT (EdgeProp 1918092; excellence awards, not contract wins), GIIB UMA reply and Ng Meng Kee stake increase (823934/823994; off-watchlist small cap), Ni Hsin sell-off explanation (824003), Mega Fortris court order on March share trades (824014; off-sector), KTMB freight revenue +10% (824001; operations stat), Star's 'Finding construction's next growth driver' (weekend feature).",
+    "propertyInvestment": "Checked: Edge probe, EdgeProp, Star, MM, Bursa mirror. Used: The Waterfront Shoppes soft opening (pi-1) - retail, in scope. Seen, not itemised: IGB REIT and IGB Commercial REIT distribution increases of >25% (823998; distributions, not asset news).",
+    "plantation": "Checked: Edge probe, feeds, Bursa mirror. No verified item today: PPB's 3Q preview (823910) is an analyst note; Indonesia rain easing haze (823890) is weather context noted here; TSH's filings were buy-backs (routine).",
+    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No licensed-moneylending item today.",
+    "consumerFinancing": "Checked: NST/FMT/Sun feeds, Edge probe, MM. No consumer-credit item today: Bank Rakyat's fintech accelerator winners (NST) is programme PR, not credit-market news.",
+    "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No cable-manufacturer news or watchlist cable filings today.",
+    "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror, watchlist names (OKA, Kitacon). Used: Kimlun's ICP raise (bm-1) - Kimlun is a precast/IBS manufacturer in scope. No watchlist materials news.",
+    "hotels": "Checked: Edge probe, Star, MM, EdgeProp fronts, feeds, Bursa mirror. Used: Jin Jiang Malaysia entry (ht-1), Avillion Villa Cinta dispute (ht-2)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 30 Oct edition's checks (~07:27 MYT 30 Oct) to ~07:18 MYT 31 Oct 2026. Edge probe overlapped yesterday's tail (823800-824300, 501 nodes, 220 resolved); late-resolving 30 Oct evening drafts are captured here.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological. Bursa official site blocks automation; the KLSE Screener mirror supplied the full 30 Oct filing list (512 rows, saved to logs).",
+    "Access: Malay Mail RSS feed remains Cloudflare-walled (terminal per the no-solver rule); the MM money front was read in the browser instead. The Malaysian Reserve returned a 403 bot wall via curl - terminal, no bypass attempted. Saturday note: Star's front is weekend features/insight (excluded as commentary); verified items rest on Friday's Edge, filings and press statements.",
+    "Dedupe: Matrix Kulai land (28 Oct edition) and SD Guthrie-YTL Bukit Kerayong JV (30 Oct edition) are referenced only as context. The Zetrix sukuk dissolution-event story (30 Oct edition) continues with MARC's rating action - itemised as new developments, not repeats.",
+    "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
+  ],
+  "watchlistCoverage": [
+    "Master Tec Group Berhad (0295): routine 30 Oct filing - boardroom change (Mr Tee Kok Hwa); not itemised.",
+    "Pesona Metro Holdings Berhad (8311): routine share buy-back announcement 30 Oct; not itemised.",
+    "No watchlist company named in an itemised article today."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 142,
+      "used": 13,
+      "status": "checked",
+      "note": "501 nodes fetched (823800-824300), 220 resolved incl. 30 Oct evening batch",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 5,
+      "used": 0,
+      "status": "blocked",
+      "note": "feed Cloudflare-walled (terminal per no-solver rule); money front read in browser",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "feed path /feed",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Free Malaysia Today"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 20,
+      "used": 0,
+      "status": "checked",
+      "note": "WP API",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 16,
+      "used": 0,
+      "status": "checked",
+      "note": "business front via browser; Saturday = weekend features, excluded as commentary",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "403 bot wall via curl; terminal per no-solver rule",
+      "publishers": []
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 6,
+      "used": 0,
+      "status": "checked",
+      "note": "front page via browser; YTL awards piece opened (excellence awards, not contract wins)",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 25,
+      "used": 5,
+      "status": "checked",
+      "note": "KLSE Screener mirror pages 1-22; 512 filings dated 30 Oct",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

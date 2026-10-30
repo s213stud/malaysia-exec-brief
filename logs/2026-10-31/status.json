@@ -1,0 +1,11 @@
+{
+ "date": "2026-10-31",
+ "status": "published",
+ "items": 13,
+ "sectorsWithItems": 6,
+ "blockers": [
+  "The Malaysian Reserve (403 bot wall, terminal)",
+  "Malay Mail RSS feed (Cloudflare wall; browser front used instead)"
+ ],
+ "generatedAt": "2026-10-31T07:25:00+08:00"
+}

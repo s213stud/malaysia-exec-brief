@@ -1,0 +1,10 @@
+{"ts": "2026-10-31T07:20:42+08:00", "source": "The Edge", "method": "node probe 823800-824300 via curl (xargs parallel)", "result": "ok: 501 fetched, 220 resolved incl. 30 Oct evening batch", "status": "ok"}
+{"ts": "2026-10-31T07:20:42+08:00", "source": "Malay Mail", "method": "RSS feed via curl", "result": "blocked: feed Cloudflare challenge (terminal per no-solver rule); money front read in browser instead", "status": "blocked"}
+{"ts": "2026-10-31T07:20:42+08:00", "source": "NST / Business Times", "method": "RSS feed via curl (/feed)", "result": "ok: 50 in-window; nothing itemised", "status": "ok"}
+{"ts": "2026-10-31T07:20:42+08:00", "source": "FMT", "method": "RSS feed via curl -L", "result": "ok: 50 in-window; nothing itemised", "status": "ok"}
+{"ts": "2026-10-31T07:20:42+08:00", "source": "The Sun", "method": "RSS feed via curl", "result": "ok: 10 in-window; nothing itemised", "status": "ok"}
+{"ts": "2026-10-31T07:22:18+08:00", "source": "Bursa announcements", "method": "KLSE Screener mirror, pages 1-22, browser UA", "result": "ok: 512 filings dated 30 Oct; Zetrix/Maxis/AME/SimeProp/Matrix filings opened", "status": "ok"}
+{"ts": "2026-10-31T07:20:42+08:00", "source": "TNGlobal", "method": "WP API", "result": "ok: 19 in-window; Safran aerospace noted, rest regional", "status": "ok"}
+{"ts": "2026-10-31T07:22:39+08:00", "source": "The Star", "method": "cloud browser business front", "result": "ok: 16 headlines; Saturday weekend features, nothing itemised", "status": "ok"}
+{"ts": "2026-10-31T07:20:42+08:00", "source": "The Malaysian Reserve", "method": "curl homepage", "result": "blocked: 403 bot wall; terminal per no-solver rule (no bypass attempted)", "status": "blocked"}
+{"ts": "2026-10-31T07:22:59+08:00", "source": "EdgeProp", "method": "cloud browser front page", "result": "ok: YTL awards piece opened and excluded (not contract wins)", "status": "ok"}
