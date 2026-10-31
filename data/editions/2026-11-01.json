@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-01",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-01T07:18:40+08:00",
+    "2026-11-01T07:19:20+08:00",
+    "2026-11-01T07:19:50+08:00",
+    "2026-11-01T07:21:52+08:00",
+    "2026-11-01T07:22:16+08:00",
+    "2026-11-01T07:22:21+08:00",
+    "2026-11-01T07:23:27+08:00"
+  ],
+  "publishedAt": "2026-11-01T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Haus on 15's Block B sold out at launch - Gamuda Land and Taylor's Assets' RM540m GDV SS15 redevelopment opens Block A (apartments from RM736,800), with a 401-bed student block retained by Taylor's",
+      "soWhat": "Fast absorption on the former Taylor's College site confirms demand depth in mature Subang Jaya and validates the PBSA-anchored mixed-use model; Block A take-up is the next read on SS15 pricing power.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-01-pd-1"
+      ]
+    },
+    {
+      "headline": "Plantation minister Noraini pushes replanting, mechanisation and stronger MSPO standards at MEOA's 95th anniversary - direction, not dollars",
+      "soWhat": "No new funding or mandates were announced; the signal is sustained policy pressure on replanting capex and certification readiness, which shapes planters' cost curves and financing plans into 2027.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-01-pl-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Haus on 15 launch: Block B sold out as Gamuda Land-Taylor's Assets open Block A of their RM540m GDV SS15 redevelopment",
+      "items": [
+        {
+          "id": "2026-11-01-pd-1",
+          "headline": "Gamuda Land and Taylor's Assets launch Haus on 15 on the former Taylor's College SS15 site - Block B fully sold, Block A opens from RM736,800",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-10-31",
+          "detail": "Gamuda Land and Taylor's Assets officially launched Haus on 15, a 2.88-acre freehold mixed-use development with a gross development value of RM540 million on the former Taylor's College campus in SS15, Subang Jaya. Block B, soft-launched in early October, is fully sold; Block A opened for sale at the launch. The project comprises two 31-storey serviced apartment towers (614 units, 690-980 sq ft, priced from RM736,800), a 253-unit purpose-built student accommodation block (401 beds, retained by Taylor's Assets and managed by Taylor's Hostel Management, serving institutions across Subang Jaya-Sunway) and 18 retail units (1,399-2,829 sq ft, from RM1.52 million). Groundbreaking was in July; completion is slated for 2029.",
+          "soWhat": "A full Block B sell-out within weeks of soft launch signals deep demand for well-located Subang Jaya product; the retained PBSA block gives Taylor's a recurring-income asset anchored to the area's student population.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824056"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918100/haus-15-opens-block-after-reporting-block-b-sell-out"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Noraini's MEOA speech pushes replanting, mechanisation and MSPO upgrades - no new funding announced",
+      "items": [
+        {
+          "id": "2026-11-01-pl-1",
+          "headline": "Noraini tells planters to replant ageing estates and mechanise; frames MSPO sustainability as competitiveness, not cost",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-10-31",
+          "detail": "Plantations and Commodities Minister Datuk Seri Dr Noraini Ahmad told the Malaysian Estate Owners Association's 95th anniversary celebration that the industry must accelerate productivity and technology adoption to counter rising operating costs, labour shortages and intensifying global competition. She said replanting of ageing estates is necessary to maintain yields but requires substantial financing, time and careful planning, and urged government-industry cooperation on the structural challenge. She positioned Malaysian Sustainable Palm Oil (MSPO) certification as the foundation for meeting international buyers' transparency demands, arguing sustainability should be managed as a competitiveness lever rather than a cost.",
+          "soWhat": "Speech-level direction with no new funding or mandate attached; the signal is continued policy pressure on estates to fund replanting capex and mechanisation - relevant to listed planters' cost curves and to lenders assessing plantation credits.",
+          "sources": [
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/10/1567810/plantation-industry-needs-tech-boost-noraini-ahmad"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge node probe (41 in-window nodes resolved 824033-824105; 824100-824600 confirmed above the current max ID), Star business front, MM money front, NST feed, FMT feed, TNGlobal WP API (4 in-window, all non-Malaysia), Bursa mirror (no filings dated 31 Oct). No AI/telco/ICT corporate or policy news in-window. Seen, not itemised: Binance in talks for a Malaysian licence after a five-year absence (Edge 824069; digital-asset licensing, outside the telco/DC/ICT-industry scope); PSD remarks on Waze-use compliance by civil servants (824061; civil-service IT policy).",
+    "propertyDevelopment": "Checked: same portal set. Used: Haus on 15 launch (pd-1). Seen, not itemised: Star 'Reshaping Malaysia's built environment' (CIDB/CIOB youth convention feature, 1 Nov; no deals or data) and 'Abandoned projects: no easy fix' (explainer, no new data); EdgeProp's Tropicana 480 Puncak Alam homes (duplicate of the 30 Oct Avisa Phase 2 item); EdgeProp's YTL Construction 'award wins' (MCIEA/CIOB industry excellence awards, not contract wins; dated 30 Oct); EdgeProp's 29-30 Oct stories (SDG-YTL industrial park already itemised 30 Oct; Penang hillslope remarks dated 30 Oct).",
+    "construction": "Checked: same portal set. No construction contract awards, results or policy moves in-window; Bursa was closed Saturday. YTL Construction's three announcements were industry awards (MCIEA 2026 and CIOB Malaysia), excluded.",
+    "propertyInvestment": "Checked: same portal set. No retail-asset or REIT news in-window.",
+    "plantation": "Checked: same portal set. Used: Noraini's MEOA remarks (pl-1). Seen, not itemised: Edge air-quality update ('Haze-free Malaysia'; environmental context only).",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending or capital-financing news in-window.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant consumer-financing news in-window. Anwar's RM200m Skim Usahawan Bangkit grant top-up (NST) is SME grant policy, not consumer credit - excluded.",
+    "cablesManufacturing": "Checked: same portal set. No cable-maker news in-window.",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or watchlist building-materials news in-window.",
+    "hotels": "Checked: same portal set. No hotel news in-window."
+  },
+  "generalCoverage": [
+    "Edition window: from the 31 Oct edition's checks (~07:18 MYT 31 Oct) to ~07:24 MYT 1 Nov 2026. Edge probe: 824100-824600 all returned 307->/404 (above the current max node ID, verified by sequential curls); 824033-824105 probed, 41 resolved, all in-window.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological. Bursa official site blocks automation; the KLSE Screener mirror (pages 1-8, 237 rows) held only 30 Oct filings - Bursa was closed Saturday, so no new filings are due.",
+    "Access: Malay Mail RSS feed remains Cloudflare-walled (terminal per the no-solver rule); the MM money front was read in the browser instead. The Malaysian Reserve returned a 403 bot wall via curl - terminal, no bypass attempted. Sunday note: news flow is thin across all portals; the Star front is weekend features, opened and excluded where soft.",
+    "Dedupe: Tropicana's 480 Puncak Alam homes (EdgeProp, 31 Oct) is the same Avisa Residences Phase 2 launch itemised on 30 Oct - excluded. YTL Construction's Gemas-JB 'award wins' are MCIEA/CIOB industry excellence awards, not contract wins - excluded. The Star's 'Finding construction's next growth driver' was published 31 Oct 00:00, before this window - excluded.",
+    "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company named in any in-window article today.",
+    "Bursa mirror pages 1-8 showed no filings dated 31 Oct (Bursa closed Saturday); the filing sweep resumes tomorrow.",
+    "Gamuda Land (pd-1) is a Gamuda Bhd unit; Gamuda is not on the 12-company watchlist, so no flag applies."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 41,
+      "used": 1,
+      "status": "checked",
+      "note": "501 high IDs (824100-824600) confirmed above max; 73 probed (824033-824105), 41 resolved in-window",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 6,
+      "used": 0,
+      "status": "checked",
+      "note": "feed Cloudflare-walled (terminal per no-solver rule); money front read in browser",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "feed path /feed",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "feed 301-redirects; curl -L",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "feed entries",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 4,
+      "used": 0,
+      "status": "checked",
+      "note": "WP API",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 11,
+      "used": 0,
+      "status": "checked",
+      "note": "business front + article opens in browser",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "403 bot wall; terminal per no-solver rule, no bypass attempted",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 4,
+      "used": 1,
+      "status": "checked",
+      "note": "front + article opens in browser",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "mirror pages 1-8; no filings dated 31 Oct (Saturday)",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}
