@@ -1,0 +1,20 @@
+{"ts": "2026-11-02T07:20:33+08:00", "source": "NST / Business Times", "method": "RSS /feed via curl", "result": "ok: 50 items fetched, 50 in-window", "status": "ok"}
+
+{"ts": "2026-11-02T07:20:33+08:00", "source": "FMT", "method": "RSS feed via curl -L", "result": "ok: 50 items fetched, 50 in-window", "status": "ok"}
+
+{"ts": "2026-11-02T07:20:33+08:00", "source": "Malay Mail", "method": "RSS feed via curl", "result": "ok: feed accessible today (200); 8 in-window", "status": "ok"}
+
+{"ts": "2026-11-02T07:20:33+08:00", "source": "TNGlobal", "method": "WordPress API via curl", "result": "ok: 20 posts fetched, 1 in-window (non-Malaysia)", "status": "ok"}
+
+{"ts": "2026-11-02T07:20:33+08:00", "source": "The Malaysian Reserve", "method": "curl homepage", "result": "blocked: 403 bot wall; terminal per no-solver rule (no bypass attempted)", "status": "blocked"}
+
+{"ts": "2026-11-02T07:20:52+08:00", "source": "The Sun", "method": "RSS feed via curl, retries", "result": "blocked: site unreachable - connection timeouts on /feed, homepage and /business via curl; cloud-browser load also failed (transient routing error); yesterday's feed worked, so likely a site outage or new block. Coverage gap noted", "status": "blocked"}
+
+{"ts": "2026-11-02T07:21:47+08:00", "source": "The Edge", "method": "node probe 824075-824360 via curl (xargs P4)", "result": "ok: 286 probed, 21 resolved, all in-window; max resolved 824095 (rest 307->/404, above current max)", "status": "ok"}
+
+{"ts": "2026-11-02T07:24:40+08:00", "source": "Bursa announcements", "method": "KLSE Screener mirror pages 1-6 via curl (browser UA)", "result": "ok: 180 rows, all dated 30 Oct (previously logged); no filings dated 31 Oct-2 Nov", "status": "ok"}
+
+{"ts": "2026-11-02T07:24:45+08:00", "source": "The Star", "method": "cloud browser business front + curl article opens", "result": "ok: front scanned; KIP-REIT and overhang articles opened and itemised; Sime Darby and Korea-exports pieces opened and excluded", "status": "ok"}
+
+{"ts": "2026-11-02T07:24:45+08:00", "source": "EdgeProp", "method": "cloud browser front", "result": "ok: no new stories since the 31 Oct Haus on 15 piece (itemised yesterday)", "status": "ok"}
+

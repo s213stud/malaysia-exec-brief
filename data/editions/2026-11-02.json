@@ -1,0 +1,211 @@
+{
+  "date": "2026-11-02",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-02T07:20:33+08:00",
+    "2026-11-02T07:20:52+08:00",
+    "2026-11-02T07:21:47+08:00",
+    "2026-11-02T07:22:26+08:00",
+    "2026-11-02T07:24:14+08:00",
+    "2026-11-02T07:24:40+08:00",
+    "2026-11-02T07:24:45+08:00",
+    "2026-11-02T07:27:07+08:00",
+    "2026-11-02T07:28:47+08:00"
+  ],
+  "publishedAt": "2026-11-02T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "KIP-REIT pivots from acquisitions to organic growth after KIPMall Setapak lifts AUM to RM2b - UOBKH sees scope for 20-25% rent uplifts on new leases against ~5% historical reversions",
+      "soWhat": "Setapak's NPI run-rate is already 15% above the acquisition circular at RM36m; execution on the 2027-28 lease-expiry wall (20% then 50% of NLA) is now the retail-REIT story to watch, with DPU normalising from 2Q27.",
+      "sectorKeys": [
+        "propertyInvestment"
+      ],
+      "itemIds": [
+        "2026-11-02-pi-1"
+      ]
+    },
+    {
+      "headline": "JLL says the overhang is a mismatch problem, not just volume - Johor holds 9,946 unsold serviced-apartment units worth RM6.29b, and KPKT counted 100 abandoned projects (27,998 units, 14,961 buyers) as at June",
+      "soWhat": "Budget 2027's white-knight stamp duty exemption (2027-2030) lowers revival transaction costs but does not make unviable projects viable; product-market fit in KL/Johor serviced apartments remains the segment's pricing constraint.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-02-pd-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "KIP-REIT's post-Setapak organic growth plan: rental reversions and AEIs replace acquisition-led expansion",
+      "items": [
+        {
+          "id": "2026-11-02-pi-1",
+          "headline": "KIP-REIT shifts to organic growth after KIPMall Setapak completion lifts AUM to RM2b; UOBKH sees 20-25% rent uplift potential on new leases",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-02",
+          "detail": "KIP Real Estate Investment Trust has completed the KIPMall Setapak acquisition, lifting assets under management to RM2 billion, and is pivoting from acquisition-led expansion to organic earnings growth via rental reversions and asset enhancement initiatives, according to UOB Kay Hian Research. Setapak's annualised NPI run-rate stood at about RM36 million at end-September 2026, 15% above the RM31.3 million disclosed in the FY25 acquisition circular, with 20% and 50% of the mall's NLA due for lease expiry in 2027 and 2028. Management sees scope for 20-25% higher rents from new tenants versus ~5% historical reversions under the previous owner; UOBKH calls this achievable, citing D'Pulze Shopping Centre's 23% rent rise to RM6.18 psf within a year of acquisition. FY27 AEIs get RM5 million each at KIPMall Masai (targeting ~10% ROI on 6.7 million annual footfall) and KIPMall Kota Warisan; Tampoi's completed AEI lifted daily footfall from 17,000-20,000 to 20,000-30,000. The RM160 million AEON Mall Kinta City expansion delay (approvals expected by end-2026, completion by end-FY28) is unlikely to pressure near-term finances as the contractor funds ~90% of construction costs, UOBKH said; DPU should normalise from 2Q27 on Setapak's first full-quarter contribution.",
+          "soWhat": "The retail-REIT growth story is now execution on reversions against a visible lease-expiry wall; the 20-25% uplift target is management's, and the D'Pulze precedent is the proof point - watch quarterly NPI prints against the RM36m run-rate.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/02/kip-reit-banks-on-rental-revisions-asset-enhancements"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "JLL frames the overhang as supply-demand mismatch; white-knight stamp duty relief welcomed but viability is the binding constraint",
+      "items": [
+        {
+          "id": "2026-11-02-pd-1",
+          "headline": "JLL Malaysia: overhang stock does not match buyer needs - Johor holds 9,946 unsold serviced-apartment units worth RM6.29b; 100 abandoned projects nationwide as at June",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-02",
+          "detail": "JLL Malaysia managing director Jamie Tan told StarBiz the property overhang persists despite Budget 2027 support measures because available supply does not align with target-market needs. In Kuala Lumpur, much of the overhang is serviced apartments of around 500 sq ft designed for short-stay or investment demand rather than owner-occupier families; Johor has 9,946 unsold units valued at about RM6.29 billion, and the two markets account for a substantial share of Malaysia's completed serviced-apartment overhang. Tan welcomed Budget 2027's full stamp duty exemption (2027-2030) on transfer instruments and loan agreements for white-knight contractors/developers and original purchasers of abandoned projects, but cautioned that a waiver alone will not make an unviable project viable given construction-cost escalation, financing costs, outstanding liabilities, legal disputes and buyer renegotiation. The Housing and Local Government Ministry reported 100 abandoned private housing projects involving 27,998 units and 14,961 buyers as at June 2026.",
+          "soWhat": "For developers, the binding constraint is product-market fit - size, layout, price and transport access - not headline demand; concentrated KL/Johor serviced-apartment stock keeps pricing pressure on that segment, and white-knight incentives help transactions without solving project viability.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/02/targeted-solutions-to-property-overhang"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge node probe (824075-824360, 21 resolved in-window), Star business front, MM feed (accessible today), NST feed, FMT feed, TNGlobal WP API, EdgeProp front. No Malaysia AI/telco/ICT corporate or policy news in-window. Seen, not itemised: South Korea's October exports +76.1% on the AI chip boom (Star; global trade data); Malaysia Airlines' statement on the Amadeus breach (aviation data incident, systems unaffected); Sarawak-Russia satellite-launch exploration (aerospace, off-scope); Media Mulia's paid-leave move (media industry).",
+    "propertyDevelopment": "Checked: same portal set. Used: JLL overhang analysis with KPKT abandoned-project data (pd-1). Seen, not itemised: Sime Darby's FY29 plan from its annual report (Star; conglomerate outside sector scope); EdgeProp front unchanged since 31 Oct (Haus on 15 itemised yesterday).",
+    "construction": "Checked: same portal set. No construction contract awards, results or policy moves in-window; Bursa mirror shows no filings dated 31 Oct-2 Nov (weekend; Monday filings post after market opens).",
+    "propertyInvestment": "Checked: same portal set. Used: KIP-REIT organic-growth story (pi-1; UOBKH-attributed projections). No other retail-asset or REIT news in-window.",
+    "plantation": "Checked: same portal set. No plantation news in-window. Opec+ output-target decision (FMT) is crude oil, off-scope; COP17 biodiversity piece is environment diplomacy, off-scope.",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in-window. The Edge's RM10.7b entrepreneur-financing figure (824092) covers government MSME programmes, not licensed moneylending - excluded.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant consumer-financing news in-window. Passport validity choice (NST) is consumer administration - excluded.",
+    "cablesManufacturing": "Checked: same portal set. No cable-maker news in-window. MM's SCMP-reported EV parts feature names no Malaysian listed supplier and covers automotive components - excluded.",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or watchlist building-materials news in-window. A consultant's IBS-adoption advocacy quote in the Star overhang piece is opinion, not industry news - excluded.",
+    "hotels": "Checked: same portal set. No hotel news in-window."
+  },
+  "generalCoverage": [
+    "Edition window: from the 1 Nov edition's checks (~07:24 MYT 1 Nov) to ~07:21 MYT 2 Nov 2026. Edge probe 824075-824360: 21 resolved, all in-window (max resolved 824095; higher IDs 307->/404, above the current max).",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); Star pieces by JSON-LD datePublished (both itemised Star stories published 00:00 MYT 2 Nov). Bursa official site blocks automation; the KLSE Screener mirror (pages 1-6) shows only 30 Oct filings - all swept in the 31 Oct edition; no filings dated 31 Oct-2 Nov.",
+    "Access: theSun's site was unreachable this morning - curl timeouts on /feed, homepage and /business, and the cloud-browser load failed; yesterday's feed worked, so this reads as a site outage or new block. Coverage gap noted honestly. TMR 403 bot wall - terminal per the no-solver rule. Malay Mail's RSS feed was accessible today (200), so no browser workaround was needed.",
+    "Zetrix watch: no new sukuk remediation, indulgence, rating or board development appeared in any checked source today; the watch continues (MARC rating C, any missed payment takes it to D).",
+    "Dedupe: EdgeProp's front is unchanged since 31 Oct; its Haus on 15 story was itemised yesterday. Star's Korea-exports and Sime Darby pieces were opened and excluded as off-scope.",
+    "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company named in any in-window article today.",
+    "Bursa mirror pages 1-6 show no filings dated 31 Oct-2 Nov; the filing sweep resumes when Monday filings post."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 21,
+      "used": 0,
+      "status": "checked",
+      "note": "286 probed (824075-824360), 21 resolved in-window; max resolved 824095",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 8,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS feed accessible today (200); no browser workaround needed",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "feed path /feed",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "feed 301-redirects; curl -L",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "site unreachable this morning (curl timeouts + browser load failure); coverage gap",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 1,
+      "used": 0,
+      "status": "checked",
+      "note": "WP API",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 18,
+      "used": 2,
+      "status": "checked",
+      "note": "business front in browser; articles via curl (JSON-LD + story-body)",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "403 bot wall; terminal per no-solver rule, no bypass attempted",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "front unchanged since 31 Oct",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "mirror pages 1-6; no filings dated 31 Oct-2 Nov (weekend)",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

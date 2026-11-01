@@ -1,0 +1,11 @@
+{
+ "date": "2026-11-02",
+ "status": "published",
+ "items": 2,
+ "sectorsWithItems": 2,
+ "blockers": [
+  "The Malaysian Reserve (403 bot wall, terminal)",
+  "The Sun (site unreachable this morning - curl timeouts and browser load failure)"
+ ],
+ "generatedAt": "2026-11-02T07:30:00+08:00"
+}
