@@ -1,601 +1,601 @@
 {
-  "date": "2026-11-03",
-  "status": "published",
-  "demo": false,
-  "checkedAt": [
-    "2026-11-03T07:20:33+08:00",
-    "2026-11-03T07:21:13+08:00",
-    "2026-11-03T07:22:26+08:00",
-    "2026-11-03T07:22:39+08:00",
-    "2026-11-03T07:23:18+08:00",
-    "2026-11-03T07:23:39+08:00",
-    "2026-11-03T07:23:48+08:00",
-    "2026-11-03T07:24:29+08:00",
-    "2026-11-03T07:25:54+08:00"
-  ],
-  "publishedAt": "2026-11-03T07:55:00+08:00",
-  "keyTakeaways": [
-    {
-      "headline": "A Port Dickson data centre cluster is taking shape in one morning: Google funds RM651m of shared water infrastructure (Gamuda builds, the state owns), ISF bags RM83m of hyperscale DC contracts and Northern Solar locks 189MW of CRESS power for two DCs",
-      "soWhat": "The constraint chain for Malaysian DCs - water, power and specialist contractors - is being financed and contracted simultaneously; Port Dickson joins Cyberjaya and Johor as a named cluster, with Gamuda, ISF and CRESS-linked renewables as early beneficiaries.",
-      "sectorKeys": [
-        "aiTelcoIct",
-        "construction"
-      ],
-      "itemIds": [
-        "2026-11-03-ai-1",
-        "2026-11-03-ai-3",
-        "2026-11-03-ai-4",
-        "2026-11-03-con-4"
-      ]
-    },
-    {
-      "headline": "Prosper Trading's conditional MGO for United Malacca at RM6.10 cash finally lands, two years after an unflagged PAC breach, with a compensation scheme for affected shareholders",
-      "soWhat": "The offer sets a price floor on the planter and turns a 2024 disclosure failure into a live governance test; acceptance conditions and compensation adequacy decide whether minorities are made whole.",
-      "sectorKeys": [
-        "plantation"
-      ],
-      "itemIds": [
-        "2026-11-03-pl-3"
-      ]
-    },
-    {
-      "headline": "CelcomDigi's spectrum bill (RM381.75m) trims CIMB's FY26-28 core earnings 1-4% even as it signs a 15-year Kulim Hi-Tech Park fibre concession",
-      "soWhat": "Consumer spectrum amortisation is being offset by efficiency targets and annuity-style enterprise deals; the Kulim concession shows where telco growth is heading as mobile matures.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-11-03-ai-2",
-        "2026-11-03-ai-6"
-      ]
-    }
-  ],
-  "sectors": [
-    {
-      "sectorKey": "aiTelcoIct",
-      "theme": "Port Dickson-Springhill DC cluster builds out: Google funds RM651m shared water infra, ISF bags RM83m of DC work, Northern Solar locks 189MW of CRESS supply; CelcomDigi balances spectrum costs with a Kulim fibre win",
-      "items": [
-        {
-          "id": "2026-11-03-ai-1",
-          "headline": "Google allocates US$160m (RM651m) for shared water infrastructure in Negeri Sembilan to serve its Springhill data centre campus; Gamuda to build, state-owned MBINS to own",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Google is funding a US$160 million (RM651 million) shared water infrastructure project in Negeri Sembilan supporting local community needs and its planned data centre campus at Springhill Industrial Park, Port Dickson. The project - an off-river storage reservoir along the Linggi River plus a 65-million-litre/day water treatment plant - will be built by Gamuda Bhd in partnership with the Negeri Sembilan state government and Syarikat Air Negeri Sembilan (SAINS); on completion the facilities will be owned by Menteri Besar Negeri Sembilan (Incorporated) (MBINS). The reservoir captures excess river flow, doubling as flood mitigation for surrounding areas.",
-          "soWhat": "A hyperscaler funding utility-grade water infrastructure - and handing ownership to the state - de-risks the resource constraint most likely to slow Malaysia's DC pipeline; for Gamuda it is a marquee civil-works role in the DC value chain beyond its own DC development ambitions.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824257"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-ai-2",
-          "headline": "CIMB Securities trims CelcomDigi FY2026-28 core earnings 1-4% on spectrum amortisation; 3Q core profit seen at ~RM430m, results 19 Nov",
-          "verdict": "Mixed",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "CIMB Securities cut its CelcomDigi FY2026-FY2028 core net profit forecasts by 1%-4% for higher spectrum amortisation after the operator paid RM381.75 million on 15 Oct for 2x20MHz of 2600MHz (four years) and 2x5MHz of 900MHz (five years) from MCMC. Ebitda forecasts are largely unchanged - the house expects the annual fees to be offset by cost efficiencies from holding the rights - and it expects 3QFY2026 core net profit to improve 1%-3% quarter-on-quarter to about RM430 million on the RM470 million 2026 efficiency target. Results are due 19 Nov.",
-          "soWhat": "The spectrum bill is now quantified and modest; the offset question is whether CIMB's efficiency offsets hold as both operators amortise the new 2600MHz assignments formalised on 1 Nov.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824146"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-ai-3",
-          "headline": "ISF Group secures RM83.23m of contracts for a hyperscale data centre in Port Dickson - its largest win to date; order book rises to RM225.5m",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Piping solutions provider ISF Group Bhd accepted three subcontracts worth RM73.33 million (cold water systems, rainwater harvesting, water distribution and sanitary services) plus a RM9.9 million letter of award for external sewerage works for a hyperscale data centre in Port Dickson, Negeri Sembilan, via wholly owned Yeo Plumber Sdn Bhd. The employer is an unnamed Malaysian construction firm. Completion runs November 2026 to July 2028; the group's unbilled order book now stands at RM225.5 million, giving earnings visibility through FY2029.",
-          "soWhat": "Second-tier M&E players are now banking multi-year order books from the DC build-out; Port Dickson is coalescing as the next DC cluster after Cyberjaya and Johor.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824266"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11696407"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-ai-4",
-          "headline": "Northern Solar wins two CRESS letters of award - 189MW of solar-plus-storage to power two data centres with ~497 GWh combined annual demand",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Northern Solar Holdings Bhd secured two letters of award under the Corporate Renewable Energy Supply Scheme (CRESS): a 100MW solar facility with battery storage serving a data centre using 262.8 million kWh a year, and an 89MW solar-plus-BESS project for a second data centre using 233.89 million kWh annually. The counterparties are undisclosed - one a Malaysian property-investment and DC-infrastructure company, the other the Malaysian subsidiary of a Singapore-based DC services operator. Project values were not disclosed; definitive agreements are pending.",
-          "soWhat": "DC power procurement via CRESS is converting directly into renewable-energy order flow; watch for definitive agreements and whether the unnamed DC counterparties match known Johor/PD projects.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824271"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11696199"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-ai-5",
-          "headline": "Infomina secures five-year Broadcom appointment to distribute and support Agile Operations Division software across 13 Asia-Pacific markets",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Infomina Bhd was appointed by US technology company Broadcom - via subsidiary VMware International Unlimited Company - to distribute and support its Agile Operations Division (AOD) software across 13 Asia-Pacific markets from 1 Nov 2026 to 2 Nov 2031. The appointment expands Infomina's existing Broadcom Mainframe Software Division business into enterprise software.",
-          "soWhat": "A five-year regional mandate from Broadcom gives Infomina recurring regional revenue beyond its core mainframe-software niche; execution across 13 markets is the watch item.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824251"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11696351"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-ai-6",
-          "headline": "CelcomDigi signs 15-year deal to build and manage fibre infrastructure at Kulim Hi-Tech Park's new Industrial Zone Phase 4A",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-03",
-          "detail": "CelcomDigi Bhd signed a 15-year agreement with Kulim Technology Park Corporation Sdn Bhd (KTPC) to provide fibre connectivity at Industrial Zone Phase 4A of Kulim Hi-Tech Park, managing the zone's fibre duct infrastructure and offering tenants dedicated internet access, private leased lines, IPVPN, managed DWDM and managed fibre services. KHTP has recorded cumulative investments of RM189.4 billion with 48,813 employees up to 2Q, per KTPC.",
-          "soWhat": "Enterprise and industrial-park connectivity is becoming telcos' growth hedge as consumer spectrum costs rise; Kulim's manufacturing expansion makes this a durable annuity-style contract.",
-          "sources": [
-            {
-              "publisher": "New Straits Times",
-              "url": "https://www.nst.com.my/business/corporate/2026/11/1569438/celcomdigi-signs-deal-provide-fibre-connectivity-kulim-tech-park"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "construction",
-      "theme": "Contract wins across hospitals, aquariums and DCs; KL/JB ranked among the world's cheapest DC build markets; Sycal's going-concern qualification and a fatal Penang landslide keep risk in view",
-      "items": [
-        {
-          "id": "2026-11-03-con-1",
-          "headline": "Econpile bags RM73m piling and foundation contract for the new Tung Shin Hospital building in Kuala Lumpur",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Econpile Holdings Bhd's subsidiary won a RM73 million contract from SA Architects Sdn Bhd, on behalf of Hospital Tung Shin, for earth-retaining structures, piling, pile caps and the lowest basement slab of a new hospital building in Kuala Lumpur. The project involves demolishing existing structures and building a multi-level facility with car parks, offices and basements; completion is targeted within 21 months.",
-          "soWhat": "Healthcare construction continues to feed specialist piling order books; the basement-heavy scope suits Econpile's niche.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824236"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11696001"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-con-2",
-          "headline": "Federal International secures RM46.96m structural works at PJ Selatan Sentral - a related-party award from Perumahan Masteron",
-          "verdict": "Mixed",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Federal International Holdings Bhd (FIHB) subsidiary Federal Builders Industries Sdn Bhd accepted a RM46.96 million letter of award from related party Perumahan Masteron Sdn Bhd for basement, podium, facilities and transfer-floor structural works at a development in PJ Selatan Sentral, Petaling Jaya. The 13-month contract runs 16 Nov 2026 to 15 Dec 2027. Members of the Choy family sit on both sides of the transaction.",
-          "soWhat": "Work is work, but a related-party LOA means pricing and governance will draw scrutiny; minority holders should watch the terms disclosure.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824247"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11696057"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-con-3",
-          "headline": "Signature Alliance wins RM51.56m redevelopment of Underwater World Langkawi for Eden Inc; 18-month job starts this month",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Signature Alliance Group Bhd's wholly owned Zig Zag Builders (M) Sdn Bhd was awarded a RM51.56 million contract by Underwater World Langkawi Sdn Bhd - part of Main Market-listed Eden Inc Bhd - to redevelop and refurbish the Pantai Cenang aquarium, operating since August 1995. The 18-month project is scheduled to commence in November 2026.",
-          "soWhat": "A Langkawi anchor-attraction refresh ahead of the next tourism cycle; for Signature Alliance it adds a leisure-sector reference beyond its core building work.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824260"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11696341"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-con-4",
-          "headline": "Turner & Townsend: KL and Johor Bahru among the world's lower-cost data centre construction markets at US$10.06 per watt",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "KL and JB each posted indicative data centre construction costs of US$10.06 (RM43.17) per watt in Turner & Townsend's Data Centre Construction Cost Index (62 markets, 500+ live or recently completed projects, benchmarking a ~60MW air-cooled build-to-suit hyperscale facility, excluding land). Both undercut Singapore - Southeast Asia's most expensive market - and Jakarta (US$11.96/W), but remain above Bangkok (US$9.67), Manila (US$9.55) and lowest-cost Ho Chi Minh City (US$8.32). The firm flagged power, land and skilled labour as the binding constraints everywhere.",
-          "soWhat": "Cost competitiveness is Malaysia's DC pitch, but the Vietnam gap and the power/land/talent squeeze show where the edge can erode; useful benchmark when pricing DC construction contracts.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918123/kl-jb-among-lower-cost-data-centre-construction-markets"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-con-5",
-          "headline": "Sycal Ventures hit with qualified audit opinion for FY2026; annual report flags material uncertainty on going concern",
-          "verdict": "Negative",
-          "freshness": "current",
-          "publishedDate": "2026-10-31",
-          "detail": "Sycal Ventures Bhd's external auditor UHY Malaysia PLT expressed a qualified opinion on the group's audited financial statements for the year ended 30 June 2026, and its annual report was categorised on Bursa with a modified opinion carrying a material uncertainty related to going concern. The filing, dated 31 Oct, surfaced on the announcements mirror on 3 Nov; the detailed basis sits in the audit-report attachment.",
-          "soWhat": "A going-concern flag at a small Main Market contractor is a credit-warning for its suppliers and clients; watch for the qualified-opinion basis and any regularisation plan.",
-          "sources": [
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11695793"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-con-6",
-          "headline": "Penang assemblymen from both sides demand a State Commission of Inquiry into the fatal Paya Terubong landslide, including project approval and enforcement lapses",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Lim Guan Eng (PH-Air Putih) and Opposition leader Muhammad Fauzi Yusoff (PN-Sungai Dua) called for a State Commission of Inquiry into the 25 Oct landslide at Taman Seri Rambai, Paya Terubong, which killed Dr Wong Kar Lin, 73, at his home. The inquiry sought covers the project's approval process - including 2023 amendments - and monitoring and enforcement by local authorities; the Opposition also wants a forensic geotechnical audit by JKR.",
-          "soWhat": "Bipartisan pressure for an SCI raises the odds of tighter hillslope-project scrutiny in Penang; developers with Penang hillside sites should expect approval and enforcement reviews.",
-          "sources": [
-            {
-              "publisher": "New Straits Times",
-              "url": "https://www.nst.com.my/news/regional/2026/11/1569275/penang-assemblymen-call-inquiry-fatal-paya-terubong-landslide"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "propertyDevelopment",
-      "theme": "Industrial land and investment momentum: Pekat expands in Nilai, JS-SEZ approvals hit RM88.8b with 45% realised; DBKL caps Bandar Madani approvals pending infrastructure",
-      "items": [
-        {
-          "id": "2026-11-03-pd-1",
-          "headline": "Pekat buys six Nilai industrial plots from Sime Darby Property for RM30.58m to house EPE Switchgear's expansion",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Pekat Group Bhd's indirect 60%-owned EPE Switchgear (M) Sdn Bhd signed six SPAs with Sime Darby Property (Nilai) Sdn Bhd on 30 Oct for six adjoining freehold industrial plots at Bandar Hamilton Nilai - Plot 5, totalling 38,108 sq m, for RM30.58 million in cash. The land will host EPE's switchgear manufacturing plus the group's battery energy storage, transformer and substation businesses, whose current Nilai premises lack capacity; funded internally.",
-          "soWhat": "Industrial land absorption in Nilai continues on the back of electrical-equipment demand from the grid and DC build-out; for Sime Darby Property it is another industrial monetisation.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824163"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11695827"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-pd-2",
-          "headline": "JS-SEZ approved investments reach RM88.83b since January 2025, with RM40.3b (45%) realised and 28,755 jobs in prospect - economy minister",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "The Johor-Singapore Special Economic Zone recorded RM88.83 billion in approved investments between January 2025 and June 2026, with the potential to create 28,755 jobs, Economy Minister Akmal Nasrullah Mohd Nasir said after co-chairing the inaugural Johor-Singapore Cooperation Ministerial Committee (JSCMC) with Singapore's National Development Minister Chee Hong Tat. Realised investments stand at RM40.30 billion (45%), involving projects expected to generate 12,796 jobs. The JSCMC will monitor implementation of priority JS-SEZ initiatives.",
-          "soWhat": "The 45% realisation rate is the number that matters - it converts the SEZ headline into actual construction and industrial demand in Johor; the new ministerial committee is the delivery mechanism to watch.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824235"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-pd-3",
-          "headline": "DBKL approves only 4,218 Bandar Madani Bukit Jalil homes for now; remaining units hinge on infrastructure completion, Hannah Yeoh tells Parliament",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Kuala Lumpur City Hall has approved only 4,218 affordable homes in Bandar Madani Bukit Jalil so far, with approvals for the rest conditional on completion of supporting infrastructure, Minister in the Prime Minister's Department (Federal Territories) Hannah Yeoh said in Parliament. Seputeh MP Teresa Kok has repeatedly questioned the development over traffic congestion and planning studies still underway.",
-          "soWhat": "Infrastructure-first phasing is now explicit policy for big KL townships; developers of large urban projects should expect approvals paced to roads and transit delivery.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824252"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "propertyInvestment",
-      "theme": "AEON adds a Kuala Lumpur mall to the retail pipeline",
-      "items": [
-        {
-          "id": "2026-11-03-pi-1",
-          "headline": "AEON Mall KL Midtown opens to shoppers 5 Nov, anchored by AEON Supermarket; grand opening set for 8 Jan 2027",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "AEON Mall KL Midtown - the retail component of the KL Midtown mixed development that also houses Hyatt Regency Kuala Lumpur, office towers and residences - welcomes customers from 5 November 2026, with a grand opening scheduled for 8 January 2027. Per the company's announcement, the tenant mix is anchored by AEON Supermarket with UNIQLO, DAISO, AEON Wellness and Molly Fantasy among the brands.",
-          "soWhat": "A new institutional-grade mall entering the KL retail market adds to prime retail supply; watch initial occupancy and how it trades against established catchment malls.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824106"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "plantation",
-      "theme": "TSH engages Singapore's haze assessors; Indonesia's palm exports rise 8.1%; Prosper's conditional RM6.10 MGO for United Malacca lands after a two-year PAC failure",
-      "items": [
-        {
-          "id": "2026-11-03-pl-1",
-          "headline": "TSH Resources voluntarily engages Singapore NEA's independent assessors over transboundary haze notices to its Singapore subsidiaries",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "TSH Resources Bhd has voluntarily offered to engage with the Singapore government's assessors panel to evaluate its operations, corporate relationships and supply chains, following notices issued by Singapore's National Environment Agency to its Singapore-incorporated subsidiaries TSH Oversea Pte Ltd and TSH Global Plantation Pte Ltd under Section 10(1) of the Transboundary Haze Pollution Act 2014, over fires in Indonesia contributing to haze.",
-          "soWhat": "Voluntary engagement limits legal escalation risk, but NEA scrutiny of supply chains can reach customers and financiers of Indonesian estates; the assessors' findings are the next checkpoint.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824110"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11695897"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-pl-2",
-          "headline": "Indonesia's palm oil exports rise 8.1% to 19 million tonnes in January-September; value up 16.1% to US$21.07b",
-          "verdict": "Mixed",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Indonesia exported 19 million metric tons of crude and refined palm oil in the first nine months of 2026, up 8.1% year-on-year, with value up 16.14% to US$21.07 billion (RM85.75 billion) on higher prices, statistics bureau data showed. September shipments were 2.87 million tonnes worth US$3.31 billion. The data excludes palm kernel oil, oleochemicals and biodiesel.",
-          "soWhat": "Rising Indonesian export volumes pressure CPO price upside and sharpen competition for Malaysian refiners in shared markets; watch monthly export pace against Malaysia's own output seasonality.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824200"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-03-pl-3",
-          "headline": "Prosper Trading makes conditional mandatory offer for United Malacca at RM6.10 cash per share, alongside a compensation scheme for the 2024 threshold breach",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Prosper Trading Sdn Bhd - with joint ultimate offerors Tee Kim Tee and Tee Cheng Hua, through UOB Kay Hian - filed a conditional mandatory take-over offer for all remaining United Malacca Bhd shares at RM6.10 cash each, plus a cash compensation document. The offer stems from Prosper's failure to treat Australian-listed PRL Global Ltd and its subsidiary as persons acting in concert: the concert group held three of PRL Global's six board seats and over 33% of its equity, so its stake pushed the group past the 33% MGO threshold back in September 2024 without an offer being made. The oversight surfaced only in April 2026 after a review with UOBKH and legal advisers.",
-          "soWhat": "A live conditional MGO at RM6.10 sets a floor and a reference price for United Malacca; the compensation scheme's adequacy for shareholders who sold since 2024, and the acceptance condition, are the governance watch items.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824268"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11695821"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "consumerFinancing",
-      "theme": "CTOS restores credit-reporting services after its September breach",
-      "items": [
-        {
-          "id": "2026-11-03-cf-1",
-          "headline": "CTOS Digital fully restores credit reporting services after September cybersecurity breach; CTOS Score and CCRIS-related reports back online",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "CTOS Digital Bhd said all credit reporting services affected by its cybersecurity breach - first disclosed 23 Sept, involving unauthorised access to a supporting environment - have been restored after remediation and enhanced security controls, including CTOS Score and CCRIS-related reports. The company said affected environments were secured, with security assessments and independent validations completed.",
-          "soWhat": "Credit-bureau uptime underpins every lender's underwriting flow, including consumer financiers; the restoration closes the outage, but expect Bank Negara and lender due-diligence questions on the breach's scope.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824164"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11695831"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "cablesManufacturing",
-      "theme": "MITI draws a line on labour-intensive manufacturing expansion",
-      "items": [
-        {
-          "id": "2026-11-03-cb-1",
-          "headline": "MITI to reject new manufacturing licences premised on heavy low-skilled foreign labour; foreign workers confined to 3D jobs - Johari",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-02",
-          "detail": "Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani told the Dewan Rakyat the government will reject applications for new manufacturing licences that perpetuate heavy reliance on low-skilled foreign labour, saying businesses must offer better-paying jobs to Malaysians and invest in automation. MITI and MIDA will direct industries to confine foreign workers to dirty, dangerous and difficult (3D) roles, citing over 400,000 locally trained technical graduates.",
-          "soWhat": "Cable and building-material plants are among the labour-intensive manufacturers this policy bites: new-capacity licensing now carries an automation condition, raising capex per line but favouring incumbents with existing licences.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/824138"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    }
-  ],
-  "sectorCoverage": {
-    "aiTelcoIct": "Checked: Edge probe (167 in-window), Star/MM/NST/FMT fronts and feeds, TNGlobal API, Bursa mirror (315 filings dated 2 Nov). Used: Google water infra (ai-1), CelcomDigi spectrum trim (ai-2), ISF DC contracts (ai-3), Northern Solar CRESS (ai-4), Infomina-Broadcom (ai-5), CelcomDigi-Kulim fibre (ai-6). Seen, not itemised: STT GDC's S$3.1b loan talks (Bloomberg-sourced, Singapore, unconfirmed - attributed context); Anthropic revenue and OpenAI-UAE pieces (global); Malaysia Aviation Group projects (aviation); Darwin DC regulator stall (Australia).",
-    "propertyDevelopment": "Checked: same portal set. Used: Pekat-SimeProp Nilai land (pd-1), JS-SEZ RM88.8b (pd-2), Bandar Madani phasing (pd-3). Seen, not itemised: former Maybank HQ marketing (office asset, out of retail-PI scope); UEM-AME RM4b industrial park digest (itemised 31 Oct); Penang Third Link (early-stage proposal); CZC/Gurney remarks (no new project fact); Guan Huat Seng RM4m Melaka property (immaterial); IOI Properties COO (personnel); housing-market feature (commentary).",
-    "construction": "Checked: same portal set. Used: Econpile (con-1), FIHB (con-2), Signature Alliance (con-3), T&T DC cost index (con-4), Sycal qualified opinion (con-5), Paya Terubong SCI call (con-6). Seen, not itemised: Sabah RM1.7b rural-road postponement remark (no project detail); SunCon results-date notice; Penang hillslope remarks by Chow (30 Oct, before window).",
-    "propertyInvestment": "Checked: same portal set. Used: AEON Mall KL Midtown opening (pi-1; facts from the company announcement). No REIT results in-window.",
-    "plantation": "Checked: same portal set. Used: TSH-NEA engagement (pl-1), Indonesia export data (pl-2), United Malacca MGO (pl-3). Seen, not itemised: Kretam board change (personnel); Malaysia-China agri-export clearance talks (no palm-specific measure).",
-    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in-window. IP-backed financing remarks (banks) are conventional bank-lending policy - excluded.",
-    "consumerFinancing": "Checked: same portal set. Used: CTOS service restoration (cf-1). No civil-servant financing news in-window.",
-    "cablesManufacturing": "Checked: same portal set. Used: MITI manufacturing-licence labour policy (cb-1). Southern Cable's EPF s138 notice is a routine shareholding change - noted in watchlist coverage, not itemised.",
-    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or watchlist building-materials news in-window. MITI's licence policy (cb-1) also touches building-material plants - logged under cablesManufacturing.",
-    "hotels": "Checked: same portal set. No hotel news in-window; the Langkawi aquarium redevelopment (con-3) is logged as a construction contract. AEON Mall's Hyatt Regency KL adjacency is noted in pi-1."
+ "date": "2026-11-03",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-11-03T07:20:33+08:00",
+  "2026-11-03T07:21:13+08:00",
+  "2026-11-03T07:22:26+08:00",
+  "2026-11-03T07:22:39+08:00",
+  "2026-11-03T07:23:18+08:00",
+  "2026-11-03T07:23:39+08:00",
+  "2026-11-03T07:23:48+08:00",
+  "2026-11-03T07:24:29+08:00",
+  "2026-11-03T07:25:54+08:00"
+ ],
+ "publishedAt": "2026-11-03T07:28:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "A Port Dickson data centre cluster is taking shape in one morning: Google funds RM651m of shared water infrastructure (Gamuda builds, the state owns), ISF bags RM83m of hyperscale DC contracts and Northern Solar locks 189MW of CRESS power for two DCs",
+   "soWhat": "The constraint chain for Malaysian DCs - water, power and specialist contractors - is being financed and contracted simultaneously; Port Dickson joins Cyberjaya and Johor as a named cluster, with Gamuda, ISF and CRESS-linked renewables as early beneficiaries.",
+   "sectorKeys": [
+    "aiTelcoIct",
+    "construction"
+   ],
+   "itemIds": [
+    "2026-11-03-ai-1",
+    "2026-11-03-ai-3",
+    "2026-11-03-ai-4",
+    "2026-11-03-con-4"
+   ]
   },
-  "generalCoverage": [
-    "Edition window: from the 2 Nov edition's checks (~07:28 MYT 2 Nov) to ~07:21 MYT 3 Nov 2026. Edge probe 824090-824420: 331 probed, 173 resolved, 167 in-window (max resolved 824284).",
-    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological. Bursa official site blocks automation; the KLSE Screener mirror (pages 1-16) yielded 315 filings dated 2 Nov (full list saved) plus two 31 Oct Sycal filings that surfaced late - itemised today as con-5.",
-    "Access: theSun's site remains unreachable for a second day (curl timeouts on feed/homepage/business; cloud-browser load fails) - coverage gap noted. TMR 403 bot wall - terminal per the no-solver rule. Malay Mail RSS accessible.",
-    "Zetrix watch: no new factual development; The Edge's Frankly Speaking column on the audit-committee exodus is signed commentary and excluded per editorial rules. MARC rating stays C - any missed payment takes it to D.",
-    "Dedupe: Chinese-language Edge duplicates logged and excluded. EdgeProp's UEM-AME digest item was covered 31 Oct. Star stories corroborating itemised news are logged as corroboration, not double-counted.",
-    "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
-  ],
-  "watchlistCoverage": [
-    "Southern Cable Group Berhad (0225): routine EPF substantial-shareholding change notice (s138), 2 Nov; not itemised.",
-    "Pesona Metro Holdings Berhad (8311): routine share buy-back announcement, 2 Nov; not itemised.",
-    "No watchlist company named in an itemised article today."
-  ],
-  "sourceTally": [
+  {
+   "headline": "Prosper Trading's conditional MGO for United Malacca at RM6.10 cash finally lands, two years after an unflagged PAC breach, with a compensation scheme for affected shareholders",
+   "soWhat": "The offer sets a price floor on the planter and turns a 2024 disclosure failure into a live governance test; acceptance conditions and compensation adequacy decide whether minorities are made whole.",
+   "sectorKeys": [
+    "plantation"
+   ],
+   "itemIds": [
+    "2026-11-03-pl-3"
+   ]
+  },
+  {
+   "headline": "CelcomDigi's spectrum bill (RM381.75m) trims CIMB's FY26-28 core earnings 1-4% even as it signs a 15-year Kulim Hi-Tech Park fibre concession",
+   "soWhat": "Consumer spectrum amortisation is being offset by efficiency targets and annuity-style enterprise deals; the Kulim concession shows where telco growth is heading as mobile matures.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-11-03-ai-2",
+    "2026-11-03-ai-6"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Port Dickson-Springhill DC cluster builds out: Google funds RM651m shared water infra, ISF bags RM83m of DC work, Northern Solar locks 189MW of CRESS supply; CelcomDigi balances spectrum costs with a Kulim fibre win",
+   "items": [
     {
-      "source": "The Edge",
-      "scanned": 167,
-      "used": 17,
-      "status": "checked",
-      "note": "331 probed (824090-824420), 173 resolved, 167 in-window",
-      "publishers": [
-        "The Edge"
-      ]
+     "id": "2026-11-03-ai-1",
+     "headline": "Google allocates US$160m (RM651m) for shared water infrastructure in Negeri Sembilan to serve its Springhill data centre campus; Gamuda to build, state-owned MBINS to own",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Google is funding a US$160 million (RM651 million) shared water infrastructure project in Negeri Sembilan supporting local community needs and its planned data centre campus at Springhill Industrial Park, Port Dickson. The project - an off-river storage reservoir along the Linggi River plus a 65-million-litre/day water treatment plant - will be built by Gamuda Bhd in partnership with the Negeri Sembilan state government and Syarikat Air Negeri Sembilan (SAINS); on completion the facilities will be owned by Menteri Besar Negeri Sembilan (Incorporated) (MBINS). The reservoir captures excess river flow, doubling as flood mitigation for surrounding areas.",
+     "soWhat": "A hyperscaler funding utility-grade water infrastructure - and handing ownership to the state - de-risks the resource constraint most likely to slow Malaysia's DC pipeline; for Gamuda it is a marquee civil-works role in the DC value chain beyond its own DC development ambitions.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824257"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "Malay Mail",
-      "scanned": 9,
-      "used": 0,
-      "status": "checked",
-      "note": "RSS feed accessible",
-      "publishers": [
-        "Malay Mail"
-      ]
+     "id": "2026-11-03-ai-2",
+     "headline": "CIMB Securities trims CelcomDigi FY2026-28 core earnings 1-4% on spectrum amortisation; 3Q core profit seen at ~RM430m, results 19 Nov",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "CIMB Securities cut its CelcomDigi FY2026-FY2028 core net profit forecasts by 1%-4% for higher spectrum amortisation after the operator paid RM381.75 million on 15 Oct for 2x20MHz of 2600MHz (four years) and 2x5MHz of 900MHz (five years) from MCMC. Ebitda forecasts are largely unchanged - the house expects the annual fees to be offset by cost efficiencies from holding the rights - and it expects 3QFY2026 core net profit to improve 1%-3% quarter-on-quarter to about RM430 million on the RM470 million 2026 efficiency target. Results are due 19 Nov.",
+     "soWhat": "The spectrum bill is now quantified and modest; the offset question is whether CIMB's efficiency offsets hold as both operators amortise the new 2600MHz assignments formalised on 1 Nov.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824146"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "NST / Business Times",
-      "scanned": 50,
-      "used": 2,
-      "status": "checked",
-      "note": "feed path /feed",
-      "publishers": [
-        "New Straits Times"
-      ]
+     "id": "2026-11-03-ai-3",
+     "headline": "ISF Group secures RM83.23m of contracts for a hyperscale data centre in Port Dickson - its largest win to date; order book rises to RM225.5m",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Piping solutions provider ISF Group Bhd accepted three subcontracts worth RM73.33 million (cold water systems, rainwater harvesting, water distribution and sanitary services) plus a RM9.9 million letter of award for external sewerage works for a hyperscale data centre in Port Dickson, Negeri Sembilan, via wholly owned Yeo Plumber Sdn Bhd. The employer is an unnamed Malaysian construction firm. Completion runs November 2026 to July 2028; the group's unbilled order book now stands at RM225.5 million, giving earnings visibility through FY2029.",
+     "soWhat": "Second-tier M&E players are now banking multi-year order books from the DC build-out; Port Dickson is coalescing as the next DC cluster after Cyberjaya and Johor.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824266"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11696407"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "FMT",
-      "scanned": 50,
-      "used": 0,
-      "status": "checked",
-      "note": "feed 301-redirects; curl -L",
-      "publishers": [
-        "FMT"
-      ]
+     "id": "2026-11-03-ai-4",
+     "headline": "Northern Solar wins two CRESS letters of award - 189MW of solar-plus-storage to power two data centres with ~497 GWh combined annual demand",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Northern Solar Holdings Bhd secured two letters of award under the Corporate Renewable Energy Supply Scheme (CRESS): a 100MW solar facility with battery storage serving a data centre using 262.8 million kWh a year, and an 89MW solar-plus-BESS project for a second data centre using 233.89 million kWh annually. The counterparties are undisclosed - one a Malaysian property-investment and DC-infrastructure company, the other the Malaysian subsidiary of a Singapore-based DC services operator. Project values were not disclosed; definitive agreements are pending.",
+     "soWhat": "DC power procurement via CRESS is converting directly into renewable-energy order flow; watch for definitive agreements and whether the unnamed DC counterparties match known Johor/PD projects.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824271"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11696199"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "The Sun",
-      "scanned": 0,
-      "used": 0,
-      "status": "blocked",
-      "note": "site unreachable, day 2 (curl timeouts; browser load fails); coverage gap",
-      "publishers": [
-        "The Sun"
-      ]
+     "id": "2026-11-03-ai-5",
+     "headline": "Infomina secures five-year Broadcom appointment to distribute and support Agile Operations Division software across 13 Asia-Pacific markets",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Infomina Bhd was appointed by US technology company Broadcom - via subsidiary VMware International Unlimited Company - to distribute and support its Agile Operations Division (AOD) software across 13 Asia-Pacific markets from 1 Nov 2026 to 2 Nov 2031. The appointment expands Infomina's existing Broadcom Mainframe Software Division business into enterprise software.",
+     "soWhat": "A five-year regional mandate from Broadcom gives Infomina recurring regional revenue beyond its core mainframe-software niche; execution across 13 markets is the watch item.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824251"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11696351"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "TNGlobal",
-      "scanned": 18,
-      "used": 0,
-      "status": "checked",
-      "note": "WP API",
-      "publishers": [
-        "TNGlobal"
-      ]
-    },
-    {
-      "source": "The Star",
-      "scanned": 17,
-      "used": 0,
-      "status": "checked",
-      "note": "business front in browser; corroboration only today",
-      "publishers": [
-        "The Star"
-      ]
-    },
-    {
-      "source": "The Malaysian Reserve",
-      "scanned": 0,
-      "used": 0,
-      "status": "blocked",
-      "note": "403 bot wall; terminal per no-solver rule, no bypass attempted",
-      "publishers": [
-        "The Malaysian Reserve"
-      ]
-    },
-    {
-      "source": "EdgeProp",
-      "scanned": 1,
-      "used": 1,
-      "status": "checked",
-      "note": "front + T&T DC cost article opened",
-      "publishers": [
-        "EdgeProp"
-      ]
-    },
-    {
-      "source": "Bursa announcements",
-      "scanned": 32,
-      "used": 11,
-      "status": "checked",
-      "note": "mirror pages 1-16; 315 filings dated 2 Nov + 2 late 31 Oct Sycal filings",
-      "publishers": [
-        "Bursa announcement (via KLSE Screener mirror)"
-      ]
+     "id": "2026-11-03-ai-6",
+     "headline": "CelcomDigi signs 15-year deal to build and manage fibre infrastructure at Kulim Hi-Tech Park's new Industrial Zone Phase 4A",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-03",
+     "detail": "CelcomDigi Bhd signed a 15-year agreement with Kulim Technology Park Corporation Sdn Bhd (KTPC) to provide fibre connectivity at Industrial Zone Phase 4A of Kulim Hi-Tech Park, managing the zone's fibre duct infrastructure and offering tenants dedicated internet access, private leased lines, IPVPN, managed DWDM and managed fibre services. KHTP has recorded cumulative investments of RM189.4 billion with 48,813 employees up to 2Q, per KTPC.",
+     "soWhat": "Enterprise and industrial-park connectivity is becoming telcos' growth hedge as consumer spectrum costs rise; Kulim's manufacturing expansion makes this a durable annuity-style contract.",
+     "sources": [
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/business/corporate/2026/11/1569438/celcomdigi-signs-deal-provide-fibre-connectivity-kulim-tech-park"
+      }
+     ],
+     "watchlistCompanyKeys": []
     }
-  ]
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "Contract wins across hospitals, aquariums and DCs; KL/JB ranked among the world's cheapest DC build markets; Sycal's going-concern qualification and a fatal Penang landslide keep risk in view",
+   "items": [
+    {
+     "id": "2026-11-03-con-1",
+     "headline": "Econpile bags RM73m piling and foundation contract for the new Tung Shin Hospital building in Kuala Lumpur",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Econpile Holdings Bhd's subsidiary won a RM73 million contract from SA Architects Sdn Bhd, on behalf of Hospital Tung Shin, for earth-retaining structures, piling, pile caps and the lowest basement slab of a new hospital building in Kuala Lumpur. The project involves demolishing existing structures and building a multi-level facility with car parks, offices and basements; completion is targeted within 21 months.",
+     "soWhat": "Healthcare construction continues to feed specialist piling order books; the basement-heavy scope suits Econpile's niche.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824236"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11696001"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-con-2",
+     "headline": "Federal International secures RM46.96m structural works at PJ Selatan Sentral - a related-party award from Perumahan Masteron",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Federal International Holdings Bhd (FIHB) subsidiary Federal Builders Industries Sdn Bhd accepted a RM46.96 million letter of award from related party Perumahan Masteron Sdn Bhd for basement, podium, facilities and transfer-floor structural works at a development in PJ Selatan Sentral, Petaling Jaya. The 13-month contract runs 16 Nov 2026 to 15 Dec 2027. Members of the Choy family sit on both sides of the transaction.",
+     "soWhat": "Work is work, but a related-party LOA means pricing and governance will draw scrutiny; minority holders should watch the terms disclosure.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824247"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11696057"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-con-3",
+     "headline": "Signature Alliance wins RM51.56m redevelopment of Underwater World Langkawi for Eden Inc; 18-month job starts this month",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Signature Alliance Group Bhd's wholly owned Zig Zag Builders (M) Sdn Bhd was awarded a RM51.56 million contract by Underwater World Langkawi Sdn Bhd - part of Main Market-listed Eden Inc Bhd - to redevelop and refurbish the Pantai Cenang aquarium, operating since August 1995. The 18-month project is scheduled to commence in November 2026.",
+     "soWhat": "A Langkawi anchor-attraction refresh ahead of the next tourism cycle; for Signature Alliance it adds a leisure-sector reference beyond its core building work.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824260"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11696341"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-con-4",
+     "headline": "Turner & Townsend: KL and Johor Bahru among the world's lower-cost data centre construction markets at US$10.06 per watt",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "KL and JB each posted indicative data centre construction costs of US$10.06 (RM43.17) per watt in Turner & Townsend's Data Centre Construction Cost Index (62 markets, 500+ live or recently completed projects, benchmarking a ~60MW air-cooled build-to-suit hyperscale facility, excluding land). Both undercut Singapore - Southeast Asia's most expensive market - and Jakarta (US$11.96/W), but remain above Bangkok (US$9.67), Manila (US$9.55) and lowest-cost Ho Chi Minh City (US$8.32). The firm flagged power, land and skilled labour as the binding constraints everywhere.",
+     "soWhat": "Cost competitiveness is Malaysia's DC pitch, but the Vietnam gap and the power/land/talent squeeze show where the edge can erode; useful benchmark when pricing DC construction contracts.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918123/kl-jb-among-lower-cost-data-centre-construction-markets"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-con-5",
+     "headline": "Sycal Ventures hit with qualified audit opinion for FY2026; annual report flags material uncertainty on going concern",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-10-31",
+     "detail": "Sycal Ventures Bhd's external auditor UHY Malaysia PLT expressed a qualified opinion on the group's audited financial statements for the year ended 30 June 2026, and its annual report was categorised on Bursa with a modified opinion carrying a material uncertainty related to going concern. The filing, dated 31 Oct, surfaced on the announcements mirror on 3 Nov; the detailed basis sits in the audit-report attachment.",
+     "soWhat": "A going-concern flag at a small Main Market contractor is a credit-warning for its suppliers and clients; watch for the qualified-opinion basis and any regularisation plan.",
+     "sources": [
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11695793"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-con-6",
+     "headline": "Penang assemblymen from both sides demand a State Commission of Inquiry into the fatal Paya Terubong landslide, including project approval and enforcement lapses",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Lim Guan Eng (PH-Air Putih) and Opposition leader Muhammad Fauzi Yusoff (PN-Sungai Dua) called for a State Commission of Inquiry into the 25 Oct landslide at Taman Seri Rambai, Paya Terubong, which killed Dr Wong Kar Lin, 73, at his home. The inquiry sought covers the project's approval process - including 2023 amendments - and monitoring and enforcement by local authorities; the Opposition also wants a forensic geotechnical audit by JKR.",
+     "soWhat": "Bipartisan pressure for an SCI raises the odds of tighter hillslope-project scrutiny in Penang; developers with Penang hillside sites should expect approval and enforcement reviews.",
+     "sources": [
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/news/regional/2026/11/1569275/penang-assemblymen-call-inquiry-fatal-paya-terubong-landslide"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "Industrial land and investment momentum: Pekat expands in Nilai, JS-SEZ approvals hit RM88.8b with 45% realised; DBKL caps Bandar Madani approvals pending infrastructure",
+   "items": [
+    {
+     "id": "2026-11-03-pd-1",
+     "headline": "Pekat buys six Nilai industrial plots from Sime Darby Property for RM30.58m to house EPE Switchgear's expansion",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Pekat Group Bhd's indirect 60%-owned EPE Switchgear (M) Sdn Bhd signed six SPAs with Sime Darby Property (Nilai) Sdn Bhd on 30 Oct for six adjoining freehold industrial plots at Bandar Hamilton Nilai - Plot 5, totalling 38,108 sq m, for RM30.58 million in cash. The land will host EPE's switchgear manufacturing plus the group's battery energy storage, transformer and substation businesses, whose current Nilai premises lack capacity; funded internally.",
+     "soWhat": "Industrial land absorption in Nilai continues on the back of electrical-equipment demand from the grid and DC build-out; for Sime Darby Property it is another industrial monetisation.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824163"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11695827"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-pd-2",
+     "headline": "JS-SEZ approved investments reach RM88.83b since January 2025, with RM40.3b (45%) realised and 28,755 jobs in prospect - economy minister",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "The Johor-Singapore Special Economic Zone recorded RM88.83 billion in approved investments between January 2025 and June 2026, with the potential to create 28,755 jobs, Economy Minister Akmal Nasrullah Mohd Nasir said after co-chairing the inaugural Johor-Singapore Cooperation Ministerial Committee (JSCMC) with Singapore's National Development Minister Chee Hong Tat. Realised investments stand at RM40.30 billion (45%), involving projects expected to generate 12,796 jobs. The JSCMC will monitor implementation of priority JS-SEZ initiatives.",
+     "soWhat": "The 45% realisation rate is the number that matters - it converts the SEZ headline into actual construction and industrial demand in Johor; the new ministerial committee is the delivery mechanism to watch.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824235"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-pd-3",
+     "headline": "DBKL approves only 4,218 Bandar Madani Bukit Jalil homes for now; remaining units hinge on infrastructure completion, Hannah Yeoh tells Parliament",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Kuala Lumpur City Hall has approved only 4,218 affordable homes in Bandar Madani Bukit Jalil so far, with approvals for the rest conditional on completion of supporting infrastructure, Minister in the Prime Minister's Department (Federal Territories) Hannah Yeoh said in Parliament. Seputeh MP Teresa Kok has repeatedly questioned the development over traffic congestion and planning studies still underway.",
+     "soWhat": "Infrastructure-first phasing is now explicit policy for big KL townships; developers of large urban projects should expect approvals paced to roads and transit delivery.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824252"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyInvestment",
+   "theme": "AEON adds a Kuala Lumpur mall to the retail pipeline",
+   "items": [
+    {
+     "id": "2026-11-03-pi-1",
+     "headline": "AEON Mall KL Midtown opens to shoppers 5 Nov, anchored by AEON Supermarket; grand opening set for 8 Jan 2027",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "AEON Mall KL Midtown - the retail component of the KL Midtown mixed development that also houses Hyatt Regency Kuala Lumpur, office towers and residences - welcomes customers from 5 November 2026, with a grand opening scheduled for 8 January 2027. Per the company's announcement, the tenant mix is anchored by AEON Supermarket with UNIQLO, DAISO, AEON Wellness and Molly Fantasy among the brands.",
+     "soWhat": "A new institutional-grade mall entering the KL retail market adds to prime retail supply; watch initial occupancy and how it trades against established catchment malls.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824106"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "TSH engages Singapore's haze assessors; Indonesia's palm exports rise 8.1%; Prosper's conditional RM6.10 MGO for United Malacca lands after a two-year PAC failure",
+   "items": [
+    {
+     "id": "2026-11-03-pl-1",
+     "headline": "TSH Resources voluntarily engages Singapore NEA's independent assessors over transboundary haze notices to its Singapore subsidiaries",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "TSH Resources Bhd has voluntarily offered to engage with the Singapore government's assessors panel to evaluate its operations, corporate relationships and supply chains, following notices issued by Singapore's National Environment Agency to its Singapore-incorporated subsidiaries TSH Oversea Pte Ltd and TSH Global Plantation Pte Ltd under Section 10(1) of the Transboundary Haze Pollution Act 2014, over fires in Indonesia contributing to haze.",
+     "soWhat": "Voluntary engagement limits legal escalation risk, but NEA scrutiny of supply chains can reach customers and financiers of Indonesian estates; the assessors' findings are the next checkpoint.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824110"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11695897"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-pl-2",
+     "headline": "Indonesia's palm oil exports rise 8.1% to 19 million tonnes in January-September; value up 16.1% to US$21.07b",
+     "verdict": "Mixed",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Indonesia exported 19 million metric tons of crude and refined palm oil in the first nine months of 2026, up 8.1% year-on-year, with value up 16.14% to US$21.07 billion (RM85.75 billion) on higher prices, statistics bureau data showed. September shipments were 2.87 million tonnes worth US$3.31 billion. The data excludes palm kernel oil, oleochemicals and biodiesel.",
+     "soWhat": "Rising Indonesian export volumes pressure CPO price upside and sharpen competition for Malaysian refiners in shared markets; watch monthly export pace against Malaysia's own output seasonality.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824200"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-03-pl-3",
+     "headline": "Prosper Trading makes conditional mandatory offer for United Malacca at RM6.10 cash per share, alongside a compensation scheme for the 2024 threshold breach",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Prosper Trading Sdn Bhd - with joint ultimate offerors Tee Kim Tee and Tee Cheng Hua, through UOB Kay Hian - filed a conditional mandatory take-over offer for all remaining United Malacca Bhd shares at RM6.10 cash each, plus a cash compensation document. The offer stems from Prosper's failure to treat Australian-listed PRL Global Ltd and its subsidiary as persons acting in concert: the concert group held three of PRL Global's six board seats and over 33% of its equity, so its stake pushed the group past the 33% MGO threshold back in September 2024 without an offer being made. The oversight surfaced only in April 2026 after a review with UOBKH and legal advisers.",
+     "soWhat": "A live conditional MGO at RM6.10 sets a floor and a reference price for United Malacca; the compensation scheme's adequacy for shareholders who sold since 2024, and the acceptance condition, are the governance watch items.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824268"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11695821"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "CTOS restores credit-reporting services after its September breach",
+   "items": [
+    {
+     "id": "2026-11-03-cf-1",
+     "headline": "CTOS Digital fully restores credit reporting services after September cybersecurity breach; CTOS Score and CCRIS-related reports back online",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "CTOS Digital Bhd said all credit reporting services affected by its cybersecurity breach - first disclosed 23 Sept, involving unauthorised access to a supporting environment - have been restored after remediation and enhanced security controls, including CTOS Score and CCRIS-related reports. The company said affected environments were secured, with security assessments and independent validations completed.",
+     "soWhat": "Credit-bureau uptime underpins every lender's underwriting flow, including consumer financiers; the restoration closes the outage, but expect Bank Negara and lender due-diligence questions on the breach's scope.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824164"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11695831"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "cablesManufacturing",
+   "theme": "MITI draws a line on labour-intensive manufacturing expansion",
+   "items": [
+    {
+     "id": "2026-11-03-cb-1",
+     "headline": "MITI to reject new manufacturing licences premised on heavy low-skilled foreign labour; foreign workers confined to 3D jobs - Johari",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-02",
+     "detail": "Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani told the Dewan Rakyat the government will reject applications for new manufacturing licences that perpetuate heavy reliance on low-skilled foreign labour, saying businesses must offer better-paying jobs to Malaysians and invest in automation. MITI and MIDA will direct industries to confine foreign workers to dirty, dangerous and difficult (3D) roles, citing over 400,000 locally trained technical graduates.",
+     "soWhat": "Cable and building-material plants are among the labour-intensive manufacturers this policy bites: new-capacity licensing now carries an automation condition, raising capex per line but favouring incumbents with existing licences.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/824138"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "Checked: Edge probe (167 in-window), Star/MM/NST/FMT fronts and feeds, TNGlobal API, Bursa mirror (315 filings dated 2 Nov). Used: Google water infra (ai-1), CelcomDigi spectrum trim (ai-2), ISF DC contracts (ai-3), Northern Solar CRESS (ai-4), Infomina-Broadcom (ai-5), CelcomDigi-Kulim fibre (ai-6). Seen, not itemised: STT GDC's S$3.1b loan talks (Bloomberg-sourced, Singapore, unconfirmed - attributed context); Anthropic revenue and OpenAI-UAE pieces (global); Malaysia Aviation Group projects (aviation); Darwin DC regulator stall (Australia).",
+  "propertyDevelopment": "Checked: same portal set. Used: Pekat-SimeProp Nilai land (pd-1), JS-SEZ RM88.8b (pd-2), Bandar Madani phasing (pd-3). Seen, not itemised: former Maybank HQ marketing (office asset, out of retail-PI scope); UEM-AME RM4b industrial park digest (itemised 31 Oct); Penang Third Link (early-stage proposal); CZC/Gurney remarks (no new project fact); Guan Huat Seng RM4m Melaka property (immaterial); IOI Properties COO (personnel); housing-market feature (commentary).",
+  "construction": "Checked: same portal set. Used: Econpile (con-1), FIHB (con-2), Signature Alliance (con-3), T&T DC cost index (con-4), Sycal qualified opinion (con-5), Paya Terubong SCI call (con-6). Seen, not itemised: Sabah RM1.7b rural-road postponement remark (no project detail); SunCon results-date notice; Penang hillslope remarks by Chow (30 Oct, before window).",
+  "propertyInvestment": "Checked: same portal set. Used: AEON Mall KL Midtown opening (pi-1; facts from the company announcement). No REIT results in-window.",
+  "plantation": "Checked: same portal set. Used: TSH-NEA engagement (pl-1), Indonesia export data (pl-2), United Malacca MGO (pl-3). Seen, not itemised: Kretam board change (personnel); Malaysia-China agri-export clearance talks (no palm-specific measure).",
+  "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in-window. IP-backed financing remarks (banks) are conventional bank-lending policy - excluded.",
+  "consumerFinancing": "Checked: same portal set. Used: CTOS service restoration (cf-1). No civil-servant financing news in-window.",
+  "cablesManufacturing": "Checked: same portal set. Used: MITI manufacturing-licence labour policy (cb-1). Southern Cable's EPF s138 notice is a routine shareholding change - noted in watchlist coverage, not itemised.",
+  "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or watchlist building-materials news in-window. MITI's licence policy (cb-1) also touches building-material plants - logged under cablesManufacturing.",
+  "hotels": "Checked: same portal set. No hotel news in-window; the Langkawi aquarium redevelopment (con-3) is logged as a construction contract. AEON Mall's Hyatt Regency KL adjacency is noted in pi-1."
+ },
+ "generalCoverage": [
+  "Edition window: from the 2 Nov edition's checks (~07:28 MYT 2 Nov) to ~07:21 MYT 3 Nov 2026. Edge probe 824090-824420: 331 probed, 173 resolved, 167 in-window (max resolved 824284).",
+  "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological. Bursa official site blocks automation; the KLSE Screener mirror (pages 1-16) yielded 315 filings dated 2 Nov (full list saved) plus two 31 Oct Sycal filings that surfaced late - itemised today as con-5.",
+  "Access: theSun's site remains unreachable for a second day (curl timeouts on feed/homepage/business; cloud-browser load fails) - coverage gap noted. TMR 403 bot wall - terminal per the no-solver rule. Malay Mail RSS accessible.",
+  "Zetrix watch: no new factual development; The Edge's Frankly Speaking column on the audit-committee exodus is signed commentary and excluded per editorial rules. MARC rating stays C - any missed payment takes it to D.",
+  "Dedupe: Chinese-language Edge duplicates logged and excluded. EdgeProp's UEM-AME digest item was covered 31 Oct. Star stories corroborating itemised news are logged as corroboration, not double-counted.",
+  "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
+ ],
+ "watchlistCoverage": [
+  "Southern Cable Group Berhad (0225): routine EPF substantial-shareholding change notice (s138), 2 Nov; not itemised.",
+  "Pesona Metro Holdings Berhad (8311): routine share buy-back announcement, 2 Nov; not itemised.",
+  "No watchlist company named in an itemised article today."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 167,
+   "used": 17,
+   "status": "checked",
+   "note": "331 probed (824090-824420), 173 resolved, 167 in-window",
+   "publishers": [
+    "The Edge"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 9,
+   "used": 0,
+   "status": "checked",
+   "note": "RSS feed accessible",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 50,
+   "used": 2,
+   "status": "checked",
+   "note": "feed path /feed",
+   "publishers": [
+    "New Straits Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 0,
+   "status": "checked",
+   "note": "feed 301-redirects; curl -L",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "site unreachable, day 2 (curl timeouts; browser load fails); coverage gap",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 18,
+   "used": 0,
+   "status": "checked",
+   "note": "WP API",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 17,
+   "used": 0,
+   "status": "checked",
+   "note": "business front in browser; corroboration only today",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "403 bot wall; terminal per no-solver rule, no bypass attempted",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 1,
+   "used": 1,
+   "status": "checked",
+   "note": "front + T&T DC cost article opened",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 32,
+   "used": 11,
+   "status": "checked",
+   "note": "mirror pages 1-16; 315 filings dated 2 Nov + 2 late 31 Oct Sycal filings",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
 }
