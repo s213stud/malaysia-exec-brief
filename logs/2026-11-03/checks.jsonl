@@ -1,0 +1,20 @@
+{"ts": "2026-11-03T07:20:33+08:00", "source": "NST / Business Times", "method": "RSS /feed via curl", "result": "ok: 50 items fetched, 50 in-window", "status": "ok"}
+
+{"ts": "2026-11-03T07:20:33+08:00", "source": "FMT", "method": "RSS feed via curl -L", "result": "ok: 50 items fetched, 50 in-window", "status": "ok"}
+
+{"ts": "2026-11-03T07:20:33+08:00", "source": "Malay Mail", "method": "RSS feed via curl", "result": "ok: 9 in-window", "status": "ok"}
+
+{"ts": "2026-11-03T07:20:33+08:00", "source": "TNGlobal", "method": "WordPress API via curl", "result": "ok: 20 posts fetched, 18 in-window (2 Malaysia-relevant: Google dup + Hong Leong Alipay, both triaged)", "status": "ok"}
+
+{"ts": "2026-11-03T07:20:33+08:00", "source": "The Malaysian Reserve", "method": "curl homepage", "result": "blocked: 403 bot wall; terminal per no-solver rule (no bypass attempted)", "status": "blocked"}
+
+{"ts": "2026-11-03T07:20:52+08:00", "source": "The Sun", "method": "RSS feed via curl, retries", "result": "blocked: site still unreachable (curl 000 timeouts, day 2); cloud-browser /business load also fails. Coverage gap noted", "status": "blocked"}
+
+{"ts": "2026-11-03T07:21:13+08:00", "source": "The Edge", "method": "node probe 824090-824420 via curl (xargs P4)", "result": "ok: 331 probed, 173 resolved, 167 in-window; max resolved 824284", "status": "ok"}
+
+{"ts": "2026-11-03T07:23:18+08:00", "source": "Bursa announcements", "method": "KLSE Screener mirror pages 1-16 via curl (browser UA)", "result": "ok: 477 rows - 315 dated 2 Nov (full list saved), 2 dated 31 Oct (Sycal, itemised), 160 dated 30 Oct", "status": "ok"}
+
+{"ts": "2026-11-03T07:23:48+08:00", "source": "The Star", "method": "cloud browser business front", "result": "ok: front scanned; corroborates FIHB/Google/ISF/SAG/CTOS/Infomina items; no additional itemisable story", "status": "ok"}
+
+{"ts": "2026-11-03T07:23:48+08:00", "source": "EdgeProp", "method": "cloud browser front + article open", "result": "ok: T&T DC cost index itemised (con-4); UEM-AME digest duplicates 31 Oct item; Maybank HQ is office (out of retail scope)", "status": "ok"}
+

@@ -1,0 +1,313 @@
+{
+ "date": "2026-11-02",
+ "source": "KLSE Screener mirror (bursamalaysia.com blocks automation)",
+ "complete": true,
+ "count": 315,
+ "note": "Pages 1-16 scanned: 477 rows - 315 filings dated 2 Nov (full set saved to tsv), 160 dated 30 Oct (swept 31 Oct edition), 2 dated 31 Oct (Sycal Ventures qualified opinion + annual report; surfaced after the 1 Nov run and itemised today as con-5).",
+ "results": [
+  {
+   "company": "ISF GROUP BERHAD",
+   "title": "Others - four contracts worth RM83.23m for hyperscale data centre, Port Dickson",
+   "id": "11696407",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696407",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates ai-3",
+   "itemId": "2026-11-03-ai-3"
+  },
+  {
+   "company": "NORTHERN SOLAR HOLDINGS BERHAD",
+   "title": "Others - LOA: 100MW solar + BESS (CRESS) for data centre",
+   "id": "11696199",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696199",
+   "opened": false,
+   "decision": "included",
+   "reason": "corroborates ai-4",
+   "itemId": "2026-11-03-ai-4"
+  },
+  {
+   "company": "NORTHERN SOLAR HOLDINGS BERHAD",
+   "title": "Others - LOA: 89MW solar + BESS (CRESS) for data centre",
+   "id": "11696207",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696207",
+   "opened": false,
+   "decision": "included",
+   "reason": "corroborates ai-4",
+   "itemId": "2026-11-03-ai-4"
+  },
+  {
+   "company": "INFOMINA BERHAD",
+   "title": "Others - five-year Broadcom AOD appointment, 13 APAC markets",
+   "id": "11696351",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696351",
+   "opened": false,
+   "decision": "included",
+   "reason": "corroborates ai-5",
+   "itemId": "2026-11-03-ai-5"
+  },
+  {
+   "company": "ECONPILE HOLDINGS BERHAD",
+   "title": "Others - RM73m piling/foundation contract, new Tung Shin Hospital building",
+   "id": "11696001",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696001",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates con-1",
+   "itemId": "2026-11-03-con-1"
+  },
+  {
+   "company": "FEDERAL INTERNATIONAL HOLDINGS BERHAD",
+   "title": "Others - RM46.96m structural works, PJ Selatan Sentral (related party)",
+   "id": "11696057",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696057",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates con-2",
+   "itemId": "2026-11-03-con-2"
+  },
+  {
+   "company": "SIGNATURE ALLIANCE GROUP BERHAD",
+   "title": "Others - RM51.56m Underwater World Langkawi redevelopment",
+   "id": "11696341",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696341",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates con-3",
+   "itemId": "2026-11-03-con-3"
+  },
+  {
+   "company": "SYCAL VENTURES BERHAD",
+   "title": "Audit report - modified opinion / material uncertainty related to going concern: qualified opinion (FY2026)",
+   "id": "11695793",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695793",
+   "opened": true,
+   "decision": "included",
+   "reason": "itemised con-5 (filed 31 Oct, surfaced on mirror 3 Nov)",
+   "itemId": "2026-11-03-con-5"
+  },
+  {
+   "company": "SYCAL VENTURES BERHAD",
+   "title": "Annual Report & CG Report - 2026",
+   "id": "11695795",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695795",
+   "opened": false,
+   "decision": "included",
+   "reason": "companion annual report for con-5",
+   "itemId": "2026-11-03-con-5"
+  },
+  {
+   "company": "PEKAT GROUP BERHAD",
+   "title": "Transactions (Ch 10, non-related party): acquisition of six Nilai industrial plots from Sime Darby Property (Nilai) for RM30.58m",
+   "id": "11695827",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695827",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates pd-1",
+   "itemId": "2026-11-03-pd-1"
+  },
+  {
+   "company": "TSH RESOURCES BERHAD",
+   "title": "Others - voluntary engagement with Singapore NEA assessors (transboundary haze)",
+   "id": "11695897",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695897",
+   "opened": false,
+   "decision": "included",
+   "reason": "corroborates pl-1",
+   "itemId": "2026-11-03-pl-1"
+  },
+  {
+   "company": "TSH RESOURCES BERHAD",
+   "title": "Others - NEA notices to Singapore-incorporated subsidiaries under THPA s10(1)",
+   "id": "11695791",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695791",
+   "opened": false,
+   "decision": "included",
+   "reason": "corroborates pl-1",
+   "itemId": "2026-11-03-pl-1"
+  },
+  {
+   "company": "UNITED MALACCA BERHAD",
+   "title": "Conditional Mandatory Take-over Offer - offer document, RM6.10 cash per share (Prosper Trading / Tee Kim Tee & Tee Cheng Hua via UOBKH)",
+   "id": "11695821",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695821",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates pl-3",
+   "itemId": "2026-11-03-pl-3"
+  },
+  {
+   "company": "UNITED MALACCA BERHAD",
+   "title": "Circular/Notice - compensation document re cash compensation scheme by Prosper Trading",
+   "id": "11695817",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695817",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates pl-3",
+   "itemId": "2026-11-03-pl-3"
+  },
+  {
+   "company": "UNITED MALACCA BERHAD",
+   "title": "Take-overs & mergers (para/rule 9.19(47A))",
+   "id": "11695815",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695815",
+   "opened": false,
+   "decision": "included",
+   "reason": "corroborates pl-3",
+   "itemId": "2026-11-03-pl-3"
+  },
+  {
+   "company": "CTOS DIGITAL BERHAD",
+   "title": "Others - restoration of credit reporting services after cybersecurity breach",
+   "id": "11695831",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695831",
+   "opened": true,
+   "decision": "included",
+   "reason": "corroborates cf-1",
+   "itemId": "2026-11-03-cf-1"
+  },
+  {
+   "company": "SOUTHERN CABLE GROUP BERHAD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11696355",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696355",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF trade notice; watchlist company noted in coverage"
+  },
+  {
+   "company": "PESONA METRO HOLDINGS BERHAD",
+   "title": "Immediate announcement on shares buy back",
+   "id": "11696167",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696167",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine buy-back; watchlist company noted in coverage"
+  },
+  {
+   "company": "TSH RESOURCES BERHAD",
+   "title": "Immediate announcement on shares buy back",
+   "id": "11696195",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696195",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine buy-back"
+  },
+  {
+   "company": "IOI PROPERTIES GROUP BERHAD",
+   "title": "Change in principal officer - Ho Kwok Wing",
+   "id": "11695859",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695859",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "personnel (COO appointment); not itemised"
+  },
+  {
+   "company": "IOI PROPERTIES GROUP BERHAD",
+   "title": "Change in principal officer - Teah Chin Guan",
+   "id": "11695857",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695857",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "personnel; not itemised"
+  },
+  {
+   "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+   "title": "Others - targeted release date for 3QFY2026 results",
+   "id": "11696257",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696257",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "reason": "results-date notice; not news"
+  },
+  {
+   "company": "TENAGA NASIONAL BHD",
+   "title": "Others - RM2b ASEAN Sustainability SRI Sukuk Wakalah facility (TNB Genco Solar Kenyir 1)",
+   "id": "11696323",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696323",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "reason": "renewable-energy financing facility; energy infra outside sector scope"
+  },
+  {
+   "company": "GAMUDA BERHAD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11696265",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696265",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "GAMUDA BERHAD",
+   "title": "Dealings in listed securities (Ch 14) outside closed period",
+   "id": "11696267",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696267",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine dealing notice"
+  },
+  {
+   "company": "MAXIS BERHAD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11695895",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695895",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "YTL CORPORATION BERHAD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11695861",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695861",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "YTL POWER INTERNATIONAL BHD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11695863",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695863",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "SUNWAY REAL ESTATE INVESTMENT TRUST",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11696139",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696139",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "IJM CORPORATION BERHAD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11696071",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696071",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "CTOS DIGITAL BERHAD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11696289",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11696289",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  },
+  {
+   "company": "TENAGA NASIONAL BHD",
+   "title": "Changes in substantial shareholder's interest (s138) - EPF Board",
+   "id": "11695883",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11695883",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine EPF notice"
+  }
+ ]
+}
