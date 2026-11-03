@@ -1,0 +1,565 @@
+{
+  "date": "2026-11-04",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-04T07:20:58+08:00",
+    "2026-11-04T07:22:18+08:00",
+    "2026-11-04T07:24:38+08:00",
+    "2026-11-04T07:25:42+08:00",
+    "2026-11-04T07:26:17+08:00",
+    "2026-11-04T07:27:28+08:00",
+    "2026-11-04T07:27:58+08:00"
+  ],
+  "publishedAt": "2026-11-04T07:40:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "GDB lands an RM877m logistics-hub contract in Shah Alam - its largest win this year - lifting the watchlist builder's outstanding order book to RM2.93 billion",
+      "soWhat": "Two five-storey logistics hubs for Rochester Logistics Asset 2 extend GDB's pivot into high-spec industrial builds; the award re-rates its order book just as DC and logistics construction pipelines crowd in.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-04-con-1"
+      ]
+    },
+    {
+      "headline": "IOI Properties' deleveraging programme lands in one day: IOIPG REIT priced at 96 sen (raising RM2.1b), a S$6b Singapore private fund being marketed and an SGX secondary listing targeted for early 2027",
+      "soWhat": "The REIT alone cuts gearing toward 35% and anchors on IOI City Mall; the Singapore fund is the bigger lever - a 50% sale could raise close to RM10b - so watch pricing and cornerstone demand on both.",
+      "sectorKeys": [
+        "propertyInvestment",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-04-pi-1",
+        "2026-11-04-pd-1"
+      ]
+    },
+    {
+      "headline": "Palm oil stockpiles are seen hitting a fresh record of 3.76m tonnes in October even as CRESS power contracting accelerates for data centres",
+      "soWhat": "A fifth straight monthly production record keeps CPO prices under pressure into MPOB data next week; meanwhile TNB-IOI Corp's 500MW Bahau solar JV and Northern Solar's Johor DC LOAs show plantation and utility names monetising the DC power theme.",
+      "sectorKeys": [
+        "plantation",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-04-pl-1",
+        "2026-11-04-pl-2",
+        "2026-11-04-ai-5"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Perak explores a 100MW-plus AI data centre; GPU server and PC supply contracts land for MM Computer and Theta Edge; Northern Solar says its Johor DC CRESS values are not yet final; TNB commits RM43b to grid modernisation",
+      "items": [
+        {
+          "id": "2026-11-04-ai-1",
+          "headline": "Perak state development corp and Global Vision Lab explore AI data centre with planned capacity exceeding 100MW",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Perak State Development Corporation (PKNPk) and Global Vision Lab Sdn Bhd (GVL) have signed only a non-disclosure agreement and a letter of consent to exchange information and run preliminary assessments for an AI data centre in Perak, with planned power capacity exceeding 100MW. The facility targets AI computing, high-performance computing and GPU-based applications demand in Malaysia and the region. PKNPk coordinates state-level stakeholders while GVL leads development planning; full scope and capacity are still to be determined.",
+          "soWhat": "Another state joins the DC land race beyond the established Cyberjaya-Johor axis, but with no NDA-stage commitment, land, power or water secured, this is intent rather than a project; the signal is that state agencies are now actively courting DC developers.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824314"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "watchOut": "NDA-stage only - no site, power purchase or anchor customer disclosed."
+        },
+        {
+          "id": "2026-11-04-ai-2",
+          "headline": "MM Computer Systems bags RM51.58m order to supply GPU-accelerated servers to an unnamed Malaysian telco infrastructure and DC services provider",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "MM Computer Systems Bhd secured a purchase order worth RM51.58 million through wholly-owned subsidiary Micro Technology Solution Sdn Bhd to supply GPU-accelerated servers supporting generative AI, large language model training and inference, deep learning and high-performance computing workloads. The customer is described only as a Malaysian telecommunications infrastructure and data centre services provider.",
+          "soWhat": "A second AI-infrastructure hardware order in the domestic market within days (after Theta Edge) shows enterprise and carrier-grade AI capex is flowing to local system integrators, not only hyperscalers.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824413"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697071"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-ai-3",
+          "headline": "Theta Edge wins RM33.01m contract as exclusive supplier of up to 5,742 laptops and desktops to Aceteam Networks under a device-as-a-service model",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Theta Edge Bhd's wholly-owned Theta Technologies Sdn Bhd will exclusively supply up to 5,742 new laptops and desktop computers to IT solutions firm Aceteam Networks Sdn Bhd under a device-as-a-service project covering provision and lifecycle management of the equipment. The five-year contract starts with first delivery and runs from completion of user acceptance testing; Aceteam operates in cybersecurity, cloud computing and data networking.",
+          "soWhat": "Annuity-style device-as-a-service revenue improves earnings visibility for a smaller ICT name; watch margin on hardware-heavy deals against financing costs of the device fleet.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824412"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697087"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-ai-4",
+          "headline": "Huawei Malaysia and CelcomDigi sign three-year workforce upskilling partnership covering AI, data analytics, 5G and cloud",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-04",
+          "detail": "Huawei Technologies (Malaysia) Sdn Bhd and CelcomDigi Bhd entered a three-year memorandum of understanding to strengthen digital skills across the telco group's workforce, with Huawei providing access to advanced training, leadership programmes and industry-recognised certifications in AI, data analytics, 5G and cloud technologies, plus Huawei certifications at associate, professional and expert levels.",
+          "soWhat": "Telco talent development is table stakes, but the Huawei channel into CelcomDigi's enterprise transformation keeps the vendor embedded in the group's AI ambitions; no commercial value disclosed.",
+          "sources": [
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1570199/huawei-celcomdigi-join-forces-upskill-workforce"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-ai-5",
+          "headline": "Northern Solar tells Bursa its two DC CRESS letters of award (89MWac and 100MWac solar plus BESS, both in Johor) have no finalised contract value yet",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Replying to a Bursa Malaysia query, Northern Solar Holdings Bhd clarified that the value of its two corporate renewable energy supply scheme projects - 89MWac and 100MWac of solar with battery energy storage, serving data centres in Johor with annual energy requirements of 233.9 million kWh and 262.8 million kWh - has yet to be finalised, with further announcements on execution of definitive agreements; the exact DC locations are confidential under the LOAs.",
+          "soWhat": "Yesterday's headline capacity is real but commercially unpriced - revenue timing and margin for CRESS-linked solar EPCC stay uncertain until definitive agreements; treat LOA-stage DC-power wins across the sector with the same discount.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697139"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "watchOut": "LOA-stage only; contract value, tenure and tariff all undisclosed."
+        },
+        {
+          "id": "2026-11-04-ai-6",
+          "headline": "TNB steps up grid modernisation with about RM43b of network investments under RP4 (2025-2027), including the 500kV National Grid Backbone",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Tenaga Nasional Bhd president and CEO Datuk Seri Shamsul Ahmad told a Singapore International Energy Week panel that TNB is investing ahead of demand, with about RM43 billion allocated for network investments under Regulatory Period 4 covering 2025 to 2027, supporting critical infrastructure including the 500-kilovolt National Grid Backbone and renewable energy integration. TNB serves approximately 11 million customers.",
+          "soWhat": "Grid capex at this scale is the enabling layer for both DC load growth and CRESS connections; it frames a multi-year work pipeline for transmission contractors, cable makers and equipment vendors.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/04/tnb-boosts-grid-modernisation"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "GDB's RM877m Shah Alam logistics hub headlines a day of contract wins; flood mitigation gets a PM-level push; Pekat clears the SC for its Main Market move; ECRL revenue projections published",
+      "items": [
+        {
+          "id": "2026-11-04-con-1",
+          "headline": "GDB bags RM877m contract to demolish a factory and build two five-storey logistics hubs in Seksyen 15, Shah Alam; order book rises to RM2.93b",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "GDB Holdings Bhd's wholly-owned Grand Dynamic Builders Sdn Bhd accepted a letter of award dated 30 October from Rochester Logistics Asset 2 Sdn Bhd on 2 November for main contract works: demolition of an existing factory and construction of two five-storey logistics hub buildings with integrated mezzanine offices and a dedicated three-storey cafeteria on PT 845, Jalan 15/23, Seksyen 15, Shah Alam, for RM877 million inclusive of 6% service tax. Back-to-back wins take GDB's outstanding order book to RM2.93 billion.",
+          "soWhat": "Watchlist: this is GDB's largest single award this year and deepens its high-spec logistics/industrial niche at premium margins; client is an asset vehicle (Rochester Logistics Asset 2), so counterparty funding is the risk to track.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824339"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11696749"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "gdb"
+          ],
+          "opportunity": "Order-book cover now multi-year; logistics-hub demand from e-commerce and DC-adjacent supply chains keeps the tender pipeline active.",
+          "watchOut": "Single-client concentration in one asset vehicle; verify Rochester Logistics' funding as works progress."
+        },
+        {
+          "id": "2026-11-04-con-2",
+          "headline": "ES Sunlogy wins two Kerjaya Prospek electrical subcontracts worth RM25.07m for the Pulau Andaman, Penang serviced-apartment project",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "ES Sunlogy Bhd's wholly-owned Savelite Engineering Sdn Bhd accepted two letters of acceptance from Kerjaya Prospek (M) Sdn Bhd: a RM19.87 million subcontract to supply and install electrical and extra-low voltage systems for two 46-storey, 1,080-unit serviced apartment towers in Bandar Tanjung Pinang (completion by 31 December 2029), and a RM5.2 million infrastructure works subcontract.",
+          "soWhat": "Kerjaya Prospek's Penang mega-project is now flowing down to M&E subcontractors; for ES Sunlogy the award extends a customer relationship that dominates its order book - a double-edged concentration.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824420"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-con-3",
+          "headline": "PM Anwar orders Sungai Buloh and Sungai Damansara flood mitigation projects expedited after repeated flooding",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Prime Minister Datuk Seri Anwar Ibrahim ordered work on the Sungai Buloh and Sungai Damansara flood mitigation projects in Selangor to be expedited following repeated flooding in the area, Bernama reported.",
+          "soWhat": "Accelerated flood-mitigation timelines pull forward civil-works spending; contractors with DID track records should watch for compressed tender schedules on these two schemes.",
+          "sources": [
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/news/nation/2026/11/1570117/anwar-orders-sungai-buloh-sungai-damansara-flood-mitigation-projects-be"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-con-4",
+          "headline": "Pekat Group gets SC approval to transfer to the Main Market, over five years after its ACE Market debut",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "The Securities Commission Malaysia approved solar engineering firm Pekat Group Bhd's transfer of listing from the ACE Market to the Main Market on 3 November, noting compliance with the Bumiputera equity requirement. Pekat met the financial tests, including combined net profit of at least RM30 million over three financial years; it first announced the transfer plan in June.",
+          "soWhat": "Main Market status widens the institutional investor base for a solar EPCC that is also assembling industrial land (yesterday's Nilai acquisition); read together, Pekat is positioning for larger CRESS-linked balance-sheet growth.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824404"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697093"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-con-5",
+          "headline": "ECRL passenger revenue projected at RM192m-RM204m a year for 2027-2029; cargo income seen tripling to RM214m by 2029, says Loke",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Transport Minister Anthony Loke said in a written parliamentary reply that East Coast Rail Link passenger revenue is forecast at RM192 million in 2027, RM198 million in 2028 and RM204 million in 2029, based on a 2025 consultant's study, while cargo revenue is projected to rise from RM68 million in 2027 to RM71 million in 2028 and then more than triple to RM214 million in 2029 - caveated as subject to actual operating performance.",
+          "soWhat": "The first official revenue trajectory for the ECRL ahead of its January 2027 passenger launch sets a modest baseline: passenger income alone covers a fraction of operating costs, making the 2029 cargo inflection the number to watch for the project's economics and follow-on east-coast development.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824288"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "IOI Properties lines up a S$6b Singapore fund and an SGX listing; S P Setia adds a build-and-lease international school at Bandar Kinrara; Rehda Selangor presses for regulatory certainty",
+      "items": [
+        {
+          "id": "2026-11-04-pd-1",
+          "headline": "IOI Properties to market a Singapore private real estate fund backed by S$6b of assets in coming months; targets SGX secondary listing in early 2027",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "IOI Properties Group Bhd has started marketing a private real estate fund for its Singapore assets, worth S$6 billion (RM19.1 billion), to investors, CEO Datuk Lee Yeow Seng said; a 50% stake sale could raise nearly RM10 billion. The group is also targeting early 2027 for a secondary listing on the Singapore Exchange. Both moves, alongside the IOIPG REIT IPO, are part of efforts to deleverage after an acquisition spree.",
+          "soWhat": "This is the largest of IOIPG's three deleveraging levers; pricing and investor appetite for Singapore commercial assets will signal whether regional capital still wants Malaysian-sponsored platforms.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824378"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-pd-2",
+          "headline": "S P Setia signs build-and-lease deal with HELP for a 1,000-student international school at Bandar Kinrara, opening targeted for August 2029",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "S P Setia Bhd subsidiary Perumahan Kinrara Bhd signed a build-and-lease agreement and a separate lease agreement with HELP Kinrara Sdn Bhd (under HELP Education Services) for a six-storey campus on Plot 5, a 2.01-acre site within a 16-acre commercial parcel planned as a transit-oriented development. Perumahan Kinrara builds; HELP fits out, obtains approvals and leases for an initial 15 years plus a five-year option. Indicative GFA is 176,085 sq ft with 55 classrooms; it would be the fourth HELP school, offering British curriculum to IGCSE.",
+          "soWhat": "A long-lease education anchor de-risks the commercial plot of the former Kinrara cricket-field TOD and lifts surrounding residential value - a template other township developers are copying.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918148/s-p-setia-help-sign-agreements-bandar-kinrara-international-school"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-pd-3",
+          "headline": "Rehda Selangor calls for regulatory clarity, consistent policy and better agency coordination to support housing delivery",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Real Estate and Housing Developers' Association (Rehda) Selangor chairman Datuk Edward Chong Sin Kiat told the Rehda Selangor Housing Convention 2026 that developers face rising development costs, changing market conditions and increasingly complex affordability, quality and sustainability expectations, and need certainty in requirements, decision-making and approval processes rather than guaranteed approvals.",
+          "soWhat": "The state's largest developer body is publicly framing approval uncertainty - not demand - as the binding constraint; any state-level response on one-stop approvals would directly affect project timelines and holding costs.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824319"
+            },
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/rehda-selangor-calls-for-greater-clarity-consistency-and-collaboration/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "IOIPG REIT priced at 96 sen for a RM5.3b Main Market debut while retailers lobby MOF against foreign e-commerce",
+      "items": [
+        {
+          "id": "2026-11-04-pi-1",
+          "headline": "IOIPG Malaysia REIT prices Main Market IPO at 96 sen per unit, raising RM2.1b for IOI Properties; RM5.3b market cap anchored on IOI City Mall",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "IOIPG Malaysia Real Estate Investment Trust priced its Main Market IPO at 96 sen apiece, expected to raise RM2.1 billion for sponsor IOI Properties Group Bhd (the trust itself raises nothing), for a RM5.3 billion market capitalisation at listing. The initial portfolio is anchored by IOI City Mall in Putrajaya - Malaysia's largest shopping mall - alongside six hotels operating under Marriott International brands. The prospectus was issued 3 November with a 1-for-10 restricted offer to entitled IOIPG shareholders (up to 2.2 billion units; retail offering of 715.6 million units subject to clawback).",
+          "soWhat": "Malaysia's largest retail asset finally lists as a pure-play; pricing at 96 sen tests yield appetite for mega-mall cash flows and gives the retail-REIT sector a new benchmark - watch the spread versus Sunway REIT and Pavilion REIT on debut.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824311"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11696691"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "opportunity": "Cornerstone/institutional bookbuild response at 96 sen; restricted-offer take-up by IOIPG shareholders.",
+          "watchOut": "Sponsor deleveraging, not fresh growth capital - the REIT starts life with a related-party tenant mix."
+        },
+        {
+          "id": "2026-11-04-pi-2",
+          "headline": "MRCA warns of existential threat from foreign e-commerce in policy appeal to MOF, urging a fair-competition framework",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "The Malaysia Retail Chain Association said it submitted a comprehensive set of policy recommendations to the Ministry of Finance urging a fair competition framework for foreign e-commerce platforms, citing severe market disparity as aggressively priced overseas goods undercut domestic retailers while platforms face less stringent tax and product-safety obligations. MRCA said it remains pro-business but insists any entity operating in Malaysia must adhere to national laws, tax obligations and product safety standards.",
+          "soWhat": "Physical retail's lobby is escalating to the fiscal ministry ahead of Budget implementation; any levy or compliance tightening on cross-border e-commerce would flow straight into mall tenancy health and brick-and-mortar sales trajectories.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824315"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "October stockpiles seen at a fresh record on record output; IOI Corp joins TNB's 500MW Bahau CRESS solar JV; 50 more latex depots planned for 2027; Prosper keeps buying United Malacca at RM6.08",
+      "items": [
+        {
+          "id": "2026-11-04-pl-1",
+          "headline": "Malaysian palm oil stockpiles likely swelled about 7% to a record 3.76m tonnes in October as output hit a record 2.2m tonnes - Bloomberg survey",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-04",
+          "detail": "Malaysia's palm oil inventories likely expanded about 7% month-on-month to 3.76 million tonnes in October, surpassing September's record and running about 50% above the same month last year, according to the median of 11 estimates in a Bloomberg survey of plantation executives, traders and analysts. Crude palm oil output likely rose about 4% to a record 2.2 million tonnes, a fifth straight monthly increase, while exports surged; benchmark futures have retreated about 8% from their August peak and storage capacity is strained in parts of the country. Official MPOB data is due next week. (Bloomberg-sourced survey, attributed.)",
+          "soWhat": "Record stocks into peak production keep CPO under pressure and squeeze upstream margins; the survey directionally frames MPOB risk for planters - integrated players with downstream or CRESS-style diversification (see pl-2) are better cushioned.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/04/palm-oil-stockpiles-set-to-reach-fresh-record"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "watchOut": "Survey estimate, not official data; MPOB figures next week can move either way."
+        },
+        {
+          "id": "2026-11-04-pl-2",
+          "headline": "TNB, IOI Corp and a 12-SME consortium sign JV for a 500MW Bahau, Negeri Sembilan solar project with 250MW/1,000MWh battery under CRESS",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Tenaga Nasional Bhd subsidiary TNB Renewables Sdn Bhd (TRe) signed a joint venture agreement with IOI Corporation Bhd's Luminous Aspect Sdn Bhd and a 12-SME consortium vehicle CSP 500MW Sdn Bhd to develop a 500MW solar power project in Bahau, Negeri Sembilan, including a 250MW/1,000MWh battery energy storage system, under the Corporate Renewable Energy Supply Scheme. TRe holds 70% of Bahau Energy Ventures Sdn Bhd, Luminous Aspect 25% and CSP 500MW 5%; Tenaga will inject up to RM424.4 million, Luminous Aspect up to RM151.5 million and CSP up to RM30.3 million.",
+          "soWhat": "IOI Corp is converting plantation landbank adjacency into CRESS renewables exposure at meaningful scale; for TNB this is another large CRESS JV that feeds the DC and green-power demand chain - and for the grid, BESS of 1,000MWh is among the largest committed domestically.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824385"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-pl-3",
+          "headline": "Government plans about 50 more latex depots in 2027 to cut RM7b of annual latex imports; 137 sites identified, 30 operating",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi said the government plans to develop about 50 latex depots next year to strengthen local rubber production and reduce reliance on latex imports, which currently reach RM7 billion a year. To date 137 latex depot locations have been identified nationwide with operations underway at 30, involving RISDA and the Malaysian Rubber Board.",
+          "soWhat": "A domestic-latex buildout targets import substitution for the rubber-goods industry; execution history on smallholder collection schemes is mixed, so watch depot throughput rather than announcements.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824426"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-04-pl-4",
+          "headline": "Prosper Trading buys another 20,800 United Malacca shares at RM6.08 in the open market under the conditional MGO",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-03",
+          "detail": "In a dealings disclosure under the takeover rules, Prosper Trading Sdn Bhd acquired 13,000, 2,800 and 5,000 United Malacca Bhd shares from the open market on 2 November at RM6.08 each (excluding brokerage), while its conditional mandatory general offer at RM6.10 cash stands.",
+          "soWhat": "The offeror buying at a two-sen discount to the offer price nudges its stake up cheaply and signals confidence the offer turns unconditional; each disclosure tightens the float minorities can sell into.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11696451"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (301 nodes 824240-824540, 196 resolved, 155 in-window), Star business+tech fronts, NST/MM/FMT/BH feeds, TNGlobal WP API, Bursa mirror (394 filings dated 3 Nov). Used: Perak DC exploration (ai-1), MMCS GPU servers (ai-2), Theta Edge DaaS (ai-3), Huawei-CelcomDigi MoU (ai-4), Northern Solar query reply (ai-5), TNB grid capex (ai-6). Seen, not itemised: Binance licence talks (report, unconfirmed); ESTEK/Neural Semiconductor Penang (small private); Juris-TBN lending tech (Thailand-focused); Nvidia-China (FT, foreign); MCMC takedown stats (enforcement).",
+    "propertyDevelopment": "Checked: same portal set plus EdgeProp front. Used: IOIPG Singapore fund/SGX (pd-1), S P Setia-HELP school (pd-2), Rehda Selangor (pd-3). Seen, not itemised: Titijaya Penang land divestment query reply (announced 28 Oct); Asian Pac Kotasas SPA/JDA query reply (28 Oct); HHRG RM11m Marang land (immaterial); Guan Huat Seng RM4m warehouse (immaterial); Mah Sing/S P Setia disposal-period extensions (routine); Duta Enclave suit (government legal, no developer exposure).",
+    "construction": "Checked: same portal set. Used: GDB (con-1), ES Sunlogy (con-2), flood mitigation (con-3), Pekat Main Market (con-4), ECRL revenue projections (con-5). Seen, not itemised: Salutica RM2.85m related-party Klang renovation (below materiality); Ekovest Duke funding remarks (no new contract); Ho Hup PN17 monthly updates (routine); Malakoff Lumut restart (plant operations); Dialog Langsat expansion (O&G terminals); T&T/sector indices (none new).",
+    "propertyInvestment": "Checked: same portal set, retail scope. Used: IOIPG REIT pricing (pi-1), MRCA e-commerce appeal (pi-2). Seen, not itemised: Axis REIT 3Q NPI (results, no retail exposure change); IGB/KLCC REIT EPF notices (routine).",
+    "plantation": "Checked: same portal set. Used: palm stockpile survey (pl-1), TNB-IOI Bahau CRESS (pl-2), latex depots (pl-3), United Malacca dealings (pl-4). Seen, not itemised: United Plantations/SD Guthrie/KLK/Johor Plantations EPF-KWAP s138 notices (routine); sugar/copper wires (commodities).",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in-window. Bernama's NBFI-SC story concerns LTAT/EPF/KWAP governance codes - excluded as out of sector scope.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant financing news in-window. Juris Technologies' Thai AI-lending partnership is a B2B tech sale - logged, not itemised.",
+    "cablesManufacturing": "Checked: same portal set. No cable-maker news in-window. Southern Cable's EPF s138 notice is routine - noted in watchlist coverage. TNB's RM43b grid plan (ai-6) is the demand-side read-across for cable volumes.",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or watchlist building-materials news in-window. Topmix's RM1.85m Senai factory sale is below materiality and outside the named-watchlist materials scope - logged.",
+    "hotels": "Checked: same portal set. No standalone hotel news in-window; the six Marriott-branded hotels in the IOIPG REIT portfolio are noted in pi-1. Club Med's regional GM appointment is personnel - excluded."
+  },
+  "generalCoverage": [
+    "Edition window: from the 3 Nov edition's checks (~07:25 MYT 3 Nov) to ~07:22 MYT 4 Nov 2026. Edge probe 824240-824540: 301 probed, 196 resolved, 155 in-window (max resolved 824447 at 07:13 MYT 4 Nov).",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological. Bursa official site blocks automation; the KLSE Screener mirror (pages 1-26) yielded 394 filings dated 3 Nov (full list in bursa.json) plus a 318-row sweep of 2 Nov filings for late-surfacing items - nothing material missed.",
+    "Access: theSun recovered after a 2-day outage (RSS ok). TNGlobal's main feed returned 403 today; WP API used instead. TMR 403 bot wall - terminal per the no-solver rule. Star's /business/property section now 404s; property covered via the /business front and EdgeProp.",
+    "Zetrix watch: no filing dated 3 Nov and no new factual development; MARC rating stays C - any missed payment takes it to D. The Oct 22 sukuk remediation window remains the live trigger.",
+    "Dedupe: Chinese-language Edge duplicates logged and excluded; wire duplicates (NST/BH/theSun versions of Edge stories) logged as duplicates, not double-counted. Northern Solar (ai-5) and United Malacca (pl-4) are new events following yesterday's items.",
+    "No other-AI (Grok/Cursor) commits or pipeline activity in the repo; all commits this window are this workflow's."
+  ],
+  "watchlistCoverage": [
+    "GDB Holdings Berhad (0198): itemised - RM877m Shah Alam logistics-hub LOA (con-1); order book RM2.93b.",
+    "Southern Cable Group Berhad (0225): routine EPF substantial-shareholding change notices (s138), 2 and 3 Nov; not itemised.",
+    "Pesona Metro Holdings Berhad (8311): routine share buy-back announcements, 2 and 3 Nov; not itemised.",
+    "No other watchlist company named in an in-window article or filing today."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 155,
+      "used": 13,
+      "status": "checked",
+      "note": "Node probe 824240-824540; 196 resolved, 155 in-window; Chinese duplicates and Opinion columns excluded.",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 11,
+      "used": 0,
+      "status": "checked",
+      "note": "Money RSS; in-window items were global/markets wire stories.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "General feed (50 in-window); Huawei-CelcomDigi (ai-4) and flood mitigation (con-3) used; wire duplicates of Edge stories logged as duplicates.",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "Feed (-L redirect); in-window business items were foreign/markets wire; Duta Enclave suit excluded (government legal).",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "Recovered after 2-day outage. RSS 10 items; Rehda Selangor corroborates pd-3.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 20,
+      "used": 0,
+      "status": "checked",
+      "note": "Main feed 403 today; WP API fallback (20 posts). Malaysia items were small/private or unconfirmed reports.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 28,
+      "used": 2,
+      "status": "checked",
+      "note": "/business and /tech fronts via browser; /business/property 404s (section folded into /business). Palm stockpile survey (pl-1) and TNB grid (ai-6) used; broker notes and foreign tech excluded.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "HTTP 403 bot wall on feed (terminal; no bypass per standing rule). Coverage gap - TMR-exclusive stories not seen.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "/news front via browser; S P Setia-HELP school (pd-2) used; small land/factory deals and award/profile pieces excluded.",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 394,
+      "used": 7,
+      "status": "checked",
+      "note": "KLSE Screener mirror (official site 403s automation): 394 filings dated 3 Nov, full list saved in logs; GDB, MMCS, Theta, Pekat, Northern Solar, IOIPG REIT and United Malacca filings used. Watchlist routine notices (Pesona buy-back, Southern Cable EPF) logged, not itemised.",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

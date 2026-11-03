@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. theSun recovered after a 2-day outage (RSS ok). TNGlobal main feed 403 today; WP API used (20 posts). TMR 403 bot wall - terminal, no bypass per standing rule. Star /business/property section now 404s; property covered via /business front and EdgeProp. Bernama/BH/Sinar/China Press/Nanyang/Malaysiakini/KiniBiz checked and logged outside the manifest scope (mostly duplicates or non-sector). Bursa official blocked; KLSE Screener mirror used (394 filings dated 3 Nov, full list in bursa.json)."
+}
