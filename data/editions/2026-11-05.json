@@ -1,0 +1,680 @@
+{
+  "date": "2026-11-05",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-05T07:20:44+08:00",
+    "2026-11-05T07:21:09+08:00",
+    "2026-11-05T07:22:17+08:00",
+    "2026-11-05T07:23:11+08:00",
+    "2026-11-05T07:24:32+08:00",
+    "2026-11-05T07:25:25+08:00",
+    "2026-11-05T07:27:59+08:00",
+    "2026-11-05T07:30:03+08:00"
+  ],
+  "publishedAt": "2026-11-05T07:45:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Google's US$15b two-year commitment and Princeton Digital's US$1.3b green loan keep the data centre build-out accelerating, even as turbine shortages and stricter grid-access rules emerge as the binding constraint",
+      "soWhat": "Capital and construction demand are locked in through 2028: SunCon's RM920.8m fit-out variation, Kee Ming's RM44.17m subcontract and MyDCD's 36.46-times-oversubscribed IPO show the order flow cascading down the supply chain. Power delivery - not demand - is now the risk to watch.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-05-ai-1",
+        "2026-11-05-ai-2",
+        "2026-11-05-ai-3",
+        "2026-11-05-con-1",
+        "2026-11-05-con-4",
+        "2026-11-05-ai-5"
+      ]
+    },
+    {
+      "headline": "Construction order books keep swelling on industrial work: SunCon at RM11.7b, Binastra at RM6.2b, and Waja's RM190m first major win since exiting GN3",
+      "soWhat": "Data centre fit-outs and automated logistics facilities are broadening the job pipeline beyond conventional building work; mid-cap builders with industrial specialisations are the beneficiaries, though Waja's post-distress execution bears watching.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-05-con-1",
+        "2026-11-05-con-2",
+        "2026-11-05-con-3"
+      ]
+    },
+    {
+      "headline": "Record palm oil inventories are now squeezing independent mills and smallholders as refineries halt deliveries - India's festive buying offers only partial relief",
+      "soWhat": "The glut is shifting from a price story to an operations story: mills may stop buying fresh fruit bunches within weeks, putting smallholder income at risk into early 2027 unless the government intervenes. India's 14-month-high imports help but will not clear the overhang alone.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-05-pl-1",
+        "2026-11-05-pl-2"
+      ]
+    },
+    {
+      "headline": "Developers are recycling capital and courting foreign partners - Paramount-Mitsui Fudosan, Sime Darby Property's REIT exploration, Titijaya's RM300m sale - while Country Heights' distressed land fails to clear at auction again",
+      "soWhat": "Balance-sheet discipline and capital recycling dominate developer strategy as the RFN5 planning framework resets land use for the next decade; the bid depth for distressed secondary commercial parcels remains thin.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-05-pd-1",
+        "2026-11-05-pd-2",
+        "2026-11-05-pd-4",
+        "2026-11-05-pd-5"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Google commits US$15b over 2027-28 and Princeton Digital raises US$1.3b of green debt for Johor, while turbine shortages and stricter grid-access rules emerge as the constraint; DC-services IPO demand runs hot",
+      "items": [
+        {
+          "id": "2026-11-05-ai-1",
+          "headline": "Google commits US$15b (RM61b) to Malaysia in 2027-2028: new data centre campuses in Selangor and Negeri Sembilan plus 1GW of clean energy",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Google announced the Mantap Malaysia Bersama AI package at an event attended by Prime Minister Anwar Ibrahim: US$15 billion over 2027 and 2028 covering energy-efficient data centres - new campuses in Selangor and Negeri Sembilan, with EdgeProp reporting an expansion of its operational Elmina Business Park campus - plus upskilling of 800,000 Malaysians, water security and one gigawatt of clean energy. Google estimates the construction will support 37,000 jobs a year (6,000 in construction) and contribute US$1.1 billion a year to GDP and US$378 million in average annual labour income. This builds on the US$160 million shared water infrastructure allocation reported on 3 Nov.",
+          "soWhat": "The largest single hyperscaler commitment to Malaysia to date, locking in two more years of data centre construction and clean-energy procurement for local contractors, utilities and landowners.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824537"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/google-set-to-invest-rm61bil-in-malaysia-over-2027-28"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918167/google-plans-us15b-malaysia-investment-names-three-new-data-centre-sites"
+            },
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/04/google-announces-digital-infrastructure-expansion-local-jobs-water-replenishment-clean-energy-initiatives-with-15b-malaysia-investment/"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-ai-2",
+          "headline": "Princeton Digital Group secures US$1.3b in green financing from six banks for its 200MW JH1 data centre campus in Sedenak, Johor",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "The financing for PDG's JH1 campus is underwritten by Affin Bank, HSBC, Maybank, OCBC, Standard Chartered and UOB, and will fund the campus's continued development and expansion. Structured under PDG's Green Finance Framework, it builds on earlier JH1 facilities (three banks in April 2024, upsized with four banks in October 2025) and forms part of PDG's plan, announced in March 2026, to raise up to US$5 billion in debt for contracted data centre capacity across Asia-Pacific. JH1, in Sedenak Tech Park, is a 200MW campus designed for high-density AI and cloud workloads.",
+          "soWhat": "Bank appetite for Malaysian data centre debt keeps deepening, and Sedenak reinforces Johor's hold on the region's hyperscale pipeline.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824465"
+            },
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/04/singapores-princeton-digital-secures-1-3b-for-data-hub-in-johor/"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-ai-3",
+          "headline": "Turbine shortage delays power capacity additions for data centres; grid access now needs 10-year demand forecasts and binding supply agreements",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "Investment, Trade and Industry Minister Johari Abdul Ghani said a global turbine shortage has caused some delays in adding power capacity for the data centre industry, and that Tenaga Nasional can provide additional capacity - using natural gas alongside solar, battery storage and hydropower - while protecting supply to existing industries, which he said will not be compromised. In a written parliamentary reply cited by EdgeProp, the energy transition ministry (Petra) said developers seeking grid connections in Peninsular Malaysia must submit 10-year forecasts showing staged demand growth and sign binding electricity supply agreements with TNB, with grid access allocated in phases after assessments. Johari also reiterated a minimum 30% local content stipulation for data centre development.",
+          "soWhat": "Power delivery, not land or capital, is now the gating factor for Malaysia's data centre pipeline - expect longer lead times and firmer utility commitments before approvals.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918163/turbine-shortage-slows-power-expansion-data-centres-says-johari"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824487"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-ai-4",
+          "headline": "AWS to train 445,000 civil servants on AI tools under Semarak AI Malaysia; GovHub coding pilot targets 4,000 developers by 2028",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "Launched at AWS Cloud and AI Day Kuala Lumpur, Semarak AI Malaysia spans AI Negara (public sector), AI Ekonomi (businesses) and AI Rakyat (communities). Under AI Negara, AWS will give government officers access to Amazon Quick - a workplace AI tool for procurement analysis, policy research and pattern detection - via the National Digital Department's AI-as-a-Service platform; AWS did not disclose the investment amount or implementation timeline. GovTech Malaysia is also launching GovHub, powered by AWS's Kiro coding tool, starting with 500 developers this year and targeting 4,000 by 2028.",
+          "soWhat": "Puts AI tooling directly into the civil service - a large captive user base for govtech suppliers; with the amount undisclosed, read this as capability-building rather than new capex.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824541"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-ai-5",
+          "headline": "Data centre engineering firm MyDCD's ACE Market IPO oversubscribed 36.46 times ahead of 17 Nov listing; retail bids totalled RM1.88b",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "MyDCD Bhd received applications for 3.36 billion shares worth RM1.88 billion against the 89.7 million shares available to the Malaysian public - 24 times for the Bumiputera portion and 48.92 times for the non-Bumiputera portion - while the eligible-persons and private placement tranches were fully placed. The IPO, priced at 56 sen, raises RM187.6 million for the company plus RM81.2 million for selling shareholders, valuing MyDCD at about RM1 billion on listing. The company provides mechanical, electrical, plumbing and fire-protection engineering primarily for data centres; RM134 million of proceeds goes to working capital for project execution and performance bonds.",
+          "soWhat": "Retail money is paying up for data centre supply-chain exposure - a strong marker for the queue of DC-services listings.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824549"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697321"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-ai-6",
+          "headline": "Samaiden banks on CRESS to lift its order book to RM1b by year-end, closing in on its first CRESS EPCC contract - The Star",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Clean energy services provider Samaiden Group Bhd is counting on the Corporate Renewable Energy Supply Scheme to lift its order book to RM1 billion by year-end, following signals it is close to landing its first CRESS engineering, procurement, construction and commissioning contract, The Star reported on 5 Nov. The build-out of CRESS capacity tied to data centre demand (including battery storage) is the driver.",
+          "soWhat": "CRESS is starting to convert into actual EPCC order flow for solar contractors serving data centre power demand.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/05/samaiden-order-book-to-benefit-from-cress-battery-storage"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Capital recycling dominates: Paramount brings in Mitsui Fudosan, Sime Darby Property studies an industrial REIT, Titijaya sells a logistics hub to cut debt - while Country Heights' distressed land fails to clear at auction again",
+      "items": [
+        {
+          "id": "2026-11-05-pd-1",
+          "headline": "Paramount partners Mitsui Fudosan on The Ashbourne, a RM1.34b GDV Jalan Ampang serviced-apartment project; sells 49% of the JV vehicle for RM23.06m",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Paramount Corporation Bhd will jointly develop two residential towers housing 458 units on a 3.7-acre freehold site off Jalan Ampang (acquired from IOI Properties for RM257.9 million) with Mitsui Fudosan (Asia) Malaysia, which is buying 49% of project vehicle Meridian Kuasa Sdn Bhd for RM23.06 million in cash; Paramount retains 51%. The disposal carries a pro forma gain of RM43.87 million and is expected to complete by 31 Dec 2026. Paramount targets a launch by end-2026, about 60% take-up within the first year and a roughly 20% profit margin.",
+          "soWhat": "Japanese capital keeps buying into premium KL residential; Paramount monetises early while keeping control of a 2027 earnings driver.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824505"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697259"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pd-2",
+          "headline": "Sime Darby Property explores an industrial and data-centre REIT listing by 2028, anchored on logistics parks and 20-year-lease data centres - Maybank IB",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "According to a Maybank Investment Bank note after a group briefing, Sime Darby Property Bhd is exploring a REIT of domestic industrial and data centre assets - a pipeline including two data centres on 20-year leases and logistics and warehouse assets at E-Metro Logistics Park in Klang (its ESR Group JV) - to unlock asset value, recycle capital and grow recurring income. The developer is also moving into heavy industrial parks, led by the 1,021.9-acre BBR North hub in Mukim Jeram, Kuala Selangor (JV with SD Guthrie, planned 2H2027 launch), and solar projects on non-core land such as in Kedah; Maybank IB noted foreign investor interest, particularly from China. Analyst-reported plans, not a company announcement.",
+          "soWhat": "A REIT would give Sime Darby Property a capital-recycling engine for its industrial pivot - and investors a new listed logistics/DC vehicle.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824463"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pd-3",
+          "headline": "Anwar launches fifth National Physical Plan and third National Urbanisation Policy: 85% urbanisation by 2040, 50% forest cover retained",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "Prime Minister Anwar Ibrahim launched RFN5 and DPN3, both approved at the 51st National Physical Planning Council meeting. RFN5 sets 13 priorities, including planning for an 85% urbanisation rate by 2040 and keeping 50% of land under forest use; it calls for studies on a possible high-speed rail alignment linking southern, central and northern Peninsular Malaysia and identifies the West Coast Expressway alignment as a potential development catalyst.",
+          "soWhat": "The new planning backbone will shape land use, infrastructure corridors and development approvals for the next decade.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918160/anwar-launches-national-physical-plan-urban-policy"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pd-4",
+          "headline": "Titijaya to channel RM154.27m of the RM300m Penang Logistics Hub 5 sale to debt repayment, saving about RM6m a year in finance costs",
+          "verdict": "Mixed",
+          "publishedDate": "2026-11-04",
+          "detail": "In a Bursa query reply dated 3 Nov and reported on 4 Nov, Titijaya Land Bhd said net proceeds of RM299.86 million from selling the three-storey Bayan Lepas complex to Pelaburan Hartanah Bhd will be split between RM154.27 million for debt repayment - saving about RM6 million a year in finance costs, partly offsetting the loss of RM17.64 million in annual gross rental income - and RM144.94 million for working capital for existing development projects and capital management.",
+          "soWhat": "Deleveraging at the cost of recurring income: the balance sheet improves, but the yield base shrinks.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918155/titijaya-plans-rm154m-debt-repayment-proposed-penang-hub-sale"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pd-5",
+          "headline": "Country Heights' forced auction of Mines Waterfront PJ land draws no bidders - its second failed auction this year",
+          "verdict": "Negative",
+          "publishedDate": "2026-11-04",
+          "detail": "The MBSB Bank-initiated e-Lelong auction of a 667,147 sq ft leasehold Petaling Jaya parcel (completed office blocks, unsold units, unfinished buildings and vacant commercial land) owned by Mines Waterfront Business Park Sdn Bhd (in liquidation) failed to attract bidders at a RM152.77 million reserve, under a High Court order for sale. It follows September's cancelled e-Lelong of a 2.6ha Kajang freehold parcel (RM55 million reserve, CGS International Capital recovering a defaulted S$11.5 million loan) and a failed March 2025 private sale attempt of that land at RM69.85 million. Country Heights' MBSB default dates to Aug 2023 and it has posted consecutive quarterly net losses.",
+          "soWhat": "Distressed landbank is not clearing even at auction reserve prices - a read on thin bid depth for secondary commercial parcels.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824567"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697615"
+            },
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1570964/country-heights-property-auction-draws-no-bidders"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pd-6",
+          "headline": "Property developer KEB's ACE Market IPO fully subscribed ahead of 16 Nov listing, with the public portion just 1.01 times covered",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "KEB Bhd received 2,126 applications for 44.47 million shares worth RM15.57 million against 44.12 million shares offered to the Malaysian public; the Bumiputera portion was 1.24 times subscribed while the non-Bumiputera portion came in below its allocation and was topped up through reallocation provisions. Tranches for eligible persons and private placement (including MITI-approved Bumiputera investors) were fully subscribed.",
+          "soWhat": "Full subscription only after reallocation points to selective appetite for small-cap developer listings.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824565"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697819"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/05/keb-ipo-fully-subscribed"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Data centre and logistics work keeps stacking order books - SunCon RM11.7b, Binastra RM6.2b - while flash floods and a fatal landslide put drainage and slope compliance back in focus",
+      "items": [
+        {
+          "id": "2026-11-05-con-1",
+          "headline": "Sunway Construction secures RM920.8m of additional MEP fit-out works for a Johor data centre; order book reaches RM11.7b",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Sunway Construction Group Bhd received a letter of award for variation from an unnamed US-headquartered multinational technology corporation for additional mechanical, electrical and plumbing fit-out works on an ongoing Johor data centre development. The LOA doubles as the instruction to commence, with completion targeted by 1Q2028. The award takes SunCon's year-to-date new orders to RM8.06 billion and its outstanding order book to RM11.7 billion.",
+          "soWhat": "Hyperscale fit-out variations keep compounding for SunCon - the clearest listed-market read on sustained US tech capex in Johor.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824555"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697497"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-con-2",
+          "headline": "Binastra bags RM303.8m contract for PTT Synergy's automated warehouse in Bandar Bukit Raja; order book hits RM6.2b",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Binastra Corporation Bhd's wholly-owned Binastra Builders accepted a letter of award from PTT Synexis Sdn Bhd, a PTT Synergy Group unit, for a fixed-price contract covering piling, main building and external works on an industrial warehouse development: a single-storey automated storage and retrieval system (ASRS) warehouse with mezzanine and three-storey office, plus M&E buildings, a five-storey car park and supporting facilities. Construction runs from 11 Nov 2026 to 30 Sep 2027. The win lifts Binastra's FY2027 (ending Jan 2027) contract wins to RM1.6 billion and its order book to RM6.2 billion - its first automated warehouse job for PTT Synergy.",
+          "soWhat": "Automated logistics facilities are becoming a second engine alongside data centres for mid-cap builders.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824547"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697349"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-con-3",
+          "headline": "Waja Konsortium wins RM190m Johor Bahru serviced-apartment and townhouse contract - its first major award since exiting GN3 in July",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Waja Konsortium Bhd's 51%-owned Waja Build Tech was appointed main contractor by developer Affluent Crafts Sdn Bhd for a 26-storey, 824-unit serviced apartment (with podium and semi-basement parking) and a three-storey block of 24 affordable townhouses along Jalan Suria Muafakat Utama, Johor Bahru, over a 24-month contract period, funded by internal funds and bank borrowings. The award comes about four months after Waja exited Bursa's Guidance Note 3 classification on 8 July following an RM85 million capital reduction regularisation plan.",
+          "soWhat": "A post-regularisation re-entry into main-contract work; execution risk bears watching given the company's recent distress history.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824577"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697807"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-con-4",
+          "headline": "Kee Ming wins RM44.17m electrical subcontract for a hyperscale data centre in Puncak Alam",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Kee Ming Group Bhd's wholly-owned Kee Ming Electrical accepted a letter of award from an undisclosed third-party M&E solutions contractor for electrical engineering works - supply, delivery, installation, testing and commissioning of general and main-building electrical works - on a hyperscale data centre in Puncak Alam. Work has started and is due by 30 Jul 2027. Kee Ming, which listed on the ACE Market in February at 38 sen, closed at RM2.79 (RM906.8 million market capitalisation).",
+          "soWhat": "The data centre subcontract cascade keeps reaching small-cap E&E players in second-tier corridors like Puncak Alam.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824559"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697373"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-con-5",
+          "headline": "Flash floods hit Selangor: Jalan Kubu Gajah bridge over Sungai Subang collapses after 48mm of rain; Bailey bridge due in about three weeks",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "The bridge spanning Sungai Subang in the Petaling district collapsed at about 2am after strong currents eroded the riverbanks following 48mm of rain recorded at the Paya Jaras Hilir station, cutting the main Kampung Kubu Gajah-Paya Jaras Hilir route; JKR will install a temporary Bailey bridge as a medium-term fix (Berita Harian reports about three weeks). Flash floods also affected Sungai Buloh, Paya Jaras, Kampung Melayu Subang, Rawang and parts of Shah Alam, with Kampung Melayu Subang residents telling NST of repeated losses; highway flooding has largely receded. This comes a day after the Prime Minister ordered the Sungai Buloh and Sungai Damansara flood mitigation projects expedited.",
+          "soWhat": "Recurring Klang Valley flood damage keeps drainage and mitigation spending on the fast track - and sustains emergency-repair demand for infrastructure contractors.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824460"
+            },
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/news/nation/2026/11/1571023/kg-melayu-subang-folk-lose-count-losses-recurring-floods"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-con-6",
+          "headline": "DOSH investigates fatal Paya Terubong landslide; developer must submit pre-construction information before any slope mitigation works",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "Penang's Department of Occupational Safety and Health is investigating the 25 Oct Taman Seri Rambai, Paya Terubong landslide - which killed a 73-year-old resident - covering safety, construction, design and regulatory compliance, and has asked the developer of an approved 35-storey affordable housing project near the site to submit Pre-Construction Information documentation before starting any mitigation work. The state assembly was separately told the housing plans at the landslide area had undergone many changes.",
+          "soWhat": "Slope-site projects face tighter scrutiny in Penang; expect longer approval and mitigation timelines for hillside developments.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824548"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/housing-plans-at-landslide-area-had-undergone-many-changes-assembly-told"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "The record stockpile is turning from a price story into an operations story for independent mills and smallholders; India's festive restocking offers partial relief; IOI Corp doubles down on solar leases",
+      "items": [
+        {
+          "id": "2026-11-05-pl-1",
+          "headline": "Palm oil glut starts squeezing independent millers: refineries halting CPO deliveries and mills may stop buying smallholders' fruit within weeks - sources",
+          "verdict": "Negative",
+          "publishedDate": "2026-11-04",
+          "detail": "With inventories at record highs (October stockpiles were estimated at 3.76 million tonnes in a Bloomberg survey reported 3 Nov), industry sources told The Edge that refineries have been cutting third-party CPO purchases since September, leaving some independent millers with unsold stocks - some stored so long the oil has deteriorated off-specification and is unsuitable for export. One source warned that within weeks many mills will have to stop buying fresh fruit bunches, threatening the income of Malaysia's more than 440,000 independent and organised smallholders; a second source expects the situation to drag on until February 2027 without government intervention.",
+          "soWhat": "The stockpile overhang is becoming an operations and rural-income problem, not just a price problem - watch for government intervention.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824436"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pl-2",
+          "headline": "India's October palm oil imports hit a 14-month high of 866,000 tonnes, up 6% month-on-month - dealers",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Reuters reported dealers' average estimates showing the world's largest vegetable oil buyer stepped up festive-season restocking on lower prices: soyoil imports hit a record 653,000 tonnes, sunflower oil doubled to 223,000 tonnes, and total edible oil imports rose 13% to 1.74 million tonnes, the highest in over two years. Dealers said the buying could curb stock growth in Indonesia and Malaysia and lend support to benchmark futures; the Solvent Extractors' Association of India publishes official October data by mid-November.",
+          "soWhat": "Festive restocking in India offers near-term relief to Malaysia's record inventories, though it will not clear the overhang on its own.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824471"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-05-pl-3",
+          "headline": "IOI Corp looks to lease more plantation land for solar after the Bahau CRESS JV; sees CPO prices supported into 2027",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-04",
+          "detail": "Group managing director and CEO Datuk Lee Yeow Chor said after IOI Corp's AGM that several renewable energy developers have approached the group, and at least two more estates sit close to major TNB grid connection points, following the 3 Nov announcement of a 500MW Bahau solar JV with TNB's TRe (70%), IOI's Luminous Aspect (25%) and a 12-SME consortium (5%). IOI Corp had 149,400 hectares planted in Malaysia as at 30 Jun 2026, 74% in East Malaysia. Separately, The Star reported the group's view that CPO prices could climb further into 2027 as lingering El Nino effects weigh on Indonesian output (company view).",
+          "soWhat": "Plantation land is being re-rated as an energy asset - solar leases could become a recurring income stream for large landowners.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824517"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/05/ioi-corp-to-raise-spending-in-pursuit-of-expansion"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "RM1.1b of STR Phase 4 cash aid starts flowing to 5.4 million recipients",
+      "items": [
+        {
+          "id": "2026-11-05-cof-1",
+          "headline": "RM1.1b in STR Phase 4 payouts start 4 Nov: 5.4 million recipients, up to RM500 per household",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "The government is disbursing RM1.1 billion in Phase 4 of the Sumbangan Tunai Rahmah programme to 5.4 million recipients in stages from 4 to 6 Nov (newly approved and successful appeal applicants from 16 Nov): four million households earning RM5,000 and below receive up to RM500, and 1.4 million single senior citizens receive RM150, paid via bank accounts or Bank Simpanan Nasional counters. More than 630,000 recipients are from the Indian community ahead of Deepavali, and 1.68 million recipients have been reminded to update their details.",
+          "soWhat": "A fresh liquidity injection into B40 household budgets - supportive of consumer repayment behaviour and year-end retail spending.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824554"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "TNB awards a community energy storage contract under its green-island project - battery storage enters the distribution network",
+      "items": [
+        {
+          "id": "2026-11-05-cb-1",
+          "headline": "Jati Tinggi-Reactive Energy JV wins TNB letter of acceptance for a community energy storage system under Project Pulau Tenaga Hijau",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-04",
+          "detail": "Jati Tinggi Group Bhd's wholly-owned Jati Tinggi Holding, in an unincorporated joint venture with Reactive Energy Sdn Bhd, received a TNB letter of acceptance on 3 Nov for the Mainhead 1 scope: supply, install, test and commission of a community energy storage system (CESS) for Project Pulau Tenaga Hijau under TNB's Distribution Network. The Star reported the contract value at RM2.9 million.",
+          "soWhat": "Small in value but strategic: utility-scale battery storage is entering TNB's distribution network, opening a new demand line for cable and power-engineering players.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697487"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/05/jati-tinggi-lands-rm29mil-tnb-project"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (281 nodes 824300-824580, 259 resolved, 118 in-window), Star business+tech fronts, NST/MM/FMT/BH/theSun feeds, TNGlobal WP API, EdgeProp /news, Bursa mirror (302 filings dated 4 Nov). Used: Google US$15b package (ai-1), Princeton US$1.3b green loan (ai-2), turbine shortage + grid-access rules (ai-3), AWS Semarak AI (ai-4), MyDCD IPO (ai-5), Samaiden CRESS (ai-6). Seen, not itemised: CelcomDigi 100GB roaming plan (consumer product); MCMC/Nacsa cyber posture (policy); HeiTech Padu auditor change (routine).",
+    "propertyDevelopment": "Checked: Edge probe, EdgeProp /news front (9 latest), Star business front, Bursa mirror. Used: Paramount-Mitsui Fudosan JV (pd-1), Sime Darby Property REIT exploration (pd-2), RFN5/DPN3 launch (pd-3), Titijaya debt repayment (pd-4), Country Heights auction failure (pd-5), KEB IPO (pd-6). Seen, not itemised: Pulau Jerejak (no plans; status quo), Rehda Institute China mission (event), Maju Holdings contempt proceedings (legal process).",
+    "construction": "Checked: Edge probe, Star business front, Bursa mirror, BH feed. Used: SunCon RM920.8m (con-1), Binastra RM303.8m (con-2), Waja RM190m (con-3), Kee Ming RM44.17m (con-4), Selangor floods/bridge collapse (con-5), DOSH Paya Terubong probe (con-6). Seen, not itemised: Ho Hup PN17 EOT application (no plan details), RedPlanet RM7.09m solar job (small), Velesto/Sapura Industrial (out of scope).",
+    "propertyInvestment": "No retail-sector item today. Checked: Edge probe, EdgeProp /news, Star business front. Mapletree's reported Singapore IPO bank appointments are a Singapore story (not itemised); MRCA's e-commerce appeal was covered 4 Nov. Retail-specific Malaysia news absent from in-window coverage - this is 'no verified news', not 'unsearched'.",
+    "plantation": "Checked: Edge probe (commodities flash category included), Star business front, BH feed, Bursa mirror. Used: CPO glut squeeze on independent mills (pl-1), India import surge (pl-2), IOI Corp solar leases/AGM (pl-3). Seen, not itemised: TSH Resources NEA extension (procedural), Johor Plantations MoU update (no development), SD Guthrie fire-prevention remarks (general), RSPO Indonesia haze items (non-Malaysia).",
+    "capitalFinancing": "No licensed-moneylending item today. Checked: Edge probe, Bursa mirror (302 filings), MOF press releases (MediAsas board - Tabung Haji governance, not sector), BNM homepage (MPC statement 6th/2026 due 5 Nov, not yet released at check time). Absence is 'no verified news', not 'unsearched'.",
+    "consumerFinancing": "Checked: Edge probe, NST/MM feeds, Bursa mirror. Used: STR Phase 4 RM1.1b disbursement (cof-1). Seen, not itemised: EPF RM390k basic savings benchmark target (context), Alliance Bank results (banking).",
+    "cablesManufacturing": "Checked: Edge probe, Star business front, Bursa mirror. Used: Jati Tinggi-Reactive Energy TNB CESS LOA (cb-1). Watchlist routine: Southern Cable EPF s138 notice 4 Nov (logged, not itemised). No Master Tec, OKA or Chin Hin in-window filings or coverage.",
+    "buildingMaterialsIbs": "No IBS/wall-panel item today and no watchlist company (OKA, Chin Hin, Crest Builder, Tuju Setia, Nestcon, Kitacon, GDB, TCS, Inta Bina) named in in-window coverage beyond routine filings (GDB's 3 Nov LOA was itemised 4 Nov). Checked: Edge probe, Bursa mirror, EdgeProp. Absence is 'no verified news', not 'unsearched'.",
+    "hotels": "No hotel-sector item today. Checked: Edge probe, Star business front, EdgeProp, tourism-adjacent headlines. Yes Group's travel-agency IPO is not hotel operations (excluded). Absence is 'no verified news', not 'unsearched'."
+  },
+  "generalCoverage": [
+    "Edition window: from the 4 Nov edition's checks (~07:25 MYT 4 Nov) to ~07:30 MYT 5 Nov 2026. Edge probe 824300-824580: 281 probed, 259 resolved, 118 in-window (max resolved 824580 at 21:23 MYT 4 Nov). Chinese-language duplicates and signed commentary excluded.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological, so the probe range is anchored above the highest previously resolved node. Bursa official site blocks automation; the KLSE Screener mirror (pages 1-26) yielded 302 filings dated 4 Nov (full set in bursa.json) plus 396 dated 3 Nov re-scanned for late-surfacing items - two new rows (Kanger International and HB Global trading suspensions), neither sector-material.",
+    "Access: TMR feed 403 bot wall - terminal per the no-solver rule (blocked, no bypass). TNGlobal main feed 403 again; WP API used (20 posts). theSun RSS healthy after recovery. Star /business + /tech swept via browser; /business/property still 404s (property covered via /business front and EdgeProp). Bernama feed fetched but had no in-window items. BH, Sinar Harian, China Press, Nanyang, Malaysiakini (headlines only) and KiniBiz checked; nothing additional in-sector.",
+    "Primary sources: MOF (4 Nov MediAsas board release - Tabung Haji governance, not sector), BNM (MPC statement due later 5 Nov - not yet released at check time), CIDB, KPKT, MPOB checked; no in-scope releases.",
+    "Completeness: coverage is complete within the stated sources, period and sector scope. It is not exhaustive; items are selected for C-suite relevance to the ten covered sectors and the 12-company watchlist."
+  ],
+  "watchlistCoverage": [
+    "GDB Holdings Berhad (0198): no new 4 Nov filing or coverage; the RM877m Shah Alam LOA was itemised in the 4 Nov edition.",
+    "Southern Cable Group Berhad (0225): routine EPF substantial-shareholding change notice (s138) dated 4 Nov; logged, not itemised.",
+    "Pesona Metro Holdings Berhad (8311): immediate share buy-back notice dated 4 Nov; routine, not itemised.",
+    "OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, TCS, Inta Bina, Nestcon, Kitacon: no in-window filings or article-body mentions.",
+    "Zetrix AI (not on the construction watchlist; tracked for the Oct 22 sukuk remediation): no 4 Nov filing in the mirror set; MARC rating remains C after the 30 Oct cut. Watch continues - any missed payment implies a further cut to D."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 118,
+      "used": 19,
+      "status": "checked",
+      "note": "Node probe 824300-824580; 259 resolved, 118 in-window; Chinese duplicates and commentary formats excluded.",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 6,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS money feed; in-window items were markets/wire or non-sector.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "RSS feed; flood follow-up and Country Heights auction corroboration opened.",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "RSS feed (-L); Google package and Paya Terubong housing-plans items opened.",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS feed; in-window items non-sector or wire.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 20,
+      "used": 2,
+      "status": "checked",
+      "note": "Main feed 403 again; WP API fallback (20 posts); Google and Princeton corroboration.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 28,
+      "used": 4,
+      "status": "checked",
+      "note": "Browser sweep of /business and /tech fronts; Samaiden, IOI Corp, Jati Tinggi and KEB articles opened (meta lede verified). /business/property still 404s.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "Feed and site return HTTP 403 - bot wall, terminal per the no-solver rule. Not checked.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 9,
+      "used": 4,
+      "status": "checked",
+      "note": "Browser sweep of /news front; Google, turbine/grid-access, RFN5 and Titijaya articles opened and dateline-verified.",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 698,
+      "used": 9,
+      "status": "checked",
+      "note": "KLSE Screener mirror pages 1-26: 302 filings dated 4 Nov (full set saved) + 396 dated 3 Nov re-scanned for late surfacing.",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}
