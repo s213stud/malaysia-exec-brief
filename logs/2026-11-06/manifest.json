@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR 403 bot wall - terminal per the no-solver rule. TNGlobal main feed 403 again; WP API used. theSun healthy. Star /business/property still 404s; property via /business + EdgeProp. Bernama/BH/Sinar/China Press/Nanyang/Malaysiakini/KiniBiz and MOF/BNM/CIDB/KPKT/MPOB checked and logged outside the manifest scope."
+}

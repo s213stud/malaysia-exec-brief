@@ -1,0 +1,694 @@
+{
+  "date": "2026-11-06",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-06T07:18:20+08:00",
+    "2026-11-06T07:19:05+08:00",
+    "2026-11-06T07:20:40+08:00",
+    "2026-11-06T07:21:55+08:00",
+    "2026-11-06T07:23:10+08:00",
+    "2026-11-06T07:24:56+08:00",
+    "2026-11-06T07:26:10+08:00",
+    "2026-11-06T07:28:30+08:00"
+  ],
+  "publishedAt": "2026-11-06T07:45:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "The data centre build-out accelerates on both coasts - Microsoft's second Malaysian cloud region in Johor Bahru and SunCon's seventh DC win of the year (RM1.74b) - even as the global AI trade posts its worst day since June",
+      "soWhat": "Local contract flow and hyperscaler commitments are still compounding, but the Nasdaq/SOX selloff and CGS International's call for SunCon to diversify are early warnings that expectations now run ahead of delivery. Order books are real; valuations are the risk.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-06-ai-1",
+        "2026-11-06-con-1",
+        "2026-11-06-ai-3",
+        "2026-11-06-con-5"
+      ]
+    },
+    {
+      "headline": "Penang's Mutiara Line moves to delivery: the RM2.69b sea-crossing package goes to a CCCC-TRC-Ufuk Semarak JV, with construction scheduled from 3Q2027",
+      "soWhat": "The largest rail award of the year opens a multi-year marine-works pipeline through 2031; meanwhile contractors like Kerjaya Prospek are diversifying into TNB grid work - the same power-delivery bottleneck that constrains the DC boom is becoming a business line.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-06-con-2",
+        "2026-11-06-con-3",
+        "2026-11-06-con-4"
+      ]
+    },
+    {
+      "headline": "Bank Negara holds the OPR at 2.75% and the street now coalesces around a 25bps hike in 2027",
+      "soWhat": "OCBC, ANZ and HSBC all pencil in 1Q2027; model consumer credit, mortgage and developer financing costs on a rising-rate base case. Property loan approvals already trail applications - higher rates would widen that conversion gap.",
+      "sectorKeys": [
+        "consumerFinancing",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-06-cof-1",
+        "2026-11-06-pd-3",
+        "2026-11-06-cof-2"
+      ]
+    },
+    {
+      "headline": "SD Guthrie's results week frames the plantation dilemma: a 17% 3Q profit dip, a plea for an export-duty waiver to clear the glut, and a 10% Indonesian output cut expected in 2027",
+      "soWhat": "The group is lobbying for near-term relief while publicly staying bullish on RM5,000 CPO next year - the market is pricing the glut, but the El Nino supply shock is already in the numbers. Both directions of price risk are live.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-06-pl-1",
+        "2026-11-06-pl-2",
+        "2026-11-06-pl-3",
+        "2026-11-06-pl-4"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Microsoft picks Johor Bahru for its second Malaysian cloud region while the global AI trade takes its hardest hit since June",
+      "items": [
+        {
+          "id": "2026-11-06-ai-1",
+          "headline": "Microsoft to open 'Southeast Asia 3' cloud region in Johor Bahru under its US$2.2b Malaysia plan",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Microsoft said its second cloud region in Malaysia, Southeast Asia 3, will be built in Johor Bahru as part of the US$2.2 billion four-year investment plan announced for the country. The region will join Azure's 70-plus global regions and connect to Microsoft's subsea and terrestrial fibre backbone, supporting AI workloads for public- and private-sector customers. It follows Malaysia West, which opened in May 2025 with three data centres in Greater Kuala Lumpur. Digital Minister Gobind Singh Deo said the milestone underlines Malaysia's position as a secure location for digital assets.",
+          "soWhat": "A second hyperscale cloud region - this time anchored in Johor - confirms the state as Malaysia's primary data centre corridor and extends the construction, power and water demand chain that local builders and utilities are already riding.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/05/microsoft-to-open-southeast-asia-3-cloud-region-in-johor-bahru-per-2-2b-malaysia-plan/"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-ai-2",
+          "headline": "Zetrix AI launches 'know-your-agent' identity service with China's CAICT after RM3.7b development spend",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "Zetrix AI Bhd launched a know-your-agent (KYA) service with the China Academy of Information and Communications Technology, giving AI agents verifiable digital identities linked to individuals or organisations, with settable permissions on access, transaction limits and spending authority, plus activity records for accountability. The company framed the launch as commercialisation of RM3.7 billion in development spending. A Bursa filing carried the press release the same day.",
+          "soWhat": "A product that finally matches the company's AI narrative - but revenue conversion is unproven, and the launch lands while the group remains under a MARC 'C' rating after the 30 Oct downgrade; the Oct 22 sukuk remediation outcome is still the binding watch item.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824669"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697979"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-ai-3",
+          "headline": "Global AI trade takes its worst hit since June: SOX briefly down 11%, Nasdaq flirts with correction",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "Tech stocks were headed for their worst decline since June on Thursday, with the Philadelphia semiconductor index (SOX) falling as much as 11% intraday - its worst performance since March 2020 - and the Nasdaq composite dropping as much as 5%, a decline that would confirm a 10% correction from last month's high, Reuters reported. The selloff reflects investor reassessment of the AI spending boom and worries over regulation.",
+          "soWhat": "Context rather than a Malaysia story - but a sustained derating of AI capex would eventually touch the local data centre pipeline (SunCon's 70%-DC tender book, hyperscaler commitments) that much of today's edition depends on. Worth tracking for read-across to tender flow and valuations.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/tech-stock-rout-accelerates-retreat-from-the-ai-trade"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-ai-4",
+          "headline": "U Mobile extends Sabah 5G reach to 2.3 million people on CTS Horizon fibre backhaul",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "U Mobile said its ULTRA5G network now reaches about 2.3 million people across Sabah, with more than 545 sites upgraded to fibre backhaul from CTS Horizon (formerly Celcom Timur Sabah) at up to 10Gbps per site - ten times the 1Gbps typical of 4G. CTS Horizon has delivered over 500 leased fibre circuits across Sabah and Labuan since April 2025 under a fibre leasing partnership for U Mobile's 5G rollout.",
+          "soWhat": "East Malaysia's 5G build is a steady, contracted revenue stream for fibre and backhaul providers - a reminder that telco infrastructure demand extends beyond the Klang Valley-Johor data centre axis.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/05/u-mobile-sabah-ultra5g-2-3m/"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-ai-5",
+          "headline": "DC electrical specialist Rosado adds Kenanga as underwriter for 27 Nov ACE Market IPO",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "Rosado Bhd, a Selangor-based mechanical, electrical and plumbing (MEP) engineering firm whose data centre clients accounted for nearly all revenue over the past three years, added Kenanga Investment Bank as joint underwriter and joint placement agent alongside Malacca Securities for its ACE Market IPO, set to launch on 27 Nov.",
+          "soWhat": "After MyDCD's 36-times-oversubscribed debut, the market will get another pure-play test of appetite for data centre supply-chain listings later this month.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824655"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Industrial development keeps pulling capital: UEM Sunrise formalises the Gerbang Nusajaya park and Daiso opens its largest warehouse globally",
+      "items": [
+        {
+          "id": "2026-11-06-pd-1",
+          "headline": "UEM Sunrise details AME Development JV for integrated managed industrial park in Gerbang Nusajaya",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "UEM Sunrise Bhd filed additional details on its proposed joint venture with AME Development Sdn Bhd to develop an integrated managed industrial park in Gerbang Nusajaya, Iskandar Puteri, alongside the proposed disposal of about 402 acres of land, first announced on 30 Oct. The filing sets out gross development cost parameters under the project management agreement.",
+          "soWhat": "Johor industrial land monetisation continues apace: UEM Sunrise is converting a large Iskandar Puteri land bank into a managed-park development with an experienced industrial partner rather than selling it outright.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698485"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pd-2",
+          "headline": "Daiso opens RM1.2b Pulau Indah global distribution centre - its largest warehouse in the world",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Daiso Malaysia Group officially opened its RM1.2 billion Global Distribution Centre at Taman Perindustrian Samudera, Pulau Indah - a 133,666 sq m (about 1.4 million sq ft) facility that surpasses its Hiroshima hub as the chain's largest globally, anchoring logistics across 27 countries in Asia and the Middle East. Prime Minister Anwar Ibrahim officiated, framing it under the Madani Economy and NIMP 2030 emphasis on high-paying jobs and domestic supplier links.",
+          "soWhat": "A second global logistics anchor for Pulau Indah within weeks (after the area's data centre and industrial announcements) - Selangor's industrial corridor is capturing regional distribution mandates, supporting industrial land and warehouse values.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824660"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918185/daiso-opens-rm12b-pulau-indah-hub-serve-27-markets"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pd-3",
+          "headline": "Property loan applications rebound in September, but 9M approvals still trail last year",
+          "verdict": "Mixed",
+          "publishedDate": "2026-11-05",
+          "detail": "Property purchase loan applications rose 2.6% year-on-year to RM502.7 billion in the first nine months of 2026, while approved loans slipped 0.6% to RM211.2 billion, MBSB Research said in a sector report. September applications jumped 12.6% year-on-year (reversing August's 4% decline) and approvals rose 7.2%, but the research house expects developers' earnings growth to remain selective amid elevated costs and cautious homebuyer sentiment.",
+          "soWhat": "Demand is recovering at the margin, but the approval gap means conversion - not interest - is the constraint; developers without the right product-price fit will keep underperforming.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918175/property-loan-rebound-leaves-developers-facing-mixed-outlook"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pd-4",
+          "headline": "Country Heights' RM152.77m Mines Waterfront Business Park auction draws no bids",
+          "verdict": "Negative",
+          "publishedDate": "2026-11-05",
+          "detail": "The court auction of the 15.3-acre Mines Waterfront Business Park leasehold property in Petaling - office blocks, unsold units, incomplete buildings and vacant commercial land charged to MBSB Bank - drew no bids on 4 Nov at a RM152.77 million reserve price, Country Heights Holdings Bhd said in a filing. The property belongs to a subsidiary in liquidation; the auction followed the cancellation of a separate court sale earlier.",
+          "soWhat": "No takers at RM152.77m confirms how thin demand is for distressed secondary commercial parcels - a pricing reality check for creditors and for anyone marking similar assets to book.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918174/country-heights-unit%E2%80%99s-rm15277m-property-auction-draws-no-bids"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "SunCon's seventh data centre win takes it past RM9.8b of 2026 orders while Penang's RM2.69b LRT sea-bridge package is awarded",
+      "items": [
+        {
+          "id": "2026-11-06-con-1",
+          "headline": "Sunway Construction wins RM1.74b contract for another hyperscale data centre, in Bandar Serendah",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Sunway Construction Group Bhd's wholly-owned Sunway Construction Sdn Bhd signed a construction agreement with an unnamed international hyperscaler for a hyperscale data centre in Bandar Serendah, Selangor, covering main structures, supporting infrastructure and MEP works. Works are scheduled from 4Q2026 to 4Q2028. It is SunCon's seventh data centre contract this year, taking 2026 new orders to RM9.8 billion and the outstanding order book to RM13.4 billion - a day after the group disclosed a RM920.8 million fit-out variation on a Johor DC job.",
+          "soWhat": "Back-to-back announcements confirm hyperscaler capex is still accelerating, not plateauing; SunCon is consolidating its position as the default listed proxy for Malaysian DC construction. Watch client concentration - the counterparty stays unnamed.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824648"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697955"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/06/suncon-unit-lands-rm174bil-dc-contract"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-con-2",
+          "headline": "MRT Corp awards RM2.69b Mutiara Line sea-crossing package to CCCC-TRC-Ufuk Semarak JV",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "MRT Corp awarded the Civil Main Contract 2 (CMC2) package of the Penang Mutiara Line LRT to a joint venture between China Communications Construction Company, TRC Construction Sdn Bhd and Ufuk Semarak Sdn Bhd. The package covers about 5.5km from Macallum Street on Penang island to Penang Sentral in Butterworth, including a 3.05km sea-crossing bridge with navigational spans for the Prai and Butterworth ports; Komtar-to-Penang Sentral journeys are expected to take about eight minutes. Separately, the state assembly was told construction of the alignment is scheduled to begin in 3Q2027 after tender evaluation concludes this month, with completion targeted for December 2031.",
+          "soWhat": "The largest rail package awarded this year moves Penang's flagship transit project from design into delivery; for contractors, the mainland-island marine works open a multi-year pipeline through 2031.",
+          "sources": [
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/05/mrt-corp-awards-rm2-69bil-contract-for-mutiara-line-lrt-project"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824628"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-con-3",
+          "headline": "Tanco-CNECC joint venture bags RM700m Pulau Indah warehouse job - but Tanco's take is only a fee",
+          "verdict": "Mixed",
+          "publishedDate": "2026-11-05",
+          "detail": "Tanco Holdings Bhd's joint venture between Tanco Builders Sdn Bhd and CNECC Engineering (Malaysia) Sdn Bhd - a unit of China Nuclear Industry Huaxing Construction - accepted a letter of award from Jaroses Partners Sdn Bhd for an industrial warehouse complex at Lebuh Raya Pulau Indah, Klang. Under the consortium split, Tanco Builders provides coordination and management while CNECC undertakes construction and bears costs, liabilities and execution risks; Tanco's entitlement is an undisclosed agreed fee. Construction runs 24 months to November 2028.",
+          "soWhat": "The headline number flatters Tanco's exposure: the structure makes this CNECC's project with Tanco as local manager. The real signal is Chinese contractors continuing to win Malaysian logistics work, with listed locals in supporting roles.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824672"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11697985"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-con-4",
+          "headline": "Kerjaya Prospek broadens into utility works with first TNB contract and a 31% stake in ES Sunlogy",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Kerjaya Prospek Group Bhd's share of the Paka substation project in Terengganu is about RM142.1 million of a RM568.19 million consortium award - its first Tenaga Nasional Bhd contract. MBSB Research estimated the award lifts the group's outstanding order book to about RM6 billion and year-to-date wins to RM3.54 billion, with external projects now 60.7% of wins versus a roughly even split with related-party work previously. The group also holds a 31% stake in specialist engineering firm ES Sunlogy Bhd.",
+          "soWhat": "Grid and substation work - the same power-delivery bottleneck flagged yesterday - is becoming a diversification route for building contractors; expect more crossover bids as DC-driven grid capex flows.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918181/kerjaya-prospek-broadens-portfolio-tnb-job-sunlogy-ties"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-con-5",
+          "headline": "CGS International tells SunCon to diversify beyond data centres as returns set to fade",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "CGS International noted that 70% of Sunway Construction's RM13 billion tender book is data centre projects across six clients, and projected the group's return on average equity will fall about 45.7% by FY2028 from a 56.6% FY2026 peak. The research house expects a two-year EPS CAGR of just 9% over FY2026-2028 - below Gamuda's 23% and IJM's 16% - arguing strong earnings delivery must accompany the contract newsflow.",
+          "soWhat": "The first clear sell-side caution on the DC construction theme: order books are at record highs, but returns are expected to normalise as the DC capex cycle matures - relevant to how long the whole construction complex can sustain current ratings.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824692"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-con-6",
+          "headline": "Watchlist: GDB wins summary judgment against Conlay Construction over RM1.87m equipment rental claim",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "The Shah Alam High Court allowed Grand Dynamic Builders Sdn Bhd's summary judgment application against Conlay Construction Sdn Bhd over a July 2023 plant and machinery rental agreement, ordering payment of RM1,869,172.71 in rental charges plus further sums. Grand Dynamic Builders is a wholly-owned subsidiary of GDB Holdings Berhad.",
+          "soWhat": "A clean legal win that recovers cash and affirms contract enforcement for the watchlist contractor; small in value but positive for a group that has been rebuilding its order book.",
+          "watchlistCompanyKeys": [
+            "gdb"
+          ],
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698565"
+            }
+          ],
+          "freshness": "current"
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "Sunway REIT's hotel segment carries the quarter as it holds its RM14-15b AUM ambition",
+      "items": [
+        {
+          "id": "2026-11-06-pi-1",
+          "headline": "Sunway REIT heads for a stronger 3Q on hotel peak season; keeps RM14-15b AUM target for 2027",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "HLIB Research estimated Sunway REIT's core profit for 3QFY2026 at RM120 million-RM134 million, within 72%-75% of its full-year forecast, on the hotel segment's peak season - with Sunway Putra Hotel and Sunway Resort Hotel seeing stronger recovery on Middle East and China arrivals. The REIT remains committed to its RM14 billion-RM15 billion AUM target under Transcend 2027 (from RM10.3 billion now): the RM462 million Sunway Pier redevelopment in Port Klang (completion 2028) and Sunway Hotel Seberang Jaya (end-2027) add about RM600 million, with selective acquisitions to bridge the gap. HLIB said the REIT remains cautious on data centre acquisitions despite flagging the segment as a growth area.",
+          "soWhat": "The retail-hospitality REIT is leaning on hotels for near-term earnings while staying disciplined on acquisitions - and its hesitation on data centres echoes the sell-side caution now appearing on the DC theme.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824664"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/06/sunway-reit-on-track-to-reach-new-aum-target"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "SD Guthrie's results week: softer 3Q on lower land gains, an export-duty plea, and a bullish 2027 price call",
+      "items": [
+        {
+          "id": "2026-11-06-pl-1",
+          "headline": "SD Guthrie 3Q net profit falls 17% to RM773m on lower land-sale gains; 9M still up 15.6%",
+          "verdict": "Mixed",
+          "publishedDate": "2026-11-05",
+          "detail": "SD Guthrie Bhd's 3QFY2026 net profit fell to RM773 million from RM935 million a year earlier as one-off land-sale income dropped to RM81 million from RM432 million; revenue dipped 0.3% to RM5.39 billion. Upstream was stronger (FFB production +8% to 2.48 million tonnes; CPO ASP +3% to RM4,340/tonne) while midstream and downstream weakened on slimmer margins and JV losses. Nine-month net profit rose 15.6%, and industrial development PBIT climbed 78% to RM770 million - about 24% of group PBIT of RM3.25 billion.",
+          "soWhat": "Core plantation operations are carrying the group while land monetisation normalises; the fast-growing industrial development arm is quietly becoming a second engine - a property-angle story inside a plantation stock.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824643"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918183/sd-guthrie%E2%80%99s-industrial-profit-climbs-78-rm770m"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pl-2",
+          "headline": "SD Guthrie urges a temporary CPO export duty waiver to clear the supply glut",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "SD Guthrie president and group CEO Mohd Haris Mohd Arshad asked the government to consider waiving the crude palm oil export duty for a few months to help the industry clear record inventories. Malaysian CPO is RM700-RM900 per tonne less competitive than Indonesian supply because of the 3%-10% tiered duty that applies above RM2,250/tonne (10% above RM4,050); MPOB spot CPO stood at RM4,292/tonne on 4 Nov. Haris argued palm fruit cannot be stored like soybeans, so the glut must move or rot.",
+          "soWhat": "The industry's largest producer is now formally lobbying for fiscal relief - a direct follow-on from yesterday's mill-squeeze story. A waiver would compress government revenue but could restore Malaysian competitiveness against Indonesia within weeks.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824681"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pl-3",
+          "headline": "SD Guthrie flags a 10% Indonesian output drop in 2027 from El Nino - and still sees CPO at RM5,000",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "The group expects its Indonesian production to fall about 10% next year after a four-month dry spell (versus a normal two months), with a potentially bigger hit in 2028; mills stopped on some days for lack of water and nurseries needed outsourced watering. Despite near-term record inventories, Mohd Haris kept a RM5,000/tonne CPO view for 2027, arguing the market overestimates Indonesia's recovery, with seasonal declines from 1Q2027, Indonesia's biodiesel mandate and higher Indian imports all supportive. January futures last traded at RM4,394 on Bursa Malaysia Derivatives.",
+          "soWhat": "A weather-driven supply shock is already baked into the world's largest producer's own numbers - if Indonesia's recovery disappoints, today's glut could flip to tightness within two quarters. Position accordingly on both directions of the price risk.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824674"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824686"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pl-4",
+          "headline": "Malaysia defers the mandatory 1% sustainable aviation fuel blend at KLIA to 2030",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "The Plantation and Commodities Ministry postponed the requirement for international flights departing KLIA to use 1% sustainable aviation fuel from January 2027 to 2030, after discussions with the Transport Ministry, to give industry players and the Civil Aviation Authority of Malaysia more time to prepare operations and a regulatory framework. Malaysia began commercial SAF production in October 2025 at EcoCeres' 420,000-tonne Johor plant; the PETRONAS-Enilive-Euglena Pengerang biorefinery (650,000 tonnes/year) is expected in 2H2028.",
+          "soWhat": "A three-year delay removes the near-term domestic demand floor for Malaysian SAF - relevant for palm-based biofuel economics and for the Pengerang project's offtake assumptions.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824698"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-pl-5",
+          "headline": "IOI Corp's maiden solar venture seen unlocking land bank value from 2029",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "CIMB Research views IOI Corp Bhd's first renewable energy venture - a solar project with TNB - as unlocking value from its land bank and adding recurring income, estimating annual net profit of RM50 million-RM60 million, with IOI receiving RM22 million-RM24.5 million a year from equity participation and land rental from 2029.",
+          "soWhat": "Plantation land banks are becoming energy assets: IOI's move extends the SD Guthrie industrial-park playbook of sweating plantation land for non-crop income - modest money now, strategically meaningful later.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/06/iois-maiden-re-foray-seen-to-unlock-land-bank-value"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "A new licensed digital moneylender enters the Malaysian market",
+      "items": [
+        {
+          "id": "2026-11-06-cf-1",
+          "headline": "Digital lender Skyro starts Malaysian cash loans after securing a KPKT moneylending licence",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Skyro, a digital consumer finance group, began offering cash loans in Malaysia after receiving a moneylender's licence from the Ministry of Housing and Local Government (KPKT) in September 2026. New customers can borrow up to RM1,000 for up to four months via its app, with limits potentially rising to RM10,000 for eligible borrowers; applicants need a MyKad and regular income, with decisions in minutes. Skyro has operated in the Philippines since 2022, reporting over 7 million registered users and an active loan portfolio above US$200 million.",
+          "soWhat": "A foreign-backed, app-based entrant is now competing directly in the licensed moneylending space - small ticket sizes initially, but its Philippine scale shows the playbook; incumbent licensed lenders should watch pricing and acquisition tactics.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/05/digital-consumer-finance-skyro-begins-malaysian-cash-loans-after-kpkt-moneylending-licence/"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "Bank Negara holds the OPR at 2.75% and economists coalesce around a 2027 hike",
+      "items": [
+        {
+          "id": "2026-11-06-cof-1",
+          "headline": "BNM holds OPR at 2.75% at the year's final MPC; economists see a 25bps hike in 2027",
+          "verdict": "Watch",
+          "publishedDate": "2026-11-05",
+          "detail": "Bank Negara Malaysia kept the overnight policy rate at 2.75% at its sixth and final 2026 meeting, saying the stance is consistent with price stability and sustainable growth; the statement flagged 2026 growth above 5% and resilient 2027 momentum with contained inflation. The hold matched 17 of 23 economists surveyed by Bloomberg. OCBC, ANZ and HSBC now expect a 25-basis-point hike in 1Q2027 (HSBC frames it as policy normalisation, not an inflation response), BIMB Securities sees a move in 2H2027, while Pantheon Macroeconomics expects no change through 2027.",
+          "soWhat": "The rate cycle has turned from 'how long on hold' to 'when the first hike' - borrowers, mortgage pricing and consumer credit costs should be modelled on a higher-for-2027 base case, with the first signal likely in the January statement.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824668"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824715"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/05/no-rate-change-from-bnm-as-years-final-mpc-meeting-wraps-up/242067"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-06-cof-2",
+          "headline": "Malaysia posts the world's biggest financial-inclusion jump, climbing six spots to 15th",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Malaysia climbed six places to 15th in the 2026 Global Financial Inclusion Index by Principal Financial Group and the Centre for Economics and Business Research - the largest improvement globally - with its score rising five points year-on-year to 58.2, above the global average of 52.",
+          "soWhat": "A soft-data validation of Malaysia's digital banking and payments push - supportive backdrop for consumer finance penetration stories, though the index measures access rather than credit quality.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/06/msia-jumps-six-spots-in-financial-inclusion-index"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "West Asia disruption is sending MICE business Malaysia's way",
+      "items": [
+        {
+          "id": "2026-11-06-hotel-1",
+          "headline": "Malaysia lands 12 MICE events displaced by the West Asia crisis, worth RM143m in economic impact",
+          "verdict": "Positive",
+          "publishedDate": "2026-11-05",
+          "detail": "Twelve meetings, incentives, conferences and exhibitions affected by the West Asia crisis have relocated to Malaysia, with an expected economic impact of RM143.14 million in 2026-2027, Tourism, Arts and Culture Minister Tiong King Sing told Parliament; four relocated between April and December 2026 (RM58.27 million impact). Overall, 464 MICE events were held as of October 2026, involving over 800 delegations and generating an estimated RM5.11 billion, via the Malaysia Convention and Exhibition Bureau.",
+          "soWhat": "Geopolitical diversion is becoming a real demand channel for Malaysian hotels and venues - KL and Penang event capacity benefits, and the government is explicitly targeting more relocation wins.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824653"
+            }
+          ],
+          "freshness": "current",
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (824440-824720, 256 resolved, 115 in-window), TNGlobal WP API, Star /business + /tech fronts, Bursa mirror (380 filings dated 5 Nov). Used: Microsoft Southeast Asia 3 JB (ai-1), Zetrix KYA launch (ai-2), global AI rout context (ai-3), U Mobile Sabah 5G (ai-4), Rosado IPO (ai-5). Seen, not itemised: MCMC ECRL coverage testing ahead of 12 Dec launch; Gobind's comments on the Google investment (no new fact); Johor MB's DayOne-treated-water-for-public proposal (water policy, noted); Akmal Nasrullah's energy-intensive-projects assessment framework (context for DC approvals).",
+    "propertyDevelopment": "Checked: Edge probe, EdgeProp /news front, Star /business front, Bursa mirror. Used: UEM Sunrise-AME Gerbang Nusajaya industrial park details (pd-1), Daiso RM1.2b GDC opening (pd-2), MBSB loan data (pd-3), Country Heights no-bid auction (pd-4). Seen, not itemised: Eng Han Tangen Residences topping-out; KKDW RM200m reallocation from rural housing to road arrears (NST); recurring Selangor flood items (covered 5 Nov).",
+    "construction": "Checked: Edge probe, Star /business front, Bursa mirror, FMT/BH feeds. Used: SunCon RM1.74b Serendah DC (con-1), MRT Corp RM2.69b CMC2 (con-2), Tanco-CNECC RM700m (con-3), Kerjaya TNB debut (con-4), CGS diversification call (con-5), GDB summary judgment (con-6). Seen, not itemised: Bintai Kinden RM20.28m TNB substation works (small); Daiso/PM logistics-hub remarks (carried in pd-2).",
+    "propertyInvestment": "Checked: Edge probe, EdgeProp, Star /business. Used: Sunway REIT 3Q preview + AUM target (pi-1). Sentral REIT 3Q (NPI -1.8%, occupancy 90%) seen but not itemised - office-focused, outside the retail-only scope.",
+    "plantation": "Checked: Edge probe, Star /business front, EdgeProp, MPOB, Bursa mirror. Used: SD Guthrie 3Q + industrial PBIT (pl-1), export-duty waiver call (pl-2), El Nino cut + RM5,000 view (pl-3), SAF mandate deferral (pl-4), IOI solar (pl-5). Seen, not itemised: Maritime Network's letter of demand to Olam over cargo commingling (trade dispute, single-source); SD Guthrie midstream expansion remarks (folded into pl-1 context).",
+    "capitalFinancing": "Checked: TNGlobal WP API, BH feed, KPKT. Used: Skyro's KPKT-licensed digital cash loans launch (cf-1). No other licensed-moneylending item in window.",
+    "consumerFinancing": "Checked: Edge probe, MM feed, BNM MPC statement (released 1500 5 Nov, verified), Star /business. Used: OPR hold + 2027 hike calls (cof-1), financial inclusion index (cof-2). Seen, not itemised: CIMB OCTO DuitNow QR expansion to five markets (payments product); 6-7 Nov toll discount (minor).",
+    "cablesManufacturing": "No cables-sector item today. Checked: Edge probe, Star /business front, Bursa mirror. Watchlist routine: Southern Cable EPF s138 notices dated 4 and 5 Nov (logged, not itemised). No Master Tec in-window filings or coverage. Absence is 'no verified news', not 'unsearched'.",
+    "buildingMaterialsIbs": "No IBS/wall-panel item today. GDB (watchlist) appears via its litigation win, itemised under construction (con-6). No OKA, Chin Hin, Crest Builder, Tuju Setia, TCS, Inta Bina, Nestcon or Kitacon in in-window coverage or filings beyond routine notices. Checked: Edge probe, Bursa mirror, EdgeProp. Absence is 'no verified news', not 'unsearched'.",
+    "hotels": "Checked: Edge probe, Star /business front, EdgeProp. Used: 12 MICE events relocated from West Asia (hotel-1). Sunway REIT's hotel-segment strength is itemised under propertyInvestment (pi-1)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 5 Nov edition's checks (~07:30 MYT 5 Nov) to ~07:35 MYT 6 Nov 2026. Edge probe 824440-824720: 281 probed, 256 resolved, 115 in-window (max resolved 824720 at 19:54 MYT 5 Nov). Chinese-language duplicates and signed commentary excluded.",
+    "Dating: The Edge by created epoch in __NEXT_DATA__ (+08:00); node IDs are not chronological, so the probe range is anchored above the highest previously resolved node. Bursa official site blocks automation; the KLSE Screener mirror (pages 1-26) yielded 380 filings dated 5 Nov (full set in bursa.json) plus 303 dated 4 Nov re-scanned for late surfacing - one new row (a VP-DJ ETF NAV notice, routine).",
+    "Access: TMR feed 403 bot wall - terminal per the no-solver rule (blocked, no bypass). TNGlobal main feed 403 again; WP API used (17 in-window posts). theSun RSS healthy. Star /business + /tech swept via browser; /business/property still 404s (property covered via /business front and EdgeProp). Bernama feed fetched but had no in-window items. BH, Sinar Harian, China Press, Nanyang, Malaysiakini (headlines only) and KiniBiz checked; nothing additional in-sector.",
+    "Primary sources: BNM Monetary Policy Statement (5 Nov 2026) verified at source - OPR held at 2.75%, 2026 growth seen above 5% (edition cites The Edge + Malay Mail for the decision); MOF, CIDB, KPKT, MPOB checked; no other in-scope releases.",
+    "Completeness: coverage is complete within the stated sources, period and sector scope. It is not exhaustive; items are selected for C-suite relevance to the ten covered sectors and the 12-company watchlist."
+  ],
+  "watchlistCoverage": [
+    "GDB Holdings Berhad (0198): itemised - subsidiary Grand Dynamic Builders won summary judgment against Conlay Construction (RM1.87m rental claim) on 5 Nov (con-6). Five routine s137 substantial-shareholder notices the same day were logged, not itemised.",
+    "Southern Cable Group Berhad (0225): routine EPF substantial-shareholding change notices (s138) dated 4 and 5 Nov; logged, not itemised.",
+    "Pesona Metro Holdings Berhad (8311): immediate share buy-back notices dated 4 and 5 Nov; routine, not itemised.",
+    "OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, TCS, Inta Bina, Nestcon, Kitacon: no in-window filings or article-body mentions.",
+    "Zetrix AI (not on the construction watchlist; tracked for the Oct 22 sukuk remediation): its 5 Nov filing was the KYA launch press release, itemised as ai-2. No sukuk remediation news in-window; MARC rating remains C after the 30 Oct cut. Watch continues - any missed payment implies a further cut to D."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 115,
+      "used": 14,
+      "status": "checked",
+      "note": "Node probe 824440-824720; 256 resolved, 115 in-window; Chinese duplicates and commentary formats excluded.",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 8,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS money feed; BNM OPR hold corroboration opened.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS feed; in-window items politics/nation/world - non-sector.",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS feed (-L); MRT Corp CMC2 award article opened and verified.",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS feed; in-window items non-sector or wire.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 17,
+      "used": 3,
+      "status": "checked",
+      "note": "Main feed 403 again; WP API fallback (17 in-window posts); Microsoft, Skyro and U Mobile articles opened via API.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 61,
+      "used": 5,
+      "status": "checked",
+      "note": "Browser sweep of /business and /tech fronts; IOI RE, Sunway REIT, financial inclusion and tech-rout articles opened (lede verified). /business/property still 404s.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "Feed and site return HTTP 403 - bot wall, terminal per the no-solver rule. Not checked.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 15,
+      "used": 5,
+      "status": "checked",
+      "note": "Browser sweep of /news front; Kerjaya, loan data, Country Heights and SD Guthrie articles opened and dateline-verified.",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 683,
+      "used": 5,
+      "status": "checked",
+      "note": "KLSE Screener mirror pages 1-26: 380 filings dated 5 Nov (full set saved) + 303 dated 4 Nov re-scanned for late surfacing (1 routine new row).",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

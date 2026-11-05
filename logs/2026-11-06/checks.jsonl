@@ -1,0 +1,29 @@
+{"source": "The Edge", "url": "https://theedgemalaysia.com/node/824440-824720", "method": "curl", "httpStatus": null, "result": "ok: 281 probed, 256 resolved, 115 in-window", "at": "2026-11-06T07:19:10+08:00"}
+{"source": "Malay Mail", "url": "https://www.malaymail.com/feed/rss/money", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:18:20+08:00"}
+{"source": "NST / Business Times", "url": "https://www.nst.com.my/feed", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:18:20+08:00"}
+{"source": "FMT", "url": "https://www.freemalaysiatoday.com/feed/", "method": "curl", "httpStatus": 200, "result": "ok (-L redirect)", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "FMT", "url": "article page (MRT Corp Mutiara CMC2 award)", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:22:30+08:00"}
+{"source": "The Sun", "url": "https://thesun.my/rss", "method": "curl", "httpStatus": 200, "result": "ok (301 -> -L follow)", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "TNGlobal", "url": "https://technode.global/feed/", "method": "curl", "httpStatus": 403, "result": "error: 403 (feed); fell back to WP API", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "TNGlobal", "url": "https://technode.global/wp-json/wp/v2/posts", "method": "curl", "httpStatus": 200, "result": "ok: WP API fallback (17 in-window)", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "TNGlobal", "url": "WP API single-post fetches (Microsoft, Skyro, U Mobile)", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:22:50+08:00"}
+{"source": "The Malaysian Reserve", "url": "https://themalaysianreserve.com/feed/", "method": "curl", "httpStatus": 403, "result": "blocked: bot wall (terminal; no solver per standing rule)", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "The Star", "url": "https://www.thestar.com.my/business", "method": "browser", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:23:14+08:00"}
+{"source": "The Star", "url": "https://www.thestar.com.my/tech", "method": "browser", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:24:10+08:00"}
+{"source": "The Star", "url": "article pages (IOI RE, Sunway REIT, financial inclusion, tech rout)", "method": "browser", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:24:56+08:00"}
+{"source": "EdgeProp", "url": "https://www.edgeprop.my/news", "method": "browser", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:25:05+08:00"}
+{"source": "EdgeProp", "url": "article pages (Kerjaya 1918181, loans 1918175, Country Heights 1918174, SDG 1918183)", "method": "browser", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:25:20+08:00"}
+{"source": "Bursa announcements", "url": "https://www.klsescreener.com/v2/announcements pages 1-26", "method": "curl", "httpStatus": 200, "result": "ok: 780 rows; 380 dated 5 Nov (full set saved) + 303 dated 4 Nov re-scanned", "at": "2026-11-06T07:20:50+08:00"}
+{"source": "Bursa announcements", "url": "filing view pages (SunCon 11697955, Tanco 11697985, GDB 11698565, Zetrix 11697979, UEMS 11698485, IWCity 11698351, Pestec 11698569)", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:21:10+08:00"}
+{"source": "Bernama", "url": "https://www.bernama.com/en/rssfeed.php", "method": "curl", "httpStatus": 200, "result": "ok: no in-window items", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "Berita Harian", "url": "https://www.bharian.com.my/feed", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-06T07:18:25+08:00"}
+{"source": "Malaysiakini", "url": "https://www.malaysiakini.com/rss/en/news.rss", "method": "curl", "httpStatus": 200, "result": "ok (headlines only; hard paywall)", "at": "2026-11-06T07:18:30+08:00"}
+{"source": "KiniBiz", "url": "https://www.kinibiz.com/feed/", "method": "curl", "httpStatus": 200, "result": "ok (no in-window items)", "at": "2026-11-06T07:18:30+08:00"}
+{"source": "Sinar Harian", "url": "https://www.sinarharian.com.my/bisnes", "method": "curl", "httpStatus": 200, "result": "ok: triaged; nothing in-sector beyond carried stories", "at": "2026-11-06T07:21:40+08:00"}
+{"source": "China Press", "url": "https://www.chinapress.com.my/category/财经/", "method": "curl", "httpStatus": 200, "result": "ok: listing parsed, no verifiable in-window in-scope item", "at": "2026-11-06T07:21:40+08:00"}
+{"source": "Nanyang", "url": "https://www.enanyang.my/财经", "method": "curl", "httpStatus": 200, "result": "ok: metered headlines only", "at": "2026-11-06T07:21:40+08:00"}
+{"source": "MOF", "url": "https://www.mof.gov.my/portal/en/news/press-release", "method": "curl", "httpStatus": 200, "result": "ok: no in-scope release in window", "at": "2026-11-06T07:21:55+08:00"}
+{"source": "BNM", "url": "Monetary Policy Statement 5 Nov 2026", "method": "curl", "httpStatus": 200, "result": "ok: OPR maintained at 2.75%; statement content verified (2026 growth above 5%, contained inflation)", "at": "2026-11-06T07:22:20+08:00"}
+{"source": "CIDB", "url": "https://www.cidb.gov.my", "method": "curl", "httpStatus": 200, "result": "ok: no in-scope item found", "at": "2026-11-06T07:21:55+08:00"}
+{"source": "KPKT", "url": "https://www.kpkt.gov.my", "method": "curl", "httpStatus": 200, "result": "ok: no in-scope item found", "at": "2026-11-06T07:21:55+08:00"}
+{"source": "MPOB", "url": "https://mpob.gov.my", "method": "curl", "httpStatus": 200, "result": "ok: no in-scope item found", "at": "2026-11-06T07:21:55+08:00"}
