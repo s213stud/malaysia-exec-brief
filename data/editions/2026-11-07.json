@@ -1,0 +1,641 @@
+{
+  "date": "2026-11-07",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-07T07:18:20+08:00",
+    "2026-11-07T07:19:00+08:00",
+    "2026-11-07T07:21:00+08:00",
+    "2026-11-07T07:22:00+08:00",
+    "2026-11-07T07:25:30+08:00",
+    "2026-11-07T07:26:20+08:00",
+    "2026-11-07T07:28:00+08:00",
+    "2026-11-07T07:30:00+08:00"
+  ],
+  "publishedAt": "2026-11-07T07:40:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Malaysian credit stress surfaces twice in one day: Zetrix AI's RM2b sukuk cut to default over an unpaid RM25m, and YNH Property's RM700m sukuk on a technical default over a RM6.8m reserve shortfall",
+      "soWhat": "Covenant discipline and liquidity are now the market's focus. Watch Zetrix's Nov 23 dividend deadline and any second sukukholders' meeting, and YNH's 30-day remedy window; both signal tighter scrutiny of leveraged balance sheets into year-end.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-07-ai-1",
+        "2026-11-07-pd-1"
+      ]
+    },
+    {
+      "headline": "Penang LRT's RM2.69b cross-sea package lands with TRC Synergy taking 30%, and Nestcon adds RM161m - but Selangor's flood response halts Puncak Alam works and puts all state approvals under review",
+      "soWhat": "Public mega-project flow is finally converting to contracts while climate-driven regulation raises compliance costs; builders with secured order books and clean flood-mitigation credentials are positioned best.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-07-con-1",
+        "2026-11-07-con-2",
+        "2026-11-07-con-3"
+      ]
+    },
+    {
+      "headline": "The global AI rout wipes RM4.46b off Bursa's top tech stocks even as the DC supply chain keeps signing - Seremban Engineering's RM18.21m materials deal and Microlink's RM59.58m govtech extension",
+      "soWhat": "Equity sentiment and contract flow are decoupling for now; ASLI's warning that power capacity lags DC ambitions marks the real constraint to watch, not the Nasdaq.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-07-ai-2",
+        "2026-11-07-ai-5",
+        "2026-11-07-ai-6",
+        "2026-11-07-ai-3"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Zetrix AI's sukuk hits default and the global AI rout reaches Bursa tech, while DC supply-chain and govtech contracts keep flowing",
+      "items": [
+        {
+          "id": "2026-11-07-ai-1",
+          "headline": "MARC cuts Zetrix AI's RM2b sukuk to default grade D-IS over an unpaid RM25m; Bursa orders FY2025 dividend paid by Nov 23",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "MARC Ratings downgraded Zetrix AI Bhd's RM2 billion sukuk programme to D-IS on Friday after the company failed to settle a RM25 million obligation due that day, and said it will no longer provide analytical coverage. The sukuk was cut to C-IS on Oct 30 after Zetrix disclosed a dissolution event: breach of a covenant requiring managing director TS Wong to remain the largest shareholder. An Oct 23 sukukholders' meeting failed to reach agreement; the next scheduled payment of RM214 million falls due in March 2027, and the company said it would call another sukukholders' meeting. Separately, Bursa Securities directed Zetrix to pay its delayed FY2025 final dividend by Nov 23 and to disclose material information on its financial condition, citing the withdrawn FY2026 interim dividend, resignation of all independent directors and external auditors, ESOS issuance, and the suspension of its JPJ collection-agent role.",
+          "soWhat": "An actual payment default, not a technical one - the 23 Nov dividend deadline and terms of any second sukukholders' meeting now set the recovery path; treat counterparty and collection-agent exposure to Zetrix as impaired until resolved.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824926"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824905"
+            },
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1572384/marc-downgraded-zetrix-ais-rm2bil-imtn-dis"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/06/bursa-sounds-alarm-over-zetrix-ais-dividend-non-payment-financial-position/242244"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11699323"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-ai-2",
+          "headline": "Global AI sell-off wipes RM4.46b off Bursa's 20 largest tech stocks in a day",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Bursa Malaysia's 20 largest technology stocks shed over RM4.46 billion in market value on Friday; the Bursa Malaysia Technology Index fell 4.58% to 67.88, the steepest sector-index decline, while the FBM KLCI lost 19.28 points to 1,616.58. The second day of selling followed the Nasdaq's 5.5% drop - its deepest since April 2025, erasing about US$2.5 trillion - after the Democrats' US midterm sweep raised fears of tighter data centre and AI scrutiny; it was the Nasdaq's fifth 500-point-plus decline since mid-October.",
+          "soWhat": "The correction tests the AI-capex narrative underwriting Malaysia's DC boom: local contractors' order books are contract-backed, but a sustained de-rating tightens funding conditions for marginal DC and tech projects.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824921"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824771"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-ai-3",
+          "headline": "Energy capacity is struggling to keep pace with Malaysia's data centre ambitions, ASLI warns",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "New power generation and grid capacity take much longer to build than the data centres they are meant to support, and the gap could widen as DCs take a growing share of electricity demand, Asian Strategy and Leadership Institute head of advisory and research advocacy Dr Fiaz Ahmad said at a CelcomDigi Responsible Business panel on AI, data centres and the energy transition. Malaysia must align investment approvals with power generation, grid and renewable energy plans: \"Malaysia is not short of policy; it is short of orchestration.\"",
+          "soWhat": "Grid and generation lead times are becoming the binding constraint on the DC pipeline - factor connection timing and possible self-generation requirements into DC-linked contract and site assumptions.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824863"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-ai-4",
+          "headline": "Maxis 3Q net profit rises 8.5% to RM447m; declares 4.5 sen dividend",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Net profit for 3QFY2026 rose to RM447 million from RM412 million a year earlier on higher service revenue and lower costs; revenue grew 3.7% to RM2.68 billion in a quarter marked by the iPhone 18 series launch and Samsung foldables. A 4.5 sen interim dividend (payable Dec 22) brings the year-to-date total to 12.5 sen; nine-month net profit reached RM1.30 billion, up 10.1%. Maxis kept full-year guidance: low single-digit service revenue and Ebitda growth, capex around 10% of revenue.",
+          "soWhat": "Steady telco cash flows and held guidance contrast with the week's tech-equity rout - useful ballast for portfolios exposed to the AI trade.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824819"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-ai-5",
+          "headline": "Seremban Engineering wins RM18.21m cross-border supply deal for DC and AI infrastructure materials",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Unit MIE Material Resources signed a 12-month framework agreement worth up to RMB30 million (RM18.21 million) with EPG Engineering System, wholly owned by a new Singapore-based engineering and technical consulting customer focused on data centre and AI infrastructure. MMR will handle China-Malaysia cross-border transport, export/import customs clearance and local delivery of materials and equipment for the customer's Malaysian projects.",
+          "soWhat": "Small in value, but it shows the DC build-out pulling second-tier fabricators and logistics players into its supply chain.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824890"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698795"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-ai-6",
+          "headline": "Microlink secures RM59.58m, 12-month extension of the Immigration Department's passenger-screening contract",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "A Home Affairs Ministry letter extends the advance passenger screening system (APS) contract to Nov 5, 2027, taking the total duration to 36 months and the total value to RM137.92 million excluding SST (original award: RM83.51 million including SST in November 2024). Added scope covers onboarding of additional airlines, infrastructure services, software licence renewals, and support and maintenance.",
+          "soWhat": "Another govtech renewal underlines incumbents' grip on border-systems work; recurring government ICT revenue remains one of the steadier lines in the sector.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824902"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11699161"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "YNH's technical default headlines a day of balance-sheet moves across developers",
+      "items": [
+        {
+          "id": "2026-11-07-pd-1",
+          "headline": "YNH Property sukuk reserve shortfall triggers technical default; MARC cuts to B-IS, MARCWatch Negative",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "YNH must progressively accumulate 50% of its RM170 million sukuk maturity ahead of its Feb 26, 2027 due date, but the reserve account held RM54.4 million as at Oct 27 - RM6.8 million short of the required RM61.2 million threshold. MARC Ratings downgraded the RM700 million Sukuk Wakalah programme to B-IS from BB-IS and placed it on MARCWatch Negative, citing weakened liquidity, poor internal cash flow generation, continued reliance on asset sales and limited earnings visibility. YNH has a 30-day remedy period to avert an event of default and has indicated it intends to top up within it.",
+          "soWhat": "The second property-sector sukuk stress signal in a day (with Zetrix) - watch the 30-day remedy window and whether planned asset sales can fund the shortfall.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824914"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-pd-2",
+          "headline": "APB Resources sells Menara APB to a Selangor state firm for RM45m cash",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "The buyer is Darul Ehsan Investment Group Bhd, wholly owned by Menteri Besar Selangor Inc. The 16-storey Shah Alam office tower (four basement carpark levels, leasehold to May 2100) currently earns no rental income; the RM45 million price is a 2.2% discount to Laurelcap's RM46 million valuation and yields an expected RM3.23 million net gain on the RM38.84 million book value (acquired in 2024 for RM39.89 million). Proceeds go mainly to repaying RM37.1 million of borrowings.",
+          "soWhat": "An opportunistic exit from a non-income-producing asset; state-linked buyers remain active for well-located offices near government centres.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824912"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11699223"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-pd-3",
+          "headline": "Lee Yeow Seng quits the IOI Corp board to focus on IOI Properties ahead of its REIT listing",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Lee Yeow Seng, 47, resigned as IOI Corp non-independent non-executive director with immediate effect to focus on IOI Properties' strategic priorities - including its significant Singapore presence and his role as executive chairman of IOIPG Malaysia REIT, which lists on Bursa Malaysia on Nov 25. IOI Corp concurrently appointed IOI Properties' lead independent director Datuk Yeo How to its board.",
+          "soWhat": "Consolidates the property arm's leadership bandwidth ahead of the REIT debut; watch for further IOIPG portfolio and capital moves around the listing.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824893"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698859"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-pd-4",
+          "headline": "Topmix buys a Subang Jaya site for RM16m as its new office and warehouse base",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "The 1.16ha freehold parcel - currently agricultural-classified, with industrial use subject to authority approval - is being acquired from Quek Chye Hock at a 14.83% discount to KGV International's RM18.79 million appraised value; it is tenanted at RM3,000 a month. Funding is via internal funds plus borrowings, with gearing rising if 90% is bank-financed.",
+          "soWhat": "Small-ticket owner-occupier deal; the agricultural-to-industrial conversion approval is the gating item.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824916"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11699155"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "TRC lands 30% of the Penang LRT's RM2.69b cross-sea package and Nestcon adds RM161m, while Selangor's flood response freezes Puncak Alam works",
+      "items": [
+        {
+          "id": "2026-11-07-con-1",
+          "headline": "TRC Synergy confirms 30% of the RM2.69b Penang LRT cross-sea CMC2 joint venture",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "TRC Synergy confirmed it holds 30% of the China Communications Construction Company-TRC Construction-Ufuk Semarak joint venture awarded Civil Main Contract 2 of the Penang LRT Mutiara Line: a 5.5km extension from Macallum on Penang Island to Penang Sentral in Seberang Perai, including a 3.05km sea bridge, with works expected to take five years. MRT Corp announced the award on Nov 5; the extension interchanges with KTM, ferry and bus services at Penang Sentral.",
+          "soWhat": "TRC's roughly RM807 million attributable share is transformational against its size and lands the largest outstanding Mutiara Line package; execution and JV-partner concentration now matter more than pipeline.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824892"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698749"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918214/trc-expands-penang-lrt-role-30-interest-rm269b-cross-sea-contract"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-con-2",
+          "headline": "Nestcon bags RM161m Gombak serviced-apartment job, its third win this year",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Nestcon Builders will build a 36-storey serviced apartment block in Bandar Baru Ulu Kelang, Gombak for BU Developments Sdn Bhd; the 34-month contract commenced Nov 2, 2026 with completion due Sept 1, 2029 and a 30-month defect liability period. Year-to-date major contract wins reach RM478.52 million, following two Exsim-related awards in August.",
+          "soWhat": "Mid-cap builders keep converting private residential demand into order book while public mega-project flow stays thin.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824915"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698857"
+            },
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/nestcon-secures-rm161m-contract-to-build-serviced-apartments-in-selangor/"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "nestcon"
+          ]
+        },
+        {
+          "id": "2026-11-07-con-3",
+          "headline": "Selangor halts development works in Puncak Alam and orders a review of all project approvals after floods",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Menteri Besar Datuk Seri Amirudin Shari said the state will review previously approved development projects to enforce flood-mitigation systems in high-risk areas, including requiring developers to build temporary water retention facilities, after inspecting a retention pond site at the UiTM Puncak Alam campus; works in Puncak Alam were ordered stopped. Flood evacuees in Selangor rose to 1,253 people from 337 families at 10 relief centres on Friday morning, and a landslide closed the Rawang-Kuala Selangor road; the state flagged embankment vandalism at Johan Setia, Parit Mahang, Bukit Kuching and Bukit Hijau as contributing factors.",
+          "soWhat": "Approval reviews and mandatory retention facilities add cost and timeline risk for developers active in Selangor's flood-prone growth corridors, with Puncak Alam works stopped immediately.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824813"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824786"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/selangor-orders-halt-to-development-work-in-puncak-alam"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-con-4",
+          "headline": "Klanggroup hands over RM112m K Commercial Camellia in Bukit Beruntung at full take-up",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "The 9.98-acre freehold development of 88 two-storey shopoffices (built-ups from 2,660 sq ft) reached vacant possession, the developer said in a press statement, reporting full take-up. The handover comes as Selangor pushes growth under the Second Selangor Plan 2026-2030.",
+          "soWhat": "Niche commercial handover - a sentiment data point for secondary-town shopoffice demand rather than a market mover.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824861"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "Research anchor arrives for IOIPG Malaysia REIT as Hektar's school acquisition stalls",
+      "items": [
+        {
+          "id": "2026-11-07-pi-1",
+          "headline": "TA Securities sets RM1.08 fair value on IOIPG Malaysia REIT - 12.5% above its 96 sen IPO price",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "The call is based on a 6% target yield and a CY2027 DPU forecast of 6.47 sen; the trust offers a forecast FY2027 yield of 6.6% versus the 6.2% average of large mall REIT peers (Sunway REIT, IGB REIT, Pavilion REIT, KLCCP Stapled Group), and trades at a lower price-to-NAV. The target yield assumes a 200bp spread over a 4% 10-year MGS target, in line with the five-year mean spread of the KL REIT Index.",
+          "soWhat": "First research anchor ahead of the Nov 25 listing; the yield-spread argument will be tested by where MGS yields and rate expectations settle into the debut.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824791"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-pi-2",
+          "headline": "Hektar REIT cancels its EGM on the RM125m KYS KL East International School acquisition",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "The Nov 16 unitholders' meeting was cancelled after the manager's assessment found certain conditions precedent under the SPA remain outstanding and further clarification from the vendor is required on their fulfilment; the board said it acted in the interests of unitholders. The acquisition-and-lease proposal was circulated to unitholders on Aug 24.",
+          "soWhat": "Execution risk on Hektar's diversification beyond retail malls; await revised terms or termination before re-rating the pipeline.",
+          "sources": [
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1572380/hektar-reit-cancels-egm-rm125mil-kys-kl-east-international"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11699047"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Cabinet attention for smallholder yields and estate-land solar monetisation",
+      "items": [
+        {
+          "id": "2026-11-07-pl-1",
+          "headline": "Anwar to raise plantation company-smallholder collaboration at Cabinet next week; open to foreign harvest workers",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "The prime minister said specific proposals are needed for plantation companies to help oil palm smallholders raise productivity and quality for better returns, speaking at the Ilmuwan Malaysia Madani forum organised with SD Guthrie. He also signalled openness to foreign workers for oil palm harvesting, paired with a mechanisation pledge.",
+          "soWhat": "Cabinet attention on smallholder yields plus harvest labour flexibility would ease two structural drags on plantation margins if translated into policy.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824935"
+            },
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/news/nation/2026/11/1572469/anwar-open-foreign-workers-oil-palm-harvesting-mechanisation-pledge"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-pl-2",
+          "headline": "IOI Corp eyes at least two more estates for solar leases after the Bahau deal",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Group MD and CEO Datuk Lee Yeow Chor said the estates are near major Tenaga Nasional grid connection points and that several renewable energy developers have approached the group, The Edge reported after its Nov 4 AGM. IOI began evaluating ageing plantation land for solar in 2024; the signed Bahau, Negeri Sembilan lease covers about 1,300 acres for rent plus a project stake. The group had 149,400ha planted in Malaysia as at June 30.",
+          "soWhat": "Plantation land near grid nodes is becoming a monetisable asset class; solar leases diversify estate income without divestment.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918208/ioi-corp-eyes-two-more-estates-solar-leases-after-bahau-deal"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "Ringgit year-end target of 4.00 meets a sub-40% housing loan approval ratio",
+      "items": [
+        {
+          "id": "2026-11-07-cof-1",
+          "headline": "CIMB sees the ringgit reaching 4.00 against the US dollar by year-end",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "CIMB Treasury and Markets Research expects the ringgit to trade between 4.00 and 4.10 through December as electronics exports widen the trade surplus and exporters convert more overseas earnings; the ringgit averaged 1.1% November and 1.2% December gains over 2018-2025, though more regular GLC/GLIC repatriation may temper the seasonal boost. It traded at 4.059 at Friday midday versus 4.0445 at Thursday's close, after an eight-year high of about 3.89 in late February.",
+          "soWhat": "A stronger ringgit lowers imported-material and dollar-debt costs for builders and developers; plan hedging around the 4.00-4.10 year-end band.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/824806"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-07-cof-2",
+          "headline": "Housing loan approval ratio falls below 40% for the first time since 2021",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Malaysia's residential property loan approval ratio fell to 39.1% in the first half of 2026, its first sub-40% reading since 2021, EdgeProp reported. The slip extends the approvals-applications gap highlighted in this week's sector data, where 9M approved property loans trailed last year even as applications rebounded.",
+          "soWhat": "Tighter mortgage conversion pressures developer sales velocity and end-financing assumptions, especially for mass-market launches.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918207/housing-loan-approval-ratio-falls-below-40-first-time-2021"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "A Bali title dispute tests Avillion's Indonesian structure",
+      "items": [
+        {
+          "id": "2026-11-07-h-1",
+          "headline": "Avillion asserts beneficial ownership of Bali's Villa Cinta against the registered titleholder's claim",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-06",
+          "detail": "Avillion Hotel Group maintains it acquired all beneficial interests in and rights of control over Villa Cinta, having advanced 29 billion rupiah (about RM6.49 million) to PT Avillion Indonesia's former director Shirley Winarso under a 2013 loan agreement solely to acquire the property; the advance formed part of the purchase consideration and cannot be unilaterally repaid. The additional disclosure follows the group's Oct 30 announcement that Winarso's solicitors asserted her ownership of the land and alleged PTAI's lease expired on Jan 15, 2026 without renewal; PTAI has operated the villa.",
+          "soWhat": "A title dispute over an operating resort asset - small in value, but a reminder of nominee-structure risk in Indonesian hotel holdings.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918202/avillion-asserts-beneficial-ownership-bali-property-amid-claim"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11698363"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (824690-825040, 222 resolved, 152 in-window), TNGlobal WP API, Star /business + /tech fronts, MM/NST/FMT/theSun feeds, Bursa mirror (780 rows: 370 dated 6 Nov plus 5 Nov re-scan). Used: Zetrix default + Bursa directive (ai-1), AI rout local impact (ai-2), ASLI energy-capacity warning (ai-3), Maxis 3Q (ai-4), Seremban Engineering DC supply deal (ai-5), Microlink APS extension (ai-6). Seen, not itemised: Gobind on digital-talent development (statement, no new fact); IREN-Microsoft delivery delay and OpenAI community compact (foreign); U Mobile-Cradle 5G-A/AI startup support (small); PM Anwar's meeting with Bitdeer (Bernama/BH only - outside the citable portal set, corroboration pending); BNM action on unapproved foreign-currency advertising (enforcement, adjacent); BNM reserves US$132.6b (routine).",
+    "propertyDevelopment": "Checked: Edge probe, EdgeProp /news, Star /business, Bursa mirror. Used: YNH technical default (pd-1), APB Menara sale (pd-2), Lee Yeow Seng board move (pd-3), Topmix land (pd-4). Seen, not itemised: UPA diversification into property development (proposal stage); RM200m rural-housing-to-roads allocation shift (federal budget mechanics); Klanggroup Camellia handover itemised under construction (con-4).",
+    "construction": "Checked: Edge probe, EdgeProp, Star, FMT, Bursa mirror. Used: TRC CMC2 confirmation (con-1), Nestcon Gombak (con-2), Selangor flood halt + approval review (con-3), Klanggroup handover (con-4). Seen, not itemised: Waja LOA additional information (commencement details, routine follow-on); Gabungan AQRS Turnpike suit, Infraharta adjudication, Kumpulan Jetson suit (procedural litigation updates); Star's weekend construction-boom analysis (data-rich but an analytical feature - flagged here as context: residential starts -22.7% in 2025 and -36.3% in 1H2026, RM385.7b DC investments 2021-1H2026).",
+    "propertyInvestment": "Checked: Edge probe, EdgeProp, NST, Bursa mirror. Used: IOIPG Malaysia REIT TA Securities initiation (pi-1), Hektar EGM cancellation (pi-2). Retail-only scope kept. Seen, not itemised: nothing else in-window.",
+    "plantation": "Checked: Edge probe, NST, EdgeProp, Bursa mirror, MPOB. Used: Anwar smallholder collaboration to Cabinet (pl-1), IOI Corp solar-lease pipeline (pl-2). Seen, not itemised: Teck Guan, Negri Sembilan Oil Palms, Chin Teck, WTK, Sarawak Plantation monthly production figures (routine); Lee Yeow Seng's IOI Corp board exit itemised under property development (pd-3).",
+    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror, BNM releases. No licensed-moneylending news in-window. Adjacent: BNM enforcement against two entities advertising unapproved foreign-currency services in Kedah and Perak (logged, not itemised - currency services, not moneylending).",
+    "consumerFinancing": "Checked: Edge probe, EdgeProp, feeds, BNM. Used: CIMB ringgit year-end view (cof-1), housing loan approval ratio (cof-2). Seen, not itemised: BNM reserves US$132.6b (routine data); Public Bank 3Q (bank results, out of sector); MHB RM350m sukuk issuance (corporate funding, out of sector).",
+    "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No in-window cable-sector news. Southern Cable: routine s138 substantial-shareholder notice dated 6 Nov (logged, not itemised).",
+    "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror. No in-window IBS/wall-panel or named-watchlist materials news. Inta Bina: routine director-interest and dealings notices dated 6 Nov (logged, not itemised).",
+    "hotels": "Checked: Edge probe, EdgeProp, Star, Bursa mirror. Used: Avillion Villa Cinta ownership assertion (h-1). Seen, not itemised: nothing else in-window."
+  },
+  "generalCoverage": [
+    "Edition window: from the 6 Nov edition's checks (~07:35 MYT 6 Nov) to ~07:35 MYT 7 Nov 2026. Edge probe 824690-825040: 351 probed, 222 resolved, 152 in-window (max resolved 824940). Node IDs are not chronological; the probe range is anchored above the highest previously resolved node and each resolved node is dated by its __NEXT_DATA__ created epoch.",
+    "Bursa Malaysia's official site blocks automation; filings were read via the KLSE Screener mirror, pages 1-26 (780 rows): 370 dated 6 Nov plus 381 dated 5 Nov re-scanned for late surfacing (one new 5 Nov row: a VP-DJ ETF NAV notice - routine, not material). All 6 Nov rows are saved in the run log.",
+    "The Malaysian Reserve returned its persistent 403 bot wall - terminal under the no-challenge-bypass rule; its front page could not be checked. TNGlobal's main feed 403'd again and was read via its WordPress API. The Star's weekend front carried analysis and commentary (construction-boom outlook, SoftBank US$50b column) - excluded as commentary; its news fronts were swept. The Edge /article/ archive pages under today's banner were skipped per standing practice; dating verified per node.",
+    "Bernama, BH, Sinar, China Press, Nanyang, Malaysiakini and KiniBiz feeds plus MOF, BNM, CIDB, KPKT and MPOB release pages were checked outside the manifest portal set; the only in-scope find was the PM-Bitdeer meeting (Bernama via BH) - noted, not itemised, pending coverage in a listed portal. No in-scope releases on the government pages beyond BNM items already reflected above.",
+    "Completeness is claimed within the stated sources, period and sector scope only. 'No verified news' means nothing verified in the checked sources; it does not mean nothing happened."
+  ],
+  "watchlistCoverage": [
+    "Nestcon Berhad (0235): itemised - RM161m, 34-month Gombak serviced-apartment award from BU Developments takes YTD wins to RM478.52m (con-2).",
+    "Southern Cable Group Berhad (0225): routine s138 substantial-shareholder notice dated 6 Nov; logged, not itemised.",
+    "Inta Bina Group Berhad (0192): routine director's-interest and dealings notices dated 6 Nov; logged, not itemised.",
+    "OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Kitacon: no in-window filings or article-body mentions.",
+    "Zetrix AI (tracked since the Oct 22 watch note, not on the construction watchlist): the watch resolved into default - MARC cut the RM2b sukuk to D-IS over an unpaid RM25m and Bursa Securities directed payment of the delayed FY2025 dividend by Nov 23 (ai-1)."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 152,
+      "used": 17,
+      "status": "checked",
+      "note": "Node probe 824690-825040; 222 resolved, 152 in-window; Chinese duplicates and commentary formats excluded.",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 7,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS money feed.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 3,
+      "status": "checked",
+      "note": "RSS feed.",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS feed.",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS feed.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 11,
+      "used": 0,
+      "status": "checked",
+      "note": "Main feed 403 again; WP API posts endpoint used.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 39,
+      "used": 0,
+      "status": "checked",
+      "note": "Weekend /business + /tech fronts via cloud browser; analysis, insight columns and branded features excluded.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "Persistent 403 bot wall - terminal under the no-challenge-bypass rule.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 15,
+      "used": 4,
+      "status": "checked",
+      "note": "/news front via cloud browser; branded and Done Deal formats excluded.",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 780,
+      "used": 10,
+      "status": "checked",
+      "note": "KLSE Screener mirror pages 1-26 (780 rows); 370 dated 6 Nov plus 381 dated 5 Nov re-scanned.",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}
