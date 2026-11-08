@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR 403 bot wall - terminal per the no-solver rule. TNGlobal WP API had no in-window posts. Star weekend fronts swept; analysis/columns excluded. Bernama and Sinar feeds 404 this run; BH/Malaysiakini/KiniBiz and MOF/BNM/CIDB/KPKT/MPOB checked and logged outside the manifest scope. Sunday cycle - structurally the lowest volume of the week."
+}
