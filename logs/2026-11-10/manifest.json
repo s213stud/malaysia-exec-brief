@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR 403 bot wall - terminal per the no-solver rule. TNGlobal WP API in-window posts all regional/foreign. Star fronts swept; foreign wires and profiles excluded. Malaysiakini feed 404 this run; Bernama and Sinar feeds 404; BH/Malaysiakini/KiniBiz and gov pages logged outside the manifest scope. Monday cycle muted by the Deepavali public holiday - Bursa closed, zero filings."
+}
