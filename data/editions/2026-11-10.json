@@ -1,245 +1,245 @@
 {
-  "date": "2026-11-10",
-  "status": "published",
-  "demo": false,
-  "checkedAt": [
-    "2026-11-10T07:20:40+08:00",
-    "2026-11-10T07:20:45+08:00",
-    "2026-11-10T07:21:00+08:00",
-    "2026-11-10T07:21:40+08:00",
-    "2026-11-10T07:23:30+08:00",
-    "2026-11-10T07:24:10+08:00",
-    "2026-11-10T07:26:00+08:00"
-  ],
-  "publishedAt": "2026-11-10T07:27:00+08:00",
-  "keyTakeaways": [
-    {
-      "headline": "PETROS, SoftBank and Grab sign a US$1.85b joint development agreement for Sarawak AI infrastructure, targeting 5GW of compute long-term",
-      "soWhat": "First real money behind SoftBank's Malaysia AI talk; staged deployment tied to customer contracts is the credibility test, and Sarawak emerges as a second anchor DC geography after Johor.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-11-10-ai-1"
-      ]
-    },
-    {
-      "headline": "Floods day five: RM2,500 special aid per hard-hit Selangor household from Tuesday, and the PM orders mitigation projects expedited",
-      "soWhat": "Relief spending plus an expedite directive raises the pace of mitigation-package awards; drainage-linked conditions on new Selangor approvals keep tightening.",
-      "sectorKeys": [
-        "construction"
-      ],
-      "itemIds": [
-        "2026-11-10-con-1"
-      ]
-    },
-    {
-      "headline": "Nexus Sedenak widens beyond data centres into an inland port and industrial zone - a RM12b, 45,000-job target, not yet a tender book",
-      "soWhat": "Treat the RM12b as aspiration until package awards or an inland-port RFP appear; the scope shift is the signal for logistics-adjacent builders.",
-      "sectorKeys": [
-        "construction"
-      ],
-      "itemIds": [
-        "2026-11-10-con-2"
-      ]
-    }
-  ],
-  "sectors": [
-    {
-      "sectorKey": "aiTelcoIct",
-      "theme": "SoftBank's Malaysia AI ambitions get a first concrete capital structure in Sarawak",
-      "items": [
-        {
-          "id": "2026-11-10-ai-1",
-          "headline": "PETROS, SoftBank and Grab lock in US$1.85b seed capital for Sarawak AI infrastructure",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-09",
-          "detail": "Petroleum Sarawak Bhd (PETROS), SoftBank Group Corp and Grab Holdings Ltd have entered a joint development agreement covering US$1.85 billion in initial combined seed capital to develop AI infrastructure in Sarawak - US$800 million from SoftBank, US$750 million from Grab and US$100 million from PETROS - building on the framework agreement signed in Kuching on Oct 8. Deployment is staged, subject to projects hitting development and customer-contract milestones and closing conditions. The partnership targets a long-term five gigawatts of AI compute capacity and will explore opportunities across the wider AI value chain.",
-          "soWhat": "The first concrete capital structure behind SoftBank's much-touted Malaysia AI ambitions (named at US$50b on 27 Oct, with a track record of big announcements ahead of commitments) - staged funding tied to customer contracts is the discipline to watch, and Sarawak now rivals Johor as an anchor DC geography with state energy backing.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/825069"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "construction",
-      "theme": "Flood response turns fiscal while Sedenak's scope widens beyond data centres",
-      "items": [
-        {
-          "id": "2026-11-10-con-1",
-          "headline": "Flood response turns fiscal: RM2,500 special aid per hard-hit Selangor household, mitigation projects expedited",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-09",
-          "detail": "Prime Minister Anwar Ibrahim announced an additional RM2,500 cash payment for heads of eligible flood-affected households in Selangor, with disbursement expected from Tuesday (Nov 10), and directed that flood mitigation projects be expedited to tackle recurring floods. Selangor evacuees more than doubled to 583 people from 163 families across four relief centres in Kuala Selangor by Monday afternoon (1,002 including Perak's Hilir Perak; 1,084 across three states by 8pm). Separately, eight people were reported missing and nine stranded in a Sungai Pertak water surge, and an expert warned population growth and rubbish buildup are raising Klang Valley flash-flood risk.",
-          "soWhat": "Day five shifts from emergency response to fiscal relief and expedited mitigation delivery - combined with Selangor's Puncak Alam works halt, expect drainage-mitigation conditions to tighten on new project approvals and mitigation-package awards to accelerate.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/825059"
-            },
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/825060"
-            },
-            {
-              "publisher": "New Straits Times",
-              "url": "https://www.nst.com.my/news/nation/2026/11/1574188/1084-flood-victims-sheltering-relief-centres-three-states"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-10-con-2",
-          "headline": "Nexus Sedenak to add inland port and industrial-zone scope beyond data centres - Teo",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-09",
-          "detail": "Deputy Communications Minister and Kulai MP Teo Nie Ching said development in the Sedenak area should not be limited to data centres but anchored on the flagship Nexus Sedenak programme under the Johor-Singapore Special Economic Zone, which includes plans to develop inland port facilities and a new industrial zone to attract factories and grow the local supply chain. The programme, cited in Budget 2027, is expected to attract investments of up to RM12 billion and create about 45,000 jobs (figures already in prior coverage).",
-          "soWhat": "The new element is scope: an inland port plus industrial zone turns Sedenak from a DC story into a broader logistics-and-manufacturing build pipeline - but the RM12b remains a target, so track actual package awards and any inland-port RFP before pricing work in.",
-          "sources": [
-            {
-              "publisher": "The Sun",
-              "url": "https://thesun.my/business/teo-nexus-sedenak-strengthens-kulais-role-as-economic-hub-under-js-sez/"
-            },
-            {
-              "publisher": "New Straits Times",
-              "url": "https://www.nst.com.my/business/economy/2026/11/1574278/nexus-sedenak-drive-southern-regions-economy"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    }
-  ],
-  "sectorCoverage": {
-    "aiTelcoIct": "Checked: Edge probe (824990-825400, 82 resolved, 70 in-window), TNGlobal WP API (16 in-window, all regional/foreign), Star /business + /tech fronts, MM/NST/FMT/theSun feeds, Bursa mirror. Used: PETROS-SoftBank-Grab JDA (ai-1). Seen, not itemised: Malaysia mulls expediting quantum migration / national post-quantum cryptography plan - Fahmi at ITU PP-26 (policy intent, no budget); Malaysia calls for connectivity beyond populated areas (rhetoric); vigilance against state-linked hackers - MCCA (rhetoric); Anthropic's new models ahead of its Wall Street debut, Nvidia CEO spy-claim saga, NextDC pausing uncontracted projects, Norway reining in DCs, Equinix's US$290m SG6 in Singapore, Haoyang's US$590m Thailand DC loan (foreign/regional).",
-    "propertyDevelopment": "Checked: Edge probe, EdgeProp /news, Star /business, Bursa mirror. No new in-window developer news; EdgeProp front is unchanged Friday recaps (duplicates). Nexus Sedenak (con-2) is classified under construction as an infra/industrial pipeline.",
-    "construction": "Checked: Edge probe, EdgeProp, Star, theSun/FMT/NST feeds, Bursa mirror. Used: flood aid and expedited mitigation (con-1), Nexus Sedenak scope widening (con-2). Seen, not itemised: Sungai Pertak water-surge search (folded into con-1 context); expert on Klang Valley flash-flood risk from population growth and rubbish (folded into con-1); NST Leader drainage editorial (signed commentary, excluded); COP31 urban climate funds proposal (climate-finance advocacy).",
-    "propertyInvestment": "Checked: Edge probe, EdgeProp, NST, Bursa mirror. No new in-window retail-REIT news; Hektar EGM-cancellation recap remains a 7 Nov duplicate.",
-    "plantation": "Checked: Edge probe, feeds, MPOB page. Seen, not itemised: coconut growers' income squeezed by Indonesian imports - MM (smallholder crop, outside the core plantation coverage); agarwood oil grading standards project (niche).",
-    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror, BNM page attempt. No licensed-moneylending news in-window.",
-    "consumerFinancing": "Checked: Edge probe, feeds, BNM page attempt. Seen, not itemised: BNM's 'lower inflation does not mean lower cost of living' remarks (macro commentary, no product or credit-policy change).",
-    "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No in-window cable-sector news; no watchlist-company mentions.",
-    "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror. No in-window IBS/wall-panel or named-watchlist materials news.",
-    "hotels": "Checked: Edge probe, EdgeProp, Star, Bursa mirror. No in-window hotel news."
+ "date": "2026-11-10",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-11-10T07:20:40+08:00",
+  "2026-11-10T07:20:45+08:00",
+  "2026-11-10T07:21:00+08:00",
+  "2026-11-10T07:21:40+08:00",
+  "2026-11-10T07:23:30+08:00",
+  "2026-11-10T07:24:10+08:00",
+  "2026-11-10T07:26:00+08:00"
+ ],
+ "publishedAt": "2026-11-10T07:27:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "PETROS, SoftBank and Grab sign a US$1.85b joint development agreement for Sarawak AI infrastructure, targeting 5GW of compute long-term",
+   "soWhat": "First real money behind SoftBank's Malaysia AI talk; staged deployment tied to customer contracts is the credibility test, and Sarawak emerges as a second anchor DC geography after Johor.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-11-10-ai-1"
+   ]
   },
-  "generalCoverage": [
-    "Edition window: from the 9 Nov edition's checks (~07:35 MYT 9 Nov) to ~07:35 MYT 10 Nov 2026 - a Monday cycle muted by the Deepavali public holiday (9 Nov). Edge probe 824990-825400: 411 probed, 82 resolved, 70 in-window (max resolved 825071 at 07:06 MYT 10 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
-    "Bursa Malaysia was closed 9 Nov (Deepavali holiday); the KLSE Screener mirror pages 1-6 (180 rows) are all dated 6 Nov, with zero new rows versus the 9 Nov run - consistent with a non-trading day.",
-    "The Malaysian Reserve returned its persistent 403 bot wall - terminal under the no-challenge-bypass rule; its front page could not be checked. Malaysiakini's feed 404'd this run (it worked on 9 Nov); Bernama and Sinar feeds 404'd again. TNGlobal's WP API returned 16 in-window posts, all regional/foreign. KiniBiz had no in-window items. MOF/BNM/KPKT/MPOB listing pages returned 404 this run (CIDB 200) - treated as unverified this run and logged.",
-    "Completeness is claimed within the stated sources, period and sector scope only. 'No verified news' means nothing verified in the checked sources; it does not mean nothing happened."
-  ],
-  "watchlistCoverage": [
-    "All 12 watchlist companies (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon): no in-window filings and no new article-body mentions. Bursa was closed Monday 9 Nov for the Deepavali public holiday - the KLSE Screener mirror's 180 rows are all dated 6 Nov, with zero new rows versus the 9 Nov run.",
-    "Zetrix AI (tracked since the Oct 22 watch note): resolved into default on 6 Nov (7 Nov edition, ai-1); the next milestones are the Nov 23 FY2025 dividend deadline set by Bursa Securities and any second sukukholders' meeting. A 6 Nov 'OTHERS' filing on the mirror was already captured in the 7 Nov scan."
-  ],
-  "sourceTally": [
+  {
+   "headline": "Floods day five: RM2,500 special aid per hard-hit Selangor household from Tuesday, and the PM orders mitigation projects expedited",
+   "soWhat": "Relief spending plus an expedite directive raises the pace of mitigation-package awards; drainage-linked conditions on new Selangor approvals keep tightening.",
+   "sectorKeys": [
+    "construction"
+   ],
+   "itemIds": [
+    "2026-11-10-con-1"
+   ]
+  },
+  {
+   "headline": "Nexus Sedenak widens beyond data centres into an inland port and industrial zone - a RM12b, 45,000-job target, not yet a tender book",
+   "soWhat": "Treat the RM12b as aspiration until package awards or an inland-port RFP appear; the scope shift is the signal for logistics-adjacent builders.",
+   "sectorKeys": [
+    "construction"
+   ],
+   "itemIds": [
+    "2026-11-10-con-2"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "SoftBank's Malaysia AI ambitions get a first concrete capital structure in Sarawak",
+   "items": [
     {
-      "source": "The Edge",
-      "scanned": 70,
-      "used": 2,
-      "status": "checked",
-      "note": "Node probe 824990-825400; 82 resolved, 70 in-window.",
-      "publishers": [
-        "The Edge"
-      ]
-    },
-    {
-      "source": "Malay Mail",
-      "scanned": 5,
-      "used": 0,
-      "status": "checked",
-      "note": "RSS money feed.",
-      "publishers": [
-        "Malay Mail"
-      ]
-    },
-    {
-      "source": "NST / Business Times",
-      "scanned": 50,
-      "used": 2,
-      "status": "checked",
-      "note": "RSS feed.",
-      "publishers": [
-        "New Straits Times"
-      ]
-    },
-    {
-      "source": "FMT",
-      "scanned": 50,
-      "used": 0,
-      "status": "checked",
-      "note": "RSS feed.",
-      "publishers": [
-        "FMT"
-      ]
-    },
-    {
-      "source": "The Sun",
-      "scanned": 10,
-      "used": 1,
-      "status": "checked",
-      "note": "RSS feed.",
-      "publishers": [
-        "The Sun"
-      ]
-    },
-    {
-      "source": "TNGlobal",
-      "scanned": 16,
-      "used": 0,
-      "status": "checked",
-      "note": "WP API; 16 in-window, all regional/foreign.",
-      "publishers": [
-        "TNGlobal"
-      ]
-    },
-    {
-      "source": "The Star",
-      "scanned": 24,
-      "used": 0,
-      "status": "checked",
-      "note": "/business + /tech fronts via cloud browser; foreign wires, profiles and analysis excluded.",
-      "publishers": [
-        "The Star"
-      ]
-    },
-    {
-      "source": "The Malaysian Reserve",
-      "scanned": 0,
-      "used": 0,
-      "status": "blocked",
-      "note": "Persistent 403 bot wall - terminal under the no-challenge-bypass rule.",
-      "publishers": [
-        "The Malaysian Reserve"
-      ]
-    },
-    {
-      "source": "EdgeProp",
-      "scanned": 0,
-      "used": 0,
-      "status": "checked",
-      "note": "/news front via cloud browser; unchanged Friday recaps treated as duplicates.",
-      "publishers": [
-        "EdgeProp"
-      ]
-    },
-    {
-      "source": "Bursa announcements",
-      "scanned": 180,
-      "used": 0,
-      "status": "checked",
-      "note": "KLSE Screener mirror pages 1-6 (180 rows); all dated 6 Nov - Bursa closed 9 Nov for Deepavali.",
-      "publishers": [
-        "Bursa announcement (via KLSE Screener mirror)"
-      ]
+     "id": "2026-11-10-ai-1",
+     "headline": "PETROS, SoftBank and Grab lock in US$1.85b seed capital for Sarawak AI infrastructure",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-09",
+     "detail": "Petroleum Sarawak Bhd (PETROS), SoftBank Group Corp and Grab Holdings Ltd have entered a joint development agreement for a stated US$1.85 billion in initial combined seed capital to develop AI infrastructure in Sarawak, building on the framework agreement signed in Kuching on Oct 8. The named contributions are US$800 million from SoftBank Group, US$750 million from Grab and US$100 million from PETROS; the joint statement does not attribute the remaining US$200 million of the announced total, and says the parties will also seek additional investors and hyperscaler customers. Deployment is staged, subject to projects hitting development and customer-contract milestones and closing conditions, with a long-term target of five gigawatts of AI compute capacity.",
+     "soWhat": "The first disclosed capital commitments with named amounts behind SoftBank's Malaysia AI ambitions (US$50b plan reported 27 Oct, with a track record of big announcements ahead of commitments) - staged funding tied to customer contracts is the discipline to watch, and Sarawak now rivals Johor as an anchor DC geography with state energy backing.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/825069"
+      }
+     ],
+     "watchlistCompanyKeys": []
     }
-  ]
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "Flood response turns fiscal while Sedenak's scope widens beyond data centres",
+   "items": [
+    {
+     "id": "2026-11-10-con-1",
+     "headline": "Flood response turns fiscal: RM2,500 special aid per hard-hit Selangor household, mitigation projects expedited",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-09",
+     "detail": "Prime Minister Anwar Ibrahim announced an additional RM2,500 cash payment for heads of eligible flood-affected households in Selangor, with disbursement expected from Tuesday (Nov 10), and directed that flood mitigation projects be expedited to tackle recurring floods. Selangor evacuees more than doubled to 583 people from 163 families across four relief centres in Kuala Selangor by Monday afternoon (1,002 including Perak's Hilir Perak; 1,084 across three states by 8pm). Separately, eight people were reported missing and nine stranded in a Sungai Pertak water surge, and an expert warned population growth and rubbish buildup are raising Klang Valley flash-flood risk.",
+     "soWhat": "Day five shifts from emergency response to fiscal relief and expedited mitigation delivery - combined with Selangor's Puncak Alam works halt, expect drainage-mitigation conditions to tighten on new project approvals and mitigation-package awards to accelerate.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/825059"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/825060"
+      },
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/news/nation/2026/11/1574188/1084-flood-victims-sheltering-relief-centres-three-states"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-10-con-2",
+     "headline": "Nexus Sedenak to add inland port and industrial-zone scope beyond data centres - Teo",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-09",
+     "detail": "Deputy Communications Minister and Kulai MP Teo Nie Ching said development in the Sedenak area should not be limited to data centres but anchored on the flagship Nexus Sedenak programme under the Johor-Singapore Special Economic Zone, which includes plans to develop inland port facilities and a new industrial zone to attract factories and grow the local supply chain. The programme, cited in Budget 2027, is expected to attract investments of up to RM12 billion and create about 45,000 jobs (figures already in prior coverage).",
+     "soWhat": "The new element is scope: an inland port plus industrial zone turns Sedenak from a DC story into a broader logistics-and-manufacturing build pipeline - but the RM12b remains a target, so track actual package awards and any inland-port RFP before pricing work in.",
+     "sources": [
+      {
+       "publisher": "The Sun",
+       "url": "https://thesun.my/business/teo-nexus-sedenak-strengthens-kulais-role-as-economic-hub-under-js-sez/"
+      },
+      {
+       "publisher": "New Straits Times",
+       "url": "https://www.nst.com.my/business/economy/2026/11/1574278/nexus-sedenak-drive-southern-regions-economy"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "Checked: Edge probe (824990-825400, 82 resolved, 70 in-window), TNGlobal WP API (16 in-window, all regional/foreign), Star /business + /tech fronts, MM/NST/FMT/theSun feeds, Bursa mirror. Used: PETROS-SoftBank-Grab JDA (ai-1). Seen, not itemised: Malaysia mulls expediting quantum migration / national post-quantum cryptography plan - Fahmi at ITU PP-26 (policy intent, no budget); Malaysia calls for connectivity beyond populated areas (rhetoric); vigilance against state-linked hackers - MCCA (rhetoric); Anthropic's new models ahead of its Wall Street debut, Nvidia CEO spy-claim saga, NextDC pausing uncontracted projects, Norway reining in DCs, Equinix's US$290m SG6 in Singapore, Haoyang's US$590m Thailand DC loan (foreign/regional).",
+  "propertyDevelopment": "Checked: Edge probe, EdgeProp /news, Star /business, Bursa mirror. No new in-window developer news; EdgeProp front is unchanged Friday recaps (duplicates). Nexus Sedenak (con-2) is classified under construction as an infra/industrial pipeline.",
+  "construction": "Checked: Edge probe, EdgeProp, Star, theSun/FMT/NST feeds, Bursa mirror. Used: flood aid and expedited mitigation (con-1), Nexus Sedenak scope widening (con-2). Seen, not itemised: Sungai Pertak water-surge search (folded into con-1 context); expert on Klang Valley flash-flood risk from population growth and rubbish (folded into con-1); NST Leader drainage editorial (signed commentary, excluded); COP31 urban climate funds proposal (climate-finance advocacy).",
+  "propertyInvestment": "Checked: Edge probe, EdgeProp, NST, Bursa mirror. No new in-window retail-REIT news; Hektar EGM-cancellation recap remains a 7 Nov duplicate.",
+  "plantation": "Checked: Edge probe, feeds, MPOB page. Seen, not itemised: coconut growers' income squeezed by Indonesian imports - MM (smallholder crop, outside the core plantation coverage); agarwood oil grading standards project (niche).",
+  "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror, BNM page attempt. No licensed-moneylending news in-window.",
+  "consumerFinancing": "Checked: Edge probe, feeds, BNM page attempt. Seen, not itemised: BNM's 'lower inflation does not mean lower cost of living' remarks (macro commentary, no product or credit-policy change).",
+  "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No in-window cable-sector news; no watchlist-company mentions.",
+  "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror. No in-window IBS/wall-panel or named-watchlist materials news.",
+  "hotels": "Checked: Edge probe, EdgeProp, Star, Bursa mirror. No in-window hotel news."
+ },
+ "generalCoverage": [
+  "Edition window: from the 9 Nov edition's checks (~07:35 MYT 9 Nov) to ~07:35 MYT 10 Nov 2026 - a Monday cycle muted by the Deepavali public holiday (9 Nov). Edge probe 824990-825400: 411 probed, 82 resolved, 70 in-window (max resolved 825071 at 07:06 MYT 10 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+  "Bursa Malaysia was closed 9 Nov (Deepavali holiday); the KLSE Screener mirror pages 1-6 (180 rows) are all dated 6 Nov, with zero new rows versus the 9 Nov run - consistent with a non-trading day.",
+  "The Malaysian Reserve returned its persistent 403 bot wall - terminal under the no-challenge-bypass rule; its front page could not be checked. Malaysiakini's feed 404'd this run (it worked on 9 Nov); Bernama and Sinar feeds 404'd again. TNGlobal's WP API returned 16 in-window posts, all regional/foreign. KiniBiz had no in-window items. MOF/BNM/KPKT/MPOB listing pages returned 404 this run (CIDB 200) - treated as unverified this run and logged.",
+  "Completeness is claimed within the stated sources, period and sector scope only. 'No verified news' means nothing verified in the checked sources; it does not mean nothing happened."
+ ],
+ "watchlistCoverage": [
+  "All 12 watchlist companies (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon): no in-window filings and no new article-body mentions. Bursa was closed Monday 9 Nov for the Deepavali public holiday - the KLSE Screener mirror's 180 rows are all dated 6 Nov, with zero new rows versus the 9 Nov run.",
+  "Zetrix AI (tracked since the Oct 22 watch note): resolved into default on 6 Nov (7 Nov edition, ai-1); the next milestones are the Nov 23 FY2025 dividend deadline set by Bursa Securities and any second sukukholders' meeting. A 6 Nov 'OTHERS' filing on the mirror was already captured in the 7 Nov scan."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 70,
+   "used": 2,
+   "status": "checked",
+   "note": "Node probe 824990-825400; 82 resolved, 70 in-window.",
+   "publishers": [
+    "The Edge"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 5,
+   "used": 0,
+   "status": "checked",
+   "note": "RSS money feed.",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 50,
+   "used": 2,
+   "status": "checked",
+   "note": "RSS feed.",
+   "publishers": [
+    "New Straits Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 0,
+   "status": "checked",
+   "note": "RSS feed.",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 1,
+   "status": "checked",
+   "note": "RSS feed.",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 16,
+   "used": 0,
+   "status": "checked",
+   "note": "WP API; 16 in-window, all regional/foreign.",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 24,
+   "used": 0,
+   "status": "checked",
+   "note": "/business + /tech fronts via cloud browser; foreign wires, profiles and analysis excluded.",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "Persistent 403 bot wall - terminal under the no-challenge-bypass rule.",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 0,
+   "used": 0,
+   "status": "checked",
+   "note": "/news front via cloud browser; unchanged Friday recaps treated as duplicates.",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 180,
+   "used": 0,
+   "status": "checked",
+   "note": "KLSE Screener mirror pages 1-6 (180 rows); all dated 6 Nov - Bursa closed 9 Nov for Deepavali.",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
 }
