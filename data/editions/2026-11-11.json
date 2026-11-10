@@ -1,0 +1,423 @@
+{
+  "date": "2026-11-11",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-11T07:20:35+08:00",
+    "2026-11-11T07:20:40+08:00",
+    "2026-11-11T07:21:00+08:00",
+    "2026-11-11T07:21:05+08:00",
+    "2026-11-11T07:22:40+08:00",
+    "2026-11-11T07:23:20+08:00",
+    "2026-11-11T07:26:00+08:00"
+  ],
+  "publishedAt": "2026-11-11T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Zetrix AI has confirmed its RM25m sukuk default to Bursa and committed to settle - with a financial-position disclosure due today",
+      "soWhat": "Default confirmed at source shifts the question to settlement mechanics and the Nov 23 dividend deadline; treat any further slippage as systemic for the sukuk market's mid-tier credits.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-11-ai-1"
+      ]
+    },
+    {
+      "headline": "SoftBank's US$7.1b loss - driven by writing down advance payments for US data-centre power equipment - lands two days after its Sarawak JDA",
+      "soWhat": "Power-equipment commitments are exactly the cost line that soured in Ohio; the staged, milestone-gated structure of the Sarawak deal is the safeguard to watch.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-11-ai-2"
+      ]
+    },
+    {
+      "headline": "Tech-led Tuesday contract flow: Kitacon's RM54.87m Elmina factories, RM65m cleanroom EPC, RM33m DC power link and Advancecon's third IBTEC earthworks job",
+      "soWhat": "AI and semiconductor capex is converting into second-tier contractor order books; the watchlist name Kitacon is back in flow with landed-industrial work.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-11-con-1",
+        "2026-11-11-con-2"
+      ]
+    },
+    {
+      "headline": "The PM ties a 500,000-home affordable push to modular construction - the strongest IBS demand signal yet",
+      "soWhat": "Watch for the procurement model; a target without tenders is aspiration, but the policy direction for factory-built housing is now explicit.",
+      "sectorKeys": [
+        "buildingMaterialsIbs"
+      ],
+      "itemIds": [
+        "2026-11-11-bm-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Zetrix confirms its default to Bursa as SoftBank's US DC write-down tests the Sarawak narrative",
+      "items": [
+        {
+          "id": "2026-11-11-ai-1",
+          "headline": "Zetrix AI confirms to Bursa it defaulted on the RM25m sukuk payment due Nov 6, commits to settlement",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "In its response to a Bursa Securities query over The Edge's report on MARC Ratings' downgrade of its RM2 billion sukuk programme to D-IS (default), Zetrix AI Bhd confirmed it still owes the RM25 million payment due last Friday on its Sukuk Wakalah Series No 6 and said it is taking steps to settle the nominal value and periodic distribution amounts. The regulator's queries asked the company to state whether a payment default occurred, the date and reasons, and the default's impact. Zetrix also faces a Nov 11 (today) deadline to disclose its financial position and other material matters under Bursa's earlier directive.",
+          "soWhat": "The default is now company-confirmed, not just rating-agency asserted - the settlement mechanics and today's disclosure will show whether this is a timing issue or genuine liquidity stress; the Nov 23 FY2025 dividend deadline is the next hard date.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825215"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825129"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11700061"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-11-ai-2",
+          "headline": "SoftBank posts a US$7.1b quarterly loss after a US$3.7b write-down on US data-centre power equipment - Bloomberg",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "SoftBank Group Corp swung to a 1.12 trillion yen (US$7.1 billion) fiscal second-quarter net loss - its first in almost two years, against analyst expectations of a 129 billion yen profit - after writing down US$3.7 billion of non-refundable advance payments made to secure power-generation equipment for its eight-gigawatt Ohio project and other US data centres, Bloomberg reported. AI valuations also dipped around the world in the quarter.",
+          "soWhat": "The write-down lands two days after SoftBank signed the US$1.85b Sarawak JDA with PETROS and Grab - it shows how fast power-equipment commitments can sour and raises the execution bar for the staged Sarawak deployment; watch whether milestone discipline holds before the Malaysian capital flows.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825139"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Tech-led contract flow: factories for Kitacon, cleanroom, DC power and Johor earthworks",
+      "items": [
+        {
+          "id": "2026-11-11-con-1",
+          "headline": "Kitacon bags a RM54.87m detached-factory contract at Sime Darby Property's Elmina North",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "Kumpulan Kitacon Bhd's wholly owned unit accepted a RM54.872 million construction contract on Nov 7 from Sime Darby Property (Elmina North) Sdn Bhd for Phase i25 at Taman Perdagangan Elmina in Rawang, Selangor - 14 units of two-storey detached factories with EV charging bays, refuse chambers, a main switch station and two distribution substations. Works start Nov 30, 2026, and run 22 months, the group said in a bourse filing.",
+          "soWhat": "Watchlist contract flow resumes for Kitacon with a landed-industrial package from a master developer - industrial factories remain the busiest private building segment; track margin on a fixed-price 22-month job against still-elevated input costs.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825134"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918241/kitacon-secures-rm5487m-elmina-factory-contract"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "kitacon"
+          ]
+        },
+        {
+          "id": "2026-11-11-con-2",
+          "headline": "Tuesday's contract flow is tech-led: RM65m cleanroom EPC, RM33m data-centre power link and a third Johor earthworks job",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "Critical Holdings Bhd secured RM65 million of EPC contracts from an unnamed multinational for a cleanroom production floor in northern Peninsular Malaysia, covering design, construction, testing and commissioning including M&E and process utilities. Jati Tinggi Group Bhd won a RM33.1 million subcontract to install two 275kV cable circuits for interim power supply to a data centre in Gerbil, Negeri Sembilan. Advancecon Holdings Bhd took a RM41.52 million earthworks and main infrastructure contract at Southern Ibrahim Technopolis in Kulai from JLG Technopark Sdn Bhd (a Johor Corporation unit) - its third IBTEC award after a RM148.4 million first job in March.",
+          "soWhat": "The buildout is broadening from headline DC shells into cleanrooms, grid connections and enabling earthworks - second-tier M&E and civil contractors are the flow-through beneficiaries of the AI and semiconductor capex cycle.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825187"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825190"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825196"
+            },
+            {
+              "publisher": "New Straits Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1574915/advancecon-bags-rm415mil-johor-job"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "YNH publishes its redemption math while UEM Sunrise's Mont'Kiara launch shows high-end demand",
+      "items": [
+        {
+          "id": "2026-11-11-pd-1",
+          "headline": "YNH pins its RM170m February sukuk redemption on the Hartamas land sale and sales billings",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "YNH Property Bhd said it is banking on proceeds from the proposed Desa Sri Hartamas land disposal to a Sunway Bhd unit plus sales billings from ongoing developments to meet its RM170 million sukuk redemption due in February 2027, after a sukuk reserve-account shortfall triggered a technical default and MARC Ratings cut its RM700 million IMTN programme to B-IS from BB-IS with a MARCWatch Negative outlook last Friday. MARC cited liquidity concerns, poor internal cash-flow generation, reliance on asset disposals and limited financial flexibility; EdgeProp reports YNH is targeting about RM105 million from the Hartamas sale toward the repayment.",
+          "soWhat": "The redemption math is now public: RM105m from one land sale plus operating billings against RM170m due in February - the end-November unconditional date on the Sunway transaction remains the make-or-break milestone.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825124"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918244/ynh-targets-rm105m-hartamas-sale-february-sukuk-repayment"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-11-pd-2",
+          "headline": "UEM Sunrise officially launches RM1.17b MAIA Mont'Kiara with a 60% take-up since its August soft launch",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "UEM Sunrise Bhd officially launched MAIA Mont'Kiara on Tuesday - 495 units across two 45-storey towers on 5.02 acres of freehold land at Jalan Bayu Kiara, with built-ups of 1,485-2,982 sq ft priced from RM1.54 million and completion targeted for the first half of 2031. The project, soft-launched in late August, has achieved a 60% take-up and holds a GreenRE Provisional Gold rating.",
+          "soWhat": "A 60% take-up at RM1.5m-plus price points signals the high-end KL segment is absorbing new supply again - supports developer confidence in 2027 launches, though completion risk now stretches into a 2031 delivery window.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825126"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "Sunway REIT's NPI dips 4% on cost pressure",
+      "items": [
+        {
+          "id": "2026-11-11-pi-1",
+          "headline": "Sunway REIT's 3Q net property income dips 4% to RM173.8m on higher operating costs",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "Sunway REIT reported 3QFY2026 (ended Sept 30) net property income of RM173.8 million, down 4% year-on-year, with revenue edging 1.7% lower to RM232.3 million, primarily due to the disposal of the Sunway University and College campus under its asset-recycling strategy; other property operating expenses rose 5.8% to RM52.8 million. Distributable income fell to RM116.1 million, or 3.39 sen per unit, according to its Bursa filing.",
+          "soWhat": "Even the benchmark retail-anchored REIT is showing cost pressure outpacing top line - watch retail rental reversion against rising opex across the mall landlords this results season.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825194"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "October palm stocks hit a record as futures sit at eight-month lows",
+      "items": [
+        {
+          "id": "2026-11-11-pl-1",
+          "headline": "Malaysia's October palm oil stocks hit a record 3.62m tonnes as bumper output outpaces exports - MPOB",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "MPOB data showed palm oil inventories rose for a seventh straight month to 3.62 million tonnes in October, up 3.15% from September's previous record of 3.51 million tonnes, as production gained 1.74% to 2.15 million tonnes; the stockpile came in below a Reuters survey expectation of 3.75 million tonnes. Rising inventories in the world's second-largest producer have weighed on benchmark futures, which are trading at their lowest levels in more than eight months, Reuters reported.",
+          "soWhat": "A seventh consecutive stock build with futures at eight-month lows squeezes upstream margins into year-end; the below-survey print offers modest relief, but the labour-shortage coverage earlier this week shows the cost side is not helping either.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825118"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "The PM ties a 500,000-home push to modular construction",
+      "items": [
+        {
+          "id": "2026-11-11-bm-1",
+          "headline": "PM puts modular construction at the centre of a 500,000-home, four-year affordable housing push",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "Prime Minister Anwar Ibrahim said Malaysia aims to deliver 500,000 affordable homes within four years - halfway to a one-million-home national target - by leveraging modular construction, in which building components are fabricated in a controlled factory environment before on-site assembly. Speaking at the opening of International Construction Week 2026 at Mitec, he said technology must deliver homes more efficiently and at lower cost without compromising safety, quality and liveability.",
+          "soWhat": "A national volume target explicitly tied to modular methods is the strongest demand signal yet for IBS and wall-panel capacity - watch for the procurement model (direct tenders vs developer mandates) that turns the target into order books.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825130"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918242/anwar-urges-local-modular-construction-push-affordable-housing"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "InterContinental's first Malaysian resort opens in Penang this December",
+      "items": [
+        {
+          "id": "2026-11-11-h-1",
+          "headline": "InterContinental Penang Resort set for a December opening in Teluk Bahang with 348 rooms",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-10",
+          "detail": "The beachfront property - the former Penang Mutiara Beach Resort - will open as IHG's first InterContinental resort in Malaysia, with 348 rooms and suites, Club InterContinental, four restaurants and bars including Peranakan, Italian and Nikkei concepts, a spa and family facilities, EdgeProp reported. Its design incorporates Penang's cultural influences across the lobby, dining and meeting spaces.",
+          "soWhat": "A distressed-asset revival completing the upmarket repositioning of Penang's north-coast inventory; a December opening puts first revenue into FY2027 for the owners and adds a luxury flag to the island's rate mix.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918240/intercontinental-penang-resort-set-december-opening"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (825050-825460, 180 resolved, 158 in-window), TNGlobal WP API, Star /business + /tech fronts, MM/NST/FMT/theSun feeds, Bursa mirror (240 rows). Used: Zetrix default confirmation (ai-1), SoftBank loss (ai-2). Seen, not itemised: PETRONAS gas for DCs - minister (policy rhetoric); Malaysia's DC-location and cost competitiveness - industry players at a Bursa event (commentary, context for ai-2); analysts see Malaysia tech sentiment dip not earnings hit (roundup); YTL Power share pressure on Nvidia scrutiny (market move); Thailand's DC noise/heat limits and Australia AI safety regulator (foreign regulation); Nvidia CEO saga items, OpenAI 3Q revenue US$10b, Anthropic US$1.4t IPO target, TSMC revenue +60%, Microsoft-Trump Chinese DC tech report (foreign).",
+    "propertyDevelopment": "Checked: Edge probe, EdgeProp /news, Star /business, Bursa mirror. Used: YNH funding plan (pd-1), UEM Sunrise MAIA launch (pd-2). Seen, not itemised: JLL property-market gradual-recovery view and falling-mortgage-approvals prediction (research commentary); Maju Holdings' restraining-order extension in a winding-up suit (legal process); Supermax co-founders' investment-vehicle settlement via property disposals (corporate workout); Pahang crown prince-linked firm completing a 30% Mentiga stake purchase (small-cap ownership); Loke's resignation as transport minister (political, no infra-policy change announced).",
+    "construction": "Checked: Edge probe, EdgeProp, Star, NST/theSun feeds, Bursa mirror. Used: Kitacon Elmina (con-1), cleanroom/DC-power/IBTEC flow (con-2). Seen, not itemised: Favelle Favco's RM83.7m Australian tower-crane orders (equipment maker, out of IBS/wall-panel scope); Taghill's SIAB creditors' meeting on the judicial-management Statement of Proposal held Nov 10 (process step, outcome in attachment); Citaglobal's blue-carbon partnership press release (early-stage environment venture); PMW's RM64.37m TNB concrete-pole extension (generic materials, out of scope); floods day six - Selangor evacuees up to 848 at five Kuala Selangor centres, Perak easing (watch note continues); Schneider Electric regional skills centre (corporate PR).",
+    "propertyInvestment": "Checked: Edge probe, EdgeProp, Star, Bursa mirror. Used: Sunway REIT 3Q results (pi-1). Seen, not itemised: Star's 'Sunway-REIT posts 5% rise in NPI to RM128.3mil' headline conflicts with the filing-based Edge numbers (-4% to RM173.8m) - the filing-based figures were used and Star's headline not relied on; I-Bhd's property-investment profit jump (small-cap, i-City mixed-use).",
+    "plantation": "Checked: Edge probe, feeds, MPOB data. Used: October palm stocks record (pl-1). Seen, not itemised: TSH Resources RM55-60m earnings forecast (analyst estimate); Dutch Lady-Kulim Johor dairy stake (agribusiness, not plantation core); United Malacca director share dealings (routine).",
+    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No licensed-moneylending news in-window.",
+    "consumerFinancing": "Checked: Edge probe, feeds, BNM page attempt (404 again). Seen, not itemised: MBSB Bank's GET overseas-transfer service (remittance product, not civil-servant lending); PSD assessing 10,250 permanent Kemas posts (public-sector staffing, watch for payroll-linked lending relevance).",
+    "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No in-window cable-sector news; the Jati Tinggi 275kV cable circuits job (con-2) is installation works by an electrical contractor, not a cable-maker order.",
+    "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror. Used: modular-construction housing push (bm-1). PMW's concrete-pole extension and Favelle Favco's crane orders are generic materials/equipment and out of the IBS/wall-panel scope.",
+    "hotels": "Checked: Edge probe, EdgeProp, Star, Bursa mirror. Used: InterContinental Penang December opening (h-1). Seen, not itemised: KPJ healthcare brand ranking (advertorial-style)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 10 Nov edition's checks (~07:35 MYT 10 Nov) to ~07:35 MYT 11 Nov 2026 - a full Tuesday trading day after the Deepavali break. Edge probe 825050-825460: 411 probed, 180 resolved, 158 in-window (max resolved 825233 at 07:15 MYT 11 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa Malaysia's official site blocks automation; the KLSE Screener mirror pages 1-8 (240 rows, all dated 10 Nov - the first post-holiday trading day) were captured in full and saved; the Zetrix query-letter filing and the Inta Bina cluster were opened.",
+    "The Malaysian Reserve returned its persistent 403 bot wall - terminal under the no-challenge-bypass rule; its front page could not be checked. Malaysiakini's feed 404'd again; Bernama and Sinar feeds 404'd again. KiniBiz had no in-window items. TNGlobal's WP API returned regional/foreign items only. MOF/BNM/KPKT/MPOB listing pages returned 404 again (CIDB 200) - treated as unverified and logged; the palm-oil item relies on MPOB data as carried by The Edge/Reuters.",
+    "Completeness is claimed within the stated sources, period and sector scope only. 'No verified news' means nothing verified in the checked sources; it does not mean nothing happened."
+  ],
+  "watchlistCoverage": [
+    "Kitacon (watchlist): RM54.87m Elmina North factory contract itemised as con-1 - the group's first watchlist-tagged win since the Oct scans.",
+    "Inta Bina (watchlist): a cluster of 10 Nov filings - director and substantial-shareholder dealings plus an additional-listing announcement - read as routine corporate actions; no contracts or material transactions.",
+    "Other watchlist companies (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Nestcon): no in-window filings and no new article-body mentions. Bursa mirror pages 1-8 captured 240 rows dated 10 Nov (first trading day after Deepavali).",
+    "Zetrix AI: default now company-confirmed (ai-1). Next milestones: financial-position disclosure due today Nov 11 under Bursa's directive; Nov 23 FY2025 dividend deadline; possible second sukukholders' meeting.",
+    "Floods day six: Selangor evacuees rose to 848 (236 families) across five Kuala Selangor relief centres by Tuesday 4pm, up from 583; Perak's numbers declined. Coverage continues from the 7-10 Nov editions."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 158,
+      "used": 9,
+      "status": "checked",
+      "note": "Node probe 825050-825460; 180 resolved, 158 in-window.",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 13,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS money feed.",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "RSS feed.",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS feed.",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "RSS feed.",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 11,
+      "used": 0,
+      "status": "checked",
+      "note": "WP API; in-window items regional/foreign.",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 14,
+      "used": 0,
+      "status": "checked",
+      "note": "/business front via cloud browser; market wraps, analyst views and foreign items excluded.",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "Persistent 403 bot wall - terminal under the no-challenge-bypass rule.",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 9,
+      "used": 4,
+      "status": "checked",
+      "note": "/news front via cloud browser; branded features excluded.",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 240,
+      "used": 1,
+      "status": "checked",
+      "note": "KLSE Screener mirror pages 1-8 (240 rows, all 10 Nov); Zetrix and Inta Bina filings opened.",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

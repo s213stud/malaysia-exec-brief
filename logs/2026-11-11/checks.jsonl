@@ -1,0 +1,12 @@
+{"source": "The Edge", "url": "https://theedgemalaysia.com/node/825050-825460", "method": "curl", "httpStatus": null, "result": "ok: 411 probed, 180 resolved, 158 in-window", "at": "2026-11-11T07:21:00+08:00"}
+{"source": "Malay Mail", "url": "https://www.malaymail.com/feed/rss/money", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-11T07:20:35+08:00"}
+{"source": "NST / Business Times", "url": "https://www.nst.com.my/feed", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-11T07:20:35+08:00"}
+{"source": "FMT", "url": "https://www.freemalaysiatoday.com/feed", "method": "curl -L", "httpStatus": 200, "result": "ok", "at": "2026-11-11T07:20:35+08:00"}
+{"source": "The Sun", "url": "https://thesun.my/feed", "method": "curl -L", "httpStatus": 200, "result": "ok", "at": "2026-11-11T07:20:35+08:00"}
+{"source": "TNGlobal", "url": "https://technode.global/wp-json/wp/v2/posts", "method": "curl", "httpStatus": 200, "result": "ok: WP API", "at": "2026-11-11T07:20:40+08:00"}
+{"source": "The Star", "url": "https://www.thestar.com.my/business + /tech", "method": "cloud browser", "httpStatus": 200, "result": "ok: front swept", "at": "2026-11-11T07:22:40+08:00"}
+{"source": "The Malaysian Reserve", "url": "https://themalaysianreserve.com/", "method": "curl", "httpStatus": 403, "result": "blocked: persistent 403 bot wall - terminal under no-bypass rule", "at": "2026-11-11T07:20:40+08:00"}
+{"source": "EdgeProp", "url": "https://www.edgeprop.my/news", "method": "cloud browser", "httpStatus": 200, "result": "ok", "at": "2026-11-11T07:22:40+08:00"}
+{"source": "Bursa announcements", "url": "https://www.klsescreener.com/v2/announcements", "method": "curl (browser UA)", "httpStatus": 200, "result": "ok: pages 1-8, 240 rows, all dated 10 Nov (first post-holiday session)", "at": "2026-11-11T07:21:05+08:00"}
+{"source": "BH / Malaysiakini / KiniBiz", "url": "assorted feeds", "method": "curl", "httpStatus": 200, "result": "partial: BH ok; Malaysiakini feed 404 again; KiniBiz no in-window; Bernama and Sinar feeds 404", "at": "2026-11-11T07:20:40+08:00"}
+{"source": "MOF / BNM / CIDB / KPKT / MPOB", "url": "official pages", "method": "curl", "httpStatus": 404, "result": "partial: MOF/BNM/KPKT/MPOB listing pages 404 again; CIDB 200 no in-scope releases; MPOB data via The Edge/Reuters", "at": "2026-11-11T07:20:45+08:00"}

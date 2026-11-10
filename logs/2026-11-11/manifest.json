@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR 403 bot wall - terminal per the no-solver rule. Star front swept via browser. Malaysiakini feed 404 again; Bernama and Sinar feeds 404; BH/Malaysiakini/KiniBiz and gov pages logged outside the manifest scope (MOF/BNM/KPKT/MPOB listing pages 404; CIDB ok). First full trading day after Deepavali; 240 Bursa rows captured."
+}
