@@ -1,0 +1,18 @@
+{
+ "The Malaysian Reserve": {
+  "status": "blocked",
+  "note": "Persistent 403 bot wall - terminal under the no-challenge-bypass rule."
+ },
+ "Bernama": {
+  "status": "partial",
+  "note": "Feed 200 but items carry no date fields - window attribution impossible."
+ },
+ "Sinar Harian": {
+  "status": "blocked",
+  "note": "/rss returns an HTML page, not a feed."
+ },
+ "KiniBiz": {
+  "status": "partial",
+  "note": "Feed stale - latest item Sep 2026."
+ }
+}

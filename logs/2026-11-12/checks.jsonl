@@ -1,0 +1,22 @@
+{"source": "The Edge", "url": "https://theedgemalaysia.com/node/825150-825620", "method": "curl", "httpStatus": null, "result": "ok: 471 probed, 236 resolved, 156 in-window", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Malay Mail", "url": "https://www.malaymail.com/feed/rss/money", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Malay Mail", "url": "https://www.malaymail.com/news/money/2026/11/11/tnb-puts-grid-first-in-rm43b-modernisation-push-to-power-malaysias-economic-growth/242852", "method": "curl", "httpStatus": 200, "result": "ok: article body opened", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "NST / Business Times", "url": "https://www.nst.com.my/feed", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "FMT", "url": "https://www.freemalaysiatoday.com/feed/", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "The Sun", "url": "https://www.thesun.my/rss", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Berita Harian", "url": "https://www.bharian.com.my/feed", "method": "curl", "httpStatus": 200, "result": "ok", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "KiniBiz", "url": "https://www.kinibiz.com/feed/", "method": "curl", "httpStatus": 200, "result": "ok: feed stale, latest item Sep 2026", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Malaysiakini", "url": "https://www.malaysiakini.com/rss/en/news.rss", "method": "curl", "httpStatus": 200, "result": "ok: politics-led, nothing sectoral", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Bernama", "url": "https://www.bernama.com/en/rssfeed.php", "method": "curl", "httpStatus": 200, "result": "partial: feed items carry no date fields", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Sinar Harian", "url": "https://www.sinarharian.com.my/rss", "method": "curl", "httpStatus": 200, "result": "error: returns HTML page, not RSS", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "TNGlobal", "url": "https://technode.global/feed/", "method": "curl", "httpStatus": 403, "result": "error: 403", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "TNGlobal", "url": "https://technode.global/wp-json/wp/v2/posts?per_page=30", "method": "curl", "httpStatus": 200, "result": "ok: WP API fallback", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "The Malaysian Reserve", "url": "https://themalaysianreserve.com/feed/", "method": "curl", "httpStatus": 403, "result": "blocked: persistent 403 bot wall, terminal under no-solver rule", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "The Star", "url": "https://www.thestar.com.my/business", "method": "browser", "httpStatus": 200, "result": "ok: front swept via cloud browser, listing updated 6:50pm 11 Nov", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "EdgeProp", "url": "https://www.edgeprop.my/news", "method": "browser", "httpStatus": 200, "result": "ok: front swept via cloud browser", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "Bursa announcements", "url": "https://www.klsescreener.com/v2/announcements?page=1-14", "method": "curl", "httpStatus": 200, "result": "ok: 420 rows captured", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "MOF", "url": "https://www.mof.gov.my/portal/en/news/press-release", "method": "curl", "httpStatus": 200, "result": "ok: no new dated sector releases", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "BNM", "url": "https://www.bnm.gov.my/press-release", "method": "curl", "httpStatus": 404, "result": "error: 404 again", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "KPKT", "url": "https://www.kpkt.gov.my/index.php/pages/view/173", "method": "curl", "httpStatus": 200, "result": "ok: no new dated sector releases", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "MPOB", "url": "https://mpob.gov.my", "method": "curl", "httpStatus": 200, "result": "ok: no new dated sector releases", "at": "2026-11-12T07:21-07:40+08:00"}
+{"source": "CIDB", "url": "https://www.cidb.gov.my", "method": "curl", "httpStatus": 200, "result": "ok: 11 Nov item is an asset-disposal tender", "at": "2026-11-12T07:21-07:40+08:00"}

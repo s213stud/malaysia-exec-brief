@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-12",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-12T07:20:41+08:00",
+    "2026-11-12T07:20:47+08:00",
+    "2026-11-12T07:20:55+08:00",
+    "2026-11-12T07:21:29+08:00",
+    "2026-11-12T07:22:40+08:00",
+    "2026-11-12T07:23:53+08:00",
+    "2026-11-12T07:24:05+08:00",
+    "2026-11-12T07:26:40+08:00"
+  ],
+  "publishedAt": "2026-11-12T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Zetrix AI's deadline moved, nothing resolved - the Nov 13 disclosure pack is now the test",
+      "soWhat": "The extension keeps the default, the withheld dividend and the Nov 23 payment directive all live at once; slippage beyond Friday would read as escalation, not admin.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-12-ai-1"
+      ]
+    },
+    {
+      "headline": "The data-centre build-out is shifting to power and supply-chain localisation",
+      "soWhat": "A mooted wholesale power market for large users, Southern Score's RM146.8m electrical packages, EPG's Senai topping-out and Mitsui's RM4.87b foil plant all point the same way: the next constraint and opportunity is power delivery and local manufacturing, not site announcements.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-12-ai-2",
+        "2026-11-12-ai-3",
+        "2026-11-12-ai-4",
+        "2026-11-12-con-1"
+      ]
+    },
+    {
+      "headline": "Results season is diverging: planters at record profits, big developers squeezed",
+      "soWhat": "United Plantations' record quarter (+43%, 45 sen of dividends) sits opposite S P Setia's 52% profit drop - cost control and volume efficiency are separating winners from balance-sheet stories in the same commodity/property cycle.",
+      "sectorKeys": [
+        "plantation",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-12-pl-1",
+        "2026-11-12-pd-1"
+      ]
+    },
+    {
+      "headline": "Record palm stocks keep near-term prices capped; the drawdown story only starts in 1Q2027",
+      "soWhat": "MPOB's lower December reference price confirms the glut now; the 1Q2027 tightening is an analyst forecast (CGS International) resting on El Niño and biodiesel - plan on the stocks data, treat the forecast as scenario.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-12-pl-2"
+      ]
+    },
+    {
+      "headline": "TNB's RM43b grid-first capex gives cable and grid suppliers pre-committed demand",
+      "soWhat": "Building ahead of load means orders flow before demand shows up - multi-year visibility for grid contractors and cable makers through 2027.",
+      "sectorKeys": [
+        "cablesManufacturing"
+      ],
+      "itemIds": [
+        "2026-11-12-cb-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Zetrix buys two days on its Bursa disclosures while DC power and supply-chain localisation advance",
+      "items": [
+        {
+          "id": "2026-11-12-ai-1",
+          "headline": "Bursa gives Zetrix AI two more days, to Nov 13, for its directive disclosures; dividend to affected shareholders stays withheld",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Bursa Securities on Nov 11 approved Zetrix AI Bhd's application to extend the deadline - from Nov 11 to Friday Nov 13 - to disclose material information required under the regulator's Nov 6 directive. The directive covers its financial position and dividend issues, the resignation of all independent directors and external auditors, its ESOS issuance, and the financial and operational impact of the suspension of Zetrix and a unit as JPJ collection agents. A separate directive requires payment of outstanding FY2025 final dividends by Nov 23. In a second filing, Zetrix said the injunction proceedings involving its share registrar and a former substantial shareholder were withdrawn on Nov 11 after the plaintiff sued his nominees separately; dividend payments to the affected shareholders will remain withheld pending that case. The company has separately confirmed defaulting on a RM25 million sukuk payment due Nov 6.",
+          "soWhat": "The deadline moved but nothing resolved - Friday's disclosure pack is now the test; the still-withheld dividend and the Nov 23 payment directive keep cash-flow pressure visible.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825399"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11700747"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11700759"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-ai-2",
+          "headline": "Malaysia plans a separate wholesale electricity market for large power users, including data centres",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Malaysia intends to launch a separate wholesale electricity market for large power consumers, including data centres, the New Straits Times reported, citing Rumaizi Abdul Halim, director of market regulation and planning at the Energy Commission. The existing single-buyer market serving households, factories and commercial premises will stay unchanged, and the two markets will run under a single operator, with details of how they interact to be worked out later. The move addresses the power-demand fallout from Malaysia's data-centre push, which has drawn commitments including Google's planned US$15 billion (RM61.12 billion) expansion.",
+          "soWhat": "A dedicated wholesale market would change how data-centre operators buy power - pricing, contracting and possibly cost of supply - and signals regulators are formalising the sector's load on the grid rather than leaving it inside the single-buyer pool.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825311"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-ai-3",
+          "headline": "Mitsui Kinzoku to invest RM4.87b (¥190b) in a new Malaysian copper foil plant aimed at AI data-centre demand",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Japanese metal materials producer Mitsui Kinzoku is investing ¥190 billion (RM4.87 billion) in a new copper foil plant in Malaysia, Nikkei Asia reported, citing the company. The spend covers land (¥14 billion), buildings (¥32 billion) and production equipment (¥144 billion). Copper foil is a key material for optical transceivers in AI data centres and high-frequency circuit boards; the plant, near the company's existing Malaysian facility, adds 10,000 sqm/month of MicroThin capacity and 1,200 tons/month of VSP foil over three years, operating in phases from April 2031. Mitsui Kinzoku operates locally through Mitsui Copper Foil (Malaysia) Sdn Bhd.",
+          "soWhat": "One of the largest single AI-supply-chain manufacturing investments landed in Malaysia this year - a long-dated (2031) but concrete vote for the country as a data-centre materials base.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825245"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-ai-4",
+          "headline": "EPG Modular Data Center tops out its US$119m Senai Airport City factory, completion due 1Q2027",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "EPG Modular Data Center marked the topping-out of its S$153 million (US$119 million) factory in the Free Industrial Zone at Senai Airport City, Johor, the company said in a statement carried by TNGlobal. The 107,450 sqm facility (70,000 sqm production space) is part of Phase 3 of Senai Airport City in Iskandar Malaysia, is scheduled for completion in 1Q2027 and can employ more than 800 professional and technical staff once fully operational, with production lines designed for at least 80% automation. EPG describes it as among the largest single-site modular data-centre manufacturing bases by production capacity.",
+          "soWhat": "Modular data-centre manufacturing is localising in Johor alongside the DC builds themselves - capacity coming online from 2027 shortens delivery chains for regional projects.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/11/epg-modular-data-center-tops-out-119m-malaysian-factory-at-senai-airport-city/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "DC electrical packages keep flowing to mid-caps; an auditor exit flags governance discipline",
+      "items": [
+        {
+          "id": "2026-11-12-con-1",
+          "headline": "Southern Score unit SJEE bags RM146.8m of electrical subcontracts for two Port Dickson data centres",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Southern Score Builders Bhd's 51%-owned mechanical and electrical unit SJEE Engineering Sdn Bhd secured two data-centre electrical work subcontracts in Port Dickson worth RM146.8 million in aggregate, awarded by an undisclosed local construction company. Project A (RM67.41 million) schedules Phase 1 substantial completion by Oct 22, 2027 and Phase 2 by Jan 21, 2028; Project B (RM79.39 million) schedules Phase 1 by Jan 10, 2028 and Phase 2 by April 10, 2028. Southern Score acquired the SJEE stake in January 2025; the remaining 49% is held by Ngo Hea Bing.",
+          "soWhat": "Another mid-cap contractor converting the DC pipeline into order book through M&E packages - the awarded-by-a-local-main-contractor structure shows the subcontracting layers where much of the DC work actually sits.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825386"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-con-2",
+          "headline": "Jati Tinggi's external auditor resigns over audit-fee disagreement, a day after the group announced a RM33.1m grid contract",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Jati Tinggi Group Berhad announced that Messrs TGS TW PLT resigned as external auditors via a written notice dated Nov 10, citing disagreement on audit fees; the board said it is not aware of any matters needing shareholders' attention. TGS TW was re-appointed at the May 18 AGM. The resignation lands a day after the group announced a RM33.1 million 275kV power-cable contract for the Gerbil data centre (itemised in yesterday's edition).",
+          "soWhat": "Auditor exits over fees are a standard governance caution flag - not proof of trouble, but they raise the bar on scrutiny of a fast-growing small cap's reporting, especially alongside new contract wins.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11700703"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Setia's margins squeeze, EcoWorld term-funds land, LBS tees up Kwasa Damansara",
+      "items": [
+        {
+          "id": "2026-11-12-pd-1",
+          "headline": "S P Setia 3QFY26 net profit drops 52% to RM32.61m on slower sales and higher costs; no dividend",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "S P Setia Bhd's net profit for the quarter ended Sept 30, 2026 fell 52.1% to RM32.61 million (from RM68.03 million), on slower sales, higher operating expenses, the absence of a land sale and a higher completion base a year ago, per its quarterly filing. Revenue fell 22.9% to RM672.55 million; selling and marketing expenses jumped 88.3% and administrative expenses rose 10.9%. Nine-month net profit fell 31.1% to RM161.8 million on revenue of RM2.32 billion (-10.3%). Sales stayed resilient at RM2.34 billion for the nine months (82% domestic, 18% international), and the group cited improved sales momentum with a further reduction in borrowings.",
+          "soWhat": "Earnings are shrinking faster than sales - margins and opex, not demand alone, are the squeeze; watch whether the borrowings reduction holds through year-end land banking.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825383"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11700545"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-pd-2",
+          "headline": "EcoWorld issues RM850m sukuk wakalah, the fifth tranche under its RM3b programme",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Eco World Development Group Bhd's wholly owned Eco World Capital Bhd issued RM850 million of rated sukuk wakalah under its RM3 billion programme: RM150 million five-year, RM550 million seven-year and RM150 million 10-year. Proceeds go to working capital, capital expenditure including land acquisitions, shariah-compliant investments and general corporate purposes.",
+          "soWhat": "A 10-year leg in the stack signals term funding demand for land banking - EcoWorld is locking in long-dated capital while developer earnings elsewhere are softening.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825385"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-pd-3",
+          "headline": "LBS Bina targets an April-May 2027 launch for Sherwood Residence, first phase of its 192-acre Kwasa Damansara township",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "LBS Bina Group Bhd plans to launch Sherwood Residence - the first phase of its 192-acre freehold The Reserva master plan in Kwasa Damansara, Selangor - in April or May 2027, group executive chairman Tan Sri Lim Hock San said at a preview event. The 24.94-acre low-density phase has 196 units (100 superlinks, 88 semi-detached, eight bungalows) with multigenerational features; selling prices and gross development value are still being finalised.",
+          "soWhat": "A real pipeline marker in Kwasa Damansara but with no pricing or GDV yet - treat as intent until numbers land closer to launch.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825305"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "UPL's record quarter contrasts with record industry stocks and a lower December reference price",
+      "items": [
+        {
+          "id": "2026-11-12-pl-1",
+          "headline": "United Plantations posts record 3Q net profit of RM290.9m (+43%) and declares 45 sen of dividends",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "United Plantations Bhd's 3QFY2026 net profit rose 43.1% to a record RM290.93 million on revenue of RM722.22 million (+6.7%), lifted by strong production volumes and firm palm oil prices; EPS rose to 46.76 sen. It declared a 30 sen interim and a 15 sen special dividend, both payable Dec 8. Nine-month net profit rose 4.8% to RM645.58 million on revenue of RM2 billion (+9.4%). Downstream refinery earnings were weighed by hedging timing differences, which the group expects to reverse on delivery in subsequent quarters.",
+          "soWhat": "Upstream volume strength is still overriding softer CPO prices for the efficient planters - the special dividend signals cash comfort even as inventories sit at record highs industry-wide.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825370"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-12-pl-2",
+          "headline": "MPOB cuts the December CPO reference price to RM4,259.70 (duty stays 10%); analysts see record stocks drawing down from 1Q2027",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Malaysia lowered its December CPO reference price to RM4,259.70 per tonne (November: RM4,323.78), keeping the export duty at the maximum 10% band (prices above RM4,050), an MPOB circular showed. Separately, CGS International expects inventories - a record 3.62 million tonnes in October, up for a seventh month - to stay elevated until end-2026 and pressure near-term prices, then draw down from 1Q2027 as production growth moderates, with El Niño risk and firm biofuel demand tightening supply; February 2027 futures traded at RM4,379. Millers are reportedly facing refineries halting deliveries amid the stock build-up.",
+          "soWhat": "The reference-price cut trims exporter margins at the top band and confirms the near-term glut; the 1Q2027 drawdown call is an analyst view - size positions on the stocks trajectory, not the forecast.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825367"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825265"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "TNB's RM43b grid-first RP4 capex locks in multi-year grid demand",
+      "items": [
+        {
+          "id": "2026-11-12-cb-1",
+          "headline": "TNB commits to 'grid-first' buildout backed by RM43b RP4 network capex (2025-2027)",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-11",
+          "detail": "Tenaga Nasional Bhd is prioritising national grid strengthening ahead of anticipated demand, president and CEO Datuk Seri Ir Shamsul Ahmad said in a keynote at the Clean Energy Transition Asia 2026 event, backed by approximately RM43 billion of network capital expenditure under Regulatory Period 4 (2025-2027). He framed grid readiness as crucial to Malaysia's economic certainty, including digitalisation and industrial growth.",
+          "soWhat": "Grid-first means cables and grid hardware get ordered before load arrives - multi-year demand visibility for cable makers and grid contractors rather than reactive tendering.",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/11/tnb-puts-grid-first-in-rm43b-modernisation-push-to-power-malaysias-economic-growth/242852"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825337"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (825150-825620, 236 resolved, 156 in-window), TNGlobal WP API (main feed 403), Star /business front via browser, MM/NST/FMT/theSun/BH/Malaysiakini feeds, Bursa mirror (420 rows). Used: Zetrix extension (ai-1), wholesale power market (ai-2), Mitsui foil plant (ai-3), EPG Senai (ai-4). Seen, not itemised: Malaysia 27th in IMD digital/AI ranking (ranking PR); Teo online-safety plans for platforms (regulatory process); Nvidia espionage pieces (US); SoftBank shares wobble post-loss (follow-on to 11 Nov item).",
+    "propertyDevelopment": "Checked: same portal set plus EdgeProp /news via browser. Used: S P Setia 3Q (pd-1), EcoWorld sukuk (pd-2), LBS Reserva (pd-3). Seen, not itemised: Paramount's RM66.3m loan to the proposed Mitsui Fudosan JV (incremental to the 5 Nov item); Matrix MVV 2.0 strategy talk; EdgeProp S P Setia sales/borrowings piece (overlaps pd-1); done-deal transactions.",
+    "construction": "Checked: same portal set plus Bursa mirror. Used: Southern Score RM146.8m DC subcontracts (con-1), Jati Tinggi auditor resignation (con-2). Seen, not itemised: PM's Bumiputera contractor allocation remarks (policy rhetoric); Pan Borneo contracts statement (minister reassurance); Pekat Main Market transfer application (listing admin); L&P Global RM11.76m building jobs (small); MMAG AMLA account release (out of scope).",
+    "propertyInvestment": "Checked: same portal set. No retail-property item verified today - EdgeProp's Sunway REIT retail-growth piece re-frames the 3Q results itemised in the 11 Nov edition (duplicate); I-Berhad's property-investment PBT rise is not retail-specific (out of scope). Not 'no news' - sources were read.",
+    "plantation": "Checked: same portal set. Used: United Plantations 3Q (pl-1), MPOB December reference price + analyst stock outlook (pl-2). Seen, not itemised: Felda Palm Industries' conviction quashed (court case); PLS/Southern Acids/Astral Asia monthly production filings (routine); Genting Plantations OTHERS filing (routine).",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in window. Not 'no news' - sources were read.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant consumer-financing news in window; the EPF i-Sayang extension study is a proposal at study stage, not a lender product change. Not 'no news' - sources were read.",
+    "cablesManufacturing": "Checked: same portal set. Used: TNB grid-first RP4 capex (cb-1). Watchlist cable names saw only routine filings (Southern Cable ESOS s138; warrant expiry).",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or named-watchlist materials news in window (PM's modular-construction housing push was itemised 11 Nov). Not 'no news' - sources were read.",
+    "hotels": "Checked: same portal set. No hotel-specific news in window (InterContinental Penang opening was itemised 11 Nov). Not 'no news' - sources were read."
+  },
+  "generalCoverage": [
+    "Edition window: from the 11 Nov edition's verified cutoff (07:26 MYT 11 Nov) to ~07:45 MYT 12 Nov 2026. Edge probe 825150-825620: 471 probed, 236 resolved, 156 in-window (max resolved 825423 at 06:34 MYT 12 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa Malaysia's official site blocks automation; the KLSE Screener mirror pages 1-14 (420 rows: 342 dated 11 Nov - a full trading day - plus 78 residual 10 Nov rows) were captured in full and saved. Opened filings: Zetrix extension approval (11700747), Zetrix dividend/DRP update (11700759), S P Setia 3Q results (11700545), Jati Tinggi auditor resignation (11700703), Dialog PSC update (11700553, out of scope), Pekat transfer application (11700581, out of scope).",
+    "The Star /business front (listing updated 6:50pm 11 Nov) was swept via cloud browser; all relevant items overlap Edge/filings already itemised, and broker-view pieces (Kitacon, Binastra, Critical Holdings, Sun-REIT 4Q outlook) were triaged as analyst views, not company news.",
+    "EdgeProp /news was swept via browser: overlaps with itemised results (S P Setia sales, Sunway REIT 9M retail NPI) not double-counted; branded features and done-deals excluded.",
+    "TMR remains behind a 403 bot wall (terminal under the no-challenge-bypass rule). TNGlobal's main feed 403s - the WP API was used. Sinar Harian's /rss returns an HTML page, not a feed. Bernama's feed returned 200 but its items carry no date fields, so window attribution is impossible (partial). KiniBiz's feed is stale (latest item Sep 2026). Malaysiakini's feed was healthy (politics-led, nothing sectoral).",
+    "Government quick checks: MOF, MPOB, KPKT and CIDB pages returned 200 with no new dated sector releases (CIDB's 11 Nov item is an asset-disposal tender); BNM's press-release path 404s again.",
+    "Floods, day 7: evacuees rose to 1,435 across Selangor and Perak (11 Nov night) - monitoring; not sector news."
+  ],
+  "watchlistCoverage": [
+    "Kitacon: The Star carried a broker note ('Cash-flow visibility added advantage for Kitacon') - an analyst view, not company news; not itemised.",
+    "Southern Cable and Pesona Metro: 11 Nov Bursa filings are routine (Southern Cable ESOS s138 notice and a CW warrant expiry; Pesona share buy-back) - no contracts or material transactions.",
+    "OKA, Chin Hin, Master Tec, Crest Builder, Tuju Setia, GDB, TCS, Inta Bina, Nestcon: no in-window filings or articles naming them.",
+    "Zetrix AI chain (not watchlist, tracked): default confirmed 10 Nov -> Bursa extends disclosure deadline to 13 Nov (ai-1); FY2025 dividend to affected shareholders still withheld; Nov 23 payment directive stands; RM214m sukuk payment due March 2027."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 156,
+      "used": 10,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 12,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 13,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 24,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 9,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 342,
+      "used": 3,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

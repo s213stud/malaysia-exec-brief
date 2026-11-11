@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR 403 bot wall - terminal per the no-solver rule. Star and EdgeProp fronts swept via browser. Bernama (undated feed items), Sinar (HTML at /rss), KiniBiz (stale feed), Malaysiakini, BH and gov pages logged outside the manifest scope (BNM 404 again; MOF/KPKT/MPOB/CIDB no new dated sector releases). Full 11 Nov trading day: 342 Bursa rows captured."
+}
