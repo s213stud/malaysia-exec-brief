@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-13",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-13T07:20:46+08:00",
+    "2026-11-13T07:20:58+08:00",
+    "2026-11-13T07:21:36+08:00",
+    "2026-11-13T07:21:47+08:00",
+    "2026-11-13T07:22:22+08:00",
+    "2026-11-13T07:22:24+08:00",
+    "2026-11-13T07:35:00+08:00"
+  ],
+  "publishedAt": "2026-11-13T07:50:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Jensen Huang's exit lands directly on Malaysia's data-centre corridor",
+      "soWhat": "YTL Power lost RM3b in a day and Putrajaya answered with a draft oversight law - the Nvidia shock is now a domestic market and regulatory event, not just a US governance story.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-13-ai-1",
+        "2026-11-13-ai-3",
+        "2026-11-13-ai-2"
+      ]
+    },
+    {
+      "headline": "Data-centre compliance is being written now: operator, hyperscaler and GPU disclosures plus incident notification",
+      "soWhat": "Operators and landlords should price in disclosure and reporting obligations - the transshipment narrative is being answered with law, and the Speedmatrix review shows enforcement appetite.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-13-ai-2"
+      ]
+    },
+    {
+      "headline": "The Zetrix default has reached fund holders - AmanahRaya's four-fund write-off lands hours before today's disclosure deadline",
+      "soWhat": "With BPA pricing ceased and a full write-off taken, today's Nov 13 disclosure pack decides whether mid-tier sukuk treat this as idiosyncratic or systemic.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-13-ai-4"
+      ]
+    },
+    {
+      "headline": "Grid and data-centre demand is converting into supplier earnings: Master Tec revenue +72.5%, MyDCD carries RM1.32b into Monday's debut",
+      "soWhat": "The pick-and-shovel layer is delivering real numbers while the headline names wobble - the divergence between sentiment trades and order-book trades is the opportunity set.",
+      "sectorKeys": [
+        "cablesManufacturing",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-13-cb-1",
+        "2026-11-13-con-1"
+      ]
+    },
+    {
+      "headline": "Plantation results are splitting on volumes, not price",
+      "soWhat": "JPG's -5.4% on 16.8% lower deliveries vs UPL's record quarter - with CPO ASPs firm (RM4,732 at JPG), estate-level execution is what separates the season's winners from losers.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-13-pl-1",
+        "2026-11-13-pl-2"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Huang's exit hits the DC trade as Putrajaya hardens oversight; Zetrix write-offs spread to funds",
+      "items": [
+        {
+          "id": "2026-11-13-ai-1",
+          "headline": "Nvidia CEO Jensen Huang steps down amid spy-affair scandal; CFO Colette Kress takes over as interim chief",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Nvidia co-founder and CEO Jensen Huang is stepping down, with CFO Colette Kress as interim CEO while the board seeks a permanent successor; Huang (about 3.61% stake) will not remain on the board. The board met Wednesday to consider his ouster, a person familiar with the matter said, after reports of an affair with a Chinese businesswoman US authorities suspect of spying for Beijing - and of a second affair with a senior executive who reported to him. The exit plunges the US$4 trillion (RM16.3 trillion) company into uncertainty; ClearBridge Investments' Michael Feldman frames the risk as execution, not the technology roadmap.",
+          "soWhat": "The AI trade's central figure is gone mid-supercycle - execution risk at Nvidia now transmits directly into every data-centre thesis, Malaysia's included; claims rest on reported accounts and are attributed accordingly.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825431"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-13-ai-2",
+          "headline": "Malaysia drafts data-centre oversight law with mandatory operator, hyperscaler and GPU-import disclosures, and reviews Speedmatrix re-export breaches",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Malaysia is drafting legislation to strengthen data-centre oversight and prevent advanced chips being diverted abroad, MITI Minister Datuk Seri Johari Abdul Ghani said - requiring disclosures on the identities of data-centre operators and hyperscalers, facility locations, electricity consumption and GPU import counts, after cases where companies imported GPUs without using them locally and re-exported them. Separately, the government will review whether Speedmatrix Sdn Bhd, a unit of Singapore-based Megaspeed International linked to the Nvidia chip controversy, breached export restrictions, and stands ready to facilitate foreign investigations. Digital Minister Gobind Singh Deo said reporting and notification requirements for data-centre operators will also be strengthened so infrastructure disruptions reach authorities promptly; the Data Centre Task Force he co-chairs with Johari is driving the work.",
+          "soWhat": "Compliance is arriving for the DC sector: identity, power and GPU disclosure plus incident notification raise operating requirements - and directly target the transshipment narrative hanging over Malaysian DC hubs.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825488"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825505"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825501"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-13-ai-3",
+          "headline": "YTL Power slides 8%, losing over RM3b in market value, as Nvidia turmoil hits Malaysia's data-centre trade",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Data-centre-linked Malaysian stocks fell Thursday, led by YTL Power International Bhd - down 39 sen or over 8% to RM4.40, erasing more than RM3 billion of market capitalisation on nearly 41 million shares. The group, valued at RM38 billion, is an Nvidia data-centre partner operating an AI facility in Johor equipped with the chipmaker's latest chips. YTL Corp also extended losses. The sell-off followed Wall Street Journal reports that Nvidia was preparing to oust Huang, which broke while the stock was still reeling from the weekend spy-affair revelations.",
+          "soWhat": "The Nvidia discount is now priced into local DC proxies - watch whether the sell-off stays sentiment-driven or starts hitting contract expectations for the Johor AI build-out.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825519"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-13-ai-4",
+          "headline": "AmanahRaya writes off Zetrix AI sukuk across four funds as the RM25.68m default stays unpaid - disclosure deadline lands today",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "AmanahRaya Investment Management Sdn Bhd (ARIM) wrote off the entire value of Zetrix AI sukuk held by four funds - AmanahRaya Unit Trust Fund, Syariah Trust Fund, Mixed Asset Syariah Conservative Income Fund and Syariah Income Fund - effective Nov 10, according to an investor memo sighted by The Edge; trustees approved the valuation change. The defaulted RM25.68 million sukuk wakalah payment (due Nov 6) remained outstanding as of Nov 10, MARC has downgraded the RM2 billion programme to default and ended coverage, and Bond Pricing Agency Malaysia ceased pricing the sukuk. Zetrix AI's extended deadline to make its Bursa-directed disclosures - on its financial position, dividend issues, director and auditor resignations, ESOS and the JPJ suspension impact - falls today, Nov 13.",
+          "soWhat": "The default has moved from the issuer to fund holders' NAVs - today's disclosure pack decides whether the market treats this as a liquidity timing issue or a deeper credit event for mid-tier sukuk.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825443"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "Master Tec's 3Q turns the grid/DC demand story into earnings",
+      "items": [
+        {
+          "id": "2026-11-13-cb-1",
+          "headline": "Master Tec 3Q net profit rises 16.6% to RM10m as cable sales surge 72.5%, citing data-centre and grid demand",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Master Tec Group Bhd's 3QFY2026 net profit rose 16.6% to RM10 million on revenue of RM199.85 million, up 72.5% year-on-year, per its bourse filing; both its manufacturing segment and its contracts and engineering-related works contributed. Nine-month net profit rose 19.3% to RM23.82 million on revenue of RM431.51 million (+48.3%). No dividend was declared. The cable maker said industry outlook stays supported by infrastructure, utilities, construction, telecommunications, renewable energy and data-centre activity, and will focus on power, control and communications cable manufacturing and distribution. Separately it disclosed RM38.43 million of advances and guarantees to 51%-owned Sediacom Sdn Bhd, and reported no material development on its Yangtze (Jiangsu) Marine Technology MOU.",
+          "soWhat": "The grid-first capex narrative is showing up in a cable maker's P&L with operating leverage - revenue growing 4x faster than profit implies competitive pricing for the DC/utilities work; the Sediacom guarantee load is the balance-sheet footnote to watch.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825562"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11701073"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "mastertec"
+          ]
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "Hektar grinds out operational NPI growth",
+      "items": [
+        {
+          "id": "2026-11-13-pi-1",
+          "headline": "Hektar REIT 3Q net property income rises 3.5% to RM15.44m on occupancy and cost optimisation",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Hektar REIT's 3QFY2026 net property income rose 3.5% year-on-year to RM15.44 million on revenue of RM32.04 million (+3.2%), per its bourse filing; no income distribution was proposed for the quarter. Nine-month NPI grew 5% to RM48.08 million on revenue of RM94.99 million (+1.1%), driven by higher occupancy, tenancy remixing, cost optimisation and the Bayan Lepas industrial acquisition. The retail-focused portfolio spans Subang Parade, Mahkota Parade, Wetex Parade, Central Square, Kulim Central and Segamat Central.",
+          "soWhat": "Suburban retail continues to grind out low-single-digit NPI growth - slow but steady, and the improvement is operational (occupancy, remixing) rather than valuation-driven.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825553"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11701091"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "IOIPG REIT reprices lower; water security and shared data enter the developer checklist",
+      "items": [
+        {
+          "id": "2026-11-13-pd-1",
+          "headline": "IOIPG REIT cuts its IPO price to 91 sen from 96 sen after bookbuilding; public offer subscribed 1.59 times",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "IOIPG Malaysia REIT fixed both its institutional and final retail prices at 91 sen per unit, down from the 96 sen set when the IPO was priced earlier this month (covered in the 4 Nov edition), with five sen to be refunded to successful retail applicants. The public offer was subscribed 1.59 times (0.59 times oversubscribed). Malaysian Issuing House said the institutional book drew predominantly long-only investors, including government-linked investment companies and insurers, and that the price also lets IOI Properties Group shareholders invest at pro forma net asset value. The cut comes against what the statement called market uncertainties - FBM KLCI hit a 14-month low the same day.",
+          "soWhat": "A five-sen price cut with thin retail demand is a reality check on big-ticket REIT pricing in this market - watch the debut; it resets the benchmark for developer capital-recycling via listings.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825555"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11701409"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-13-pd-2",
+          "headline": "EcoWorld signs NS Corp pact to study desalination supply for its Negeri Sembilan industrial parks",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Eco World Development Group Bhd signed a one-year memorandum of understanding with NS Corporation to jointly study a desalination water treatment plant as an alternative and supplementary industrial water source for its Negeri Sembilan industrial parks - and any future EcoWorld parks in the state. NS Corporation is the statutory body behind the 379,000-acre Malaysia Vision Valley 2.0 covering Seremban, Nilai and Port Dickson.",
+          "soWhat": "An MOU-stage study, not a project - but water security is becoming a site-selection factor for industrial land, and EcoWorld is de-risking its MVV-positioned parks early.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825529"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-13-pd-3",
+          "headline": "KPKT builds a shared housing-data repository to tackle unsold stock and spare developers duplicate market studies",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "The Housing and Local Government Ministry is developing an integrated housing data repository under the 13th Malaysia Plan, consolidating supply, demand, affordability, income, prices and unsold residential stock by locality, Deputy Minister Datuk Aiman Athirah Sabu told the Dewan Rakyat. The aim is to centralise demand and affordability analysis for state and local authority decisions without imposing study requirements on every developer - which she said would raise compliance costs, particularly for smaller developers, and ultimately feed into house prices. She was responding to a question on the 8.6% rise in unsold completed units.",
+          "soWhat": "If delivered, shared locality-level data changes feasibility economics - smaller developers get market intelligence they cannot commission alone; approval decisions may also become more data-driven.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825482"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Volumes split the season: JPG slips on deliveries, Rimbunan Sawit monetises land",
+      "items": [
+        {
+          "id": "2026-11-13-pl-1",
+          "headline": "Johor Plantations 3Q net profit slips 5.4% to RM100.26m as lower deliveries offset firmer CPO prices",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Johor Plantations Group Bhd's 3QFY2026 net profit fell to RM100.26 million (from RM106.04 million) on revenue of RM450.72 million (-9.2%), per its bourse filing; EPS was 1.50 sen and it declared a 1.5 sen interim dividend (prior year: 1.75 sen), payable Dec 10. CPO and palm kernel delivery volumes fell 16.8% and 14.7% year-on-year, while average CPO selling price rose 6.5% to RM4,732 per tonne and PK 7.4% to RM3,816. Nine-month net profit fell 21.5% to RM201.76 million on revenue of RM1.22 billion (-0.9%). (The Star's headline saying profit 'doubled' conflicts with the filing; the filing-based figures are used here.)",
+          "soWhat": "Volume, not price, is the swing factor this season - JPG's delivery shortfall cut through a 6.5% price gain, the mirror image of United Plantations' volume-driven record quarter.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825522"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11700911"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-13-pl-2",
+          "headline": "Rimbunan Sawit sells 613ha of Sarawak plantation land for RM18.39m cash to a mosque trust chaired by the state premier",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Rimbunan Sawit Bhd's wholly owned RH Plantation Sdn Bhd signed a sale and purchase agreement to dispose of 613 hectares along Sungai Bok in Bakong, Baram (Miri division) to Lembaga Amanah Kebajikan Masjid Negeri Sarawak (LAKMNS) for RM18.39 million cash - RM30,000 per hectare, about 2.17% above the RM18 million market value assessed by independent valuer Henry Butcher Malaysia (Miri) on Sept 15. LAKMNS is an Islamic charitable trust under Sarawak's Charitable Trusts Ordinance 1994, chaired by Premier Tan Sri Abang Johari Tun Openg; the filing classes the deal as a non-related-party transaction. Rimbunan Sawit said the sale streamlines its portfolio and funds working capital.",
+          "soWhat": "Priced slightly above an independent valuation and filed as non-related-party - but a buyer chaired by the state premier warrants governance attention; the cash matters more to a small planter's balance sheet than the price premium.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825551"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11701157"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "MyDCD's RM1.32b DC order book heads to the ACE Market Monday",
+      "items": [
+        {
+          "id": "2026-11-13-con-1",
+          "headline": "MyDCD posts RM25.71m 1Q profit with a RM1.32b data-centre order book ahead of its Nov 17 ACE Market debut",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-12",
+          "detail": "Engineering firm MyDCD Bhd reported 1QFY2027 net profit of RM25.71 million on revenue of RM178.68 million (14.4% net margin), with MEPF (mechanical, electrical, plumbing and fire protection) systems integration for data centres contributing 96.85% of revenue. Its outstanding order book stood at RM1.32 billion at end-September - RM1.27 billion of DC MEPF work recognisable progressively to FY2028, plus RM53.08 million of maintenance to FY2032. MyDCD lists on the ACE Market on Nov 17 with an enlarged capital of 1.794 billion shares (stock code 0482); its IPO was 36.46 times oversubscribed (5 Nov edition).",
+          "soWhat": "A near-pure-play DC M&E contractor hits the market Monday with visible revenue to FY2028 - its debut pricing will read across to every unlisted DC contractor considering a listing.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825545"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11701403"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11701219"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (825390-825700, 183 resolved, 150 in-window), TNGlobal WP API (main feed 403), Star /business front via browser, MM/NST/FMT/theSun/BH/Malaysiakini feeds, Bursa mirror (420 rows). Used: Huang exit (ai-1), DC oversight law + Speedmatrix review (ai-2), YTL Power slide (ai-3), Zetrix write-off (ai-4). Seen, not itemised: Impact Capital 140x IPO (tech, small); MyKomuter50 pass (transit); Anwar AI-risk remarks (rhetoric); wire Nvidia fallout pieces.",
+    "propertyDevelopment": "Checked: same portal set. Used: IOIPG REIT repricing (pd-1), EcoWorld-NS Corp water MOU (pd-2), KPKT housing repository (pd-3). Seen, not itemised: IJM Land's RM70.9m Sovana launch (small phase, company statement); Avaland's Meria hub tenant announcements (marketing); Sunway's 25 Nov results-date filing (calendar).",
+    "construction": "Checked: same portal set. Used: MyDCD 1Q + listing (con-1). Seen, not itemised: Jasa Kita RM12.9m disposal (small); Rivertree CLQ acquisition (labour quarters, out of scope); SunCon none today.",
+    "propertyInvestment": "Checked: same portal set. Used: Hektar REIT 3Q (pi-1). Seen, not itemised: Sun-REIT 4Q broker outlook (analyst view); Atrium/CLMT routine s138 notices.",
+    "plantation": "Checked: same portal set. Used: JPG 3Q (pl-1), Rimbunan Sawit disposal (pl-2). Seen, not itemised: Indonesia palm tracing system (regional); Indonesia 2026 export estimate (regional minister); PLS/Southern Acids/Astral monthly production filings (routine).",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in window. Not 'no news' - sources were read.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant consumer-financing news in window. Not 'no news' - sources were read.",
+    "cablesManufacturing": "Checked: same portal set. Used: Master Tec 3Q (cb-1, watchlist). Its Yangtze MOU quarterly update reports no material development; the RM38.43m Sediacom financial assistance is a standing quarterly disclosure.",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or named-watchlist materials news in window. Not 'no news' - sources were read.",
+    "hotels": "Checked: same portal set. No hotel-specific news in window. Not 'no news' - sources were read."
+  },
+  "generalCoverage": [
+    "Edition window: from the 12 Nov edition's verified cutoff (07:28 MYT 12 Nov) to ~07:50 MYT 13 Nov 2026. Edge probe 825390-825700: 311 probed, 183 resolved, 150 in-window (max resolved 825578 at 06:42 MYT 13 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa Malaysia's official site blocks automation; the KLSE Screener mirror pages 1-14 (420 rows: 336 dated 12 Nov - a full trading day - plus 84 residual 11 Nov rows) were captured in full and saved. Opened filings: Master Tec 3Q + MOU update + Sediacom assistance, Hektar REIT 3Q, IOIPG REIT pricing, Johor Plantations 3Q + dividend, Rimbunan Sawit disposal, MyDCD 1Q + IPO, Sunway results-date notice.",
+    "The Star /business front was swept via browser; all relevant items overlap Edge/filings. One conflict logged: The Star's 'Johor Plantations profit doubles' headline contradicts the filing (-5.4% net profit); filing-based figures used.",
+    "EdgeProp sweep not relied on this run: navigation triggered an anti-bot challenge and an automatic solver ran; under the standing no-challenge-bypass rule the page content was treated as unavailable. Its in-window headlines (KPKT data repository, IOIPG REIT 1.59x, IJM Sovana, Eppendorf Penang) all duplicate items verified from Edge/filings.",
+    "TMR remains behind a 403 bot wall (terminal under the no-challenge-bypass rule). TNGlobal's main feed 403s - the WP API was used (in-window items regional/foreign). Sinar Harian's /rss returns an HTML page, not a feed. Bernama's feed items carry no date fields (partial). KiniBiz's feed is stale (latest Sep 2026). Malaysiakini's feed was healthy (politics-led).",
+    "Government quick checks: MOF, MPOB, KPKT and CIDB pages returned 200 with no new dated sector releases; BNM's press-release path 404s again.",
+    "Zetrix watch: the extended Bursa disclosure deadline falls today (13 Nov); the next hard dates are the Nov 23 dividend payment directive and the RM214m sukuk payment due March 2027."
+  ],
+  "watchlistCoverage": [
+    "Master Tec (watchlist): 3QFY2026 itemised as cb-1 - first quarterly earnings for the name since scans began; revenue +72.5%, net +16.6%, no dividend; Sediacom guarantees of RM38.43m noted.",
+    "Other watchlist companies (OKA, Chin Hin, Southern Cable, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon): no in-window filings or articles naming them beyond routine notices.",
+    "Zetrix AI chain (not watchlist, tracked): RM25.68m default unpaid as of Nov 10; AmanahRaya write-offs across four funds (ai-4); disclosure deadline today; dividend directive Nov 23; RM214m due March 2027.",
+    "Sunway: 3QFY26 results targeted for release after 5pm on Nov 25 (company filing) - calendar note for the property/construction coverage."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 150,
+      "used": 12,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 17,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "New Straits Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 15,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 24,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 336,
+      "used": 6,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}
