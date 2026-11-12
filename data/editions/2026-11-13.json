@@ -9,7 +9,7 @@
     "2026-11-13T07:21:47+08:00",
     "2026-11-13T07:22:22+08:00",
     "2026-11-13T07:22:24+08:00",
-    "2026-11-13T07:35:00+08:00"
+    "2026-11-13T07:24:18+08:00"
   ],
   "publishedAt": "2026-11-13T07:25:23+08:00",
   "keyTakeaways": [
@@ -76,13 +76,21 @@
       "items": [
         {
           "id": "2026-11-13-ai-1",
-          "headline": "Nvidia CEO Jensen Huang steps down amid spy-affair scandal; CFO Colette Kress takes over as interim chief",
+          "headline": "Nvidia CEO Jensen Huang resigns effective immediately; CFO Colette Kress named interim chief, Harvey Jones first-ever board chair",
           "verdict": "Watch",
           "freshness": "current",
           "publishedDate": "2026-11-12",
-          "detail": "Nvidia co-founder and CEO Jensen Huang is stepping down, with CFO Colette Kress as interim CEO while the board seeks a permanent successor; Huang (about 3.61% stake) will not remain on the board. The board met Wednesday to consider his ouster, a person familiar with the matter said, after reports of an affair with a Chinese businesswoman US authorities suspect of spying for Beijing - and of a second affair with a senior executive who reported to him. The exit plunges the US$4 trillion (RM16.3 trillion) company into uncertainty; ClearBridge Investments' Michael Feldman frames the risk as execution, not the technology roadmap.",
-          "soWhat": "The AI trade's central figure is gone mid-supercycle - execution risk at Nvidia now transmits directly into every data-centre thesis, Malaysia's included; claims rest on reported accounts and are attributed accordingly.",
+          "detail": "NVIDIA's board announced on 12 Nov that Jensen Huang has resigned as President, CEO and board member, effective immediately; EVP and CFO Colette Kress serves as interim CEO while keeping the CFO role until a permanent successor is named, and Harvey C. Jones was appointed the board's first-ever chair (NVIDIA newsroom announcement; SEC 8-K filed 11-12 Nov). The official statement gives no reason for the resignation. It follows Wall Street Journal reports that the board met Wednesday to consider his ouster after reports of an affair with a Chinese businesswoman US authorities suspect of spying for Beijing - and of a second affair with a senior executive who reported to him; Huang, holding about a 3.61% stake, will not remain on the board (The Edge, citing a person familiar with the matter). The exit plunges the US$4 trillion (RM16.3 trillion) company into uncertainty; ClearBridge Investments' Michael Feldman frames the risk as execution, not the technology roadmap.",
+          "soWhat": "The AI trade's central figure is gone mid-supercycle - execution risk at Nvidia now transmits directly into every data-centre thesis, Malaysia's included. The resignation itself is officially confirmed; the reasons remain reported accounts and are attributed accordingly.",
           "sources": [
+            {
+              "publisher": "NVIDIA Newsroom",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+            },
+            {
+              "publisher": "SEC EDGAR (NVIDIA 8-K)",
+              "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+            },
             {
               "publisher": "The Edge",
               "url": "https://theedgemalaysia.com/node/825431"
@@ -317,7 +325,7 @@
           "freshness": "current",
           "publishedDate": "2026-11-12",
           "detail": "Engineering firm MyDCD Bhd reported 1QFY2027 net profit of RM25.71 million on revenue of RM178.68 million (14.4% net margin), with MEPF (mechanical, electrical, plumbing and fire protection) systems integration for data centres contributing 96.85% of revenue. Its outstanding order book stood at RM1.32 billion at end-September - RM1.27 billion of DC MEPF work recognisable progressively to FY2028, plus RM53.08 million of maintenance to FY2032. MyDCD lists on the ACE Market on Nov 17 with an enlarged capital of 1.794 billion shares (stock code 0482); its IPO was 36.46 times oversubscribed (5 Nov edition).",
-          "soWhat": "A near-pure-play DC M&E contractor hits the market Monday with visible revenue to FY2028 - its debut pricing will read across to every unlisted DC contractor considering a listing.",
+          "soWhat": "A near-pure-play DC M&E contractor hits the market Tuesday with visible revenue to FY2028 - its debut pricing will read across to every unlisted DC contractor considering a listing.",
           "sources": [
             {
               "publisher": "The Edge",
@@ -350,7 +358,7 @@
     "hotels": "Checked: same portal set. No hotel-specific news in window. Not 'no news' - sources were read."
   },
   "generalCoverage": [
-    "Edition window: from the 12 Nov edition's verified cutoff (07:28 MYT 12 Nov) to ~07:50 MYT 13 Nov 2026. Edge probe 825390-825700: 311 probed, 183 resolved, 150 in-window (max resolved 825578 at 06:42 MYT 13 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Edition window: from the 12 Nov edition's verified cutoff (07:28 MYT 12 Nov) to 07:24 MYT 13 Nov 2026 (research cutoff; published 07:25 MYT). Edge probe 825390-825700: 311 probed, 183 resolved, 150 in-window (max resolved 825578 at 06:42 MYT 13 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
     "Bursa Malaysia's official site blocks automation; the KLSE Screener mirror pages 1-14 (420 rows: 336 dated 12 Nov - a full trading day - plus 84 residual 11 Nov rows) were captured in full and saved. Opened filings: Master Tec 3Q + MOU update + Sediacom assistance, Hektar REIT 3Q, IOIPG REIT pricing, Johor Plantations 3Q + dividend, Rimbunan Sawit disposal, MyDCD 1Q + IPO, Sunway results-date notice.",
     "The Star /business front was swept via browser; all relevant items overlap Edge/filings. One conflict logged: The Star's 'Johor Plantations profit doubles' headline contradicts the filing (-5.4% net profit); filing-based figures used.",
     "EdgeProp sweep not relied on this run: navigation triggered an anti-bot challenge and an automatic solver ran; under the standing no-challenge-bypass rule the page content was treated as unavailable. Its in-window headlines (KPKT data repository, IOIPG REIT 1.59x, IJM Sovana, Eppendorf Penang) all duplicate items verified from Edge/filings.",
