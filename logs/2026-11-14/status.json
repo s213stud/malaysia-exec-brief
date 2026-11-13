@@ -1,0 +1,14 @@
+{
+ "The Malaysian Reserve": {
+  "status": "blocked",
+  "note": "Cloudflare challenge at /feed/ - terminal under the no-challenge-bypass rule."
+ },
+ "Bernama": {
+  "status": "partial",
+  "note": "Feed 200 but items carry no date fields - window attribution impossible."
+ },
+ "KiniBiz": {
+  "status": "partial",
+  "note": "Feed stale - latest item Sep 2026."
+ }
+}

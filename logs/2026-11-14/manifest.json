@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR Cloudflare challenge - terminal per the no-solver rule. EdgeProp accessible this run and itemised (pd-2). Star swept via browser (ai-3 itemised). Bernama (undated items), KiniBiz (stale), Sinar (listing checked), Malaysiakini, BH and gov pages logged outside the manifest scope. Full 13 Nov trading day: 311 Bursa rows captured."
+}
