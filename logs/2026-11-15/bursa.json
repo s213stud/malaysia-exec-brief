@@ -1,0 +1,15 @@
+{
+ "checkedAt": "2026-11-15T07:21:16+08:00",
+ "method": "curl via KLSE Screener mirror (bursamalaysia.com 403s automation)",
+ "filters": {
+  "dateFrom": "2026-11-14",
+  "dateTo": "2026-11-15",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 0,
+ "note": "Mirror pages 1-4 captured in full (120 rows): every row dated 13 Nov - zero new filings on 14-15 Nov at check time, consistent with a weekend.",
+ "results": []
+}

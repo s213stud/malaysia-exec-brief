@@ -1,0 +1,305 @@
+{
+  "date": "2026-11-15",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-15T07:20:35+08:00",
+    "2026-11-15T07:21:16+08:00",
+    "2026-11-15T07:22:12+08:00",
+    "2026-11-15T07:22:50+08:00",
+    "2026-11-15T07:23:11+08:00",
+    "2026-11-15T07:24:50+08:00",
+    "2026-11-15T07:25:51+08:00",
+    "2026-11-15T07:26:21+08:00"
+  ],
+  "publishedAt": "2026-11-15T07:40:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Malaysia's Nvidia-chip investigation is confirmed - and old: an April 2025 probe under the Strategic Trade Act, led by MITI with five agencies",
+      "soWhat": "Enforcement moves from signalling to an active 18-month investigation with transit-hub and proxy-company scope; provenance diligence is a live requirement for DC landlords, traders and financiers - watch what MITI conveys to Washington.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-15-ai-1"
+      ]
+    },
+    {
+      "headline": "Nvidia's succession race is open: Arm's Rene Haas sounded out (FT), Kress interim, employees pushing for Huang's return (Wired)",
+      "soWhat": "Leadership uncertainty at the AI supply chain's anchor compounds the Malaysia probe's optics; counterparties are already seeking supply and compliance assurances, as South Korea did.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-15-ai-2"
+      ]
+    },
+    {
+      "headline": "Asean's DEFA is signed - the region's digital-economy rulebook now exists",
+      "soWhat": "Cross-border e-commerce, e-payments and data flows get a common framework; the double-to-US$2t-by-2030 line is Manila's projection, but implementing protocols are the operative text for Malaysian ICT players.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-15-ai-3"
+      ]
+    },
+    {
+      "headline": "Avaland's 60% Accent PJ take-up contrasts with JPPH's 7.1% national 3Q sales rate",
+      "soWhat": "Klang Valley mid-to-high-end demand is holding selectively - low density and private lifts are beating the national tape; watch whether Accent becomes Avaland's repeatable series.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-15-pd-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "The Nvidia rupture becomes a Malaysian enforcement story: an April 2025 STAC probe disclosed as the succession race opens in Santa Clara",
+      "items": [
+        {
+          "id": "2026-11-15-ai-1",
+          "headline": "Malaysia has been probing alleged Nvidia AI-chip diversion since April 2025 under the Strategic Trade Act - home minister",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-14",
+          "detail": "Police opened an investigation paper as early as April 2025 into US allegations of illicit procurement and diversion of high-performance AI chips, including Nvidia's, through Malaysia, Home Minister Datuk Seri Saifuddin Nasution Ismail told reporters in Perak on Saturday. The probe runs under the Strategic Trade Act 2010 through the STAC committee, with the Ministry of Investment, Trade and Industry as lead agency and Bank Negara Malaysia, the Inland Revenue Board, MCMC, Customs and police involved; its scope covers whether Malaysia was used as a transit hub or whether local proxy companies were involved, with MITI conveying findings to the US authorities. The US allegations centre on Singapore-registered Megaspeed International and its Malaysian affiliate Speedmatrix Sdn Bhd over claims advanced Nvidia chips were shipped to data centres in Malaysia and Indonesia to serve Chinese customers (Malaysiakini). The minister was responding to questions after Nvidia's leadership rupture: co-founder Jensen Huang resigned as president, CEO and board member on Nov 12 (confirmed in the 13 Nov edition via NVIDIA's official announcement); Alice Huang, the former Megaspeed executive at the centre of the US spying probe, is not related to Jensen Huang (Reuters).",
+          "soWhat": "The MITI/Customs posture from the 14 Nov edition now has a confirmed criminal-track investigation behind it, running for over 18 months - DC landlords, chip traders and their financiers should assume transit-hub provenance checks are already live, and watch what MITI conveys to Washington.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825768"
+            },
+            {
+              "publisher": "Malaysiakini",
+              "url": "https://www.malaysiakini.com/news/889108-cops-probing-alleged-nvidia-chip-diversion-since-april-2025-says-saifuddin"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/11/14/a-secret-transit-hub-for-nvidia-ai-chips-minister-says-malaysian-police-on-the-case-since-april/243254"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-15-ai-2",
+          "headline": "Nvidia's board has sounded out Arm CEO Rene Haas as employees push for Jensen Huang's return - FT, Wired reports",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-14",
+          "detail": "Nvidia's board has approached Arm Holdings chief executive Rene Haas in its search for a successor to Jensen Huang, the Financial Times reported on Friday; Haas spent seven years at Nvidia, rising to vice-president and general manager of computing products before joining Arm in 2013, and is one of several candidates with no guarantee of an offer or acceptance. Colette Kress is interim CEO; the board said it is selecting a search firm and called speculation about individual candidates premature. Separately, Wired reported that an internal post by a long-time Nvidia engineer urging the board to consider employee sentiment had drawn more than 1,600 comments, several pushing for Huang's return, and Elon Musk said on X that a reinstatement petition was underway. Reuters, citing internal correspondence it reviewed, reported Huang had misled senior leaders including general counsel Tim Teter and chief marketing officer Alison Wagonfeld about the nature of his relationship with Alice Huang; Huang has retained law firm Paul Weiss. Nvidia and representatives for Huang declined to comment to the respective outlets.",
+          "soWhat": "Succession uncertainty at the anchor of the AI supply chain runs in parallel with Malaysia's confirmed diversion probe (ai-1) - customers and governments are already seeking supply and compliance assurances, as South Korea did in securing Nvidia's reaffirmed 260,000-GPU supply plan (TNGlobal).",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825734"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825739"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825738"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-15-ai-3",
+          "headline": "Asean signs the Digital Economy Framework Agreement in Manila; Malaysia's MITI minister among 11 signatories",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-14",
+          "detail": "Asean member states on Saturday signed the Digital Economy Framework Agreement (DEFA) in Manila, with Malaysia represented by Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani. Philippine Trade and Industry Secretary Cristina Roque called the pact a defining moment in Asean economic integration and said it could help double the region's digital economy from an estimated US$1 trillion to US$2 trillion by 2030 - her projection at the signing ceremony. The agreement provides a common framework for cross-border e-commerce, electronic payments and data flows.",
+          "soWhat": "DEFA is the rulebook layer for the region's digital build-out: for Malaysian ICT and data-centre-adjacent businesses, the cross-border data-flow and e-payment provisions are the operative text to watch as implementing protocols land.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825757"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Avaland's Accent PJ posts 60% take-up against a weak national tape",
+      "items": [
+        {
+          "id": "2026-11-15-pd-1",
+          "headline": "Avaland launches RM400m Accent Petaling Jaya at 60% take-up - debut of its mid-to-high-end Accent series",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-14",
+          "detail": "Avaland Bhd, the Malaysian subsidiary of Philippine developer Ayala Land Inc, launched the RM400 million Accent Petaling Jaya in Section 13 on Saturday; the 37-storey serviced condominium has recorded a 60% take-up since sales opened on Sept 1. Chief operating officer Aw Sei Cheh said the Accent series sits in the group's prime mid-to-high-end unit (alongside Amica, Alora and Alira) and adopts low-density features from the Aetas luxury series - eight units per floor, all with private lift entrances. The 2.17-acre site was acquired from Tan Chong Motor Holdings Bhd in January 2025; five layouts run from 1,165 to 1,880 sq ft, and seven ground-floor retail units will be managed by Avaland for the first two years.",
+          "soWhat": "A 60% take-up since September against JPPH's 7.1% national 3Q sales performance (14 Nov edition) marks a Klang Valley mid-to-high-end outlier - watch whether Accent becomes Avaland's repeatable volume template.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825744"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918316/avaland%E2%80%99s-accent-petaling-jaya-records-60-take-launch"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "MOE promises faster school-construction approvals",
+      "items": [
+        {
+          "id": "2026-11-15-con-1",
+          "headline": "Education ministry pledges to streamline school construction approvals, particularly for government-aided schools",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-14",
+          "detail": "The Ministry of Education will help resolve documentation and administrative procedures once site and enrolment-need issues are settled, Deputy Education Minister Wong Kah Woh said at the groundbreaking of the new SJKC Heng Ee building in Bayan Lepas, Penang, on Saturday; the ministry approved the school's relocation in June 2025. Penang Chief Minister Chow Kon Yeow and Deputy Investment, Trade and Industry Minister Sim Tze Tzin also attended.",
+          "soWhat": "A process commitment rather than a programme, but institutional and education construction pipelines hinge on approval throughput - relevant to builders tracking public-sector job flow.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825743"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (825600-826400, 181 resolved, 70 in-window), TNGlobal WP API (main feed 403), Star /business via browser, MM/NST/FMT/theSun/BH/Malaysiakini feeds. Used: STAC Nvidia-chip probe disclosure (ai-1), Nvidia succession race (ai-2), Asean DEFA signing (ai-3). Seen, not itemised: Nvidia's 260,000-GPU South Korea reaffirmation and Samsung's US$4.5b HBM plant (TNGlobal, Korea); Anwar's monthly cyberattack figures (rhetoric); AI Rudder's CALL-E launch (Singapore product); MM's Trump-Xi AI-talks preview (wire analysis, Tokyo). Excluded: NST's Alice Huang profile (signed opinion column).",
+    "propertyDevelopment": "Checked: same portal set plus EdgeProp (accessible this run). Used: Avaland Accent PJ launch (pd-1). Seen, not itemised: Star's gated-and-guarded legal analysis (community law, no corporate disclosure); Aspira Gardens' Cantonment Residence (launch marketing carried from 13 Nov); EdgeProp 'done deal' snippets (single transactions).",
+    "construction": "Checked: same portal set. Used: MOE school-approvals commitment (con-1). Seen, not itemised: Star's George Town heritage-shophouse maintenance feature (feature, not news); LCS cost-integration remarks (defence procurement).",
+    "propertyInvestment": "Checked: same portal set. No retail-REIT news in window. Not 'no news' - sources were read.",
+    "plantation": "Checked: same portal set. No plantation news in window; Star's oil-palm mechanisation piece is a first-person column, excluded as commentary. Not 'no news' - sources were read.",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in window. Not 'no news' - sources were read.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant consumer-financing news in window. Not 'no news' - sources were read.",
+    "cablesManufacturing": "Checked: same portal set. No cable-sector or named-watchlist news in window. Not 'no news' - sources were read.",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or named-watchlist materials news in window. Not 'no news' - sources were read.",
+    "hotels": "Checked: same portal set. No hotel news in window. Not 'no news' - sources were read."
+  },
+  "generalCoverage": [
+    "Edition window: from the 14 Nov edition's verified cutoff (07:25 MYT 14 Nov) to 07:26 MYT 15 Nov 2026 (actual last check). Edge probe 825600-826400: 801 probed, 181 resolved, 70 in-window (max resolved in-window node 825788 at 00:12 MYT 15 Nov; IDs above unposted at cutoff). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Weekend Bursa check: KLSE Screener mirror pages 1-4 (120 rows) captured in full and saved; every row is dated 13 Nov - zero new filings on 14-15 Nov at check time, consistent with a weekend. bursamalaysia.com blocks automation.",
+    "The Star /business front was swept via browser: the Sunday pieces were features and fund-manager/wire analysis (gated-community law, heritage maintenance, tech-sector outlooks, private debt) with nothing itemisable; the first-person oil-palm mechanisation column was excluded as commentary. EdgeProp was accessible (no challenge): the Avaland launch story was opened and itemised (pd-1); branded pieces excluded.",
+    "TMR remains behind a Cloudflare challenge page at /feed/ (terminal under the no-challenge-bypass rule). TNGlobal's main feed 403s - the WP API was used. Sinar Harian's /bisnes listing was checked and its two current sector pieces (the SoftBank-Grab RM7.5b AI plan; OSK Property's Nara at Shorea Park QLASSIC score) are both dated 10 Nov, pre-window. Bernama's feed items carry no date fields (partial). KiniBiz's feed is stale (latest Sep 2026). Malaysiakini's feed was healthy and corroborated ai-1.",
+    "Government quick checks: MOF, MPOB, KPKT and CIDB pages returned 200 with no new dated sector releases; BNM's homepage shows a 13 Nov four-central-bank local-currency MoU (pre-window; macro/central banking, out of scope).",
+    "Zetrix watch: no new weekend disclosures after the 13 Nov solvency admission; next hard date is the Nov 23 dividend-settlement directive, then the RM214m sukuk payment due March 2027. MyDCD lists on the ACE Market on Tuesday 17 Nov (per its 12 Nov Bursa IPO announcement)."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon) had in-window news; zero new Bursa filings over the weekend.",
+    "Zetrix AI chain (not watchlist, tracked): quiet over the weekend after the 13 Nov solvency admission and covenant proposals; Nov 23 dividend-settlement deadline next; RM214m due March 2027.",
+    "MyDCD (not watchlist, tracked): lists on the ACE Market on Tuesday 17 Nov (per its 12 Nov Bursa IPO announcement; enlarged capital 1.794b shares, code 0482)."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 70,
+      "used": 5,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 4,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 4,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 24,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 16,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcements"
+      ]
+    }
+  ]
+}
