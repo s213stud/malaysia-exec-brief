@@ -1,0 +1,27 @@
+{
+ "checkedAt": "2026-11-16T07:21:08+08:00",
+ "method": "curl via KLSE Screener mirror (bursamalaysia.com 403s automation)",
+ "filters": {
+  "dateFrom": "2026-11-16",
+  "dateTo": "2026-11-16",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 1,
+ "note": "Mirror pages 1-4 captured in full (120 rows: 119 dated 13 Nov kept in the saved pages, plus the single 16 Nov row above). Weekend produced zero new filings.",
+ "results": [
+  {
+   "annId": "11702055",
+   "company": "(not shown on mirror)",
+   "title": "16 Nov Special Ann 7:15 am Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1)",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702055",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "reason": "opened: DBT forbiddance under Rule 10.10(1) at 7:15am; company not shown on the mirror and the original sits behind bursamalaysia.com's automation block - unresolved; NOT confirmed as MyDCD's pre-listing notice",
+   "itemId": null
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-16",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-16T07:20:46+08:00",
+    "2026-11-16T07:21:08+08:00",
+    "2026-11-16T07:22:02+08:00",
+    "2026-11-16T07:22:13+08:00",
+    "2026-11-16T07:22:31+08:00",
+    "2026-11-16T07:23:10+08:00",
+    "2026-11-16T07:23:27+08:00",
+    "2026-11-16T07:23:55+08:00"
+  ],
+  "publishedAt": "2026-11-16T07:40:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "The chip-diversion net tightens from both capitals: Megaspeed says Alice Huang left in Aug 2025 as US Treasury demands answers from Nvidia",
+      "soWhat": "Malaysia's STAC probe and Bessent's shell-company questions run on the same theory - provenance paperwork is now the operating cost for every intermediary between Nvidia and Chinese end-users, including Malaysian DC landlords and traders.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-16-ai-1",
+        "2026-11-16-ai-3"
+      ]
+    },
+    {
+      "headline": "Selangor dates Malaysia's first state-level AI framework: a White Paper in early 2027",
+      "soWhat": "Usage-and-literacy framing today, but a dated framework invites procurement and data rules tomorrow - vendors selling into state agencies should track the drafting.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-16-ai-2"
+      ]
+    },
+    {
+      "headline": "Paramount's 14%-to-20% margin climb targets FY26 sales above RM1b on faster land-to-launch cycles and a replicable Mitsui JV",
+      "soWhat": "Execution speed and risk-sharing capital are the developer differentiators in a 7.1%-take-up market; the Ashbourne clause for a second Mitsui project makes the JV a template, not a one-off.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-16-pd-1"
+      ]
+    },
+    {
+      "headline": "At the affordable end, HGD's RM828m Sungai Petani township is fully sold in phase one - and Gurney Drive is next",
+      "soWhat": "Sub-RM300k landed homes in secondary cities remain the deepest demand pool; watch whether HGD's slow-build family model translates to Penang's premium island market.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-16-pd-2"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Megaspeed distances itself from Alice Huang as Treasury joins the questioning; Selangor dates its AI White Paper",
+      "items": [
+        {
+          "id": "2026-11-16-ai-1",
+          "headline": "Megaspeed says Alice Huang left on Aug 30, 2025 and has no current role, as it probes its own chip compliance",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-15",
+          "detail": "Megaspeed International said on Sunday that Alice Huang - the Chinese businesswoman whose ties to former Nvidia CEO Jensen Huang have raised US national security concerns - officially left the company on Aug 30, 2025 and holds no current role. The Singapore-based Nvidia cloud partner said recent media assertions about its business, supply chain and operations are \"not supported by verifiable evidence\", that it conducts \"legitimate and lawful business\", and that it has retained external legal counsel for a thorough internal investigation; its supply-chain controls are designed to comply with US export-control requirements. Alice Huang became Megaspeed's controlling shareholder in March 2023. The New York Times reported in October 2025 that Megaspeed was under US investigation over whether it helped Chinese customers obtain export-controlled Nvidia chips; the company has not been found to have violated the rules. Malay Mail notes the claims centre on Nvidia chips bought for Megaspeed's South-east Asian data centres being routed to China.",
+          "soWhat": "Megaspeed is formally separating itself from Alice Huang as investigations run on both sides - Malaysia's STAC probe (15 Nov edition) and US export-control scrutiny; for Malaysian DC landlords and chip traders, counterparty provenance paperwork is now the price of operating.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825819"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/15/no-role-with-the-company-megaspeed-distances-itself-from-alleged-chinese-spy-alice-huang/243410"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-16-ai-2",
+          "headline": "Selangor to table an AI White Paper in early 2027 as a usage framework for the public and the state administration",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-15",
+          "detail": "The Selangor state government will table an artificial intelligence White Paper early next year as a guiding framework for shaping mindsets and managing reliance on the technology, including within the state administration, Menteri Besar Datuk Seri Amirudin Shari said in Klang on Sunday. The goal is to keep users capable of adapting to and managing AI \"without compromising sound judgement\" and to avoid becoming entirely dependent on it. The state is also incorporating digital literacy and critical thinking into a programme offering 50,000 free AI access slots through a collaboration with the Selangor Technical Skills Development Centre (STDC), with the course syllabus regulated and managed by STDC.",
+          "soWhat": "The first state-level AI governance framework in Malaysia is now on a dated track - early 2027; watch whether the White Paper stays a usage-and-literacy guide or acquires procurement and data rules that bind vendors selling into state agencies.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825831"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/15/selangor-to-produce-white-paper-on-wise-use-of-ai"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-16-ai-3",
+          "headline": "US Treasury chief Bessent wants answers soon from Nvidia on alleged shell-company chip diversion to China - AFP",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "US Treasury Secretary Scott Bessent wants to know whether Nvidia used shell companies to dodge US restrictions and sell its most powerful chips to China, and wants answers soon, AFP reported. The demand lands as Nvidia navigates its leadership rupture and as Malaysia pursues its own Strategic Trade Act investigation into alleged chip diversion through the country (15 Nov edition).",
+          "soWhat": "Washington's diversion questions are now coming from Treasury, not just Commerce - the same shell-company and transit-hub theory Malaysia's STAC task force is probing; expect tighter provenance demands on every intermediary in the Nvidia supply chain, including South-east Asian cloud partners.",
+          "sources": [
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/16/us-treasury-chief-wants-answers-soon-from-nvidia"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Paramount's margin playbook and HGD's RM828m affordable township bookend the demand spectrum",
+      "items": [
+        {
+          "id": "2026-11-16-pd-1",
+          "headline": "Paramount targets ~20% property margins and FY26 sales above RM1b; Mitsui Fudosan JV has a clause for a second project",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Paramount Corporation Bhd is targeting property development margins of about 20% this year - up from 14%, then 16%, then 18% - and expects FY26 property sales to exceed RM1 billion, deputy group CEO Beh Chun Chong told SunBiz in an interview. The push rests on shortening the land-acquisition-to-launch cycle (its Lunas land deal completed in February was launched within a very short period), earlier design decisions and more strategic capital management. On the JV front, the Mitsui Fudosan partnership on The Ashbourne - a 3.7-acre site off Jalan Ampang with two high-end serviced-residence towers completing Q4 2030, held 51% Paramount and 49% Mitsui Fudosan - includes a clause for both parties to jointly identify land for another project, giving Paramount access to Mitsui's East Asian brand recognition while sharing development and capital risk.",
+          "soWhat": "Margin repair through cycle-time compression and risk-sharing JVs is the developer playbook of this tape - Paramount's 14-to-20% trajectory and a replicable Japanese JV template are the numbers to benchmark against peers at results season.",
+          "sources": [
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/paramount-targets-20-property-margins-expects-fy26-sales-to-top-rm1b/"
+            },
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/paramount-looks-forward-to-more-joint-projects-with-mitsui-fudosan/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-16-pd-2",
+          "headline": "Family developer Heng Guan builds a RM828m Sungai Petani township the slow way - and eyes Penang's Gurney Drive",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-15",
+          "detail": "Heng Guan Development (HGD), the property arm of the four-generation family-owned Heng Guan Group, handed over the fully sold first phase of its RM828 million Kedah township - Aera Gardens in Sungai Petani, 129 single-storey terraced houses of 1,540 sq ft priced from RM238,000 - on Sept 1, with most buyers first-time homeowners below RM300,000, executive director Andrew Lim Hwa Eng told EdgeProp in a bylined feature. The group is eyeing Penang's Gurney Drive for its next move.",
+          "soWhat": "The affordable end of the northern market is clearing fully while Klang Valley mid-to-high-end posts selective wins (Avaland's 60% Accent take-up, 15 Nov) - sub-RM300k landed product in secondary cities remains the deepest demand pool.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918319/family-developer-takes-slow-road-rm828m-kedah-township-eyes-penang-gurney-drive"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (825700-826500, 134 resolved, 46 in-window), TNGlobal WP API (main feed 403), Star /business via browser, MM/NST/FMT/theSun/BH/Malaysiakini feeds. Used: Megaspeed's Alice Huang statement (ai-1), Selangor AI White Paper (ai-2), Bessent's Nvidia questions (ai-3, AFP). Seen, not itemised: Leo KoGuan's Nvidia divestment vow (foreign investor profile); the Jensen Huang reinstatement petition (covered 15 Nov); mandatory WhatsApp verification mulling (policy rhetoric); Star's Nationgate silicon-photonics analysis (paywalled, headline-only); Korea AI-exam cheating (foreign).",
+    "propertyDevelopment": "Checked: same portal set plus EdgeProp (accessible). Used: Paramount margins/Mitsui JV (pd-1, SunBiz interviews), HGD township feature (pd-2, EdgeProp). Seen, not itemised: Star's gated-and-guarded legal analysis and private-hospital oversupply piece (out of scope); Aspira Gardens launch marketing (carried); LBS's The Reserva preview on Sinar (11 Nov, pre-window); OSK Property's Nara QLASSIC score on Sinar (10 Nov, pre-window).",
+    "construction": "Checked: same portal set. No construction news in window; GRS MPs' call for an expanded Pan Borneo Highway probe is a political call, not a contract event. Not 'no news' - sources were read.",
+    "propertyInvestment": "Checked: same portal set. No retail-REIT news in window. Not 'no news' - sources were read.",
+    "plantation": "Checked: same portal set. No plantation news in window; the Kedah padi water-crisis coverage is food agriculture, out of sector scope. Not 'no news' - sources were read.",
+    "capitalFinancing": "Checked: same portal set. No licensed-moneylending news in window. Not 'no news' - sources were read.",
+    "consumerFinancing": "Checked: same portal set. No civil-servant consumer-financing news in window; Star's 'battle for consumer wallets' is retail-company analysis, out of sector scope. Not 'no news' - sources were read.",
+    "cablesManufacturing": "Checked: same portal set. No cable-sector or named-watchlist news in window. Not 'no news' - sources were read.",
+    "buildingMaterialsIbs": "Checked: same portal set. No IBS/wall-panel or named-watchlist materials news in window. Not 'no news' - sources were read.",
+    "hotels": "Checked: same portal set. No hotel news in window. Not 'no news' - sources were read."
+  },
+  "generalCoverage": [
+    "Edition window: from the 15 Nov edition's verified cutoff (07:26 MYT 15 Nov) to 07:24 MYT 16 Nov 2026 (actual last check). Edge probe 825700-826500: 801 probed, 134 resolved, 46 in-window (max resolved in-window node 825835 at 06:34 MYT 16 Nov). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa check: KLSE Screener mirror pages 1-4 captured in full (120 rows: 119 dated 13 Nov plus one 16 Nov row - a 7:15am 'Special Announcement' forbidding direct business transactions under Rule 10.10(1); the mirror shows no company name for it and the original sits behind bursamalaysia.com's automation block, so it is logged unresolved. A DBT forbiddance often precedes a listing but it is NOT confirmed as MyDCD's).",
+    "The Star /business front was swept via browser: Monday pieces were stock/sector analyses (consumer retail, Nationgate silicon photonics - paywalled; private-hospital oversupply; MAG fuel costs) with nothing itemisable. EdgeProp was accessible (no challenge): the HGD township feature was opened and itemised (pd-2). theSun supplied two bylined SunBiz interviews with Paramount's deputy group CEO (pd-1).",
+    "TMR remains behind a Cloudflare challenge page at /feed/ (terminal under the no-challenge-bypass rule). TNGlobal's main feed 403s - the WP API was used (in-window items regional/foreign). Sinar Harian's /bisnes listing was checked; its two property items are dated 10-11 Nov, pre-window. Bernama's feed items carry no date fields (partial). KiniBiz's feed is stale (latest Sep 2026). Malaysiakini's feed was healthy but politics-led. BH's feed carried the Megaspeed and Selangor headlines (bodies behind Cloudflare; corroborated via Edge/MM/FMT).",
+    "Government quick checks: MOF, MPOB, KPKT, CIDB and BNM pages returned 200 with no new dated sector releases (14-16 Nov).",
+    "Zetrix watch: no new disclosures; Nov 23 dividend-settlement directive next, then RM214m sukuk due March 2027. MyDCD debuts on the ACE Market TOMORROW, Tuesday 17 Nov (12 Nov Bursa IPO announcement; code 0482)."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon) had in-window news; the only new Bursa filing was the unattributed 7:15am DBT forbiddance (see Bursa note).",
+    "Zetrix AI chain (not watchlist, tracked): quiet after the 13 Nov solvency admission; Nov 23 dividend-settlement deadline next; RM214m due March 2027.",
+    "MyDCD (not watchlist, tracked): lists on the ACE Market TOMORROW, Tuesday 17 Nov (per its 12 Nov Bursa IPO announcement; enlarged capital 1.794b shares, code 0482)."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 46,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 5,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 15,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 1,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR Cloudflare challenge - terminal per the no-solver rule. EdgeProp accessible and itemised (pd-2). Star swept via browser (nothing itemisable); theSun's Paramount interviews itemised (pd-1). Bernama (undated items), KiniBiz (stale), Sinar (listing checked, items pre-window), Malaysiakini, BH and gov pages logged outside the manifest scope. Weekend: one new Bursa filing (unattributed DBT forbiddance, logged unresolved)."
+}
