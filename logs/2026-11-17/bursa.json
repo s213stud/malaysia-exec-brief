@@ -1,0 +1,126 @@
+{
+ "checkedAt": "2026-11-17T07:22:30+08:00",
+ "method": "curl via KLSE Screener mirror (bursamalaysia.com 403s automation)",
+ "filters": {
+  "dateFrom": "2026-11-16",
+  "dateTo": "2026-11-17",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 180,
+ "note": "Mirror pages 1-6 captured (180 rows, all dated 16 Nov - full Monday trading day). Zero 17 Nov rows at the 07:21 check; MyDCD debuts today (Tuesday 17 Nov) with no filings at cutoff. Sector-relevant filings opened below; the remaining rows are routine shareholding notices, buybacks, ETF NAVs, results outside sector scope.",
+ "results": [
+  {
+   "annId": "11702637",
+   "company": "NCT ALLIANCE BERHAD",
+   "title": "16 Nov 5:55pm Proposed private placement of up to 10% (fund raising)",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702637",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-pd-3"
+  },
+  {
+   "annId": "11702645",
+   "company": "PARADIGM REAL ESTATE INVESTMENT TRUST",
+   "title": "16 Nov 5:57pm Quarterly rpt period ended 30/09/2026",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702645",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-pi-1"
+  },
+  {
+   "annId": "11702705",
+   "company": "PARADIGM REAL ESTATE INVESTMENT TRUST",
+   "title": "16 Nov 6:02pm Income Distribution",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702705",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-pi-1"
+  },
+  {
+   "annId": "11702793",
+   "company": "EXSIM HOSPITALITY BERHAD",
+   "title": "16 Nov 6:22pm Proposed private placement + DRP establishment",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702793",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-hot-1"
+  },
+  {
+   "annId": "11702831",
+   "company": "EXSIM HOSPITALITY BERHAD",
+   "title": "16 Nov 6:41pm Related party transaction - proposed acquisition (Tower F)",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702831",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-hot-1"
+  },
+  {
+   "annId": "11702821",
+   "company": "CITAGLOBAL BERHAD",
+   "title": "16 Nov 6:34pm MoU CGNE / TNB Genco / TIZA AI - off-grid power for Gebeng AI DC park",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702821",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-ai-4"
+  },
+  {
+   "annId": "11702819",
+   "company": "CITAGLOBAL BERHAD",
+   "title": "16 Nov 6:35pm Press release on the MoU",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702819",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-17-ai-4"
+  },
+  {
+   "annId": "11702647-11702665",
+   "company": "KEB BERHAD",
+   "title": "16 Nov 5:56-5:57pm Director/substantial shareholder interest notices (routine post-listing)",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11702739-11702745",
+   "company": "INTA BINA GROUP BERHAD",
+   "title": "16 Nov 6:08pm Director interest + closed-period dealing notices (routine; watchlist company)",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11702607",
+   "company": "ORIENTAL INTEREST BERHAD",
+   "title": "16 Nov 5:46pm Myra Land acquisition of leasehold land RM80.77m",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702607",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11702715",
+   "company": "BERJAYA PROPERTY BERHAD",
+   "title": "16 Nov 6:07pm Proposed acquisition of 20% stake in Manjaran Sdn Bhd",
+   "date": "2026-11-16",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11702715",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  }
+ ]
+}

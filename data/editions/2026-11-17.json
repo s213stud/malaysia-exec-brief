@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-17",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-17T07:21:01+08:00",
+    "2026-11-17T07:22:30+08:00",
+    "2026-11-17T07:22:38+08:00",
+    "2026-11-17T07:22:55+08:00",
+    "2026-11-17T07:23:21+08:00",
+    "2026-11-17T07:23:39+08:00",
+    "2026-11-17T07:24:21+08:00",
+    "2026-11-17T07:24:59+08:00"
+  ],
+  "publishedAt": "2026-11-17T07:29:14+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Zetrix tables its first concrete exit from the JPJ crisis: RM100m down, six months to clear RM214m - but Putrajaya decides while a notice of demand is readied",
+      "soWhat": "The proposal converts an open-ended suspension into a binary: Finance Ministry acceptance or litigation; with BN MPs demanding EPF/KWAP exposure disclosures, institutional holders face a governance reckoning either way. Nov 23's dividend-settlement deadline still stands.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-17-ai-1"
+      ]
+    },
+    {
+      "headline": "Nvidia's succession fight goes political - Trump versus Bessent - as the fallout prices into Malaysian data centres: YTL Power's RM3b weekly loss and a rare RM1.9b syndication stall",
+      "soWhat": "Counterparty provenance is being priced before facts are proven; MBSB's colocation-versus-GPU distinction separates who is actually exposed, and the Epoch syndication's completion (or not) is the next hard signal for Malaysian DC financing appetite.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-17-ai-2",
+        "2026-11-17-ai-3"
+      ]
+    },
+    {
+      "headline": "The build-out continues regardless: Citaglobal-TNB Genco's 1,300MW off-grid MoU and EcoWorld-PDT's green utilities show infrastructure deals decoupling from chip politics",
+      "soWhat": "Off-grid power is becoming the approval currency for Malaysian DC parks - grid capacity, not demand, is the binding constraint, and the winners are whoever can bundle land, power and water into one offer.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-17-ai-4",
+        "2026-11-17-pd-1"
+      ]
+    },
+    {
+      "headline": "KEB's -19% debut is the caution tape for MyDCD's ACE Market listing today",
+      "soWhat": "An undersubscribed public tranche and a first-day break reset small-cap property IPO pricing expectations; MyDCD (code 0482) opens this morning with 1.794 billion enlarged shares - first-day behaviour gets full coverage in tomorrow's edition.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-17-pd-2"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Zetrix tables its first concrete JPJ exit plan as Nvidia's succession fight goes political and the fallout lands on Malaysian data-centre names",
+      "items": [
+        {
+          "id": "2026-11-17-ai-1",
+          "headline": "Zetrix AI offers RM100m upfront and a six-month plan to clear RM214m in JPJ arrears; Putrajaya has yet to decide as MPs demand public-funds disclosure",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Zetrix AI Bhd has proposed paying RM100 million upfront and settling the remaining RM214 million of unremitted Road Transport Department (JPJ) collections in six equal monthly instalments of about RM35.67 million, in exchange for reinstatement as a JPJ revenue collection agent, Deputy Transport Minister Datuk Hasbi Habibollah told Parliament on Monday. The proposal was submitted on Nov 5 and forwarded to the Finance Ministry via a Transport Ministry letter dated Nov 10; the government has not decided whether to accept. Zetrix also faces RM29 million in penalties under its agreement, and the ministry is preparing a notice of demand with court action to follow if payment is not made - a course that stops only if the settlement is accepted. Police and MACC investigations are ongoing. Separately, eight Barisan Nasional MPs, led by Kinabatangan MP Mohd Kurniawan Naim Moktar, urged the Finance Ministry to disclose public investment institutions' actual Zetrix holdings and to separate paper from realised losses, after Datuk Seri Mohd Rafizi Ramli said EPF, KWAP and Urusharta Jamaah could face potential losses of RM472 million from the share-price decline; the MPs also sought a recovery update on RM314 million in unpaid JPJ collections and assurances over the NIISe immigration system.",
+          "soWhat": "This is the first concrete exit path since the JPJ suspension - but the decision sits with the Finance Ministry while a notice of demand is readied in parallel, so the range of outcomes still runs from reinstatement to litigation; the BN push turns institutional exposure (EPF, KWAP) into a standing governance question for any fund holding the stock.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825994"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825942"
+            },
+            {
+              "publisher": "Malaysiakini",
+              "url": "https://www.malaysiakini.com/news/889250-zetrix-proposes-rm100m-upfront-payment-to-settle-rtd-arrears-deputy-minister"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-ai-2",
+          "headline": "Trump backs calls to reinstate Jensen Huang as Nvidia CEO, splitting publicly with Bessent's 'dramatic shake-up' demand ahead of Tuesday's results",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "President Donald Trump told reporters at the White House on Monday he \"would not mind\" Jensen Huang returning as Nvidia CEO - \"a lot of people are asking Jensen... that certainly isn't a bad idea\" - putting him at odds with Treasury Secretary Scott Bessent, who on Sunday called on Nvidia's board to make a \"dramatic\" leadership shake-up, search externally, and come clean on whether the company intentionally ignored warning signs of Singapore-based shell companies funnelling its AI chips to China. The Financial Times reported Huang has discussed returning with confidants and that a \"war room\" of Silicon Valley executives is being organised to lobby the White House. The Washington Post, citing financial disclosures, reported Trump's own Nvidia holdings grew to between US$13 million and US$62 million as of end-August; Reuters could not independently verify the report. Interim CEO Colette Kress faces her first quarterly results on Tuesday; Nvidia shares fell about 2% on Monday.",
+          "soWhat": "The succession question is now a public split inside the US administration - the outcome decides whether Nvidia's export-control posture hardens (Bessent's external hire) or resets (Huang's return), which feeds directly into how tightly intermediaries in this region, including Malaysian data-centre operators, get policed.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826033"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825868"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826004"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825842"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-ai-3",
+          "headline": "Nvidia fallout reaches Malaysian data centres: YTL Power's worst weekly selloff since Jan 2025, and a rare stall on Epoch Digital's US$488m loan syndication",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "YTL Power International Bhd shares fell 13% last week - their steepest weekly decline since January 2025, erasing more than RM3 billion in market value - as scrutiny over Nvidia and allegations linking the utility to Chinese-connected firms weighed on its AI business. Spy-themed short seller Culper Research alleged in a May report that Megaspeed International, the Singapore cloud firm at the centre of the Nvidia controversy, is a major YTL customer and that YTL sought to keep the relationship private while supplying Nvidia chips to Chinese customers including Alibaba; the claims have not been independently verified, and YTL Power, YTL Corp and Megaspeed did not respond to requests for comment. Separately, a US$488 million (RM1.9 billion) loan for an Actis-backed Malaysian data centre project by Epoch Digital Pte Ltd was delayed mid-syndication: a Nov 2 online presentation for invited lenders and a site visit the same week did not take place because Epoch management was unavailable, people familiar with the matter said - a rare pause, though lead arrangers HSBC, AIIB, SMBC and Bank of China have signed and committed the funds; ByteDance will use the capacity. Against that, MBSB Research argues Malaysia's broader data-centre industry is less exposed to proposed US curbs on remote access to advanced AI chips, which chiefly target China - noting YTL Power is mostly a colocation provider, not a GPU operator, and has not been proven implicated. Singapore's government also confirmed Minister Josephine Teo discussed Megaspeed with US Deputy Secretary of State Christopher Landau in Washington last week, with both countries committing to continued communication.",
+          "soWhat": "The market is now pricing Nvidia-linked counterparty risk into Malaysian DC names before any facts are proven - watch whether the Epoch syndication completes on revised terms and whether YTL Power breaks its silence; MBSB's colocation-versus-GPU-operator distinction is the right frame for who is actually exposed.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825922"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825956"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/16/mbsb-malaysias-broader-data-centre-industry-less-exposed-to-us-ai-chip-curbs/243503"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825961"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-ai-4",
+          "headline": "Citaglobal, TNB Genco and TIZA AI sign MoU for up to 1,300MW of off-grid power to a Gebeng AI data-centre park",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Citaglobal Bhd, through wholly-owned Citaglobal New Energy Sdn Bhd, signed an MoU with TNB Power Generation Sdn Bhd (TNB Genco) and TIZA AI Sdn Bhd to explore a dedicated off-grid power supply solution of up to 1,300MW for TIZA AI's planned AI Data Centres and Digital Infrastructure Park on a 247-acre Citaglobal-owned site in the Gebeng Industrial Area, Kuantan. The supply could combine gas-fired generation, solar PV and battery energy storage, located within or adjacent to the park; TNB Genco and CGNE will jointly run feasibility studies. TIZA AI holds Data Centre Task Force approval for the park - notified by the Ministry of Investment, Trade and Industry on Sept 7, 2026 - which requires the park's up-to-1,300MW demand to be met off-grid.",
+          "soWhat": "Off-grid is becoming the approval currency for Malaysian DC projects: a 1.3GW private power solution tied to a DCTF condition signals that grid capacity, not demand, is the binding constraint - and it hands utility-scale energy work to whoever can bundle gas, solar and storage at park scale.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/16/citaglobal-tnb-genco-team-up-for-tiza-ai-data-centre-park-"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11702821"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Johor green-utility deals and industrial-park fundraising run ahead of demand, while KEB's -19% debut sets the tone for today's MyDCD listing",
+      "items": [
+        {
+          "id": "2026-11-17-pd-1",
+          "headline": "EcoWorld teams with Johor's PDT to explore green utility supply - renewable energy and reclaimed water - for data centres and industrial parks",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Eco World Development Group Bhd signed a collaboration agreement with Permodalan Darul Ta'zim Sdn Bhd (PDT), the Johor state government's investment arm, to explore supplying renewable energy and reclaimed water to data centres and industrial parks in the state. PDT subsidiaries PDT Energy Sdn Bhd and Johor Special Water Sdn Bhd would facilitate the green-utility supply to EcoWorld's industrial and data-centre customers as an integrated offering; EcoWorld will promote the offerings to its network of Green Consumers and share prospective off-taker information including electricity load profiles, demand forecasts and project timelines. Pricing and commercial terms will be set in definitive supply agreements after further discussions.",
+          "soWhat": "Developers are moving upstream into utility brokerage because power and water - not land - are what win DC tenants in Johor; an integrated RE-plus-reclaimed-water offer with the state's own investment arm is a differentiator for EcoWorld's industrial land sales, though nothing is priced yet.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825918"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-pd-2",
+          "headline": "KEB closes 19% below its IPO price on its ACE Market debut, and is already hunting land in Cheras, Kajang and Bangi",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "KEB Bhd opened flat at its 35 sen IPO price and slid to a 28.5 sen close on Monday, down 19% on its debut with more than 29 million shares traded, for a RM251 million market capitalisation. The non-Bumiputera portion of the Malaysian public tranche was undersubscribed and reallocated. The Cheras-based affordable-to-mid-range developer raised RM48.49 million, of which RM19 million is earmarked for land acquisition; it told The Edge it is in talks with landowners focused on Cheras, Kajang and Bangi, with nothing finalised. KEB has four ongoing projects with a combined GDV of RM1.36 billion, two future projects valued at RM382.73 million, and a 60.01-acre land bank including JV land.",
+          "soWhat": "A 19% first-day break with an undersubscribed public tranche is the coldest ACE Market reception this quarter - and it lands the morning before MyDCD's debut today (Tuesday), resetting expectations for small-cap property IPO pricing and for affordable-segment sentiment.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825844"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825908"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-pd-3",
+          "headline": "NCT Alliance plans a RM152m placement for its Selangor and Kedah industrial parks, and raises the price for an 80% stake in the 176.71-acre NSIP neighbour to RM54.06m",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "NCT Alliance Bhd proposed a private placement of up to 304.94 million new shares - 10% of its enlarged base, at an illustrative 50 sen (a 9.6% discount to the five-day VWAP to Oct 30) - to raise up to RM152.47 million. RM106.73 million is earmarked for development expenses of the NCT Smart Industrial Park (NSIP) in Selangor and NCT InnoSphere in Kedah, the two parks under NCT World Sdn Bhd acquired in January for RM490.26 million from executive chairman Datuk Seri Yap Ngan Choy's interests. Separately, NCT raised the proposed subscription price for an 80% stake in Semanja Murni Sdn Bhd - owner of 176.71 leasehold acres in Mukim Tanjong Duabelas adjoining NSIP, earmarked for integration with a previously disclosed estimated GDV of RM1.5 billion - to RM54.06 million from RM53 million; the leases run to Jan 24, 2124 after a 32-year extension.",
+          "soWhat": "NCT is paying up for contiguous land while tapping the market to fund parks it bought from its own chairman - the placement discount, related-party history and the mid-negotiation price bump are all worth tracking as the industrial-park land grab concentrates around Kuala Langat.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825984"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918339/nct-raises-price-stake-17671-acre-kuala-langat-landowner-rm5406m"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11702637"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "Retail REITs deliver: Paradigm raises its payout, and IOIPG REIT's sale agreements go unconditional",
+      "items": [
+        {
+          "id": "2026-11-17-pi-1",
+          "headline": "Paradigm REIT's 3Q net property income rises 4% to RM42.6m; distribution lifted to 1.88 sen, payable Dec 22",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Paradigm Real Estate Investment Trust posted net property income of RM42.62 million for the quarter ended Sept 30, 2026, up 4% year on year, on revenue of RM60.11 million (+3.2%). It proposed an income distribution of 1.88 sen per unit - 1.85 sen taxable and 0.03 sen non-taxable - payable Dec 22, up from the 1.83 sen distributed in August. The trust, which owns Paradigm Mall Petaling Jaya, Paradigm Mall Johor Bahru and Bukit Tinggi Shopping Centre, said it expects the Malaysian retail sector to remain resilient on stable domestic consumption, tourism activity and household-support initiatives.",
+          "soWhat": "A second consecutive payout lift from a pure retail landlord reads as real consumer resilience in the Klang Valley and JB catchments - useful corroboration for anyone underwriting retail exposure while office and industrial stay in favour.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825996"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11702645"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-pi-2",
+          "headline": "IOIPG REIT sale and purchase agreements become unconditional",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "IOI Properties Group Bhd said the sale and purchase agreements relating to its IOIPG REIT proposals became unconditional on Monday after all conditions precedent were fulfilled. The proposals comprise the REIT's establishment, the property disposals into it, the offering, the listing and related leases; the group said the announcement did not state the disposals had been completed. The REIT is anchored by IOIPG's retail assets.",
+          "soWhat": "The largest retail-anchored REIT listing in years just cleared its last condition - completion mechanics and the offering terms are next, and the listing will set the yield benchmark every other mall owner gets priced against.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918337/ioipg-reit-sale-agreements-become-unconditional"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Gamuda exports the MRT playbook to Taiwan while ECRL locks in its fifth sukuk ahead of December operations",
+      "items": [
+        {
+          "id": "2026-11-17-con-1",
+          "headline": "Gamuda-led JV wins NT$21b (RM2.61b) underground section of Taiwan's Keelung MRT line",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Gamuda Bhd secured a NT$21.02 billion (about RM2.61 billion) contract from New Taipei City's Department of Rapid Transit Systems to build a 2.4km underground section of the Keelung MRT line connecting Nangang District in Taipei to Xizhi District in New Taipei City. Gamuda holds 80% of the unincorporated joint venture with Taiwan's Feng Shun Construction Co Ltd (20%), valuing its share at NT$16.82 billion. Completion is set at 2,700 days - about seven years and five months - with no construction start date specified in the bourse filing; the group flagged typical large-scale rail risks including underground construction, skilled labour and cost escalation.",
+          "soWhat": "Gamuda keeps converting its domestic tunnelling franchise into regional order-book - Taiwan is now a second rail market after past Australian wins, and an 80% JV share means the full margin and risk sit at home; watch mobilisation timing given the 7.4-year horizon.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825967"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-con-2",
+          "headline": "Government approves MRL's fifth sukuk programme - RM19.05b for ECRL - as the Kota Bharu-Gombak alignment hits 98.5% completion",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "The government has approved Malaysia Rail Link's (MRL) fifth sukuk programme worth RM19.05 billion to finance the East Coast Rail Link, Finance Minister II Datuk Seri Amir Hamzah Azizan said at the programme's Tokenised Sukuk Initiative ceremony with CIMB Group at the ECRL Gombak Integrated Terminal Station. The sukuk will be issued as a UN Sustainable Development Goals (SDG) sukuk. Amir Hamzah framed the RM52.43 billion project as funded by a RM37.40 billion Export-Import Bank of China term loan at 3.25% with the remainder from local sukuk issuances, and said construction on the Kota Bharu-to-Gombak alignment reached 98.5% completion as of October 2026, entering final preparations ahead of targeted commercial operations on Dec 12, 2026.",
+          "soWhat": "With the line three weeks from operations, the financing story shifts from construction risk to ridership and cargo revenue - the RM19b programme gives MRL headroom, but the Dec 12 launch is when ECRL stops being a cost centre narrative and starts being tested on utilisation.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825953"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Exsim Hospitality raises to buy into its own pipeline; SKS and MB World commit to a 315-room Capital City hotel in JB",
+      "items": [
+        {
+          "id": "2026-11-17-hot-1",
+          "headline": "Exsim Hospitality plans a RM125.4m placement and takes a call option on a RM226m, 456-room Empire City hotel tower from its major shareholders' firm",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "Exsim Hospitality Bhd proposed a private placement of up to 278.66 million new shares - 10% of its assumed enlarged base, at an illustrative 45 sen (a 10% discount to the five-day VWAP to Nov 10) - to raise up to RM125.4 million: RM55 million for working capital to expand the hospitality operator segment, RM66.03 million for fit-out unit Exsim Concepto Sdn Bhd's projects, and the balance for branding, marketing and exercise expenses; a dividend reinvestment plan was also proposed. Separately, wholly-owned Blossom Hectares Sdn Bhd entered a call option agreement to acquire Tower F - a 456-room, 32-storey hotel nearing completion in Empire City, Damansara - for RM226 million from Iconic Insight Sdn Bhd, a firm controlled by Exsim Hospitality's major shareholders, making it a related-party transaction. The group says the tower would join its own-and-operate portfolio and contribute recurring income.",
+          "soWhat": "Exsim is raising from the market to buy a RM226m asset from its own major shareholders - the placement dilution, the RPT pricing on Tower F and Empire City's chequered history all warrant scrutiny; strategically it is a clear pivot from asset-light operator to owner-operator.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826013"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826005"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11702793"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11702831"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-17-hot-2",
+          "headline": "SKS and MB World target end-2028 completion of a 315-room hotel and 1,320 serviced apartments above Capital City Mall in Johor Bahru",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "SKS Group and MB World Group Bhd plan to complete the hotel and serviced apartment development above Capital City Mall in Tampoi, Johor Bahru, by end-2028, under agreements covering two partially built towers and development sites for three others. The development is planned as a 315-room hotel and 1,320 serviced apartments; construction is targeted to begin in the first quarter of 2027 at the earliest, subject to preparations and approvals.",
+          "soWhat": "A completed mall getting its long-stalled hotel and apartment towers finished is a small but real vote in JB's RTS-linked demand story - the 1,320 serviced apartments will test absorption more than the 315 keys will test hotel demand.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918338/sks-mb-world-target-end-2028-completion-capital-city-hotel-apartments"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "India's record edible-oil import year underpins CPO demand",
+      "items": [
+        {
+          "id": "2026-11-17-pl-1",
+          "headline": "India's edible oil imports hit a record 16.92m tonnes in 2025/26, with palm oil purchases up 8.5% to 8.2m tonnes",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-16",
+          "detail": "India's edible oil imports rose to a record 16.92 million tonnes in the 2025/26 marketing year ended October, from 16.01 million a year earlier, the Solvent Extractors' Association of India said. Palm oil imports rose 8.5% to 8.2 million tonnes and soyoil hit a record 5.84 million tonnes (+6.7%), while sunflower oil slipped to 2.85 million tonnes as the Russia-Ukraine war disrupted supplies. The SEA noted higher imports by the world's largest vegetable oil buyer are supporting benchmark Malaysian palm oil and Chicago soyoil prices, while widening India's trade deficit.",
+          "soWhat": "Record Indian palm purchases are the demand floor under CPO prices heading into year-end - supportive for plantation earnings, though the trade-deficit and rupee pressure the SEA flags is what historically triggers Indian duty tinkering.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/825995"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (825790-826600, 233 resolved, 187 in-window), feeds (MM/NST/FMT/theSun/BH/Malaysiakini), TNGlobal WP API (main feed 403), Star /business via browser. Used: Zetrix's RM100m-upfront JPJ settlement offer + BN MPs' public-funds push (ai-1, Edge x2 + Malaysiakini), Trump-vs-Bessent on Huang's reinstatement with WaPo's Trump-stake report (ai-2), YTL Power selloff + Culper allegation (attributed, unverified) + Epoch Digital syndication delay (people-sourced) + MBSB counterview + Singapore-US Megaspeed talks (ai-3), Citaglobal/TNB Genco/TIZA AI 1,300MW off-grid MoU (ai-4, Star + Bursa filing). Seen, not itemised: Zetrix's Avatar AI 'Excellent' security rating/China-market PR (825987, corporate self-promotion mid-crisis); Ong Kian Ming's DC-capability advice (commentary); Malaysia-China AI cooperation rhetoric (Anwar, no concrete measures); Anthropic IPO pieces, DEEPX/Samsung (foreign); ADB office finalising (diplomatic); e-invoicing bill for overseas platforms (legislative process).",
+    "propertyDevelopment": "Checked: Edge probe, EdgeProp /news, Star /business, feeds. Used: EcoWorld-PDT green utilities (pd-1), KEB debut + land hunt (pd-2), NCT placement + Semanja Murni price bump (pd-3). Seen, not itemised: Oriental Interest's RM80.77m Myra Land acquisition (announcement only, no body detail beyond filing headline); Berjaya Property's 20% Manjaran stake (filing headline only); Sunway's stand-alone industrial REIT exploration (analyst-said, earliest 2028, and industrial rather than retail scope); Epicon/Lagenda shareholder advice (corporate process); EcoWorld Ceria handover (project progress); Singapore property frenzy (foreign); theSun's 'Resilient economy' piece (Juwai IQI promotional write-up, not independent reporting).",
+    "construction": "Checked: Edge probe, feeds, Bursa mirror. Used: Gamuda's RM2.61b Keelung MRT win (con-1), MRL's fifth sukuk RM19.05b for ECRL with 98.5% KB-Gombak completion and Dec 12 ops target (con-2). Seen, not itemised: construction-sector foreign-inflow lead on Bursa (flows piece); 99 federal projects worth RM12b in Sarawak approved (aggregate announcement, no project detail); FMT's ECRL cargo-revenue piece (context for con-2); MRL/ECRL roundup in EdgeProp (duplicate of con-2 + pd-2).",
+    "propertyInvestment": "Checked: Edge probe, EdgeProp, Bursa mirror. Used: Paradigm REIT 3Q + 1.88 sen DPU (pi-1), IOIPG REIT SPAs unconditional (pi-2). Seen, not itemised: Axis REIT / EPF routine shareholding notices; Frankly Speaking on IOIPG REIT (signed commentary, excluded).",
+    "plantation": "Checked: Edge probe, feeds. Used: India record edible-oil imports with palm +8.5% (pl-1). No other in-window plantation items.",
+    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No in-window licensed-moneylending or capital-financing items within scope.",
+    "consumerFinancing": "Checked: Edge probe, feeds, Bursa mirror. Seen, not itemised: AEON Credit's RM460m senior sukuk (general consumer credit - outside the civil-servant financing scope).",
+    "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No in-window items.",
+    "buildingMaterialsIbs": "Checked: Edge probe, feeds, Bursa mirror. No in-window IBS/wall-panel or named-watchlist items; generic materials results were out of scope.",
+    "hotels": "Checked: Edge probe, EdgeProp, Bursa mirror. Used: Exsim placement + Tower F call option (hot-1), SKS/MB World Capital City hotel + serviced apartments (hot-2)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 16 Nov edition's verified cutoff (07:26 MYT 16 Nov) to 07:25 MYT 17 Nov 2026 (actual last check). Edge probe 825790-826600: 233 resolved, 187 in-window (max resolved in-window node 826040 at 07:04 MYT 17 Nov). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa check: KLSE Screener mirror pages 1-6 captured (180 rows, ALL dated 16 Nov - a full Monday trading day; zero 17 Nov rows at the 07:21 check). Opened filings: NCT placement, Paradigm REIT 3Q + distribution, Exsim placement + RPT acquisition, Citaglobal MoU. KEB's director-interest notices are routine post-listing disclosures. MyDCD debuts on the ACE Market TODAY, Tuesday 17 Nov (12 Nov Bursa IPO announcement, Date Announced basis; code 0482) - no 17 Nov filings existed at cutoff, so first-day coverage lands in tomorrow's edition. The unattributed 7:15am 16 Nov DBT forbiddance remains unconfirmed; KEB listed that same morning, which is consistent with the usual pattern but is not proof of linkage.",
+    "The Star /business was swept via browser: the Citaglobal-TNB Genco MoU was itemised (ai-4). Seen, not itemised: KK Mart's retail underwriting deal with Maybank IB (consumer retail, out of sector scope); Pos Malaysia, Teo Seng, Amway and Hextar results (out of scope); market-wrap pieces.",
+    "EdgeProp was accessible with no challenge: NCT's Semanja Murni price bump (pd-3), IOIPG REIT unconditional (pi-2) and SKS/MB World Capital City (hot-2) were opened and itemised. Its 'Housing launches jump 70%' piece is dated 13 Nov (pre-window); branded pieces and the Langgak Golf bungalow feature were excluded; the Epoch syndication and ECRL/KEB roundups duplicate itemised stories.",
+    "TMR remains behind a Cloudflare challenge at /feed/ (terminal under the no-challenge-bypass rule). TNGlobal's main feed 403s - the WP API was used (in-window items were regional/foreign: the DEFA signing was covered 15 Nov; the OSK-SBI Vietnam auto-marketplace raise is out-of-scope VC news). Sinar Harian's /bisnes listing was checked - its items are awards/PR (SkyWorld CIDB recognition, a safety-score piece) and macro (KWSP income), none itemisable. Bernama's feed items carry no date fields (partial). KiniBiz's feed is stale (Sep 2026). Malaysiakini's feed was healthy and its Zetrix report was opened as ai-1 corroboration. BH's feed carried the Zetrix (BM) headline (bodies behind Cloudflare). FMT carried Zetrix (BM) and ECRL-cargo pieces (corroboration/context). theSun's feed was healthy; its 'Resilient economy' piece is a Juwai IQI promotional write-up and was not itemised.",
+    "Government quick checks: MOF, MPOB and BNM pages returned 200 with no new dated sector releases; CIDB and KPKT returned 200 but their 16-17 Nov date strings are page-cache timestamps, not dated releases.",
+    "Zetrix watch: the RM100m-upfront/six-month proposal (ai-1) is the live development; the Nov 23 Bursa dividend-settlement directive and the RM214m sukuk due March 2027 remain on the clock. Nvidia watch: interim CEO Colette Kress reports quarterly results Tuesday US time - first results since Jensen Huang's Nov 12 resignation."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon) had in-window news; Inta Bina's only 16 Nov filings were routine director-interest and closed-period dealing notices.",
+    "Zetrix AI chain (not watchlist, tracked): RM100m-upfront settlement offer + BN MPs' RM472m public-funds exposure push itemised as ai-1; Nov 23 dividend deadline next."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 187,
+      "used": 11,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 12,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 20,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 12,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 10,
+      "used": 3,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 11,
+      "used": 4,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    },
+    {
+      "source": "Malaysiakini",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malaysiakini"
+      ]
+    }
+  ]
+}

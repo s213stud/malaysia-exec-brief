@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR Cloudflare challenge - terminal per the no-solver rule. EdgeProp accessible and itemised (pd-3, pi-2, hot-2). Star swept via browser (ai-4 itemised). Bernama (undated items), KiniBiz (stale), Sinar (listing checked, nothing itemisable), Malaysiakini (ai-1 corroboration opened), BH and gov pages logged outside the manifest scope. Window from 16 Nov verified cutoff 07:26 MYT to 07:25 MYT 17 Nov (actual last check)."
+}
