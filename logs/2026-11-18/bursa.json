@@ -1,0 +1,96 @@
+{
+ "checkedAt": "2026-11-18T07:21:06+08:00",
+ "method": "curl via KLSE Screener mirror (bursamalaysia.com 403s automation)",
+ "filters": {
+  "dateFrom": "2026-11-17",
+  "dateTo": "2026-11-18",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 180,
+ "note": "Mirror pages 1-6 captured (180 rows, all dated 17 Nov - full Tuesday trading day; zero 18 Nov rows at the 07:21 check). Sector-relevant filings opened below; remaining rows are routine shareholding notices, buybacks, ETF NAVs and out-of-scope results.",
+ "results": [
+  {
+   "annId": "11703757",
+   "company": "ZETRIX AI BERHAD",
+   "title": "17 Nov 7:12pm Clarification on news article - confirms interim injunction vs Macquarie Bank winding-up petition",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11703757",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-18-ai-5"
+  },
+  {
+   "annId": "11703737",
+   "company": "CITAGLOBAL BERHAD",
+   "title": "17 Nov 6:56pm Press release - completes Perak hydropower acquisitions",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11703737",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-18-ai-6"
+  },
+  {
+   "annId": "11703739",
+   "company": "CITAGLOBAL BERHAD",
+   "title": "17 Nov 6:56pm Non-RPT - acquisitions of 70% Zeqna Corporation and 70% Koridor Mentari",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11703739",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-18-ai-6"
+  },
+  {
+   "annId": "11703627",
+   "company": "LBS BINA GROUP BERHAD",
+   "title": "17 Nov 6:18pm Proposed upsize of IMTN programme to RM1.5b",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11703627",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-18-pd-2"
+  },
+  {
+   "annId": "11703491-11703555",
+   "company": "MYDCD BERHAD",
+   "title": "17 Nov 5:59pm Director/substantial shareholder interest notices (routine post-listing)",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11703641-11703669",
+   "company": "GDB HOLDINGS BERHAD",
+   "title": "17 Nov 6:27-6:31pm Director/substantial shareholder interest notices (routine; watchlist company)",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11703615",
+   "company": "SOUTHERN CABLE GROUP BERHAD",
+   "title": "17 Nov 6:13pm EPF substantial shareholding notice (routine; watchlist company)",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11703615",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11703683",
+   "company": "YES GROUP MANAGEMENT BERHAD",
+   "title": "17 Nov 6:32pm IPO listing special announcement (out of sector scope)",
+   "date": "2026-11-17",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11703683",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  }
+ ]
+}

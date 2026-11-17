@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-18",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-18T07:20:51+08:00",
+    "2026-11-18T07:21:06+08:00",
+    "2026-11-18T07:21:23+08:00",
+    "2026-11-18T07:21:30+08:00",
+    "2026-11-18T07:22:46+08:00",
+    "2026-11-18T07:23:36+08:00",
+    "2026-11-18T07:23:57+08:00",
+    "2026-11-18T07:24:18+08:00",
+    "2026-11-18T07:24:39+08:00"
+  ],
+  "publishedAt": "2026-11-18T07:26:45+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Malaysia goes on the US chip-curbs list tomorrow: licences for advanced semiconductors, due diligence on DC customers - and the market has already voted",
+      "soWhat": "Five DC-linked stocks fell over 15% intraday and MyDCD broke its IPO price on debut; from Nov 19 every Malaysian DC operator and chip intermediary carries a due-diligence duty on customer ownership, and the US-HQ carve-out may push capacity toward American parents.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-18-ai-1"
+      ]
+    },
+    {
+      "headline": "The Megaspeed file goes official: a 2024 probe, Nvidia records requested in May 2025, a 'no sell' listing in June 2025 - while Nvidia itself beats without Huang",
+      "soWhat": "Diversion concerns predated the affair by years, so regional intermediaries should assume their records are already inside US files; Nvidia's US$130b forecast steadies AI demand even as Huang's Dec 1 congressional testimony keeps the governance story burning.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-18-ai-2",
+        "2026-11-18-ai-3"
+      ]
+    },
+    {
+      "headline": "Zetrix's liquidity stress turns legal: Macquarie Bank's winding-up threat over an unpaid RM2.06m dividend is frozen until Dec 1",
+      "soWhat": "A bank escalating to a statutory demand over a small dividend says creditor patience is exhausted; Nov 23 (Bursa dividend deadline) and Dec 1 (injunction hearing) decide whether Zetrix keeps its JPJ settlement offer credible.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-18-ai-5"
+      ]
+    },
+    {
+      "headline": "Two broken debuts in two days - KEB and now MyDCD - shut the ACE Market IPO window for property and DC names",
+      "soWhat": "Both opened at or below price and closed about 19% down; issuers in the queue (and their underwriters) will reprice or delay, and the read-across hits listed small-cap property and DC-services multiples.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-18-pd-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Washington puts Malaysia on the chip-curbs list effective tomorrow; Megaspeed's two-year probe is detailed as Nvidia posts a beat without Huang",
+      "items": [
+        {
+          "id": "2026-11-18-ai-1",
+          "headline": "US export controls on advanced chips to Malaysia take effect Nov 19; five DC-linked stocks plunge over 15% intraday, NationGate hit with short-selling suspension",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "A US licence will be required to export, re-export or transfer advanced semiconductors to Malaysia, Singapore, Indonesia, Thailand or Brazil from Nov 19, the US Department of Commerce said, to prevent foreign actors from using US technology-based computing power against US national security interests. Data centres, foreign foundries and chip exporters must perform robust due diligence on customers, including any direct or indirect ownership or control by persons in US-embargoed (Group D:5) destinations or Macau; the requirement exempts commercial recommender systems and chips destined for US-headquartered companies under certain conditions. Malaysian markets reacted immediately: five data centre-linked stocks - NationGate Holdings (an Nvidia OEM partner, closed -13.7% at RM1.45 after a 21% intraday dive on 86 million shares), MN Holdings, Critical Holdings, Pekat Group and Jati Tinggi Group - fell more than 15% intraday, triggering intraday short-selling suspensions. Singapore said it is studying the measures, engaging affected companies and talking to US authorities about scope and implementation to preserve 'trusted access'. Kenanga Research said the rules raise regulatory hurdles for Malaysia's IC design industry serving non-US customers and retain the worldwide scope of the foreign direct product rule, though data centre demand holds up for now.",
+          "soWhat": "Malaysia is now formally inside the US chip-control perimeter - the due-diligence burden shifts onto every local DC operator, EMS provider and chip trader from tomorrow; watch which projects re-paper their customer chains, and whether the US-HQ carve-out pushes more Malaysian DC capacity into American hands.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826051"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826085"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826155"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826126"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/17/after-nvidia-scandal-us-targets-third-party-data-centres-in-malaysia-singapore-and-more/243588"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-ai-2",
+          "headline": "US releases Megaspeed probe details: investigation began in 2024, Nvidia records requested in May 2025, 'no sell' listing in June 2025",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "The US Commerce and Justice departments said in a joint statement that Commerce opened an investigation into Megaspeed - the Singapore-based cloud company and Nvidia Asia-Pacific partner at the centre of the Jensen Huang scandal - in 2024, \"after identifying suspicious activity through proactive monitoring of potential sensitive semiconductor diversion\". Commerce investigators requested records from Nvidia concerning direct or indirect sales to Megaspeed in May 2025, and Nvidia placed Megaspeed on its \"no sell\" list in June 2025. The disclosure is the first official timeline of the case; Jensen Huang resigned on Nov 12 and Reuters has been unable to contact Alice Huang, the former Megaspeed executive suspected by some US authorities of espionage ties.",
+          "soWhat": "The official timeline reframes the scandal: diversion concerns predated the affair by years and Nvidia was formally cutting Megaspeed off five months ago - Malaysian and Singaporean intermediaries should assume their transaction records are already inside US investigations, not merely at risk of future scrutiny.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826098"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-ai-3",
+          "headline": "Nvidia's board rules out a Huang comeback as he faces Dec 1 congressional questioning; first results since the ouster beat with a US$130b forecast",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Nvidia's board is not weighing a return for Jensen Huang as CEO, three people told Reuters, despite a petition exceeding 180,200 signatures, Elon Musk's backing and Trump's openness to reinstatement; governance experts warn a return before investigations complete could expose the company to fresh risk. Huang will appear before US congressional committees on Dec 1 over the China chip scandal. The board created a National Security and Export Control Oversight Committee chaired by director Suzanne Nora Johnson, with Stephen Neal and John Dabiri - a move Trump welcomed. CNBC reported Nvidia has warned chip buyers in recent months that the proposed Remote Access Security Act could expose it and them to US legal action, and that it will not sell to customers renting more than 50% of GPUs to Chinese companies; Reuters could not verify the report. Hours later, interim CEO Colette Kress's first results beat: fiscal Q4 revenue guided at US$130 billion plus or minus 3% versus US$125.3 billion expected, gross margin about 71.5%, a US$150 billion buyback addition, and shares up about 2% in late trading. The crisis had erased more than US$400 billion of market value by Monday's close.",
+          "soWhat": "Demand is outrunning the governance crisis for now - the beat steadies the AI supply chain globally, but the Dec 1 testimony and the new oversight committee mean export-control compliance stays the operating reality for every Nvidia partner in this region.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826206"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826168"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826230"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826125"
+            },
+            {
+              "publisher": "NST / Business Times",
+              "url": "https://www.nst.com.my/world/world/2026/11/1580091/us-lawmakers-question-nvidia-ex-ceo-jensen-huang-over-china-chip"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-ai-4",
+          "headline": "Data centre and cloud investments surge 44.5% to RM123.5b in 9M2026 - 35.2% of all approved investments - as Putrajaya holds its AI course",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Malaysia approved RM123.5 billion of data centre and cloud computing investments across 86 projects in the first nine months of 2026, up 44.5% year on year and accounting for 35.2% of total approved investments (up from 29.4%), Mida said; the information and communications subsector led services approvals at RM133.5 billion, and new data centres must meet a 30% local content minimum. Overall approved investments rose 20.7% to RM350.4 billion. Economy Minister Akmal Nasrullah Mohd Nasir said Nvidia-related developments have not significantly changed Malaysia's focus on semiconductors and AI as high-growth sectors, with MITI handling the Nvidia file. Separately, the Communications Ministry told Parliament MCMC is seeking details from Anthropic over an alleged foreign-run AI manipulation operation targeting Malaysian users, with investigations under the Communications and Multimedia Act and Online Safety Act, while the Digital Ministry drafts an Artificial Intelligence Governance Bill.",
+          "soWhat": "Approvals momentum is intact even as the compliance regime tightens - the binding constraints stay power, water and now US licensing, not capital; the Anthropic inquiry and the coming AI Governance Bill are the first outlines of Malaysia's own AI enforcement framework.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826124"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826097"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826224"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-ai-5",
+          "headline": "Zetrix AI wins interim court order blocking Macquarie Bank from serving a winding-up petition over an unpaid RM2.06m dividend; hearing on Dec 1",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Zetrix AI Bhd obtained an ex parte interim injunction from High Court judge Wan Muhammad Amin Wan Yahya restraining Macquarie Bank Ltd from serving a winding-up petition over a statutory demand under Section 466(1)(a) of the Companies Act 2016, pending an inter partes hearing on Dec 1. Court documents sighted by The Edge show Zetrix filed an originating summons on Nov 10 over an outstanding RM2,061,177.07 arising from a dividend reinvestment plan dated Aug 26, 2026 that it is currently unable to pay; Macquarie claims to be the beneficial owner of 71,321,006 Zetrix shares held through Citigroup Nominees (Asing) Sdn Bhd. Zetrix confirmed the injunction in a bourse clarification the same evening. The filing lands as the company's RM100m-upfront, six-month JPJ settlement proposal (17 Nov edition) sits undecided with the Finance Ministry, and five days before Bursa's Nov 23 dividend-settlement directive deadline.",
+          "soWhat": "A statutory demand from a bank of Macquarie's standing over a relatively small RM2m dividend crystallises the liquidity question behind the RM2b solvency story - Dec 1 (injunction hearing) now brackets Nov 23 (Bursa dividend deadline) as the two dates that decide whether Zetrix keeps control of its own timeline.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826082"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11703757"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-ai-6",
+          "headline": "Citaglobal completes its Perak hydropower acquisitions - 70% each of Zeqna Corporation and Koridor Mentari - a day after its 1,300MW DC-power MoU",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Citaglobal Bhd announced the completion of its acquisitions of 70% equity interests in Zeqna Corporation Sdn Bhd and Koridor Mentari Sdn Bhd, described in its press release as Perak hydropower assets that strengthen power generation within its new energy business. The completion was filed on Monday evening, one day after Citaglobal unit CGNE signed an MoU with TNB Genco and TIZA AI to explore up to 1,300MW of off-grid power (gas, solar and battery storage) for TIZA AI's approved data centre park in Gebeng (17 Nov edition, ai-4).",
+          "soWhat": "Citaglobal is assembling the generation portfolio to back its DC-power ambitions - hydro adds firm renewable capacity to the gas-solar-storage stack it proposed for Gebeng; the speed from MoU to completed acquisitions suggests the pipeline was already in motion.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/17/citaglobal-completes-perak-hydropower-acquisitions-strengthening-power-generation-in-its-new-energy-business"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11703737"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11703739"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-ai-7",
+          "headline": "Telekom Malaysia gets MCMC nod for the RM2.7b SALAM submarine cable linking the Peninsula, Sarawak and Sabah",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Telekom Malaysia Bhd received regulatory approval to build the SALAM submarine cable project at an approved cost of up to RM2.7 billion, with wholly-owned TM Technology Services Sdn Bhd designated universal service provider for Part 1 under the Universal Service Provision framework. The 5,582km network comprises four interconnected segments and 10 landing stations linking Peninsular Malaysia, Sarawak and Sabah; work starts Dec 15 with phased completion targeted by the first quarter of 2030. MCMC opened SALAM for proposals in July.",
+          "soWhat": "Domestic submarine capacity is the unglamorous half of the DC build-out - east Malaysia landing stations determine where the next wave of Sabah/Sarawak data centres can credibly site; TM locking in the USP designation also sets the wholesale-access economics rivals will ride on.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826109"
+            },
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/17/tm-tech-gets-green-light-for-rm27b-submarine-cable-project-linking-peninsular-malaysia-sabah-and-sarawak/243601"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "MyDCD breaks its IPO price on debut in the chip-curbs selldown; LBS doubles its sukuk headroom; Crescendo's RM201m Johor industrial land sale goes unconditional",
+      "items": [
+        {
+          "id": "2026-11-18-pd-1",
+          "headline": "MyDCD closes 19.6% below its IPO price on its ACE Market debut as the US chip curbs land on data-centre names",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "MyDCD Bhd ended its first day at 45 sen, down 11 sen or 19.64% from its 56 sen IPO price, after opening at 48 sen and trading between 51.5 sen and 41.5 sen; market capitalisation closed at RM807.3 million against RM1 billion implied by the IPO price. The engineering services firm derives its revenue entirely from data centre work - mechanical, electrical, plumbing and fire protection (MEPF) - and listed barely hours after the US announced the chip export controls, in the same selldown that hit SKA Capital (listed last week) and the five DC-linked names in ai-1. CEO Chris Ow Yong said maintenance revenue (RM19.8 million of RM666 million total in FY2026) should grow progressively as completed projects transition into the maintenance phase, and the group is evaluating work on facilities built by other contractors, without giving a growth target.",
+          "soWhat": "Two straight broken property-adjacent IPOs (KEB -19% Monday, MyDCD -19.6% Tuesday) say the ACE Market window has shut for now; for MyDCD specifically, pure-play DC exposure just flipped from premium to discount - its maintenance pivot is the right hedge but only RM19.8m of a RM666m book today.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826045"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826078"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-pd-2",
+          "headline": "LBS Bina doubles its sukuk programme to RM1.5b",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "LBS Bina Group Bhd upsized its Sukuk Wakalah programme limit to RM1.5 billion from RM750 million under the Securities Commission's guidelines on unlisted capital market products, keeping the other principal terms unchanged, including the AA-IS rating with stable outlook from MARC Ratings and the proceeds usage (capex, investments, working capital, refinancing). The programme was lodged in November 2023.",
+          "soWhat": "Doubling debt headroom mid-cycle is either dry powder for land or a refinancing bridge - with LBS shares flat, the filing matters more for what it funds next than for what it says today.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826209"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11703627"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-18-pd-3",
+          "headline": "Crescendo's RM200.9m sale of 40 acres of Kota Tinggi industrial land becomes unconditional",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Crescendo Corp Bhd said all conditions precedent were fulfilled on Nov 16 for the sale by wholly-owned Crescendo Development Sdn Bhd of 40.10 acres of vacant freehold industrial land in Bandar Cemerlang Industrial Park, Kota Tinggi, Johor (about 1.75 million sq ft, 26km north of Johor Bahru city centre) to Pioneer Real Estate Development Sdn Bhd for RM200.88 million. The SPA was signed on Nov 14, 2025; the filing did not state the disposal had completed.",
+          "soWhat": "Industrial land around JB keeps clearing at scale through the chip-curbs noise - the buyer's plans are undisclosed, but 40 acres in an established park is DC-or-logistics sized; completion and the buyer's identity are the next tells for Johor industrial land pricing.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918362/crescendo%E2%80%99s-rm2009m-johor-land-sale-becomes-unconditional"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "A negligence finding against the SIPP-YTL rail JV surfaces from the Labis bridge dispute",
+      "items": [
+        {
+          "id": "2026-11-18-con-1",
+          "headline": "High Court finds SIPP Rail, YTL Construction and the Transport Ministry negligent over the Labis railway bridge frontage loss",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "The Johor Bahru High Court found SIPP Rail Sdn Bhd, Syarikat Pembenaan Yeoh Tiong Lay Sdn Bhd (YTL Construction) and the Transport Ministry's secretary-general negligent over the permanent loss of road frontage suffered by developer Bintang-Bintang Development Sdn Bhd after a railway bridge was built in Labis, Johor. In a judgement dated Oct 16, 2026, Judicial Commissioner Dr Noradura Hamzah ordered RM15,828 in special damages plus additional damages for the property's reduction in value; the plaintiff's valuer put the loss at RM1.19 million (RM2.37 million to RM1.18 million) while the defendants' valuer maintained no loss.",
+          "soWhat": "The quantum is small, but a standing negligence finding against YTL Construction and the ministry on a rail project sets a compensation precedent for every landowner along elevated alignments - relevant as MRT3 and ECRL-phase land disputes accumulate.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826081"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Hap Seng's volume-led miss and the industry's push for an export-tax waiver put the stockpiles story in play",
+      "items": [
+        {
+          "id": "2026-11-18-pl-1",
+          "headline": "Hap Seng Plantations 3Q profit falls 6.8% on lower CPO sales volume despite higher prices; industry presses for an export-tax waiver decision",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-17",
+          "detail": "Hap Seng Plantations Bhd's 3QFY2026 net profit fell 6.8% year on year to RM48.83 million on revenue of RM161.64 million (-4.7%), with lower CPO sales volume - timing of deliveries - offsetting a higher average CPO price of RM4,664 per tonne versus RM4,320 a year earlier; no dividend was declared. Separately, Malaysia's palm oil industry is pressing the government for a decision on an export tax waiver to boost shipments and manage record-high stockpiles, people familiar with the matter told Bloomberg; Plantation and Commodities Minister Datuk Seri Dr Noraini Ahmad said on Oct 29 her ministry had consulted on the matter. Bloomberg first reported in October that temporarily scrapping CPO export taxes was under consideration.",
+          "soWhat": "Record inventories plus an unresolved tax waiver is the swing variable for CPO into year-end - a waiver decision either way reprices export parity quickly, and planters with delivery-timing flexibility (like Hap Seng's volume deferral) are effectively waiting on the same catalyst.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826194"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826152"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge probe (826000-827500, 205 resolved, 167 in-window), feeds (MM/NST/FMT/theSun/BH/Malaysiakini), TNGlobal WP API (main feed 403), Star /business via browser, EdgeProp /news via browser. Used: US export controls effective Nov 19 + DC-stock rout + Singapore response + Kenanga (ai-1), Megaspeed probe timeline (ai-2), Nvidia no-comeback + oversight committee + results beat + RASA warning + Dec 1 congressional testimony (ai-3), MIDA 9M DC investments + Akmal reassurance + MCMC-Anthropic inquiry (ai-4), Zetrix-Macquarie injunction (ai-5), Citaglobal hydro completion (ai-6), TM SALAM cable (ai-7). Seen, not itemised: BNM's open-finance framework (fintech policy); SC's Sukuk PRISMA and 1Q2027 climate-sukuk framework (capital markets); Solarvest record earnings (solar EPCC, outside scope); SkyeChip-SiPearl ARM CSS JV (semis corporate); Trump's DC-equipment import curb advance (US-side, Reuters); Trump's Asean superintelligence offer and France digital investments RM812.68m (diplomatic aggregates); HE Group 9M revenue +36.7% on DC demand (theSun piece, results already flagged in bursa log); Thailand subsea cable BMI note (foreign); FPT's Vietnam-Singapore cable investment (foreign).",
+    "propertyDevelopment": "Checked: Edge probe, EdgeProp, Star, feeds. Used: MyDCD debut (pd-1), LBS sukuk upsize (pd-2), Crescendo land sale unconditional (pd-3). Seen, not itemised: Paramount's appointment of branding agency Imajen for The Ashbourne (RM1.3b GDV U-Thant project, 2026 launch - agency-issued statement; launch itself will be itemised); Berjaya Property's explanation of the 25% Manjaran premium (follow-up to yesterday's filing, no new terms); TWL's RM26m Wisma TWL purchase from chairman-linked firm (small RPT); Sime Darby Property's developer-award win (awards); Yes Group IPO oversubscription (management services, out of scope; note Star reports 2.80x vs Edge's 1.8x - unresolved discrepancy, not relied on); Steel Hawk RM59.24m / Econpile RM21m / EI Power RM14.79m contracts (small-cap awards below materiality); Unioleo/Big Caring IPO pieces (out of scope).",
+    "construction": "Checked: Edge probe, feeds, Bursa mirror. Used: SIPP-YTL Labis negligence ruling (con-1). Seen, not itemised: PAC probe scope on Sabah Pan Borneo (governance process); small contract awards (see propertyDevelopment note).",
+    "propertyInvestment": "Checked: Edge probe, EdgeProp, Bursa mirror. Seen, not itemised: UOA REIT 3Q NPI +22% (office-led portfolio - outside the retail-only scope); Paradigm REIT EdgeProp recap (duplicate of 17 Nov pi-1).",
+    "plantation": "Checked: Edge probe, feeds. Used: Hap Seng Plantations 3Q + export-tax waiver push (pl-1). Seen, not itemised: MPOB's EUDR-readiness statement (agency communication); LTAT/Achi Jaya question on Boustead Plantations takeover (political question stage).",
+    "capitalFinancing": "Checked: Edge probe, feeds, Bursa mirror. No in-window licensed-moneylending or capital-financing items within scope. Seen, not itemised: husband-wife charged over Dinar Dirham deposit-taking scheme (enforcement case, not sector corporate news).",
+    "consumerFinancing": "Checked: Edge probe, feeds, Bursa mirror. No in-window civil-servant financing items.",
+    "cablesManufacturing": "Checked: Edge probe, feeds, Bursa mirror. No in-window items (TM's SALAM is telco infrastructure, not cable manufacturing; Southern Cable's only filing was a routine EPF shareholding notice).",
+    "buildingMaterialsIbs": "Checked: Edge probe, EdgeProp, feeds. No in-window IBS/wall-panel or named-watchlist items. Seen, not itemised: Feruni's four-project collaboration (tiles - outside IBS scope).",
+    "hotels": "Checked: Edge probe, EdgeProp, feeds. No in-window hotel items."
+  },
+  "generalCoverage": [
+    "Edition window: from the 17 Nov edition's verified cutoff (07:25 MYT 17 Nov) to 07:25 MYT 18 Nov 2026 (actual last check). Edge probe 826000-827500: 205 resolved, 167 in-window (max resolved in-window node 826231 at 06:28 MYT 18 Nov). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa check: KLSE Screener mirror pages 1-6 captured (180 rows, all dated 17 Nov). Opened filings: Zetrix's news-article clarification confirming the Macquarie injunction (ai-5), Citaglobal's acquisition completion + press release (ai-6), LBS's sukuk upsize (pd-2). MyDCD's 5:59pm notices are routine post-listing director/substantial-shareholder disclosures. YES Group's IPO listing announcement and Yes Group listing notices are out of sector scope. Watchlist: GDB (director/substantial notices) and Southern Cable (EPF notice) were routine; Pesona Metro a routine buyback.",
+    "The Star /business was swept via browser: Citaglobal's hydro completion was itemised (ai-6). Seen, not itemised: 'Is Malaysia's AI boom at risk?' (economy analysis overlapping ai-1's sourced views); SC's Sukuk PRISMA; MPOB EUDR statement; Big Caring/TWL/Dialog/99 Speed Mart (out of scope).",
+    "EdgeProp was accessible with no challenge: Crescendo's unconditional land sale was itemised (pd-3). Seen, not itemised: the Paramount-Imajen branding statement (The Ashbourne, RM1.3b GDV), Berjaya Property's Manjaran premium explanation, Savills' APAC recovery note, the strata-law court feature, Feruni (out of scope), and branded pieces (excluded).",
+    "TMR remains behind a Cloudflare challenge at /feed/ (terminal under the no-challenge-bypass rule). TNGlobal's main feed 403s - the WP API was used (its chip-curbs and Singapore pieces corroborate ai-1; the BMI 'future phases at risk' view noted in sector coverage). Sinar Harian's /bisnes listing page structure changed today (no article links parsed at 07:24) - logged as a partial check; its feed items are typically PR/awards. Bernama's feed items carry no date fields (partial). KiniBiz's feed is stale (Sep 2026). Malaysiakini's feed was healthy but politics-led. BH carried the Citaglobal (BM) and SC PRISMA headlines. FMT carried the Huang-congressional and China-response wires (corroboration; the congressional item is cited via NST). MOF's press-release page returned a 404 today - logged; no MOF release was relied on.",
+    "Government quick checks: BNM's 17 Nov listing is the open-finance policy document (matches the BNM framework story, out of sector scope); MPOB's 16 Nov date is its daily CPO price widget; CIDB and KPKT show page-cache timestamps only.",
+    "Zetrix watch: Macquarie injunction itemised (ai-5); Nov 23 Bursa dividend-settlement deadline and Dec 1 inter partes hearing are the next two dates; the RM100m-upfront JPJ proposal still awaits a Finance Ministry decision. Nvidia watch: Jensen Huang testifies before US congressional committees on Dec 1; interim CEO Kress's first results beat overnight."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon) had in-window news; GDB's director/substantial-shareholder notices, Southern Cable's EPF notice and Pesona Metro's buyback were routine.",
+    "Zetrix AI chain (not watchlist, tracked): Macquarie winding-up threat frozen by interim injunction until Dec 1 (ai-5); Nov 23 dividend deadline next."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 167,
+      "used": 10,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 11,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 20,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 8,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 8,
+      "used": 3,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}
