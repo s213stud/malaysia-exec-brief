@@ -1,0 +1,166 @@
+{
+ "checkedAt": "2026-11-19T07:21:06+08:00",
+ "method": "curl listing via KLSE Screener mirror (bursamalaysia.com 403s automation); filing bodies read via cloud browser (iframe-rendered mirror pages)",
+ "filters": {
+  "dateFrom": "2026-11-18",
+  "dateTo": "2026-11-19",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 180,
+ "note": "Mirror pages 1-6 captured (180 rows, all dated 18 Nov - full Wednesday; zero 19 Nov rows at the 07:21 check). Sector-relevant filings opened below; remaining rows are routine shareholding notices, buybacks, ETF NAVs and out-of-scope results.",
+ "results": [
+  {
+   "annId": "11704753",
+   "company": "LBS BINA GROUP BERHAD",
+   "title": "18 Nov 6:17pm Quarterly results 3QFY2026",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704753",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-19-pd-1"
+  },
+  {
+   "annId": "11704891",
+   "company": "PRG HOLDINGS BERHAD",
+   "title": "18 Nov 7:30pm Material litigation - JM application update: hearing vacated, case management 9 Dec",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704891",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-19-pd-5"
+  },
+  {
+   "annId": "11704877",
+   "company": "PRG HOLDINGS BERHAD",
+   "title": "18 Nov 7:14pm Others - PKF independent review draft report due third week of December",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704877",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-19-pd-5"
+  },
+  {
+   "annId": "11704645",
+   "company": "PMCK BERHAD",
+   "title": "18 Nov 5:59pm Signing of term sheet with Chin Hin Group (Alor Setar hospital)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704645",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-19-con-2"
+  },
+  {
+   "annId": "11704649",
+   "company": "PMCK BERHAD",
+   "title": "18 Nov 5:59pm Signing of term sheet with Chin Hin Group (second notice)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704649",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-19-con-2"
+  },
+  {
+   "annId": "11704849",
+   "company": "TAGHILL HOLDINGS BERHAD",
+   "title": "18 Nov 6:42pm Material litigation - JM application for Siab Construction dismissed; moratorium ceased",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704849",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-19-con-3"
+  },
+  {
+   "annId": "11704879",
+   "company": "UNITED MALACCA BERHAD",
+   "title": "18 Nov 7:14pm Take-overs & mergers - offer unconditional (corroborated via Edge 826361 body)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704879",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-19-pl-2"
+  },
+  {
+   "annId": "11704865",
+   "company": "TANCO HOLDINGS BERHAD",
+   "title": "18 Nov 7:02pm Proposed JV - XH Tanco Precast Building Sdn Bhd incorporated",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704865",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704839",
+   "company": "CITAGLOBAL BERHAD",
+   "title": "18 Nov 6:44pm Non-RPT - LAWI Engineering share subscription and acquisition",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704839",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704847",
+   "company": "UEM SUNRISE BERHAD",
+   "title": "18 Nov 6:43pm Provision of financial assistance (routine)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704847",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704803",
+   "company": "WILLOWNEX BERHAD",
+   "title": "18 Nov 6:26pm New contracts awarded (small, out of scope)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704803",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704667",
+   "company": "CHIN HIN GROUP BERHAD",
+   "title": "18 Nov 6:02pm Share buyback (routine; watchlist company)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704667",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704689",
+   "company": "SOUTHERN CABLE GROUP BERHAD",
+   "title": "18 Nov 6:04pm EPF substantial shareholding notice (routine; watchlist company)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704689",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704585",
+   "company": "PESONA METRO HOLDINGS BERHAD",
+   "title": "18 Nov 5:52pm Share buyback (routine; watchlist company)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11704585",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11704779-11704787",
+   "company": "INTA BINA GROUP BERHAD",
+   "title": "18 Nov 6:22pm Director/substantial shareholder notices (routine; watchlist company)",
+   "date": "2026-11-18",
+   "url": "https://www.klsescreener.com/v2/announcements",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  }
+ ]
+}

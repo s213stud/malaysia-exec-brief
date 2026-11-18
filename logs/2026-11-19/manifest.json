@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR Cloudflare challenge - terminal per the no-solver rule. EdgeProp and Star swept via browser; BH articles read via browser (Cloudflare blocks curl). Sinar listing restored (undated - partial); Malaysiakini feed malformed today (partial); Bernama undated and KiniBiz stale (partial). Window from 18 Nov verified cutoff 07:24 MYT to 07:30 MYT 19 Nov (actual last check)."
+}
