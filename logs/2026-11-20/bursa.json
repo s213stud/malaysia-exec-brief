@@ -1,0 +1,136 @@
+{
+ "checkedAt": "2026-11-20T07:20:58+08:00",
+ "method": "curl listing via KLSE Screener mirror (bursamalaysia.com 403s automation); filing pages opened via cloud browser",
+ "filters": {
+  "dateFrom": "2026-11-19",
+  "dateTo": "2026-11-20",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 180,
+ "note": "Mirror pages 1-6 captured (180 rows, all dated 19 Nov - full Thursday). Sector-relevant filings listed below; remaining rows are routine shareholding notices, buybacks, warrant adjustments and out-of-scope results.",
+ "results": [
+  {
+   "annId": "11705845",
+   "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+   "title": "19 Nov 6:46pm Quarterly results 3QFY2026",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705845",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-con-1"
+  },
+  {
+   "annId": "11705863",
+   "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+   "title": "19 Nov 6:55pm Third interim dividend (7.9 sen)",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705863",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-con-1"
+  },
+  {
+   "annId": "11705857",
+   "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+   "title": "19 Nov 6:52pm Media release of 3Q results (browser-opened)",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705857",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-20-con-1"
+  },
+  {
+   "annId": "11705859",
+   "company": "KJTS GROUP BERHAD",
+   "title": "19 Nov 6:52pm Subcontract agreement (RM48m Gamuda DC job)",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705859",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-con-2"
+  },
+  {
+   "annId": "11705881",
+   "company": "DAGANG NEXCHANGE BERHAD",
+   "title": "19 Nov 7:07pm Change in principal officer - Vinie Chong GCEO",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705881",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-ai-10"
+  },
+  {
+   "annId": "11705895",
+   "company": "YNH PROPERTY BERHAD",
+   "title": "19 Nov 7:22pm Change in boardroom - Yu Kuan Chon resigns",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705895",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-pd-3"
+  },
+  {
+   "annId": "11705659",
+   "company": "MALAYSIAN PACIFIC INDUSTRIES BERHAD",
+   "title": "19 Nov 5:54pm Quarterly results 1QFY2027",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705659",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-ai-15"
+  },
+  {
+   "annId": "11705669",
+   "company": "MALAYSIAN PACIFIC INDUSTRIES BERHAD",
+   "title": "19 Nov 5:57pm Interim dividend (10 sen)",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705669",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-20-ai-15"
+  },
+  {
+   "annId": "11705849",
+   "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+   "title": "19 Nov 6:49pm Ventures progress disclosure (browser-opened; routine)",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705849",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11705793",
+   "company": "EVERGREEN MAX CASH CAPITAL BERHAD",
+   "title": "19 Nov 6:29pm Quarterly results - pawnbroking, out of licensed-moneylending scope",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705793",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11705759",
+   "company": "CONCRETE ENGINEERING PRODUCTS BERHAD",
+   "title": "19 Nov 6:14pm Quarterly results - generic concrete products, non-IBS",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11705759",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11705565-11705599",
+   "company": "UEM SUNRISE BERHAD",
+   "title": "19 Nov ~5:5xpm Structured-warrant adjustments (routine)",
+   "date": "2026-11-19",
+   "url": "https://www.klsescreener.com/v2/announcements",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  }
+ ]
+}
