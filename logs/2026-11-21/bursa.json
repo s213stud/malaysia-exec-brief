@@ -1,0 +1,126 @@
+{
+ "checkedAt": "2026-11-21T07:20:57+08:00",
+ "method": "curl listing via KLSE Screener mirror (bursamalaysia.com 403s automation); filing pages opened via cloud browser",
+ "filters": {
+  "dateFrom": "2026-11-20",
+  "dateTo": "2026-11-21",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": true,
+ "reportedCount": 180,
+ "note": "Mirror pages 1-6 captured (180 rows, all dated 20 Nov - full Friday). Sector-relevant filings listed below; remaining rows are routine shareholding notices, buybacks, warrant adjustments and out-of-scope results.",
+ "results": [
+  {
+   "annId": "11706597",
+   "company": "CRESCENDO CORPORATION BERHAD",
+   "title": "20 Nov ~6:0xpm Termination of RM200.88m Kota Tinggi land sale",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706597",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-21-pd-3"
+  },
+  {
+   "annId": "11706753",
+   "company": "PRG HOLDINGS BERHAD",
+   "title": "20 Nov 6:59pm OTHERS - Furniweb RM5.6m repayment demand (browser-opened)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706753",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-21-pd-4"
+  },
+  {
+   "annId": "11706547",
+   "company": "MN HOLDINGS BERHAD",
+   "title": "20 Nov ~5:4xpm RM1.12b solar EPCC contract",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706547",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-21-con-3"
+  },
+  {
+   "annId": "11706709",
+   "company": "TCS GROUP HOLDINGS BERHAD",
+   "title": "20 Nov 6:33pm Change in Boardroom - Mr Wong Choo Leong resigns (browser-opened)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706709",
+   "opened": true,
+   "decision": "included",
+   "itemId": "2026-11-21-con-4"
+  },
+  {
+   "annId": "11706669",
+   "company": "SARAWAK PLANTATION BERHAD",
+   "title": "20 Nov ~6:1xpm Quarterly results 3QFY2026",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706669",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-21-pl-2"
+  },
+  {
+   "annId": "11706721",
+   "company": "SARAWAK PLANTATION BERHAD",
+   "title": "20 Nov ~6:4xpm Third interim dividend (7.5 sen)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706721",
+   "opened": false,
+   "decision": "included",
+   "itemId": "2026-11-21-pl-2"
+  },
+  {
+   "annId": "11706607",
+   "company": "DAGANG NEXCHANGE BERHAD",
+   "title": "20 Nov 6:07pm OTHERS - ESOS grant of 60.5m options at RM0.3265 (browser-opened; routine)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706607",
+   "opened": true,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11706713",
+   "company": "ITMAX SYSTEM BERHAD",
+   "title": "20 Nov ~6:3xpm RM1b sukuk programme - outside stated sector scope",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706713",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11706475",
+   "company": "KIMLUN CORPORATION BERHAD",
+   "title": "20 Nov ~5:1xpm Notice of general meeting (routine)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706475",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11706755",
+   "company": "SERN KOU RESOURCES BERHAD",
+   "title": "20 Nov 7:00pm Change in Boardroom (routine; furniture sector - out of scope)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706755",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  },
+  {
+   "annId": "11706437",
+   "company": "JAYA TIASA HOLDINGS BHD",
+   "title": "20 Nov 5:41pm Change in Boardroom (routine)",
+   "date": "2026-11-20",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11706437",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "itemId": null
+  }
+ ]
+}

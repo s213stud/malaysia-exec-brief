@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. TMR Cloudflare challenge - terminal per the no-solver rule. EdgeProp and Star swept via browser; BH feed used with article pages via browser. Malay Mail feeds stale a second day (partial - multi-day gap); Malaysiakini RSS unparseable (partial); Bernama undated and KiniBiz stale (partial); Sinar listing undated (partial); MOF listing not statically extractable today. Window from 20 Nov verified cutoff 07:27 MYT to 07:27 MYT 21 Nov (actual last check)."
+}
