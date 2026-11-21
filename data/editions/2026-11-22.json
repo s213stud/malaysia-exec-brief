@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-22",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-22T07:21:38+08:00",
+    "2026-11-22T07:27:41+08:00",
+    "2026-11-22T07:28:19+08:00",
+    "2026-11-22T07:29:02+08:00",
+    "2026-11-22T07:31:29+08:00",
+    "2026-11-22T07:31:37+08:00",
+    "2026-11-22T07:32:02+08:00",
+    "2026-11-22T07:33:46+08:00",
+    "2026-11-22T07:34:29+08:00",
+    "2026-11-22T07:35:44+08:00",
+    "2026-11-22T07:38:26+08:00"
+  ],
+  "publishedAt": "2026-11-22T07:38:31+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "The US pressure stack on offshore AI infrastructure escalated on three fronts over the weekend: a threatened tax on US firms building data centres abroad, an SEC accounting probe into Nvidia, and a BIS rule that licenses even in-country chip transfers and remote compute access in Malaysia",
+      "soWhat": "Demand (tax), compliance (licensing) and disclosure (SEC) risks are now live simultaneously for Malaysia's 13GW DC pipeline - boards should stress-test projects against all three rather than treating Washington's moves as separate stories.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-22-ai-1",
+        "2026-11-22-ai-2",
+        "2026-11-22-ai-3"
+      ]
+    },
+    {
+      "headline": "The Nvidia SEC probe centres on the same geographic-disclosure mechanics as the Megaspeed chain - the reporting change that removed Singapore from its revenue breakdown",
+      "soWhat": "If the inquiry re-litigates what 'Singapore' sales really were, the intermediary question running through Malaysia's DC sector gains a second, US-regulator front alongside Miti's probe.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-22-ai-2"
+      ]
+    },
+    {
+      "headline": "A quiet weekend domestically: Bedi clears legacy losses to restore dividend capacity under Exsim, and Armani Group launches 1,072 units in Bukit Bintang",
+      "soWhat": "Balance-sheet repair plus a confident city-centre launch are small but real signs of developer risk appetite heading into 2027.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-22-pd-1",
+        "2026-11-22-pd-2"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Trump threatens a 'tremendous tax' on US companies building data centres abroad, the SEC opens an accounting probe into Nvidia, and The Edge dissects the new BIS rule that licenses even in-country chip transfers and remote compute access in Malaysia",
+      "items": [
+        {
+          "id": "2026-11-22-ai-1",
+          "headline": "Trump vows a 'tremendous tax' on American companies that build data centres abroad - direct threat to Malaysia's DC demand thesis",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-21",
+          "detail": "US President Donald Trump told a White House press briefing on Friday that American firms can build data centres abroad, \"but we're going to put a tremendous tax on them. If they do it, we want them to build it here\" (Bloomberg via The Edge). He gave no detail on how such a tax would be carried out or its legal authority, and specifically called out Google for investing in data centre operations in Finland. Microsoft, Alphabet and Amazon run data centres across the globe and are spending hundreds of billions of dollars on more AI capacity, increasingly in places such as China, parts of Europe and Latin America; US midterm results also showed a domestic backlash, with several Democrats who promised stricter data centre regulation winning races.",
+          "soWhat": "US hyperscalers are the anchor customers of Malaysia's 13GW DC pipeline - a tax on offshore builds would hit the demand thesis directly, and even unactioned rhetoric raises the cost of capital for non-US capacity. Watch whether the threat survives contact with the Commerce Department.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826726"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/bahasa/dunia/2026/11/21/trump-ancam-kenakan-cukai-tinggi-terhadap-syarikat-as-bina-pusat-data-di-luar-negara"
+            },
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/dunia/amerika/2026/11/1723855/trump-ancam-kenakan-cukai-tinggi-terhadap-syarikat-bina-pusat-data-di"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-22-ai-2",
+          "headline": "SEC opens an accounting probe into Nvidia as the Megaspeed scrutiny reaches its geographic revenue disclosures; shares down more than 20% on the week",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-22",
+          "detail": "US securities regulators are investigating Nvidia's accounting practices, US media reported: the Securities and Exchange Commission inquiry is in its early stages (The New York Times, citing people briefed on the confidential investigation; The Wall Street Journal reported a probe earlier in the week without establishing its focus), and it could end without charges. Questions about Nvidia's financial disclosures have intensified amid scrutiny of its dealings with Megaspeed, the Singapore-based company investigated over suspected shipments of restricted AI chips to China; Nvidia last year changed how it reports sales by geography, switching from customers' billing addresses to the countries where they are headquartered - a change that removed Singapore from its geographical breakdown despite significant business there. It is unclear whether the SEC investigation is connected to the accounting changes or to the scandal around former CEO Jensen Huang, who resigned earlier this month. Nvidia shares plunged 14% on Friday, taking weekly losses past 20%; the Nasdaq 100 had its worst week since 2020 (The Edge). Trump on Friday called for Huang to be given a \"second chance\" (itemised 21 Nov, ai-2).",
+          "soWhat": "An accounting probe aimed at geographic revenue disclosure goes to the exact mechanism a transshipment inquiry would exploit - if billing-to-headquarters reclassification obscured Singapore intermediary volume, every 'Singapore' shipment touching Malaysian DCs gets re-litigated, with Miti's own probe running in parallel.",
+          "sources": [
+            {
+              "publisher": "NST / Business Times",
+              "url": "https://www.nst.com.my/world/world/2026/11/1582860/nvidia-faces-sec-probe-amid-turmoil-following-huangs-resignation"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826730"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-22-ai-3",
+          "headline": "The Edge dissects the Nov 19 BIS rule: Malaysia is one of five countries where even in-country transfers of advanced AI chips - and remote access to compute - now need US licences",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-21",
+          "detail": "The US Bureau of Industry and Security rule of Nov 19 puts Malaysia among five countries - with Singapore, Indonesia, Brazil and Thailand - judged to carry a higher-than-normal risk of advanced AI chips being diverted to restricted buyers, The Edge reported in a cover-story analysis. The rule now requires a US licence for the export or re-export of advanced AI chips and servers to Malaysia, or to transfer them within the country, even when the buyer is Malaysian; buyers headquartered in the US or owned by a US parent are exempt provided the exporter files the required reports. The rule also reaches chips already installed in data centres: an operator now needs a US licence to give companies in China or other covered jurisdictions remote access to large amounts of compute, even if the chips never leave the building. The Edge frames the question for Malaysia as how much of its planned data centre capacity depends on customers affected by the rules, and whether those projects go ahead at the scale originally planned; Malaysia commands about 13% of global chip assembly, testing and packaging and about 7% of global semiconductor trade, per Mida estimates.",
+          "soWhat": "The remote-access clause is the one that matters here: it converts the NYT's YTL-Alibaba allegation (21 Nov, ai-1) from a political story into a licensing exposure for every Malaysian DC operator serving covered-jurisdiction customers - co-location contracts now need a remote-access compliance view.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826727"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Bedi moves to wipe out RM66.7m of legacy losses with a RM180m capital reduction under its Exsim owners, and Armani Group launches a 1,072-unit serviced apartment project in Bukit Bintang",
+      "items": [
+        {
+          "id": "2026-11-22-pd-1",
+          "headline": "Bedi proposes a RM180m capital reduction to eliminate legacy losses and rebuild distributable reserves under the Exsim brothers",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-20",
+          "detail": "Bedi Bhd (KL:BEDI) has proposed a capital reduction of up to RM180 million, which will eliminate the group's RM66.68 million in accumulated losses as at end-September and leave retained earnings of RM113.17 million, according to a bourse filing on Friday. The quantum was set to clear the losses, provide a \"prudent buffer\" against potential future losses, optimise the capital structure and strengthen the group's ability to support future distributions. Issued share capital falls to RM254.68 million from RM434.68 million. Bedi said the losses were predominantly legacy in nature, accumulated before the change in controlling shareholder in November 2024: the Lim brothers of Exsim Development (Lim Aik Hoe, Lim Aik Kiat and Lim Aik Fu) control 52.504% via Exsim Borneo Sdn Bhd, having acquired the stake in what was then WMG Holdings from Syarikat Kretam (Far East) Holdings for RM75.12 million, or 16.5 sen apiece, in October 2024. (The Edge node for this story, dated Nov 20, only became publicly visible after yesterday's research cutoff and is itemised today.)",
+          "soWhat": "A balance-sheet clean-up that restores dividend capacity is the Exsim playbook applied to its listed shell - the question is what assets or land bank get injected now that distributions are unblocked.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826717"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-22-pd-2",
+          "headline": "Armani Group launches Armani Hallson Bukit Bintang - 1,072 serviced apartment units near Jalan Alor",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-21",
+          "detail": "Armani Group has launched Armani Hallson Bukit Bintang, a serviced apartment development near Jalan Alor in Kuala Lumpur, comprising 1,072 units across 11 layout options ranging from 583 to 1,487 sq ft in single-key and dual-key configurations, the group said in a Saturday statement. Units target buyers seeking a city-centre home, holiday home or rental property; planned facilities include a Skyline Observation Deck, Skyline Circular Bar and 360 Hot Pool. Group sales and marketing director William Lau said the company sees potential for further growth in Bukit Bintang; Magna Prima Bhd managing director Eddy Seah attended the launch (EdgeProp).",
+          "soWhat": "A 1,072-unit city launch into a soft high-rise market is a confident bet on Bukit Bintang's tourism-rental demand - sales take-up will be a useful read on investor appetite for KL city-centre strata product.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918444/armani-group-launches-serviced-apartment-project-bukit-bintang"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "Checked: Edge listings (corporate/malaysia/world via browser - curl probing was rate-limited by the site this morning after repeated bursts; every listing-visible node 826714-826746 individually resolved with created epochs via in-page fetch, plus an in-page sweep of 826747-828350 for late-resolving nodes), feeds (NST/FMT/theSun/BH - TNGlobal WP API had zero in-window posts), Star /business and EdgeProp /news via browser, Bursa mirror. Used: Trump offshore-DC tax threat (ai-1), Nvidia SEC accounting probe (ai-2), BIS five-country rule analysis (ai-3). Seen, not itemised: Nasdaq 100's worst week since 2020 (context folded into ai-2); Trump's 'second chance' remark (itemised 21 Nov ai-2; Edge wire logged as duplicate); SoftBank's abandoned SK Hynix buyout exploration (foreign); Bitcoin below US$56k and Taiwan short-selling rules (foreign/market); Anthropic's Friday slide and related wires (duplicates of 21 Nov ai-4); Alliance Bank SME interview (banking, out of scope); NST's cable-theft/scrap-copper stories (no listed-company angle); Prasarana-TM cable-theft statement (infrastructure vandalism, no new corporate facts).",
+    "propertyDevelopment": "Checked: Edge listings, EdgeProp, Star, Bursa mirror. Used: Bedi capital reduction (pd-1 - node dated Nov 20, surfaced after yesterday's cutoff), Armani Hallson launch (pd-2). Seen, not itemised: EdgeProp's Johor office-vacancy analysis and Johor serviced-apartment data piece (analysis/data features); Star's 'Malaysia's 3Q26 property reality check' and 'Old drains and water strains' (weekend features, paywalled beyond openers); NST's 'Ampang's MRT3 moment' (weekend property feature); Berjaya Property-Prince Court healthcare partnership (marketing tie-up); EdgeProp Done Deal transaction notes (routine).",
+    "construction": "Checked: Edge listings, feeds, Star, Bursa mirror. No in-window items within scope. Seen, not itemised: CIDB dormant-contractor story is from 20 Nov (itemised 21 Nov con-1).",
+    "propertyInvestment": "Checked: Edge listings, EdgeProp, Star. No in-window retail-REIT or mall items within scope.",
+    "plantation": "Checked: Edge listings, feeds, Star. No in-window plantation items.",
+    "capitalFinancing": "Checked: Edge listings, feeds, Bursa mirror. No in-window licensed-moneylending items within scope.",
+    "consumerFinancing": "Checked: Edge listings, feeds, Bursa mirror. No in-window civil-servant financing items.",
+    "cablesManufacturing": "Checked: Edge listings, feeds, Bursa mirror. No in-window items for Southern Cable or Master Tec. Seen, not itemised: NST's copper cable-theft features (crime/infra stories, no listed-company angle).",
+    "buildingMaterialsIbs": "Checked: Edge listings, EdgeProp, feeds, Bursa mirror. No in-window IBS/wall-panel or named-watchlist items. Seen, not itemised: SCGM's exit from cash-company status (packaging company, out of scope).",
+    "hotels": "Checked: Edge listings, EdgeProp, feeds, Star. No in-window hotel items within scope. Seen, not itemised: Kimpton Naluria KL festive-staycation piece (lifestyle promotion)."
+  },
+  "generalCoverage": [
+    "Edition window: from the 21 Nov edition's verified cutoff (07:27 MYT 21 Nov) to 07:38 MYT (07:38:26, actual final feed recheck) (actual last check). Quiet Sunday. The Edge was checked via browser this morning: the site rate-limited the sandbox's curl node-probing after repeated bursts, so instead all listing-visible nodes (826714-826746) were individually resolved with created epochs via in-page fetch, and an in-page sweep of 826747-828350 for late-resolving nodes was launched but did not complete within the run window; the homepage listing, re-read at 07:36 MYT, still showed no published nodes newer than 826746. Nodes above 826746 therefore remain unchecked this run (logged as a gap). Node IDs are not chronological; dating is by __NEXT_DATA__ created epoch.",
+    "Bursa check: KLSE Screener mirror pages 1-6 captured at 07:21 - all 180 rows still dated 20 Nov; no Saturday filings yet as of the check. Friday's filings were itemised in the 21 Nov edition.",
+    "The Star /business swept via browser: no itemisable items today - the weekend lineup is features and paywalled analysis ('3Q26 property reality check', 'Old drains and water strains', 'AI economy - more than just data centres'); Friday's items were itemised in the 21 Nov edition.",
+    "EdgeProp accessible with no challenge: Armani Hallson launch itemised (pd-2). Seen, not itemised: Berjaya Property-Prince Court partnership (marketing tie-up), Johor office-vacancy analysis and serviced-apartment data piece (analysis/data features), Done Deal notes (routine), branded stories excluded.",
+    "TMR remains behind a Cloudflare challenge at /feed/ (terminal under the no-challenge-bypass rule). TNGlobal main feed 403; WP API fallback returned zero in-window posts (weekend). Malaysiakini's RSS returned an HTML page again (partial). Bernama's feed remains undated (partial). KiniBiz stale (Sep 2026). Malay Mail's Malaysia and Money feeds remain stale - nothing after 07:00 MYT 21 Nov (Malaysia feed) and 18:48 20 Nov (Money feed): a third consecutive day, flagged plainly as a multi-day gap. Sinar Harian's /bisnes listing parsed (no per-item dates).",
+    "Government quick checks: MOF canonical press-release page loads (200) but exposes no dated releases to the static fetch (latest previously seen release 18 Nov, pre-window); MCMC press page is JS-rendered with no dated listing visible to fetch.",
+    "Zetrix watch: no new verified disclosures in-window. Standing dates: Nov 23 (tomorrow, Monday) - ARIM fund-suspension end and Bursa dividend-payment deadline; Dec 1 - Macquarie injunction hearing; RM100m JPJ offer undecided at MoF; RM214m sukuk due March 2027. Nvidia watch: SEC accounting probe itemised (ai-2); Huang Dec 1 and GC Teter Dec 2 congressional testimony."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company (OKA, Chin Hin, Southern Cable, Master Tec, Crest Builder, Tuju Setia, Pesona Metro, GDB, TCS, Inta Bina, Nestcon, Kitacon) was named in any in-window article body today.",
+    "No new watchlist-company Bursa filings in-window (mirror still shows Friday's rows). TCS's Friday boardroom exit was itemised 21 Nov (con-4).",
+    "Zetrix AI chain (not watchlist, tracked): no new verified disclosures; Nov 23 and Dec 1 dates stand (see general coverage)."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 19,
+      "used": 4,
+      "status": "partial",
+      "note": "curl probing rate-limited by the site; checked via browser listings + in-page fetch",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 0,
+      "used": 0,
+      "status": "partial",
+      "note": "feeds stale - third consecutive day (Malaysia feed latest 07:00 MYT 21 Nov)",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "main feed 403; WP API fallback live but zero in-window posts (weekend)",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 8,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 5,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "mirror still shows only 20 Nov (Friday) rows - no Saturday filings as of 07:21 check",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    },
+    {
+      "source": "Berita Harian",
+      "scanned": 36,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Berita Harian"
+      ]
+    },
+    {
+      "source": "Sinar Harian",
+      "scanned": 12,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "Sinar Harian"
+      ]
+    }
+  ]
+}

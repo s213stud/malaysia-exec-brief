@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. Quiet Sunday edition. TMR Cloudflare-terminal per the no-solver rule. The Edge's site rate-limited curl node-probing after repeated bursts; coverage via browser listings + in-page fetch (no bypass). Malay Mail feeds stale a third day; Malaysiakini RSS unparseable; Bernama undated; KiniBiz stale; Sinar undated; TNGlobal WP fallback had zero in-window posts; Bursa mirror showed no Saturday filings as of 07:21. Window from 21 Nov verified cutoff 07:27 MYT to 07:38 MYT (07:38:26, actual final feed recheck) (actual last check)."
+}
