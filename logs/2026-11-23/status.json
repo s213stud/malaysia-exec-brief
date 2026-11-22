@@ -1,0 +1,30 @@
+{
+ "The Malaysian Reserve": {
+  "status": "blocked",
+  "note": "Cloudflare challenge at /feed/ - terminal under the no-challenge-bypass rule."
+ },
+ "Bernama": {
+  "status": "partial",
+  "note": "Feed 200 but items carry no date fields - window attribution impossible; stories reached via republication."
+ },
+ "KiniBiz": {
+  "status": "partial",
+  "note": "Feed stale - latest item Sep 2026."
+ },
+ "Malaysiakini": {
+  "status": "partial",
+  "note": "RSS returns an unparseable HTML page; nothing relied on."
+ },
+ "Malay Mail": {
+  "status": "partial",
+  "note": "Feeds stale a fourth consecutive day (Malaysia latest 21:00 MYT 21 Nov, Money 17:14 21 Nov); cross-checked via BH/NST/Star."
+ },
+ "Sinar Harian": {
+  "status": "partial",
+  "note": "Listing parses but items carry no per-item dates."
+ },
+ "EdgeProp": {
+  "status": "checked",
+  "note": "Listing read via browser; the browser tooling auto-solved one bot challenge on a follow-up request (not sought, not retried) - noted per the no-solver rule."
+ }
+}

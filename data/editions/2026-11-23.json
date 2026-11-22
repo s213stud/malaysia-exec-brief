@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-23",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-23T07:21:15+08:00",
+    "2026-11-23T07:22:21+08:00",
+    "2026-11-23T07:23:07+08:00",
+    "2026-11-23T07:23:48+08:00",
+    "2026-11-23T07:24:11+08:00",
+    "2026-11-23T07:25:16+08:00",
+    "2026-11-23T07:25:57+08:00",
+    "2026-11-23T07:26:15+08:00",
+    "2026-11-23T07:28:19+08:00"
+  ],
+  "publishedAt": "2026-11-23T07:28:49+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "The data-centre gloom got a named rebuttal: HSBC Research and BNM say it is premature to price a Malaysian DC downturn from the US chip curbs - 3Q26 GDP grew 5.5%, private investment accelerated to 9.4%, BNM sees DC capex strong to 2030 and notes only about 13% of Malaysia's ~120 DC companies are Chinese",
+      "soWhat": "After a weekend of three US pressure fronts (offshore-DC tax threat, BIS licensing rule, SEC Nvidia probe), the counter-case now rests on hard investment data rather than hope - boards should weigh both tracks rather than treating either as settled.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-23-ai-1"
+      ]
+    },
+    {
+      "headline": "Foreign buyers are carrying KL high-rise demand: about 80% of Berjaya Assets' RM1m-plus Times Square 2 units go to overseas purchasers, Taiwan the largest source; the RM625m-GDV project is 62% sold with end-2027 completion",
+      "soWhat": "Taiwanese second-home capital with a geopolitical hedge motive is underwriting take-up - supportive now, but it ties project risk to MM2H-style policy settings and cross-strait sentiment.",
+      "sectorKeys": [
+        "propertyDevelopment"
+      ],
+      "itemIds": [
+        "2026-11-23-pd-1"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "After a weekend of three US pressure fronts on offshore AI infrastructure, HSBC Research and Bank Negara push back on the data-centre gloom: 3Q26 GDP held at 5.5%, private investment accelerated, and BNM sees DC capex strong to 2030 with only 13% of players Chinese",
+      "items": [
+        {
+          "id": "2026-11-23-ai-1",
+          "headline": "HSBC Research and BNM say it is premature to price a Malaysian data-centre downturn from the US chip curbs - 3Q26 GDP grew 5.5% and private investment accelerated to 9.4%",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "StarBiz's Monday lead (Nicole Chew, The Star) reports HSBC Global Investment Research arguing it is still premature to draw conclusions on how Washington's latest AI-chip curbs - imposed on data centres in four Asean countries including Malaysia - will hit the sector, noting businesses adapted after the Russia-Ukraine war, the 'Liberation Day' tariffs and the US-Iran war. The caution lands on 3Q26 GDP of 5.5% (announced Wednesday 18 Nov), with BNM data showing private investment up 9.4% (4.3% in 2Q26, 7.4% in 3Q25) and at 17.2% of GDP. BNM governor Datuk Seri Abdul Rasheed Ghaffour said DC investments should remain strong until at least 2030, and that of about 120 DC companies in Malaysia only 13% (about 17) are Chinese - the rest are from the US, Australia, Canada and Malaysia. Sunway University's Dr Yeah Kim Leng said the DC/AI share of private investment is likely substantial, with DC and AI projects accounting for 44% of approved investments in 1H26. (All per The Star's reporting; BNM remarks were made at Wednesday's 3Q26 GDP press conference.)",
+          "soWhat": "The counter-narrative now has named institutional backing: the demand-risk story (Trump's offshore-DC tax threat, the BIS licensing rule, the SEC's Nvidia probe) met a same-weekend rebuttal built on hard investment data. For DC-exposed boards the honest read is that both are true at once - pipeline commitments are real and long-dated, while the policy overhang is unresolved. The 13%-Chinese-ownership figure is the quotable defence against a 'China proxy' framing.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/23/growth-holds-risks-loom"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Berjaya Assets leans into foreign demand for Times Square 2: about 80% of its RM1m-plus units go to overseas buyers, Taiwan the largest source, and a Prince Court healthcare tie-up is aimed at second-home buyers",
+      "items": [
+        {
+          "id": "2026-11-23-pd-1",
+          "headline": "Foreign buyers take about 80% of Berjaya Assets' larger Times Square 2 units - Taiwan is the biggest source market; project 62% sold at RM625m GDV",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Berjaya Assets Bhd CEO Tan Tee Ming told SunBiz (theSun, Monday) that overseas purchasers account for an estimated 80% of buyers in the larger residences at Times Square 2, its 629-unit, 41-storey freehold serviced-residence tower on Jalan Imbi next to Berjaya Times Square and Bukit Bintang City Centre. The project, launched in 2024 at a RM625 million GDV, had sold 392 of 629 units (62%) as at September 2026, with completion targeted by end-2027. Units above RM1 million target foreigners - Taiwan is the largest overseas market with more than half of foreign buyers, followed by Singapore, India and Hong Kong plus a smaller number from China - while the roughly half of units around 488 sq ft target Malaysians. Most foreign owners are expected to engage Kite, Berjaya's Airbnb operator, for short-term rental, and Tan said some Taiwanese buyers are hedging China-Taiwan geopolitical uncertainty. On Saturday Berjaya Property Bhd formalised a partnership with Prince Court Medical Centre giving eligible buyers at Times Square 2 and The Ritz-Carlton Residences healthcare privileges (also reported by EdgeProp on Saturday).",
+          "soWhat": "KL city high-rise demand is being underwritten by foreign money - specifically Taiwanese second-home capital with a geopolitical hedge motive - rather than domestic owner-occupiers. That mix supports take-up now but ties project risk to MM2H-style policy settings and cross-strait sentiment; watch whether other Bukit Bintang-tier developers report the same buyer skew at launches.",
+          "sources": [
+            {
+              "publisher": "The Sun",
+              "url": "https://thesun.my/business/foreigners-shape-demand-for-berjaya-assets-times-square-2/"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918442/berjaya-property-homebuyers-enjoy-healthcare-privileges-under-new-partnership-prince-court"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "1 item: the HSBC/BNM rebuttal of DC-gloom on 3Q26 GDP and investment data (The Star). Weekend US pressure fronts (Trump offshore-DC tax, BIS licensing rule, SEC Nvidia probe) were itemised yesterday.",
+    "propertyDevelopment": "1 item: Berjaya Assets' Times Square 2 foreign-buyer mix and Prince Court tie-up (theSun interview, EdgeProp corroboration).",
+    "construction": "No in-scope news found in checked sources. EdgeProp's CIDB dormant-contractor registration warning (Nov 29 deadline) was itemised 21 Nov.",
+    "propertyInvestment": "No retail-property news found in checked sources.",
+    "plantation": "No plantation news found in checked sources. The Star's BPlant piece is a signed insight column - excluded.",
+    "capitalFinancing": "No licensed-moneylending news found in checked sources.",
+    "consumerFinancing": "No civil-servant financing news found in checked sources.",
+    "cablesManufacturing": "No cables news found in checked sources.",
+    "buildingMaterialsIbs": "No IBS/wall-panel or named-watchlist news found in checked sources.",
+    "hotels": "No hotel news found in checked sources."
+  },
+  "generalCoverage": [
+    "Edition window: from the 22 Nov edition's verified cutoff (07:38 MYT 22 Nov) to 07:28 MYT (07:28:19, actual final feed recheck) (actual last check). Quiet post-weekend Monday. The Edge was checked entirely via the cloud browser this morning (no sandbox curl bursts after yesterday's rate-limiting): all 29 listing nodes created in-window or newly visible (826729-826779) were individually resolved with created epochs via in-page fetch; the overnight sweep gap from yesterday (nodes above 826746) is now covered - the homepage listing shows nothing newer than 826779 and no skipped node resolved with in-window content. EdgeProp's listing was read once via the browser; the browser tooling auto-solved a bot challenge on one request (not sought, not retried) - EdgeProp access is otherwise normal. Zetrix: nothing new published as of cutoff (web check + all feeds + Edge listing); the Nov 23 remediation outcome is still pending.",
+    "Malay Mail feeds remain stale a fourth consecutive day (Malaysia latest 21:00 MYT 21 Nov, Money 17:14 21 Nov). Malaysiakini's RSS returned an unparseable HTML page again. Bernama's feed carries no dates. KiniBiz's feed is stale since Sep 2026. TNGlobal's main feed 403s (daily) and its WP API fallback had zero in-window posts. Sinar Harian's /bisnes listing parses but carries no per-item dates; nothing itemisable. MOF/MCMC pages are not statically extractable (MOF did surface a warning about a fake Threads account impersonating the Treasury sec-gen, via NST/theSun - noted, not itemised). Bursa: the KLSE Screener mirror's 180 rows are all still dated 20 Nov - no weekend or early-Monday filings as of this morning's check."
+  ],
+  "watchlistCoverage": [
+    "No watchlist company (OKA, Chin Hin, Southern Cable, Mastertec, Crest, Tuju Setia, Pesona, GDB, TCS, Inta Bina, Nestcon, Kitacon) was named in any checked article body this window."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 28,
+      "used": 0,
+      "status": "checked",
+      "note": "checked via cloud browser listings + in-page fetch (no sandbox curl after yesterday's rate-limiting)",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 0,
+      "used": 0,
+      "status": "partial",
+      "note": "feeds stale - fourth consecutive day (Malaysia latest 21:00 MYT 21 Nov)",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "main feed 403; WP API fallback live but zero in-window posts",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 12,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 9,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 0,
+      "used": 0,
+      "status": "checked",
+      "note": "mirror still shows only 20 Nov (Friday) rows - no weekend/early-Monday filings as of the 07:21 check",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    },
+    {
+      "source": "Berita Harian",
+      "scanned": 34,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Berita Harian"
+      ]
+    },
+    {
+      "source": "Sinar Harian",
+      "scanned": 15,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "Sinar Harian"
+      ]
+    }
+  ]
+}

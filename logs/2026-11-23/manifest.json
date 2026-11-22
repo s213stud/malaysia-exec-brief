@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. Quiet post-weekend Monday. TMR Cloudflare-terminal per the no-solver rule. The Edge checked fully via browser after yesterday's curl rate-limiting. EdgeProp read once; the browser tooling auto-solved one challenge (not sought, not retried). Malay Mail stale a fourth day; Malaysiakini unparseable; Bernama undated; KiniBiz stale; Sinar undated; TNGlobal WP fallback empty; Bursa mirror showed no filings since Friday. Zetrix Nov 23 outcome pending as of cutoff. Window from 22 Nov verified cutoff 07:38 MYT to 07:28 MYT (07:28:19, actual final feed recheck) (actual last check)."
+}
