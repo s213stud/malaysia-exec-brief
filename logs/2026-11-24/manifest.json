@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. Rich post-weekend Monday: 14 items incl. 3 watchlist flags. TMR Cloudflare-terminal per the no-solver rule. Malay Mail stale a fifth day; Malaysiakini unparseable; Bernama undated; KiniBiz stale; Sinar undated; TNGlobal via WP fallback (11 posts logged); Bursa mirror complete to 7.29pm with later filings reached via press. Zetrix Nov 23 outcome captured: extension rejected, appeal filed. Window from 23 Nov verified cutoff 07:28 MYT to 07:29 MYT (07:29:14, actual final feed recheck) (actual last check)."
+}

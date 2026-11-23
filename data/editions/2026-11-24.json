@@ -1,0 +1,537 @@
+{
+  "date": "2026-11-24",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-24T07:21:58+08:00",
+    "2026-11-24T07:22:34+08:00",
+    "2026-11-24T07:23:28+08:00",
+    "2026-11-24T07:23:42+08:00",
+    "2026-11-24T07:24:56+08:00",
+    "2026-11-24T07:25:30+08:00",
+    "2026-11-24T07:25:48+08:00",
+    "2026-11-24T07:26:04+08:00",
+    "2026-11-24T07:26:10+08:00",
+    "2026-11-24T07:29:14+08:00"
+  ],
+  "publishedAt": "2026-11-24T07:29:38+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Nvidia closes the loop: Jensen Huang is back as CEO after a unanimous board vote with input from senior levels of the US government that his return poses no national security risk - Trump praised it, Wall Street staged its biggest rally since April 2025",
+      "soWhat": "The governance overhang on Malaysia's data-centre corridor is gone; the SEC accounting probe is now the only live Nvidia front, and it runs alongside a CEO Washington has publicly blessed.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-24-ai-1"
+      ]
+    },
+    {
+      "headline": "Axiata unlocks RM2.2 billion: Khazanah pays RM659.4m for 15.64% of edotco and becomes an equal ~47.35% partner in edotco Malaysia as the Philippines, Indonesia, Bangladesh, Pakistan and Cambodia towers exit; edotco will distribute nearly RM2.469b pre-completion",
+      "soWhat": "Malaysia's tower layer becomes a half-sovereign asset just as DC and connectivity capex peaks; Axiata gets deleveraging firepower.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-24-ai-2"
+      ]
+    },
+    {
+      "headline": "Zetrix AI's Nov 23 deadline ended in rejection and appeal: Bursa's Nov 20 letter refused more time on the 2.89 sen unpaid dividend and directed Paragraph 8.26 compliance; Zetrix appealed Monday",
+      "soWhat": "Bursa's position has hardened - pay or face Listing Requirements consequences; the appeal outcome, Dec 1 Macquarie hearing and March 2027 sukuk tranche are the next checkpoints.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-24-ai-4"
+      ]
+    },
+    {
+      "headline": "RHB warns Trump's offshore-DC curbs could pause Malaysian contract awards for 4-6 months - but the Port Dickson cluster kept awarding the same day: KJTS's second Gamuda job (RM68m, aggregate RM116m), iCents' RM85.69m triple win and Kitacon's RM100.8m Seremban contract",
+      "soWhat": "The sell-side is split between committed capital (HSBC/BNM) and pipeline freeze (RHB); the award tape so far sides with the bulls.",
+      "sectorKeys": [
+        "construction",
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-24-ai-3",
+        "2026-11-24-con-1",
+        "2026-11-24-con-2",
+        "2026-11-24-con-3"
+      ]
+    },
+    {
+      "headline": "Results night: Berjaya Property's 1Q profit jumps sevenfold to RM41.02m on development and FX gains, TH Plantations' PATAMI rises 47.6% to RM35.8m on better CPO prices, KSL adds 3% to RM104.9m",
+      "soWhat": "Property and plantation prints both point the same way - domestic demand plus price upcycles are doing the work into year-end.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-24-pd-1",
+        "2026-11-24-pla-1",
+        "2026-11-24-pd-3"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "Nvidia closes its leadership crisis by reinstating Jensen Huang with US-government input, Axiata unlocks RM2.2 billion by making Khazanah an equal edotco Malaysia partner, RHB warns Trump's offshore-DC curbs could pause Malaysian contract awards, and Zetrix AI's dividend deadline ends in rejection and appeal",
+      "items": [
+        {
+          "id": "2026-11-24-ai-1",
+          "headline": "Nvidia's board unanimously reinstates Jensen Huang as President, CEO and director - after receiving input from senior levels of the US government that his return poses no national security risk",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Nvidia announced Monday that Jensen Huang has been reinstated as President, CEO and board director, effective immediately, eleven days after his resignation. The board voted unanimously \"following a series of discussions and meetings with Mr Huang, after which the Board was satisfied with respect to Mr Huang's candor and ability to lead NVIDIA,\" and said that \"in the process of reaching its decision, the board received input from senior levels of the United States government, and based on that input, the board is confident that Mr Huang's reinstatement poses no national security risk\" (company statement via TNGlobal). Colette Kress returns to the CFO role; Harvey Jones remains board chair. Trump publicly praised the decision, Wall Street staged its biggest rally since April 2025 on the news, and some US lawmakers criticised the reinstatement (The Edge).",
+          "soWhat": "The governance overhang that sat on Malaysia's data-centre corridor for eleven days is gone, and the SEC accounting probe now runs in parallel with a CEO Washington has publicly blessed. Read together with Friday's 'second chance' remarks, the US government input language formalises Nvidia's political rehabilitation - watch whether the SEC probe and the Megaspeed remote-access questions now de-escalate too.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826944"
+            },
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/23/nvidia-board-reinstates-jensen-huang-as-president-ceo-board-director-following-input-from-us-gov/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-ai-2",
+          "headline": "Axiata sells 15.64% of edotco to Khazanah for RM659.4m in a RM2.2b series of transactions - Khazanah and Axiata become equal ~47.35% partners in edotco Malaysia as the overseas towers exit",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Axiata Group Bhd is disposing of a 15.64% equity interest in edotco Group Sdn Bhd to Khazanah Nasional's wholly-owned Pulau Kendi Investments Ltd for RM659.4 million, part of a series of edotco transactions expected to generate nearly RM2.2 billion in gross proceeds (Bursa filings via The Edge, Bernama via FMT/BH). On completion Axiata and Khazanah will each effectively hold nearly 47.35% of edotco Malaysia - Khazanah rising from 31.71% - as equal shareholders with joint control of the tower business. edotco's businesses in the Philippines, Indonesia, Bangladesh, Pakistan and Cambodia will transition to new ownership, letting Axiata realise value from its international portfolio. edotco is expected to distribute nearly RM2.469 billion to existing shareholders (Axiata participating pro-rata) before completion, and Axiata will use proceeds to pare borrowings and deleverage. Axiata chairman Shahril Ridza Ridzuan framed it as a portfolio-optimisation milestone under Axiata28 that 'preserves national ownership'; Khazanah MD Amirul Feisal Wan Zahir said the pair are 'bringing capital back to Malaysia'.",
+          "soWhat": "Malaysia's largest tower company becomes a half-sovereign, half-Axiata Malaysian asset just as data-centre and connectivity capex peaks - the state now directly shares the economics of the tower layer underpinning the DC buildout. For Axiata the RM2.2b accelerates deleveraging; for the sector, watch whether edotco Malaysia's pricing and rollout posture shifts under joint control.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826919"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/23/axiata-to-sell-15-64-edotco-stake-to-khazanah-for-rm659-4mil"
+            },
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1726972/axiata-mahu-jual-1564-peratus-pegangan-saham-dalam-edotco-pada-harga"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/23/axiata-to-raise-rm22bil-from-overseas-tower-sales-edotco-stake-disposal"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-ai-3",
+          "headline": "RHB Research: Trump's proposed overseas data-centre curbs could pause Malaysian DC contract awards for four to six months, as they did after the January 2025 AI diffusion rules",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "RHB Investment Bank said Monday it expects President Trump's proposal to restrict American companies from building data centres overseas - with a 'tremendous tax' threatened on Friday - to potentially weigh on the pace of future DC contract awards in Malaysia, as developers adopt a wait-and-see approach (TNGlobal report of the RHB research note). RHB recalled that after the proposed US AI diffusion rules in January 2025, Malaysian DC contract awards generally paused for four to six months, and said a similar delay could emerge, hitting contractors awaiting DC-related awards. RHB also noted the restrictions could create opportunities for Chinese DC developers to expand overseas. The caution lands one day after HSBC Research and Bank Negara argued it is premature to price a Malaysian DC downturn, citing 3Q26 GDP of 5.5% and BNM's expectation that DC investments stay strong to at least 2030.",
+          "soWhat": "The sell-side is now openly split: HSBC/BNM point at committed capital and investor diversity, RHB points at the award pipeline freezing while policy clarifies. For DC-exposed contractors the practical read is RHB's - order-book conversion, not demand, is what pauses first. Yesterday's KJTS, iCents and Kitacon awards show the pipeline has not frozen yet.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/23/trumps-proposed-overseas-data-center-curbs-may-delay-malaysia-contract-awards-says-rhb/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-ai-4",
+          "headline": "Zetrix AI deadline day: Bursa rejected its extension bid in a Nov 20 letter and directed compliance with Paragraph 8.26 - Zetrix filed an appeal on Monday over the unpaid 2.89 sen FY2025 dividend",
+          "verdict": "Negative",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "The Nov 23 deadline for Zetrix AI Bhd to pay outstanding cash dividends to unaffected shareholders ended without payment: Zetrix disclosed Monday evening that Bursa Malaysia, in a letter dated Nov 20, had rejected its application for more time to comply with Paragraph 8.26 of the Main Market Listing Requirements - the rule at issue in its final single-tier dividend of 2.89 sen per share for FY2025 - and that it submitted a letter of appeal against the rejection on Monday (Bernama via FMT; BH; The Edge; separate 7.29pm filing titled 'Directive to Comply with Paragraph 8.26'). Zetrix said it will continue engaging Bursa and 'take the necessary steps to comply with the requirements imposed by Bursa Malaysia'. The dividend payment was suspended while Zetrix disputes the beneficial-entitlement question arising from the ARIM funds' writedown of its RM2 billion sukuk.",
+          "soWhat": "The appeal buys time but the directive means Bursa's position has hardened: pay the dividend or face Listing Requirements consequences. The chain to watch - the appeal outcome, the Dec 1 Macquarie injunction hearing, the still-undecided RM100m JPJ settlement offer and the RM214m sukuk tranche due March 2027. The Edge's Frankly Speaking column on undisclosed Zetrix-hit fund exposure is commentary and is excluded from items, but its question - how much ARIM fund exposure remains undisclosed - is the right one.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826931"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/23/zetrix-ai-submits-appeal-over-dividend-payment-extension"
+            },
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1726976/zetrix-ai-kemuka-rayuan-lanjut-tempoh-pembayaran-dividen-tertunggak"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11707803"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "The Port Dickson data-centre cluster keeps awarding - KJTS gets a second Gamuda mechanical job (aggregate RM116m), iCents bags RM85.69m of DC and semiconductor subcontracts, Kitacon lands RM100.8m in Seremban - while CIMIC's Leighton Asia buys Malaysian MEP and cleanroom player LWE",
+      "items": [
+        {
+          "id": "2026-11-24-con-1",
+          "headline": "KJTS wins a second Gamuda mechanical subcontract - RM68m for another hyperscale data centre in Port Dickson, lifting its aggregate there to RM116m",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "KJTS Group Bhd's wholly-owned KJ Technical Services Sdn Bhd accepted an additional RM68 million subcontract from Gamuda Engineering Sdn Bhd - Agreement No. 2, dated Nov 19 - for mechanical works on a second hyperscale data centre in Port Dickson for a US-based multinational technology company (NST/Bernama; The Edge; Bursa filing). Combined with the RM48m Agreement No. 1 itemised on 20 Nov, KJTS's aggregate contract value at the site is RM116 million. Phase 1 and phase 2 completion dates are April 22, 2028 and July 22, 2028, and the job is expected to contribute positively to earnings and net assets until expiry.",
+          "soWhat": "A second award on the same US-hyperscaler campus within days confirms the Port Dickson cluster is multi-building and that Gamuda is flowing packages down quickly - mechanical works follow structure, so more specialist packages (electrical, fit-out, commissioning) should tender next. RHB's pause thesis has not reached this campus.",
+          "sources": [
+            {
+              "publisher": "NST / Business Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1584191/kjts-group-receives-another-data-centre-subcontract-worth"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826938"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/23/kjts-secures-rm68mil-sub-contract-for-second-port-dickson-data-centre"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11707713"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-con-2",
+          "headline": "iCents secures three sub-contracts worth RM85.69m across data-centre and semiconductor jobs",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "iCents Group Holdings Bhd announced the acceptance of two letters of award and a separate letter of award awarded to VC Engineering Sdn Bhd - three sub-contracts in total worth RM85.69 million, spanning data-centre and semiconductor work (The Star; The Edge; two Bursa filings Monday evening). The Edge headlines the jobs as data centre and semiconductor; the filings were released at 7.28-7.29pm.",
+          "soWhat": "iCents joins the growing list of small-cap M&E specialists converting the DC and semiconductor capex cycle into order book - the subcontractor tier is where the pipeline shows up first. Watch margins: multi-job acceptance in one evening suggests aggressive bidding to build reference projects.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/23/icents-secures-three-sub-contracts-worth-rm8569mil"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826939"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11707805"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-con-3",
+          "headline": "Kumpulan Kitacon secures a RM100.8m construction contract in Seremban",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Kumpulan Kitacon Bhd secured a RM100.8 million construction contract in Seremban, The Star reported Monday (headline facts only - the body is paywalled beyond the opener and the late-evening Bursa filing was not yet on the KLSE Screener mirror, which ran to 7.29pm). Watchlist company.",
+          "soWhat": "Kitacon's order-book momentum in Negeri Sembilan aligns with the Port Dickson industrial corridor's build-out. Details - client, tenure, margin profile - need the filing; treat the quantum as reported by The Star.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/23/kumpulan-kitacon-secures-rm1008mil-seremban-construction-contract"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "kitacon"
+          ]
+        },
+        {
+          "id": "2026-11-24-con-4",
+          "headline": "CIMIC's Leighton Asia acquires Malaysian MEP firm LWE and its cleanroom business CLIN, adding Penang cleanroom fabrication for semiconductor and data-centre clients",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Leighton Asia, under Australia-based CIMIC Group, will acquire Malaysian mechanical, electrical and plumbing services company LWE and its cleanroom business CLIN (TNGlobal report of HOCHTIEF's Monday statement; no financial details or timeline disclosed). HOCHTIEF said the deal strengthens Leighton Asia's end-to-end advanced-technology capabilities across semiconductors, pharmaceuticals, healthcare, data centres, renewable energy and industrial development, adding in-house MEP capability and established cleanroom fabrication capacity in Penang. ACS/HOCHTIEF CEO and CIMIC executive chairman Juan Santamaria said LWE and CLIN bring more than four decades of specialist expertise.",
+          "soWhat": "A global contractor buying Malaysian MEP and cleanroom capacity is foreign validation of the local advanced-technology supply chain - and new competition for the listed specialists. Cleanroom and MEP capacity in Penang is the constraint resource in the semiconductor-DC cycle; expect more consolidation.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/23/cimics-leighton-asia-to-acquire-malaysias-lwe-expanding-cleanroom-capabilities/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-con-5",
+          "headline": "Pesona Metro proposes a 3-to-1 share consolidation to cut trading volatility - 690m shares become about 230m, theoretical reference RM1.455",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Pesona Metro Holdings Bhd proposed consolidating every three existing shares into one, reducing issued shares to about 230 million from 690 million including treasury shares (EdgeProp report of Monday's Bursa filing via principal adviser UOB Kay Hian). The exercise implies a theoretical reference price of RM1.455 per consolidated share based on the Nov 20 close of 48.5 sen, leaving market value unchanged in theory; the company said small price movements at the current price create sizeable percentage swings and a higher reference price could reduce volatility. The filing itself landed after the KLSE Screener mirror's 7.29pm cutoff. Watchlist company.",
+          "soWhat": "Consolidations at sub-50-sen construction counters are usually housekeeping, not fundamental change - but a less volatile, higher-priced share makes future equity raises cleaner. Watch for the EGM notice and any corporate exercise paired with it.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918471/pesona-metro-proposes-consolidate-every-three-shares-one"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "pesona"
+          ]
+        },
+        {
+          "id": "2026-11-24-con-6",
+          "headline": "Crest Group files 3Q FY2026 results - numbers not yet verified",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Crest Group Bhd released its quarterly report for the period ended Sept 30, 2026 via Bursa at 5.48pm Monday (KLSE Screener mirror). No press coverage was found by cutoff and the filing body is not statically readable from the mirror, so the numbers are unverified this run - flagged for watchlist completeness only. Watchlist company.",
+          "soWhat": "Placeholder flag so the results do not pass silently; tomorrow's edition will carry the verified numbers once press or the filing body is readable.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11707385"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "crest"
+          ]
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Berjaya Property's profit jumps sevenfold on development and FX gains, Mah Sing and KLK Land sell out 118 industrial units in Kulai within a month, and KSL posts a steady 3Q",
+      "items": [
+        {
+          "id": "2026-11-24-pd-1",
+          "headline": "Berjaya Property's 1Q net profit surges sevenfold to RM41.02m on RM1.89b revenue, driven by development projects and FX translation gains",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Berjaya Property Bhd (formerly Berjaya Land) reported first-quarter net profit of RM41.02 million for the period ended Sept 30, 2026, up from RM5.53 million a year ago, on revenue of RM1.89 billion versus RM1.88 billion (NST report of the Bursa filing; The Edge). The improvement came from higher property development and investment contributions - citing Residensi Oak at Bukit Jalil, Pangsapuri Azalea at Subang Heights and Jesselton Courtyard at Jesselton Selatan, Penang - plus favourable foreign-currency translation and increased construction-activity revenue. The group flagged the Four Seasons Resort & Private Residences Okinawa opening in 4Q2027 and cited resilient consumer spending and the extended Visit Malaysia campaign to 2027.",
+          "soWhat": "Sevenfold profit growth on flat revenue is margin and FX, not volume - the development mix (Bukit Jalil, Subang Heights, Penang) is doing the work. Combined with yesterday's Times Square 2 foreign-buyer data, Berjaya's KL assets are benefiting from both domestic upgrader and foreign second-home demand.",
+          "sources": [
+            {
+              "publisher": "NST / Business Times",
+              "url": "https://www.nst.com.my/business/corporate/2026/11/1584183/berjaya-propertys-q1-profit-surges-sevenfold-rm41mil-rm189bil"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/826937"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11707509"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-pd-2",
+          "headline": "All 118 units at Mah Sing and KLK Land's RM2.2b Kulai industrial park selected within a month; Phase 2 registration open",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "Mah Sing Group Bhd and KLK Land Sdn Bhd said all 118 industrial units in Phases 1A and 1B of the RM2.2 billion MS Industrial Park @ Kulai in Johor were selected within a month of the sales gallery opening (EdgeProp report of Mah Sing's Monday statement). The 71-unit Phase 1A reached full take-up on Oct 23, the day the gallery opened, followed by the 47-unit Phase 1B; Phase 2 registration is now open.",
+          "soWhat": "Johor industrial land remains the fastest-moving product in Malaysian property - full take-up in a month at Kulai extends the JS-SEZ and DC-adjacent demand story down the value chain to SME industrial units.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918461/all-118-units-selected-mah-sing-klk-land%E2%80%99s-kulai-industrial-park"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-24-pd-3",
+          "headline": "KSL's 3Q net profit rises 3% to RM104.9m",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "KSL Holdings Bhd's third-quarter net profit rose 3% to RM104.9 million, The Star reported Monday (headline facts only - body paywalled beyond the opener; the results filing was released Monday evening).",
+          "soWhat": "A steady Johor developer print is consistent with the Kulai take-up data point - Johor residential-industrial demand is holding into year-end.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/23/ksl-3q-net-profit-rises-3-to-rm1049mil"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "TH Plantations posts a 47.6% PATAMI jump on better CPO prices and sees a positive outlook into 2027",
+      "items": [
+        {
+          "id": "2026-11-24-pla-1",
+          "headline": "TH Plantations' 3Q net profit rises 47.6% to RM35.82m on higher realised CPO and palm kernel prices; positive industry outlook into 2027",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-23",
+          "detail": "TH Plantations Bhd's net profit rose to RM35.82 million in 3Q FY2026 (ended Sept 30) from RM24.26 million a year ago, with PATAMI up 47.6% to RM35.8 million, on revenue up 4.7% to RM279 million (Bernama via BH report of the Bursa filing). Higher average realised prices for CPO (+6.7%) and palm kernel (+4.9%) drove the improvement, offsetting slightly lower sales volumes of CPO, kernel and FFB; the quarter also reflected depreciation adjustments after the declassification of five TH Pelita subsidiaries held for sale. Nine-month net profit edged up to RM42.56 million from RM40.80 million. THP expects a positive palm-oil industry outlook for the rest of 2026 into 2027 on improving CPO price prospects, while flagging high domestic inventories, uncertain demand and fuel and transport cost pressure on margins.",
+          "soWhat": "The Tabung Haji plantation arm is finally compounding: better realised prices are dropping straight to PATAMI now that the TH Pelita rationalisation is behind it. The cautious inventory and cost language matches the wider planter chorus - the upcycle is price-led, not volume-led.",
+          "sources": [
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1727023/th-plantations-catat-untung-bersih-suku-ketiga-lebih-besar-rm3582"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11707485"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "4 items: Nvidia reinstates Huang; Axiata-edotco/Khazanah RM2.2b; RHB's contract-pause warning; Zetrix's rejected extension and appeal.",
+    "propertyDevelopment": "3 items: Berjaya Property 1Q sevenfold; Mah Sing/KLK Land Kulai full take-up; KSL 3Q +3% (headline-only).",
+    "construction": "6 items incl. watchlist: KJTS's second Port Dickson job, iCents' triple win, Kitacon's RM100.8m Seremban contract, Leighton Asia's LWE/CLIN acquisition, Pesona Metro's 3-to-1 consolidation (watchlist), Crest's unverified results flag (watchlist).",
+    "propertyInvestment": "No retail-property news found in checked sources.",
+    "plantation": "1 item: TH Plantations 3Q PATAMI +47.6%.",
+    "capitalFinancing": "No licensed-moneylending news found. Pappajack's 3Q results (The Edge) are pawnbroking - separately licensed, out of scope.",
+    "consumerFinancing": "No civil-servant financing news found in checked sources.",
+    "cablesManufacturing": "No cables news found in checked sources. Southern Cable filed routine shareholding-change notices only.",
+    "buildingMaterialsIbs": "No IBS/wall-panel or named-watchlist news found in checked sources.",
+    "hotels": "No hotel news found in checked sources."
+  },
+  "generalCoverage": [
+    "Edition window: from the 23 Nov edition's verified cutoff (07:28 MYT 23 Nov) to 07:29 MYT (07:29:14, actual final feed recheck) (actual last check). Rich post-weekend catch-up day. The Edge was checked via the cloud browser: all 41 listing nodes (826784-826964) resolved with created epochs via in-page fetch; homepage re-read showed nothing newer than 826964. The KLSE Screener mirror captured 240 filings dated 23 Nov up to 7.29pm; later-evening filings (Pesona Metro consolidation, Kitacon contract) were reached via EdgeProp/Star reporting and are noted as such. Excluded by label: Frankly Speaking (Zetrix fund exposure, Spanco), Coffee Break, E5 (foreign-worker quotas). Maybank's first tokenized MGS transaction (BNM Digital Asset Innovation Hub pilot with Etiqa) was reviewed and logged as banking-sector, out of scope.",
+    "Malay Mail feeds remain stale a fifth consecutive day (Malaysia latest 07:00 MYT 23 Nov, Money 17:52 22 Nov). Malaysiakini's RSS returned an unparseable HTML page again. Bernama's feed carries no dates. KiniBiz's feed is stale since Sep 2026. The Malaysian Reserve feed is Cloudflare-terminal. TNGlobal's main feed 403s; its WP API fallback carried 11 in-window posts and was fully logged. Sinar Harian's /bisnes listing parses but carries no per-item dates; nothing itemisable. MOF/MCMC pages are not statically extractable."
+  ],
+  "watchlistCoverage": [
+    "Kitacon: RM100.8m Seremban construction contract (The Star, headline facts only) - itemised.",
+    "Pesona Metro: proposed 3-to-1 share consolidation (EdgeProp) - itemised.",
+    "Crest Group: 3Q FY2026 results filed 5.48pm; numbers unverified this run - flagged.",
+    "Southern Cable, Inta Bina: routine shareholding-change/buyback notices only. OKA, Chin Hin, Mastertec, Tuju Setia, GDB, TCS, Nestcon: not named in any checked article body this window."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 41,
+      "used": 6,
+      "status": "checked",
+      "note": "via cloud browser listings + in-page fetch",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 0,
+      "used": 0,
+      "status": "partial",
+      "note": "feeds stale - fifth consecutive day (Malaysia latest 07:00 MYT 23 Nov)",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 11,
+      "used": 3,
+      "status": "checked",
+      "note": "main feed 403; WP API fallback fully logged",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 10,
+      "used": 5,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 9,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 12,
+      "used": 6,
+      "status": "partial",
+      "note": "240 filings dated 23 Nov captured up to 7.29pm; later filings reached via press",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    },
+    {
+      "source": "Berita Harian",
+      "scanned": 33,
+      "used": 3,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Berita Harian"
+      ]
+    },
+    {
+      "source": "Sinar Harian",
+      "scanned": 15,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "Sinar Harian"
+      ]
+    }
+  ]
+}

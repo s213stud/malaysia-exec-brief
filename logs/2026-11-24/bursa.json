@@ -1,0 +1,148 @@
+{
+ "checkedAt": "2026-11-24T07:22:34+08:00",
+ "method": "curl listing via KLSE Screener mirror (bursamalaysia.com 403s automation); filing bodies not statically readable from mirror",
+ "filters": {
+  "dateFrom": "2026-11-23",
+  "dateTo": "2026-11-24",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": false,
+ "reportedCount": 240,
+ "note": "240 filings dated 23 Nov captured across 8 mirror pages, latest 7.29pm. Later-evening filings (Pesona Metro consolidation, Kitacon contract, KSL results) not yet mirrored - reached via EdgeProp/Star reporting instead. Full filtered list saved as bursa_filings_full.json.",
+ "results": [
+  {
+   "id": "11707803",
+   "company": "ZETRIX AI BERHAD",
+   "category": "General Announcement",
+   "time": "7:29 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707803",
+   "decision": "included",
+   "reason": "itemised as ai-4 - Directive to Comply with Paragraph 8.26",
+   "itemId": "2026-11-24-ai-4"
+  },
+  {
+   "id": "11707713",
+   "company": "KJTS GROUP BERHAD",
+   "category": "General Announcement",
+   "time": "6:51 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707713",
+   "decision": "included",
+   "reason": "corroborates con-1 - KJTS additional subcontract",
+   "itemId": "2026-11-24-con-1"
+  },
+  {
+   "id": "11707805",
+   "company": "ICENTS GROUP HOLDINGS BERHAD",
+   "category": "General Announcement",
+   "time": "7:29 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707805",
+   "decision": "included",
+   "reason": "corroborates con-2 - iCents two LOAs accepted",
+   "itemId": "2026-11-24-con-2"
+  },
+  {
+   "id": "11707807",
+   "company": "ICENTS GROUP HOLDINGS BERHAD",
+   "category": "General Announcement",
+   "time": "7:28 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707807",
+   "decision": "seen-not-itemised",
+   "reason": "iCents LOA awarded to VC Engineering - third subcontract, folded into con-2 via Star count",
+   "itemId": null
+  },
+  {
+   "id": "11707509",
+   "company": "BERJAYA PROPERTY BERHAD",
+   "category": "Financial Results",
+   "time": "6:11 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707509",
+   "decision": "included",
+   "reason": "corroborates pd-1 - Berjaya Property 1Q results",
+   "itemId": "2026-11-24-pd-1"
+  },
+  {
+   "id": "11707485",
+   "company": "TH PLANTATIONS BERHAD",
+   "category": "Financial Results",
+   "time": "6:06 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707485",
+   "decision": "included",
+   "reason": "corroborates pla-1 - TH Plantations 3Q results",
+   "itemId": "2026-11-24-pla-1"
+  },
+  {
+   "id": "11707385",
+   "company": "CREST GROUP BERHAD",
+   "category": "Financial Results",
+   "time": "5:48 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707385",
+   "decision": "included",
+   "reason": "flagged as con-6 - Crest 3Q results, numbers unverified",
+   "itemId": "2026-11-24-con-6"
+  },
+  {
+   "id": "11707717",
+   "company": "AXIATA GROUP BERHAD",
+   "category": "General Announcement",
+   "time": "6:55 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707717",
+   "decision": "seen-not-itemised",
+   "reason": "Axiata edotco disposal filing - corroborated via press in ai-2",
+   "itemId": null
+  },
+  {
+   "id": "11707741",
+   "company": "AXIATA GROUP BERHAD",
+   "category": "General Announcement",
+   "time": "7:02 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707741",
+   "decision": "seen-not-itemised",
+   "reason": "Axiata edotco ECGR disposal - folded into ai-2 via press",
+   "itemId": null
+  },
+  {
+   "id": "11707733",
+   "company": "AXIATA GROUP BERHAD",
+   "category": "General Announcement",
+   "time": "7:01 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707733",
+   "decision": "seen-not-itemised",
+   "reason": "Axiata edotco EILL disposal - folded into ai-2 via press",
+   "itemId": null
+  },
+  {
+   "id": "11707621",
+   "company": "SOUTHERN CABLE GROUP BERHAD",
+   "category": "Changes in Shareholdings",
+   "time": "6:26 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707621",
+   "decision": "seen-not-itemised",
+   "reason": "Southern Cable shareholding change - routine",
+   "itemId": null
+  },
+  {
+   "id": "11707391",
+   "company": "PESONA METRO HOLDINGS BERHAD",
+   "category": "Shares Buy Back",
+   "time": "5:51 pm",
+   "date": "23 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11707391",
+   "decision": "seen-not-itemised",
+   "reason": "Pesona Metro share buyback - routine",
+   "itemId": null
+  }
+ ]
+}
