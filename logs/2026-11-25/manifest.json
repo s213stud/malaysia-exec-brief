@@ -1,0 +1,16 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. 18 items incl. 1 watchlist flag (GDB, results unverified). TMR Cloudflare-terminal per the no-solver rule. Malay Mail effectively stale; Star RSS and EdgeProp feed paths moved - browser sweeps used; KLSE Screener restructured (only /v2/announcements works; bodies unreadable) so GDB results are flagged unverified; Malaysiakini parsed but politics-heavy. Zetrix chain: Dec 31 extension request captured via 7.40pm filing. Window from 24 Nov verified cutoff 07:29 MYT to 07:36 MYT (07:36:03, actual final feed recheck) (actual last check)."
+}

@@ -1,0 +1,633 @@
+{
+  "date": "2026-11-25",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-25T07:21:52+08:00",
+    "2026-11-25T07:23:24+08:00",
+    "2026-11-25T07:25:18+08:00",
+    "2026-11-25T07:26:04+08:00",
+    "2026-11-25T07:27:27+08:00",
+    "2026-11-25T07:28:34+08:00",
+    "2026-11-25T07:29:56+08:00",
+    "2026-11-25T07:31:19+08:00",
+    "2026-11-25T07:32:50+08:00",
+    "2026-11-25T07:36:03+08:00"
+  ],
+  "publishedAt": "2026-11-25T07:40:21+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Washington's chip-control net closes around Malaysia on two fronts at once: three Malaysia-registered Megaspeed-linked companies hit the US Entity List, and new export rules for chips used in Malaysian data centres took effect Nov 19",
+      "soWhat": "Compliance exposure - licensing scope, the 'qualifying US-headquartered recipient' exclusion and Mida's blocking order - is now the gating variable for the 117-project DC pipeline, not demand. MITI is seeking clarification from Washington; operators should map their exposure before the briefing lands.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-25-ai-1"
+      ]
+    },
+    {
+      "headline": "The DC economy is printing real numbers on every line at once: RM11.7b service exports, Greatech's record quarter plus RM153m capacity buy, Kelington's 40% revenue growth, and fresh subcontracts for Sum Technology, KJTS and Southern Score's 221% quarter",
+      "soWhat": "Two days after RHB warned of a four-to-six-month award pause, both the export statistics and the contractor tier show acceleration - the pause thesis is about future awards, while everything already awarded is converting into revenue now. Watch BMI's El Nino water-risk flag for the Johor corridor as the next non-chip constraint.",
+      "sectorKeys": [
+        "aiTelcoIct",
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-25-ai-3",
+        "2026-11-25-ai-4",
+        "2026-11-25-ai-6",
+        "2026-11-25-con-1",
+        "2026-11-25-con-2",
+        "2026-11-25-con-3"
+      ]
+    },
+    {
+      "headline": "Zetrix AI, told by Bursa to comply with Paragraph 8.26, now asks for until Dec 31 to pay the 2.89 sen FY2025 dividend - with its appeal filed and the Dec 1 Macquarie injunction hearing six days away",
+      "soWhat": "The regulator's next answer defines how much timetable flexibility listed companies get on dividend directives. The unresolved pieces - appeal, injunction hearing, JPJ offer, March 2027 sukuk - keep Zetrix the single largest idiosyncratic risk story on the local ICT board.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-25-ai-2"
+      ]
+    },
+    {
+      "headline": "KL's residential growth is an upmarket story: homes above RM1m drove 61% of transaction growth and 88% of value growth in 3Q, while NCT Alliance's profit nearly doubled and KLCCP's retail income softened",
+      "soWhat": "Prime-landbank developers and office landlords are where the property recovery shows up; mass-market residential and mall retail are still waiting for it. Positioning for 2027 property exposure should follow the Napic skew, not the headline transaction count.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "propertyInvestment"
+      ],
+      "itemIds": [
+        "2026-11-25-pd-3",
+        "2026-11-25-pd-2",
+        "2026-11-25-pi-1"
+      ]
+    },
+    {
+      "headline": "The Court of Appeal keeps MyCC's construction bid-rigging enforcement intact, leaving RM92.8m in imposed penalties to the tribunal stage",
+      "soWhat": "Competition-law exposure is now a durable line item in Malaysian construction risk pricing - tender behaviour, consortium structures and pre-bid communications all carry penalty risk that survives procedural challenge.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-25-con-4"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "US chip controls land on Malaysia - three Malaysia-registered Megaspeed-linked companies on the US blacklist and tighter export rules for the 117 approved DC projects - while data-centre service exports print RM11.7b and Zetrix AI asks for until Dec 31 to pay its outstanding dividend",
+      "items": [
+        {
+          "id": "2026-11-25-ai-1",
+          "headline": "US puts three Malaysia-registered Megaspeed-linked companies on its Entity List and tightens export controls on advanced chips for Malaysian data centres, with rules effective Nov 19",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "The US Commerce Department added seven entities to its blacklist over the risk of diverting advanced computing items to unauthorised end users; three carry Malaysian addresses and ties to Megaspeed International Group - MSFusion Sdn Bhd and Speedmatrix Sdn Bhd are registered in Malaysia - with overlapping directors, addresses and shareholding links, company documents show (The Edge). Megaspeed, an Nvidia cloud partner, is under scrutiny over alleged AI-chip smuggling to China. Separately, the US tightened export controls on advanced computing chips destined for Malaysia effective Nov 19, with a licensing exclusion for qualifying US-headquartered recipients and new restrictions based on how data-centre customers use the chips (EdgeProp). MITI minister Johari Abdul Ghani said Malaysia is seeking clarification from Washington and will brief operators of all 117 approved DC projects once requirements are formally communicated (Bernama via EdgeProp); YTL Power said on Nov 20 the rule does not affect its Johor co-location services. Malaysiakini reported Mida has ordered data-centre operators to block the seven blacklisted entities (headline only - body paywalled).",
+          "soWhat": "Washington's chip-control perimeter now runs through Malaysian corporate registries and DC permits at the same time - compliance exposure, not demand, is the new gating factor for the 117-project pipeline. Watch which operators need licences, how 'qualifying US-headquartered recipient' is applied to the hyperscaler campuses, and whether the clarification Malaysia is seeking slows approvals.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827034"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918477/us-tightens-export-controls-chips-malaysian-data-centres"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-ai-2",
+          "headline": "Zetrix AI asks Bursa for until Dec 31 to pay the outstanding 2.89 sen FY2025 dividend to unaffected shareholders, after its earlier extension bid was rejected",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Zetrix AI Bhd is seeking until Dec 31 to settle dividends owed to shareholders unaffected by ongoing legal disputes, after Bursa Securities rejected its earlier extension request and directed compliance with Paragraph 8.26 (The Edge; 7.40pm Bursa filing replying to the regulator's query). The company said it needs more time to arrange payments, including obtaining legal advice, and will convene its quarterly board meeting where unaudited results will be tabled. This follows Monday's disclosure that Bursa's Nov 20 letter rejected the extension and that Zetrix filed an appeal the same day (itemised 24 Nov).",
+          "soWhat": "The Dec 31 request converts a compliance deadline into a negotiated timetable - Bursa's answer will show how hard Paragraph 8.26 bites. The chain to watch: appeal outcome, the Dec 1 Macquarie injunction hearing, the undecided RM100m JPJ settlement offer and the RM214m sukuk tranche due March 2027.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827122"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11708781"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-ai-3",
+          "headline": "Malaysia's data-centre service exports surged to RM11.7b in 2025 from RM2.8b in 2024, lifting ICT service exports to RM27.1b - 55 centres operational out of 117 recorded projects, says the Digital Minister",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Data-centre service exports reached RM11.7 billion in 2025, up from RM2.8 billion in 2024, Digital Minister Gobind Singh Deo said, supporting ICT service exports of RM27.1 billion and a RM1.2 billion surplus in the national services account (The Edge; Berita Harian). Of 117 recorded DC projects, 55 centres are operational; the projects are estimated to generate 4,053 high-value jobs with senior-level salaries of RM10,000-RM30,000 a month, and 89% of those high-skilled positions are filled by Malaysians.",
+          "soWhat": "The first official export number for the DC boom shows it is already a material services line - a fourfold jump in a year - which raises the stakes on the US export-control clarification in ai-1. Forward watch: BMI flags the Johor-Singapore-Batam corridor (6.6GW, 4.7GW still under construction or planned) as most exposed to El Nino water-shortage risk and tighter permitting (TNGlobal) - water, not chips, could be the 2027 constraint.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827119"
+            },
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/bisnes/lain-lain/2026/11/1728498/eksport-perkhidmatan-pusat-data-malaysia-melonjak-kepada-rm117"
+            },
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/24/el-nino-threatens-southeast-asias-data-center-expansion-as-water-risks-mount-says-bmi/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-ai-4",
+          "headline": "Greatech's 3Q net profit jumps 77% to RM33.6m on record RM319.66m revenue as data-centre projects step up - and it is buying two Penang industrial complexes for RM153m to add capacity",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Greatech Technology Bhd's 3QFY2026 net profit rose to RM33.6 million from RM18.97 million a year ago, on record revenue of RM319.66 million (+65.95%), attributing the surge to data-centre projects progressing to higher-activity stages plus stronger semiconductor and life-sciences contributions (Bursa filing via The Edge; The Star; Berita Harian). The automation solutions provider is simultaneously buying two industrial complexes in Penang for RM153 million to expand production capacity in anticipation of rising customer demand, and its order book stands at RM1.98 billion (The Star).",
+          "soWhat": "A local automation supplier posting record revenue on DC activity - and committing RM153m to capacity in the same breath - is the clearest listed-company read on how far the buildout has run into execution. Order-book cover of roughly 6x quarterly revenue gives visibility; watch margins as DC work mixes with lower e-mobility and solar contributions.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827106"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/greatechs-3q-net-profit-jumps-77-order-book-stands-at-rm198bil"
+            },
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1728474/greatech-technology-beli-dua-kompleks-perindustrian-di-pulau-pinang"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11708579"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-ai-5",
+          "headline": "Day after Huang's reinstatement: US senator McCormick warns of a 'slippery slope', the FT calculates Trump's personal Nvidia stake gain, and Malaysian tech stocks rebound - Bursa Technology Index +4%",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "US senator Dave McCormick warned of a 'slippery slope' after President Trump pressured Nvidia to reinstate Jensen Huang, keeping political-risk questions alive even after the board's unanimous, US-government-cleared reinstatement (The Edge). The Financial Times calculated Trump could gain up to US$15 million from his Nvidia shares following Huang's return (FT report via The Edge and NST). Malaysian semiconductor and data-centre-linked stocks tracked Nvidia's over-30% overnight jump: the Bursa Malaysia Technology Index rose 4% while the KLCI gained 0.92%, ending a five-day losing streak (The Edge).",
+          "soWhat": "The governance discount on Nvidia is gone but the politicisation premium is not - congressional testimony on Dec 1-2 is the next test. For Malaysian tech counters the beta trade cuts both ways: the same Nvidia-proxy flow that lifted the Technology Index 4% will unwind just as fast if the testimony or the SEC probe turns.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827127"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827121"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827002"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-ai-6",
+          "headline": "Kelington's 3Q net profit rises to RM56.59m from RM41.14m as revenue grows 40.4% to RM444.2m on ultra-high-purity and advanced engineering work",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Kelington Group Bhd's 3QFY2026 net profit rose to RM56.59 million from RM41.14 million a year earlier, with revenue up 40.4% to RM444.2 million from RM316.4 million (The Star). The integrated engineering solutions provider attributed the performance to higher project activity, particularly in advanced engineering (ultra-high purity) and advanced manufacturing segments.",
+          "soWhat": "UHP gas and chemical delivery systems are the picks-and-shovels layer of the semiconductor and DC cycle - Kelington's 40% revenue growth corroborates the same capex wave behind Greatech and the M&E subcontractors. Watch its order-book replenishment against the RHB pause thesis flagged on 24 Nov.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/kelington-group-posts-higher-3q-earnings-on-revenue-growth"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-ai-7",
+          "headline": "China's X Square Robot signs a collaboration with Pos Malaysia to explore embodied-AI robots in parcel handling and sorting",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "X Square Robot, a China-based embodied-AI robotics firm, and Pos Malaysia Bhd signed a memorandum of collaboration to explore applying embodied-intelligence robots in logistics automation - parcel handling, sorting and other workflows (TNGlobal report of the joint statement). X Square Robot will provide robotic equipment for evaluation; Pos Malaysia brings operational experience and real-world logistics scenarios.",
+          "soWhat": "An MoC to evaluate robots is exploration, not deployment - but it is a first embodied-AI toehold in a national logistics network, and a Chinese robotics vendor gaining reference operations in Malaysia. Watch for a paid pilot; until then it is signalling.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/24/x-square-robot-partners-pos-malaysia-to-explore-embodied-ai-in-logistics-automation/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "The DC award tape keeps running - Sum Technology's RM48m Selangor MEPF subcontract, KJTS's RM37.39m semiconductor-plant cleaning job and Southern Score's 221% revenue quarter - while the Court of Appeal leaves MyCC's bid-rigging penalty regime intact and NexG Bina gets its frozen accounts back",
+      "items": [
+        {
+          "id": "2026-11-25-con-1",
+          "headline": "Sum Technology secures a RM48m MEPF subcontract for a data-centre project in Selangor",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Sum Technology Bhd's wholly-owned Sum Technic Sdn Bhd accepted a letter of award for mechanical, electrical, process utilities and fire-fighting (MEPF) subcontracting works worth RM48 million for a data-centre project in Selangor - supply, installation, commissioning, testing and maintenance (Bursa filing via The Star; 6.01pm filing).",
+          "soWhat": "Another specialist MEPF package flowing to a small-cap subcontractor keeps the DC order-book conveyor moving the day after RHB warned awards could pause - the pipeline at the subcontractor tier still shows no freeze.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/sum-technology-secures-rm48mil-data-centre-subcontract"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11708497"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-con-2",
+          "headline": "Southern Score Builders' 1QFY27 net profit jumps to RM32.81m from RM15.02m as revenue surges 221% to RM269.51m on M&E data-centre work",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Southern Score Builders Bhd's net profit for the first quarter of FY2027 (ending June 2027) rose to RM32.81 million from RM15.02 million a year ago, with revenue up 221% to RM269.51 million from RM83.93 million, driven by the strong performance of its mechanical and electrical services segment (The Star). The company expects its performance to remain positive. The quarter lands two weeks after its SJEE unit bagged RM146.8m of electrical subcontracts for two Port Dickson data centres (itemised 12 Nov).",
+          "soWhat": "The Port Dickson M&E wave is now visible in reported earnings, not just LOAs - a 221% revenue quarter is what DC conversion looks like at the specialist tier. Watch margin discipline as more M&E contractors crowd into the same campuses.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/southern-score039s-1q27-net-profit-jumps-to-rm3281mil"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-con-3",
+          "headline": "KJTS wins a RM37.39m cleaning-services contract from a German-headquartered semiconductor multinational - its second contract win in two days",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "KJTS Group Bhd's wholly-owned ETC Cleaning Services Sdn Bhd entered a cleaning-services agreement worth RM37.39 million with a multinational semiconductor company headquartered in Germany, covering various facilities within its manufacturing complex (Bursa filing via The Star). The win follows Monday's RM68 million Gamuda mechanical subcontract for a second Port Dickson hyperscale data centre, which took KJTS's aggregate at that site to RM116 million (itemised 24 Nov).",
+          "soWhat": "KJTS is monetising both ends of the semiconductor-DC cycle - construction-phase mechanical packages and operating-phase facilities services. Recurring services revenue at fab complexes is the higher-quality annuity; watch the mix shift.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/kjts-secures-rm3739mil-cleaning-services-contract"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-con-4",
+          "headline": "Court of Appeal quashes eight contractors' challenge to MyCC's proposed RM473m bid-rigging penalty as academic - the RM92.8m imposed penalty stands, tribunal appeal pending",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "The Court of Appeal allowed the Malaysian Competition Commission's preliminary objection against eight contractors seeking to overturn a proposed RM473 million penalty, ruling the appeal academic because MyCC had already decided to impose a total RM92.8 million penalty on them last year (The Edge). The eight contractors are separately appealing the RM92.8 million penalty at the Competition Appeal Tribunal, where a decision is pending; the court ordered costs against the contractors.",
+          "soWhat": "Bid-rigging enforcement in construction survives another procedural challenge - the tribunal decision on the RM92.8m is now the case that matters. For contractors pricing public tenders, the compliance cost of collusion findings is a standing risk factor, not a one-off.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827111"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-con-5",
+          "headline": "NexG Bina regains access to bank accounts frozen for about a year under AMLA investigations",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "NexG Bina Bhd said the authorities have lifted restrictions on certain bank accounts frozen for about a year in connection with investigations under the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (Bursa filing via The Edge; FMT). The property development, construction and lingerie manufacturing group said the freezing on certain accounts has been lifted by the relevant authorities.",
+          "soWhat": "Regained account access removes the immediate liquidity constraint, but 'certain accounts' and an unresolved investigation mean the governance overhang is reduced, not cleared. Watch whether the frozen-funds episode leaves conditions on the accounts or further disclosures.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827112"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/nexg-bina-says-freeze-on-bank-accounts-lifted"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-con-6",
+          "headline": "GDB Holdings files 3Q FY2026 results - numbers not yet verified",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "GDB Holdings Bhd filed its quarterly report for the financial period ended Sept 30, 2026 at 6.15pm (Bursa filing via the KLSE Screener mirror). The mirror's stock pages no longer expose filing bodies (site restructure - its /v2/stocks pages 404), and no press coverage was available by the 07:36 MYT cutoff, so the results figures are unverified this run. Watchlist company; the numbers will be picked up from press coverage or the filing body in the next run.",
+          "soWhat": "GDB's order-book trajectory in the DC and high-rise cycle is the datapoint that matters - flagged here so the results do not pass unmarked; treat the quarter as pending until verified.",
+          "sources": [
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11708587"
+            }
+          ],
+          "watchlistCompanyKeys": [
+            "gdb"
+          ]
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Chin Hin Group Property partners PMCK on a Melaka private-hospital site, NCT Alliance's 3Q profit nearly doubles, and Napic data shows homes above RM1m driving 61% of KL's residential transaction growth",
+      "items": [
+        {
+          "id": "2026-11-25-pd-1",
+          "headline": "Chin Hin Group Property partners PMCK to develop a private hospital in Melaka Tengah - SPV to buy the 2.78-acre site from CHGP's unit for RM8.48m (~RM70 psf)",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Chin Hin Group Property Bhd (CHGP) entered a proposed development partnership with PMCK Bhd to develop a private hospital on a 2.78-acre leasehold site in Melaka Tengah (The Star; EdgeProp). Under the proposed arrangement PMCK will incorporate a special purpose vehicle to acquire the land from CHGP's wholly-owned Chin Hin Property (Melaka) Sdn Bhd for RM8.48 million, or about RM70 per sq ft; the land is designated for private-hospital use. Note: the listed party is CHGP; the watchlist company Chin Hin Group Bhd is not named as a party, so no watchlist flag is applied.",
+          "soWhat": "Healthcare-anchored development gives CHGP a recurring-demand asset class beyond residential cycles, and the SPV structure monetises the land early while keeping development upside. Watch the SPV's equity split and whether CHGP takes a build or operator role.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/chin-hin-group-property-pmck-to-develop-private-hospital-in-melaka"
+            },
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918485/chin-hin-group-property-pmck-plan-private-hospital-melaka"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-pd-2",
+          "headline": "NCT Alliance's 3Q net profit nearly doubles to RM15.9m as revenue rises 23% to RM99.56m on higher construction progress",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "NCT Alliance Bhd's 3QFY2026 net profit nearly doubled to RM15.9 million from RM8.1 million a year earlier, with revenue up 23% to RM99.56 million from RM80.97 million, primarily on higher construction progress (The Star). The property developer said it remains cautiously optimistic, supported by an enlarged development portfolio, a growing industrial-development pipeline and expansion opportunities in Sabah.",
+          "soWhat": "Mid-cap developers with industrial pipelines are compounding quietly while the market fixates on DC contractors - NCT's Sabah and industrial angle diversifies it away from the Klang Valley residential cycle. Watch the industrial pipeline's conversion rate.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/nct-alliances-3q-net-profit-nearly-doubles-to-rm159mil"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-25-pd-3",
+          "headline": "Homes priced above RM1m account for 61% of the growth in KL residential transactions in 3Q2026 - the bracket's deals rose 40.7% to 1,124, Napic preliminary data shows",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Residential properties priced above RM1 million accounted for about 61% of the year-on-year increase in Kuala Lumpur residential transactions in 3Q2026 - 325 of the city's 534 additional transactions - according to EdgeProp calculations on preliminary National Property Information Centre (Napic) data. Deals in the bracket rose 40.7% to 1,124 from 799, lifting its share of KL residential transactions to 26% from 21.1%; the RM900,001-RM1 million bracket rose 48.7% to 174. Citywide, transactions rose 14.1% to 4,323 with combined value up 31.8% to RM4.55 billion; the above-RM1m bracket contributed RM3.16 billion of value, or 87.7% of the citywide value increase (RM962.29 million of the increment).",
+          "soWhat": "KL's residential recovery is being priced at the top end - volume and value growth are both concentrated above RM1m, which favours developers with prime land banks and high-end product over mass-market plays. Preliminary Napic data can revise; watch the final print and whether the upmarket skew persists into 4Q.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918483/properties-above-rm1m-account-61-kl-residential-deals-growth"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "KLCCP Stapled's softer quarter shows retail and hotel income lagging the office recovery at Malaysia's flagship retail-asset group",
+      "items": [
+        {
+          "id": "2026-11-25-pi-1",
+          "headline": "KLCCP Stapled Group's 3Q net profit falls 2.5% to RM203.87m as retail, hotel and management services soften - payout held at 9.5 sen",
+          "verdict": "Mixed",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "KLCC Property Holdings Bhd Stapled Group's 3QFY2026 net profit fell 2.5% to RM203.87 million from RM209.13 million (Bursa filing dated Nov 23 via EdgeProp, reported Nov 24). Revenue rose 3.3% to RM443.68 million driven mainly by management services, but pretax profit fell 1.2% to RM241.59 million as lower earnings from retail, hotel operations and management services outweighed an office-segment improvement; tax rose to RM37.18 million. The quarterly payout is unchanged at 9.5 sen per stapled security (2.11 sen KLCC Property interim dividend plus 7.39 sen KLCC REIT income distribution).",
+          "soWhat": "Suria KLCC's retail income softening while office improves is a read-across for retail landlords generally - flagship-mall footfall is not translating into rental growth this quarter. The steady payout keeps the yield story intact; watch 4Q festive-season retail numbers for the direction of the reversion cycle.",
+          "sources": [
+            {
+              "publisher": "EdgeProp",
+              "url": "https://www.edgeprop.my/content/1918480/klccp-stapled-group%E2%80%99s-3q-net-profit-falls-25-payout-steady-95-sen"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Public Packages pays RM55m cash for six George Town parcels to grow its hospitality business",
+      "items": [
+        {
+          "id": "2026-11-25-ho-1",
+          "headline": "Public Packages buys six adjoining George Town freehold parcels for RM55m cash (~RM1,120 psf) to expand its hospitality business",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-24",
+          "detail": "Public Packages Holdings Bhd's wholly-owned Prestige Estate Sdn Bhd entered a sale and purchase agreement with R H Management Sdn Bhd for six adjoining freehold parcels along Madras Lane, George Town, totalling 49,114 sq ft (about 1.13 acres) for RM55 million cash - roughly RM1,120 per sq ft, broadly in line with the RM55 million indicative market value appraised by Nawawi Tie Leung Property Consultants on Oct 12 (Bursa filing via The Edge; The Star frames the plan as a mixed-use project). The packaging solutions provider said the acquisition expands its hospitality business.",
+          "soWhat": "A packaging manufacturer paying full appraised value in cash for heritage-zone George Town land is a conviction bet on Penang hospitality demand - the second hotel-adjacent balance-sheet move this week. Watch the development plan (hotel vs mixed-use), funding structure beyond the cash outlay, and Gurney/heritage planning constraints.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827110"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/24/public-packages-acquires-penang-land-for-rm55mil-mixed-use-project"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "",
+      "items": []
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "7 items: US blacklist/export-control tightening (Megaspeed-linked Malaysian entities), Zetrix's Dec 31 dividend-payment request, DC service exports RM11.7b, Greatech's record quarter + RM153m capacity buy, the post-reinstatement Nvidia fallout, Kelington's UHP-driven quarter, and X Square Robot's Pos Malaysia MoC.",
+    "propertyDevelopment": "3 items: CHGP-PMCK Melaka private-hospital partnership, NCT Alliance's 3Q, and Napic/EdgeProp KL residential data showing the above-RM1m skew.",
+    "construction": "6 items incl. watchlist: Sum Technology's RM48m DC subcontract, Southern Score's 221% revenue quarter, KJTS's semiconductor-plant cleaning win, the MyCC Court of Appeal ruling, NexG Bina's unfrozen accounts, and GDB's unverified results flag (watchlist).",
+    "propertyInvestment": "1 item: KLCCP Stapled's softer 3Q with retail and hotel lagging office (retail-asset REIT scope).",
+    "plantation": "No verified plantation item in the window across checked sources. Kim Hin Industry's 3Q results were filed but tiles fall outside the IBS/wall-panel building-materials scope; TH Plantations' 3Q was itemised on 24 Nov.",
+    "capitalFinancing": "No verified licensed-moneylending item in the window.",
+    "consumerFinancing": "No verified civil-servant consumer-financing item in the window.",
+    "cablesManufacturing": "No verified cables item in the window; no watchlist cables company named in any in-window body.",
+    "buildingMaterialsIbs": "No verified IBS/wall-panel item in the window. Cahya Mata Sarawak's 3Q (-72%) and Kim Hin's results are outside the IBS/wall-panel + watchlist scope; Chin Hin Group Bhd is not a party to the CHGP-PMCK hospital item (entity check).",
+    "hotels": "1 item: Public Packages' RM55m George Town hospitality land buy."
+  },
+  "generalCoverage": [
+    "Edition window: from the 24 Nov edition's verified cutoff (07:29 MYT 24 Nov) to 07:36 MYT (07:36:03, actual final feed recheck) (actual last check). The Edge was checked via the cloud browser: all 51 listing nodes (826968-827150) resolved with created epochs via in-page fetch and every one was in-window; the homepage re-read showed nothing newer than 827150. Bursa filings were captured via the KLSE Screener mirror at its new /v2/announcements path (the /latest path and stock pages 404 after a site restructure): 180 filings dated 24 Nov captured across 6 pages down to 5.47pm plus the 7.40pm Zetrix reply on page 1; the mirror is complete to 7.40pm for 24 Nov. Filing bodies remain unreadable from the mirror, so GDB's 3Q results are flagged unverified and Kelington's and Greatech's results filings are cited via press.",
+    "Coverage is complete within the stated sources, period and sector scope - not exhaustive. The Malaysian Reserve stayed Cloudflare-terminal under the no-challenge-bypass rule. Malay Mail feeds were fetched but show nothing newer than 07:00 MYT 24 Nov (effectively stale for this window). The Star's RSS path 404s and EdgeProp's feed moved; both were swept via browser listings instead. Malaysiakini's feed parsed today but held mostly politics; its Mida story is headline-logged only (body paywalled). Bernama items carry no dates; KiniBiz is stale; Sinar's listing is undated. NST, FMT, BH, The Sun and TNGlobal (WP API fallback; main feed 403) were fully scanned."
+  ],
+  "watchlistCoverage": [
+    "GDB Holdings: 3Q FY2026 results filed 6.15pm 24 Nov; numbers unverified this run (mirror bodies unreadable after site restructure, no press by cutoff) - flagged as con-6, revisit next run.",
+    "Chin Hin: CHGP-PMCK private-hospital item involves Chin Hin Group Property Bhd and its subsidiary Chin Hin Property (Melaka) - the watchlist entity Chin Hin Group Bhd is not named as a party, so no flag (entity check per rule).",
+    "Crest Group: 3Q results flagged unverified on 24 Nov; still no press coverage by today's cutoff - flag stands, not repeated as an item.",
+    "Kitacon: Seremban contract itemised 24 Nov; EdgeProp's 24 Nov write-up of the same award logged as duplicate.",
+    "OKA, Southern Cable, Mastertec, Tuju Setia, Pesona Metro, TCS, Inta Bina, Nestcon: not named in any in-window article body; Pesona Metro's consolidation was itemised 24 Nov."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 52,
+      "used": 8,
+      "status": "checked",
+      "note": "via cloud browser listings + in-page fetch",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 0,
+      "used": 0,
+      "status": "partial",
+      "note": "feeds fetched; nothing newer than 07:00 MYT 24 Nov - effectively stale for this window",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 12,
+      "used": 2,
+      "status": "checked",
+      "note": "main feed 403; WP API fallback fully logged",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 26,
+      "used": 8,
+      "status": "checked",
+      "note": "RSS path 404s; browser listing sweep used",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 12,
+      "used": 4,
+      "status": "checked",
+      "note": "feed path moved; browser listing sweep used",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 16,
+      "used": 4,
+      "status": "partial",
+      "note": "180 filings dated 24 Nov to 7.40pm via mirror's new /v2/announcements path; stock pages 404 after site restructure; later-evening filings reached via press",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    },
+    {
+      "source": "Berita Harian",
+      "scanned": 34,
+      "used": 2,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "Berita Harian"
+      ]
+    },
+    {
+      "source": "Malaysiakini",
+      "scanned": 10,
+      "used": 0,
+      "status": "partial",
+      "note": "feed parsed today; mostly politics; Mida story headline-logged only (body paywalled)",
+      "publishers": [
+        "Malaysiakini"
+      ]
+    },
+    {
+      "source": "Sinar Harian",
+      "scanned": 0,
+      "used": 0,
+      "status": "partial",
+      "note": "",
+      "publishers": [
+        "Sinar Harian"
+      ]
+    }
+  ]
+}

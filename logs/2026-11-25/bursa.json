@@ -1,0 +1,192 @@
+{
+ "checkedAt": "2026-11-25T07:27:27+08:00",
+ "method": "cloud browser listing via KLSE Screener mirror new /v2/announcements path (bursamalaysia.com 403s automation; mirror /latest path and stock pages 404 after site restructure); filing bodies not statically readable from mirror",
+ "filters": {
+  "dateFrom": "2026-11-24",
+  "dateTo": "2026-11-25",
+  "market": null,
+  "category": null,
+  "keywords": null
+ },
+ "complete": false,
+ "reportedCount": 180,
+ "note": "180 filings dated 24 Nov captured across 6 mirror pages, newest 7.40pm (Zetrix reply) to 5.47pm; filings after 7.40pm 24 Nov not yet mirrored at the 07:27 MYT check (NexG Bina, Public Packages, KJTS and others reached via press instead). Full captured list saved as bursa_filings_full.json.",
+ "results": [
+  {
+   "id": "11708781",
+   "company": "ZETRIX AI BERHAD",
+   "category": "Reply to Query",
+   "time": "7:40 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11708781",
+   "decision": "included",
+   "reason": "itemised as ai-2 - Zetrix reply to query: seeks until Dec 31 to pay outstanding FY2025 dividend",
+   "itemId": "2026-11-25-ai-2"
+  },
+  {
+   "id": "11708579",
+   "company": "GREATECH TECHNOLOGY BERHAD",
+   "category": "General Announcement",
+   "time": "6:10 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11708579",
+   "decision": "included",
+   "reason": "corroborates ai-4 - Greatech acquisition of two Penang industrial complexes (RM153m)",
+   "itemId": "2026-11-25-ai-4"
+  },
+  {
+   "id": "11708497",
+   "company": "SUM TECHNOLOGY BERHAD",
+   "category": "General Announcement",
+   "time": "6:01 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11708497",
+   "decision": "included",
+   "reason": "corroborates con-1 - Sum Technology RM48m MEPF subcontract",
+   "itemId": "2026-11-25-con-1"
+  },
+  {
+   "id": "11708587",
+   "company": "GDB HOLDINGS BERHAD",
+   "category": "Financial Results",
+   "time": "6:15 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11708587",
+   "decision": "included",
+   "reason": "flagged as con-6 - GDB 3Q FY2026 results, numbers unverified",
+   "itemId": "2026-11-25-con-6"
+  },
+  {
+   "id": "11708503",
+   "company": "SUM TECHNOLOGY BERHAD",
+   "category": "Changes in Shareholdings",
+   "time": "6:00 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11708503",
+   "decision": "seen-not-itemised",
+   "reason": "Sum Technology shareholding change - routine",
+   "itemId": null
+  },
+  {
+   "id": "11708719",
+   "company": "DESTINI BERHAD",
+   "category": "General Announcement",
+   "time": "6:56 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708719",
+   "decision": "seen-not-itemised",
+   "reason": "MoU + 3Q results - aviation/defence, out of scope",
+   "itemId": null
+  },
+  {
+   "id": "11708567",
+   "company": "BINA PURI HOLDINGS BHD",
+   "category": "General Announcement",
+   "time": "6:11 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708567",
+   "decision": "seen-not-itemised",
+   "reason": "multiple proposals - mid-cap fundraising, not itemised",
+   "itemId": null
+  },
+  {
+   "id": "11708575",
+   "company": "HEXTAR RETAIL BERHAD",
+   "category": "Financial Results",
+   "time": "6:10 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708575",
+   "decision": "seen-not-itemised",
+   "reason": "3Q results filed - retail property; entity/scope and numbers unverified by cutoff, not itemised",
+   "itemId": null
+  },
+  {
+   "id": "11708489",
+   "company": "KIM HIN INDUSTRY BERHAD",
+   "category": "Financial Results",
+   "time": "5:58 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708489",
+   "decision": "seen-not-itemised",
+   "reason": "3Q results - tiles, outside IBS/wall-panel building-materials scope",
+   "itemId": null
+  },
+  {
+   "id": "11708583",
+   "company": "ASIA POLY HOLDINGS BERHAD",
+   "category": "General Announcement",
+   "time": "6:12 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708583",
+   "decision": "seen-not-itemised",
+   "reason": "MoU + results - plastic piping, outside scope",
+   "itemId": null
+  },
+  {
+   "id": "11708643",
+   "company": "BERJAYA FOOD BERHAD",
+   "category": "General Announcement",
+   "time": "6:30 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708643",
+   "decision": "seen-not-itemised",
+   "reason": "KRR disposal - F&B, out of scope",
+   "itemId": null
+  },
+  {
+   "id": "11708739",
+   "company": "MEGA FIRST CORPORATION BERHAD",
+   "category": "Financial Results",
+   "time": "7:00 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708739",
+   "decision": "seen-not-itemised",
+   "reason": "3Q results - power, out of scope",
+   "itemId": null
+  },
+  {
+   "id": "11708571",
+   "company": "CAHYA MATA SARAWAK BERHAD",
+   "category": "Financial Results",
+   "time": "6:11 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708571",
+   "decision": "seen-not-itemised",
+   "reason": "3Q results - outside building-materials scope",
+   "itemId": null
+  },
+  {
+   "id": "11708597",
+   "company": "WASCO BERHAD",
+   "category": "Financial Results",
+   "time": "6:17 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708597",
+   "decision": "seen-not-itemised",
+   "reason": "3Q results - O&G, out of scope",
+   "itemId": null
+  },
+  {
+   "id": "11708751",
+   "company": "IMPACT CAPITAL HOLDINGS BERHAD",
+   "category": "Changes in Shareholdings",
+   "time": "7:18 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708751",
+   "decision": "seen-not-itemised",
+   "reason": "director/substantial shareholding notices on debut day - routine",
+   "itemId": null
+  },
+  {
+   "id": "11708603",
+   "company": "GAS MALAYSIA BERHAD Change of Corp Info",
+   "category": "",
+   "time": "6:19 pm",
+   "date": "24 Nov",
+   "url": "https://www.klsescreener.com/v2/announcements/v2/announcements/view/11708603",
+   "decision": "seen-not-itemised",
+   "reason": "3Q results - utility, out of scope",
+   "itemId": null
+  }
+ ]
+}
