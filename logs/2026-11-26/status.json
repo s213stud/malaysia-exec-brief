@@ -1,0 +1,26 @@
+{
+ "The Malaysian Reserve": {
+  "status": "blocked",
+  "note": "Cloudflare-terminal per the no-solver rule"
+ },
+ "Bernama": {
+  "status": "blocked",
+  "note": "error page on two fetch attempts"
+ },
+ "KiniBiz": {
+  "status": "blocked",
+  "note": "stale since Sep 2026"
+ },
+ "Sinar Harian": {
+  "status": "blocked",
+  "note": "undated listing, not statically checkable"
+ },
+ "MOF / MCMC": {
+  "status": "blocked",
+  "note": "not statically extractable"
+ },
+ "TNGlobal": {
+  "status": "checked",
+  "note": "main feed 403; WP API fallback used"
+ }
+}

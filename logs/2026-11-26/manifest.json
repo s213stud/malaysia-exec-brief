@@ -1,0 +1,17 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "Berita Harian",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. 18 items, no watchlist flags. TMR Cloudflare-terminal per the no-solver rule; Bernama returned an error page twice; KiniBiz stale. Star RSS and EdgeProp feed paths moved - browser sweeps used. KLSE Screener at the new /v2/announcements path; filing bodies unreadable, so the GDB-results flag from 25 Nov stands. Zetrix: boardroom-change filing only, appeal outcome still pending. Window from the 25 Nov verified cutoff 07:36 MYT to 07:30 MYT (07:29:51, actual last check)."
+}

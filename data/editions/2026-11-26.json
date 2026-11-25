@@ -1,0 +1,592 @@
+{
+  "date": "2026-11-26",
+  "status": "published",
+  "demo": false,
+  "checkedAt": [
+    "2026-11-26T07:21:45+08:00",
+    "2026-11-26T07:23:56+08:00",
+    "2026-11-26T07:24:12+08:00",
+    "2026-11-26T07:25:08+08:00",
+    "2026-11-26T07:25:30+08:00",
+    "2026-11-26T07:25:59+08:00",
+    "2026-11-26T07:26:33+08:00",
+    "2026-11-26T07:29:05+08:00",
+    "2026-11-26T07:29:32+08:00",
+    "2026-11-26T07:31:20+08:00",
+    "2026-11-26T07:32:30+08:00"
+  ],
+  "publishedAt": "2026-11-26T07:33:00+08:00",
+  "keyTakeaways": [
+    {
+      "headline": "Plantation results day: strong cores, one big non-cash loss",
+      "soWhat": "KLK's RM118.4m loss is a Synthomer impairment (underlying profit +66%); GENP, Ta Ann and Batu Kawan all grew, and SD Guthrie surprised with a dividend. Sector equity story is shifting to capital returns, with MPOC projecting CPO above RM4,100/t into December and Indonesia planning a 0.5% export fee.",
+      "sectorKeys": [
+        "plantation"
+      ],
+      "itemIds": [
+        "2026-11-26-pla-1",
+        "2026-11-26-pla-2",
+        "2026-11-26-pla-3",
+        "2026-11-26-pla-4",
+        "2026-11-26-pla-5"
+      ]
+    },
+    {
+      "headline": "Nvidia governance is now a rated-credit issue",
+      "soWhat": "S&P put Nvidia on CreditWatch Negative over management/governance risk while Singapore's PM publicly distanced the republic from Megaspeed's chip flows and S&P flagged higher APAC data-centre risk. Dec 1-2 congressional testimony is the next catalyst for the chain that touches Malaysian DC projects.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-26-ai-1",
+        "2026-11-26-ai-4"
+      ]
+    },
+    {
+      "headline": "TM grows revenue but profit falls 28%, capex trimmed",
+      "soWhat": "3Q profit of RM494m missed last year's RM686m despite a 0.3% revenue rise; capex-to-revenue guidance cut to 16-18% - softer carrier spending feeds through to network suppliers and build-out timelines.",
+      "sectorKeys": [
+        "aiTelcoIct"
+      ],
+      "itemIds": [
+        "2026-11-26-ai-2"
+      ]
+    },
+    {
+      "headline": "Property: Sunway and IGB hold up; IOIPG REIT debuts near flat; renewal threshold cut",
+      "soWhat": "Sunway's PBT rose 8.8% with record RM12.45b order book and RM8.2b unbilled sales; IGB grew 21% across all segments; IOIPG Malaysia REIT's book-value debut gives discount-trading developers a monetisation template; the URA Bill's 70-80% consent threshold unlocks urban redevelopment pipeline.",
+      "sectorKeys": [
+        "propertyDevelopment",
+        "propertyInvestment"
+      ],
+      "itemIds": [
+        "2026-11-26-pd-1",
+        "2026-11-26-pd-2",
+        "2026-11-26-pi-1",
+        "2026-11-26-pi-2"
+      ]
+    },
+    {
+      "headline": "Small-cap contractors keep winning: Steel Hawk RM57.7m, Kerjaya margins hold",
+      "soWhat": "Steel Hawk's three Perak housing EPCC awards and Kerjaya's profit growth on lower revenue show order books and margins holding in affordable-housing and premium high-rise niches.",
+      "sectorKeys": [
+        "construction"
+      ],
+      "itemIds": [
+        "2026-11-26-con-1",
+        "2026-11-26-con-2"
+      ]
+    }
+  ],
+  "sectors": [
+    {
+      "sectorKey": "aiTelcoIct",
+      "theme": "S&P puts Nvidia on CreditWatch Negative over governance as the Megaspeed fallout widens, TM's profit falls 28% despite revenue growth, Putrajaya studies an AI wealth fund, TI Melaka passes a billion chips, and Washington names Malaysia in a new tariff salvo",
+      "items": [
+        {
+          "id": "2026-11-26-ai-1",
+          "headline": "S&P Global Ratings places Nvidia on CreditWatch Negative, citing management and governance risk after the Huang ouster-and-reinstatement episode",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "S&P Global Ratings put Nvidia's credit rating on CreditWatch Negative on Nov 25, pointing to management and governance risk around the board's handling of Jensen Huang's Nov 12 removal and Nov 23 unanimous reinstatement following US government input (The Edge). Separately, critics quoted by FMT say the board 'effectively vouched for Huang's candor and fitness' before its own investigation was complete, raising doubts about whether directors had enough information for an independent judgment; Nvidia says it is 'confident that Mr Huang's reinstatement poses no national security risk.' Huang and general counsel Teter are due to testify to Congress on Dec 1-2.",
+          "soWhat": "Governance risk at Nvidia is now a rated-credit issue, not just a headline: a downgrade path would raise funding costs across the AI supply chain that Malaysian data-centre and EMS names are building into. Watch the Dec 1-2 testimony for the next leg.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827336"
+            },
+            {
+              "publisher": "FMT",
+              "url": "https://www.freemalaysiatoday.com/category/business/2026/11/25/nvidia-board-s-huang-reversal-raises-doubts-about-independence-say-critics"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-ai-2",
+          "headline": "Telekom Malaysia's 3Q net profit falls 28% to RM494.04m despite higher revenue; capex-to-revenue guidance trimmed to 16-18%",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "3QFY2026 net profit fell to RM494.04 million from RM686.26 million a year earlier, while revenue edged up 0.3% to RM3.00 billion on B2C growth and higher digital-solutions contributions (Bursa filing via Malay Mail). Nine-month net profit dropped to RM1.18 billion from RM1.49 billion on revenue of RM8.89 billion. TM kept its FY2026 outlook of low single-digit revenue growth and similar EBIT, but trimmed capex-to-revenue guidance to 16-18%.",
+          "soWhat": "The national fibre carrier is growing the top line but not the bottom line, and is throttling capex - read-throughs for network suppliers and for the timeline of enterprise 5G/fibre build-outs.",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "url": "https://www.malaymail.com/news/money/2026/11/25/telekom-malaysia-3q-net-profit-drops-28pc-to-rm494m-despite-higher-revenue/244755"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-ai-3",
+          "headline": "Putrajaya to study an 'AI wealth fund' so Malaysians share in AI-economy returns, says Anwar",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "The government will study the feasibility of an AI wealth fund channelling AI-economy gains to citizens, Prime Minister Anwar Ibrahim said on RTM's Dialog Negara, responding to a question from AOD's Jason Wee about a Bernie Sanders-style fund (The Edge).",
+          "soWhat": "Still a feasibility study, but it signals how Putrajaya wants to frame AI policy for voters - and eventually where levies, dividends or sovereign-fund structures could touch AI and data-centre investors.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827324"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-ai-4",
+          "headline": "Megaspeed fallout widens: Singapore's PM says the firm ships Nvidia chips to other countries, not Singapore; S&P flags higher risks for Asia-Pacific data centres after the US chips ruling",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "Prime Minister Lawrence Wong said Megaspeed buys Nvidia chips and delivers them to other countries rather than Singapore, distancing the republic from the diversion probe that has already put three Malaysia-registered Megaspeed-linked entities on the US Entity List (TNGlobal). Separately, S&P said Asia-Pacific data centres face higher risks after the US chips ruling (TNGlobal).",
+          "soWhat": "Two pressure points on the same chain: a regional government publicly disowning Megaspeed's flows, and a ratings agency repricing APAC data-centre risk. Malaysian DC operators carrying the 117 approved projects face tighter compliance scrutiny on chip provenance.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/25/megaspeed-buys-nvidia-chips-delivers-to-other-countries-not-singapore-pm-lawrence-wong/"
+            },
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/25/asia-pacific-data-centers-face-higher-risks-after-u-s-chips-ruling-says-sp/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-ai-5",
+          "headline": "Texas Instruments' second Melaka plant passes one billion chips assembled and tested",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "TI's second Melaka facility (TIEM2) has assembled and tested one billion chips since ramping, the company said (TNGlobal).",
+          "soWhat": "A concrete scale milestone for Malaysia's chip assembly-and-test base - evidence the back-end cluster keeps absorbing volume even as front-end and AI-chip flows face export-control friction.",
+          "sources": [
+            {
+              "publisher": "TNGlobal",
+              "url": "https://technode.global/2026/11/25/texas-instruments-melaka-tiem2-one-billion-chips/"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-ai-6",
+          "headline": "Trump fires a new tariff salvo at 14 partners including Malaysia, proposing 20-40% headline rates capped by concluded or negotiated deals",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "The Trump administration proposed new headline tariff rates of 20% to 40% on 14 major trading partners including Malaysia, China, Japan and the EU, saying duties would be capped at lower levels agreed under trade deals already concluded or under negotiation; the USTR separately proposed a new 10% tariff, the Edge reported from Washington. The move follows a US probe into excess factory capacity and came despite Republican midterm losses.",
+          "soWhat": "Malaysia is explicitly named. The cap mechanic makes concluded-deal status the key variable for exporters - semis, cables and building materials all sit in the excess-capacity frame; watch which line items land in scope.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827159"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyDevelopment",
+      "theme": "Urban Renewal Bill consent threshold cut to 70-80%; Sunway's profit dips but PBT, sales and record order book hold up",
+      "items": [
+        {
+          "id": "2026-11-26-pd-1",
+          "headline": "Urban Renewal Bill: consent threshold for redevelopment lowered from 100% to 70-80%, with protection promised for dissenting owners",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "The consent threshold for en-bloc redevelopment under the Urban Renewal Bill has been lowered from 100% to between 70% and 80%, with the prime minister pledging protections for dissenting owners (The Edge).",
+          "soWhat": "A lower consent bar unlocks ageing urban strata stock for redevelopment - a pipeline catalyst for developers with urban landbank and renewal expertise, but also a political flashpoint to watch as the Bill goes through the House.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827325"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-pd-2",
+          "headline": "Sunway's 3Q net profit dips 7% to RM314.06m on higher finance costs, but PBT rises 8.8%; record RM12.45b construction order book; on track for RM4.2b FY sales",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "3QFY2026 net profit slipped to RM314.06 million from RM338.14 million as finance costs and non-controlling-interest allocations rose; revenue grew 18% to RM3.03 billion on healthcare consolidation (The Edge). PBT rose 8.8% to RM518.5 million, with property-development PBT up 45.5% to RM80.1 million; 9M sales of RM3.4 billion keep the RM4.2 billion full-year target on track, backed by RM8.2 billion unbilled sales and a record RM12.45 billion construction order book (The Star).",
+          "soWhat": "Earnings quality is fine underneath the headline dip: development margins, unbilled cover and the order book all point up. Finance costs are the drag to watch as the healthcare and land pipeline absorbs capital.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827315"
+            },
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/25/sunway-upbeat-as-construction-order-book-hits-record-rm1245bil"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "construction",
+      "theme": "Steel Hawk lands RM57.68m of Perak housing EPCC work; Kerjaya grows profit on lower revenue with a steady RM6.1b order book",
+      "items": [
+        {
+          "id": "2026-11-26-con-1",
+          "headline": "Steel Hawk wins three housing EPCC contracts worth RM57.68m in Perak",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "Steel Hawk secured three EPCC contracts totalling RM57.68 million for housing projects in Perak, including an RM21.46 million job from Forthright Property for the Laman Angsana SSI project in Kampar (59 + 32 units, Kinta district) (The Edge; letter-of-award filings via the KLSE Screener mirror).",
+          "soWhat": "A meaningful order-book top-up for a small-cap EPCC player - affordable-housing EPCC work in Perak keeps flowing to Bumiputera contractors.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827326"
+            },
+            {
+              "publisher": "Bursa announcement (via KLSE Screener mirror)",
+              "url": "https://www.klsescreener.com/v2/announcements/view/11709987"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-con-2",
+          "headline": "Kerjaya Prospek's 3Q net profit rises to RM69.89m despite lower revenue; order book steady at RM6.1b",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "3QFY2026 net profit rose to RM69.89 million from RM57.44 million even as revenue dipped to RM396.07 million from RM566.25 million on slower construction progress; the property-development segment contributed positively and the group declared a third interim dividend of 3.5 sen (bourse filing via The Star). Nine-month net profit grew to RM193.90 million from RM157.95 million. Outstanding construction order book stood at RM6.1 billion as at Sept 30.",
+          "soWhat": "Margin discipline is carrying the premium high-rise builder through a softer revenue quarter - earnings up on lower billings, with RM6.1b of cover.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/25/kerjaya-prospek039s-3q-net-profit-rises-to-rm699mil-despite-lower-revenue"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "propertyInvestment",
+      "theme": "IOIPG Malaysia REIT's near-flat debut at book value; IGB posts 21% profit growth with all segments up",
+      "items": [
+        {
+          "id": "2026-11-26-pi-1",
+          "headline": "IOIPG Malaysia REIT closes its debut at 90.5 sen versus the 91 sen IPO price; IOI Properties defends the pricing as monetising assets at book value",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "IOIPG Malaysia REIT opened at 87 sen against its 91 sen IPO price, touched 86.5 sen, and closed its Main Market debut at 90.5 sen - a valuation just under RM5 billion - on more than 36 million units (The Edge). IOI Properties said listing at 91 sen let it monetise the assets at book value while its own shares trade at roughly a 40% discount (The Edge).",
+          "soWhat": "A near-flat debut for the year's big retail-asset REIT (IOI City Mall-anchored) keeps the REIT repricing story open: sponsor monetisation at book value is a template other discount-trading developers will study.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827154"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827258"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-pi-2",
+          "headline": "IGB's 3Q net profit rises 21% to RM118.02m with all segments contributing; cash and share dividends declared",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "3QFY2026 net profit rose 21.07% to RM118.02 million from RM97.48 million, with revenue up 13.23% to RM521.24 million from RM460.35 million on higher contributions from all business segments (The Edge). IGB - the Mid Valley retail landlord - declared a 7.5 sen cash dividend plus a share dividend.",
+          "soWhat": "Broad-based growth across the retail landlord's portfolio confirms consumer footfall resilience at prime malls; the cash-plus-share dividend mix preserves expansion capacity.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827293"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "plantation",
+      "theme": "Heavy results day: KLK's impairment-driven loss masks a strong underlying year, GENP, Ta Ann and Batu Kawan all grow, SD Guthrie pays a surprise dividend, and Indonesia plans an export fee",
+      "items": [
+        {
+          "id": "2026-11-26-pla-1",
+          "headline": "KLK swings to a RM118.4m FY2026 net loss after a RM1.61b non-cash impairment on UK-listed associate Synthomer; underlying profit up 66%",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "Kuala Lumpur Kepong posted a net loss of RM118.4 million for FY2026 (ended Sept 30), against an RM817.3 million profit a year earlier, after impairing RM1.61 billion on Synthomer plc; the group stresses the charge is non-cash and does not affect operating cash flow, borrowing service or dividend capacity (The Star). Excluding the impairment and Synthomer's equity loss, net profit would have been RM1.67 billion, up 66.3%. Fourth-quarter net profit surged to RM549.6 million from RM96.0 million; revenue rose 9.9% to RM27.50 billion for the year, with plantation pre-tax profit up 8.6% to RM2.47 billion on higher palm-kernel prices, better volumes and lower costs.",
+          "soWhat": "The plantation core is performing; the loss is an oleochemicals/associate problem. Dividend capacity is intact per management - the question is whether Synthomer needs further write-downs in FY2027.",
+          "sources": [
+            {
+              "publisher": "The Star",
+              "url": "https://www.thestar.com.my/business/business-news/2026/11/25/klk-swings-to-fy26-net-loss-of-rm1184mil-after-rm161bil-impairment"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-pla-2",
+          "headline": "Genting Plantations' 3Q net profit rises 7.9% to RM93.32m on higher output, but it warns of palm-product price pressure",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "3QFY2026 net profit rose to RM93.32 million from RM86.5 million, with revenue up 10.8% to RM938.46 million on higher FFB and downstream volumes (The Edge). The group cautioned that palm-product prices could stay under pressure. MPOC separately expects CPO to hold above RM4,100 a tonne in December on competitive pricing against other vegetable oils, geopolitical uncertainty and 2027 supply risks (Berita Harian feed excerpt).",
+          "soWhat": "Volume growth is doing the work while price expectations split - GENP cautious, MPOC constructive above RM4,100. Margin direction into 1Q2027 hinges on which side is right.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827319"
+            },
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/bisnes/lain-lain/2026/11/1730275/harga-minyak-sawit-dijangka-kekal-lebih-rm4100-satu-tan-bulan-depan-mpoc"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "watchOut": "GENP flags palm-product price pressure even as MPOC projects CPO above RM4,100/t for December."
+        },
+        {
+          "id": "2026-11-26-pla-3",
+          "headline": "Ta Ann posts its highest quarterly profit in four years: 3Q net profit up 16.7% to RM87.4m",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "3QFY2026 net profit rose 16.67% to RM87.4 million from RM74.92 million, the highest since 3QFY2022, on higher palm-product sales volumes and prices; revenue jumped 28.88% to RM647.16 million from RM502.15 million (bourse filing via The Edge).",
+          "soWhat": "Sarawak pure-play leverage to CPO is showing up in earnings - the strongest quarter since the 2022 price spike.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827292"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        },
+        {
+          "id": "2026-11-26-pla-4",
+          "headline": "Batu Kawan's record 4Q: net profit surges more than tenfold to RM716.18m on operations plus a one-off MKH acquisition gain; 50 sen final dividend",
+          "verdict": "Positive",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "4QFY2026 net profit jumped to RM716.18 million from RM69.34 million, helped by stronger operating performance and a one-off gain from the MKH acquisition; revenue climbed 21.1% to RM7.85 billion from RM6.48 billion (bourse filing via The Edge). A 50 sen final dividend was declared.",
+          "soWhat": "Strip out the MKH gain before annualising: the underlying plantation-and-manufacturing run-rate improved, but the headline is mostly one-off. The 50 sen dividend signals board confidence in cash generation.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827296"
+            }
+          ],
+          "watchlistCompanyKeys": [],
+          "watchOut": "Headline growth is flattered by the one-off MKH acquisition gain."
+        },
+        {
+          "id": "2026-11-26-pla-5",
+          "headline": "SD Guthrie jumps on a surprise interim dividend; Indonesia plans a 0.5% export service fee on palm shipments",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "SD Guthrie rose as much as 2% to RM6.03 after declaring a surprise interim dividend; CIMB Securities kept its buy call and RM6.52 target, saying higher payouts could catalyse further gains (The Edge). Separately, Indonesia's new commodities export agency DSI plans to charge palm oil exporters a service fee of 0.5% of shipment value plus a fixed 2.5 million rupiah (about RM562) per contract, according to people familiar with the matter (The Edge).",
+          "soWhat": "Capital returns are becoming the sector's equity story. An Indonesian export fee would raise rival cost structures - marginally positive for Malaysian exporters' competitiveness if implemented.",
+          "sources": [
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827165"
+            },
+            {
+              "publisher": "The Edge",
+              "url": "https://theedgemalaysia.com/node/827302"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    },
+    {
+      "sectorKey": "capitalFinancing",
+      "theme": "No verified in-window news within scope",
+      "items": []
+    },
+    {
+      "sectorKey": "consumerFinancing",
+      "theme": "No verified in-window news within scope",
+      "items": []
+    },
+    {
+      "sectorKey": "cablesManufacturing",
+      "theme": "No verified in-window news within scope",
+      "items": []
+    },
+    {
+      "sectorKey": "buildingMaterialsIbs",
+      "theme": "No verified in-window news within scope",
+      "items": []
+    },
+    {
+      "sectorKey": "hotels",
+      "theme": "Malaysia's visa exemption for Indian nationals ends Jan 1, 2027 - a demand headwind for a top-growth source market",
+      "items": [
+        {
+          "id": "2026-11-26-hotels-1",
+          "headline": "Indian nationals will need a MyVISA visa from Dec 1 as Malaysia's visa exemption for India ends on Jan 1, 2027",
+          "verdict": "Watch",
+          "freshness": "current",
+          "publishedDate": "2026-11-25",
+          "detail": "Indian citizens travelling to Malaysia next year must apply for a visa via the MyVISA portal from Dec 1, after the visa-exemption facility lapses from Jan 1, 2027 (Berita Harian, feed excerpt; body JS-rendered). India has been one of Malaysia's fastest-growing source markets under the exemption.",
+          "soWhat": "Reinstating visa friction on a top-growth source market is a direct arrivals headwind for hotels and aviation into 2027 - watch for airline-capacity and booking-curve reactions, and any tourism-industry lobbying to reverse it.",
+          "sources": [
+            {
+              "publisher": "Berita Harian",
+              "url": "https://www.bharian.com.my/berita/nasional/2026/11/1730012/warga-india-yang-ingi-ke-malaysia-tahun-depan-perlu-mohon-visa-mulai-1-disember-ini"
+            }
+          ],
+          "watchlistCompanyKeys": []
+        }
+      ]
+    }
+  ],
+  "sectorCoverage": {
+    "aiTelcoIct": "6 items: the Nvidia CreditWatch/board-independence fallout, TM's 3Q, the AI wealth-fund study, the Megaspeed-Wong/S&P APAC-DC chain update, TI's Melaka milestone, and the US tariff salvo naming Malaysia.",
+    "propertyDevelopment": "2 items: the Urban Renewal Bill consent-threshold cut, and Sunway's 3Q (profit dip on finance costs; PBT, sales and record order book up).",
+    "construction": "2 items: Steel Hawk's RM57.68m Perak EPCC wins and Kerjaya Prospek's 3Q. GDB's 3Q results (flagged unverified 25 Nov) still had no filing in the captured mirror set and no press by cutoff - the flag stands.",
+    "propertyInvestment": "2 items (retail scope): IOIPG Malaysia REIT's debut and IGB's 3Q. Penang office occupancy rising to 80.1% (Napic, via EdgeProp) sits outside retail scope and is noted as market colour only.",
+    "plantation": "5 items: KLK's impairment-year loss, Genting Plantations' 3Q with the MPOC price view, Ta Ann's four-year high, Batu Kawan's one-off-flattered record, and SD Guthrie's surprise dividend plus Indonesia's planned export fee.",
+    "capitalFinancing": "No verified in-window news within scope (licensed moneylending).",
+    "consumerFinancing": "No verified in-window news within scope (civil-servant financing).",
+    "cablesManufacturing": "No verified in-window news within scope.",
+    "buildingMaterialsIbs": "No verified in-window news within scope (IBS/wall panels + watchlist).",
+    "hotels": "1 item: India visa exemption ending Jan 1, 2027 - arrivals headwind."
+  },
+  "generalCoverage": [
+    "Edition window: from the 25 Nov edition's verified cutoff (07:36 MYT 25 Nov) to 07:30 MYT (07:29:51, actual final recheck) (actual last check). The Edge was checked via the cloud browser: all 47 listing nodes (above 827150) resolved with created epochs via in-page fetch and every one was in-window; the homepage re-read at 07:29 showed nothing newer than node 827341. Bursa filings were captured via the KLSE Screener mirror at its new /v2/announcements path: 210 filings dated 25 Nov across 7 pages down to about 5.52pm, with page 1 covering to 7.42pm. Filing bodies remain unreadable from the mirror, so press citations carry the results numbers.",
+    "Coverage is complete within the stated sources, period and sector scope - not exhaustive. The Malaysian Reserve stayed Cloudflare-terminal under the no-challenge-bypass rule. Bernama's feed returned an error page on two attempts. KiniBiz is stale since Sep 2026; Sinar Harian's listing is undated; MOF/MCMC are not statically extractable. Malay Mail feeds came back today (18 + 50 in-window) after about six stale days. The Star's RSS path 404s and EdgeProp's feed moved; both were swept via browser listings. NST, FMT, The Sun, Berita Harian, Malaysiakini and TNGlobal (WP API fallback; main feed 403) were fully scanned."
+  ],
+  "watchlistCoverage": [
+    "GDB Holdings: no 3Q results filing in the captured 25 Nov mirror set and no press coverage by cutoff - the unverified-results flag from 25 Nov stands, not repeated as an item.",
+    "Crest Group: 3Q results flagged unverified on 24-25 Nov; still no filing or press by cutoff - flag stands, not repeated as an item.",
+    "Chin Hin, Kitacon, Pesona Metro: routine share-buyback filings on 25 Nov - not flag-worthy.",
+    "Zetrix (chain watch): a 7.19pm 25 Nov filing was a boardroom change (Miss Eng Szi Lok), not the sukuk-extension appeal outcome; the Dec 1 Macquarie injunction hearing is the next dated event.",
+    "OKA, Southern Cable, Mastertec, Tuju Setia, TCS, Inta Bina, Nestcon: not named in any in-window article body."
+  ],
+  "sourceTally": [
+    {
+      "source": "The Edge",
+      "scanned": 47,
+      "used": 12,
+      "status": "checked",
+      "note": "via cloud browser listings + in-page fetch",
+      "publishers": [
+        "The Edge"
+      ]
+    },
+    {
+      "source": "Malay Mail",
+      "scanned": 68,
+      "used": 1,
+      "status": "checked",
+      "note": "feeds working again; TM body via browser",
+      "publishers": [
+        "Malay Mail"
+      ]
+    },
+    {
+      "source": "NST / Business Times",
+      "scanned": 50,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "NST / Business Times"
+      ]
+    },
+    {
+      "source": "FMT",
+      "scanned": 50,
+      "used": 1,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "FMT"
+      ]
+    },
+    {
+      "source": "The Sun",
+      "scanned": 10,
+      "used": 0,
+      "status": "checked",
+      "note": "",
+      "publishers": [
+        "The Sun"
+      ]
+    },
+    {
+      "source": "Berita Harian",
+      "scanned": 50,
+      "used": 2,
+      "status": "checked",
+      "note": "feed excerpts; bodies JS-rendered",
+      "publishers": [
+        "Berita Harian"
+      ]
+    },
+    {
+      "source": "TNGlobal",
+      "scanned": 20,
+      "used": 2,
+      "status": "checked",
+      "note": "WP API fallback; main feed 403",
+      "publishers": [
+        "TNGlobal"
+      ]
+    },
+    {
+      "source": "The Star",
+      "scanned": 30,
+      "used": 3,
+      "status": "checked",
+      "note": "browser listing sweep + curl bodies; RSS path 404s",
+      "publishers": [
+        "The Star"
+      ]
+    },
+    {
+      "source": "The Malaysian Reserve",
+      "scanned": 0,
+      "used": 0,
+      "status": "blocked",
+      "note": "Cloudflare-terminal per the no-solver rule",
+      "publishers": [
+        "The Malaysian Reserve"
+      ]
+    },
+    {
+      "source": "EdgeProp",
+      "scanned": 25,
+      "used": 0,
+      "status": "checked",
+      "note": "browser listing sweep; feed moved",
+      "publishers": [
+        "EdgeProp"
+      ]
+    },
+    {
+      "source": "Bursa announcements",
+      "scanned": 210,
+      "used": 1,
+      "status": "checked",
+      "note": "via KLSE Screener mirror /v2/announcements; bodies unreadable",
+      "publishers": [
+        "Bursa announcement (via KLSE Screener mirror)"
+      ]
+    }
+  ]
+}

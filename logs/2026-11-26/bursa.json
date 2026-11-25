@@ -1,0 +1,1686 @@
+{
+ "complete": true,
+ "note": "210 filings dated 25 Nov captured across 7 pages of /v2/announcements (down to ~5.52pm) plus page 1 to 7.42pm; bodies unreadable from the mirror after the site restructure. No GDB or Crest results filing in the captured set; Zetrix filed a boardroom change (7.19pm), not the sukuk-appeal outcome.",
+ "results": [
+  {
+   "title": "25 Nov EQ8 KLCI DAILY (2X) LEVERAGED ETF General Announcement 7:42 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710175",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EQ8 KLCI DAILY (-1X) INVERSE ETF General Announcement 7:41 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710173",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov THMY HOLDINGS BERHAD General Announcement 7:27 pm NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) : FUND RAISING THMY HOLDINGS BERHAD (\"THMY\" OR \"COMPANY\") PROPOSED PRIVATE PLACEMENT",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710169",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PESTEC INTERNATIONAL BERHAD General Announcement 7:30 pm MATERIAL LITIGATION PESTEC INTERNATIONAL BERHAD (\"PIB\" OR \"THE COMPANY\") - UPDATE ON WINDING-UP PETITION CASE NO. WA-28NCC-810-08/2026: HEARING OF THE COMPANY'S APPLICATION TO STRIKE OUT THE WINDING-UP PETITION",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710171",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ZETRIX AI BERHAD Change of Corp Info 7:19 pm Change in Boardroom - MISS ENG SZI LOK",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710165",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "Zetrix boardroom change filing - not the sukuk-appeal outcome; body unreadable from mirror",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov TRADEPLUS SHARIAH GOLD TRACKER General Announcement 7:16 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710163",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PESTEC INTERNATIONAL BERHAD Changes in Shareholdings 7:06 pm Changes in Director's Interest (Section 219 of CA 2016) - DATUK SERI (DR.) SUBRAMANIAM PILLAI A/L SANKARAN PILLAI",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710159",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PESTEC INTERNATIONAL BERHAD Changes in Shareholdings 7:05 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATUK SERI (DR.) SUBRAMANIAM PILLAI A/L SANKARAN PILLAI",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710161",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RESINTECH BERHAD Entitlements 7:05 pm First Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710145",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KEYFIELD INTERNATIONAL BERHAD Changes in Shareholdings 6:59 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATIN OOI SOO PING",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710117",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KEYFIELD INTERNATIONAL BERHAD Dealings in Listed Securities 6:59 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710119",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KEYFIELD INTERNATIONAL BERHAD Changes in Shareholdings 6:59 pm Changes in Director's Interest (Section 219 of CA 2016) - DATO' KEE CHIT HUEI",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710123",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KEYFIELD INTERNATIONAL BERHAD Changes in Shareholdings 6:59 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' KEE CHIT HUEI",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710121",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD General Announcement 7:04 pm OTHERS OASIS HOME HOLDING BERHAD (\"OASIS HOME HOLDING\" OR \"THE COMPANY\") - VARIATION AND EXTENSION OF TIMEFRAME FOR THE UTILISATION OF PROCEEDS RAISED FROM THE INITIAL PUBLIC OFFERING (\"IPO\") IN CONJUNCTION WITH THE LISTING OF OASIS HOME HOLDING ON THE ACE MARKET OF BURSA MALAYSIA SECURITIES BERHAD (\"BURSA SECURITIES\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710147",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:04 pm Change in Remuneration Committee - MISS TAN MUI PING",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710149",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Financial Results 6:59 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710125",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:04 pm Change in Audit Committee - MR CHEW PHAI HAU",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710151",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD General Meetings 6:59 pm General Meetings: Outcome of Meeting",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710127",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:04 pm Change in Nomination Committee - MISS TAN MUI PING",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710153",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:04 pm Change in Boardroom - MISS TAN MUI PING",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710155",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:03 pm Change in Nomination Committee - MR CHEW PHAI HAU",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710157",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:03 pm Change in Boardroom - MR CHEW PHAI HAU",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710135",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:03 pm Change in Remuneration Committee - MR CHEW PHAI HAU",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710137",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OASIS HOME HOLDING BERHAD Change of Corp Info 7:03 pm Change in Audit Committee - MISS TAN MUI PING",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710139",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ES SUNLOGY BERHAD General Announcement 7:02 pm MATERIAL LITIGATION ES Sunlogy Berhad (\"ES Sunlogy\" or \"the Company\") - Updates on the Writ of Summons and Statement of Claim (Kuala Lumpur High Court Suit No. WA-22C-46-07/2026): Savelite Engineering Sdn Bhd (\"Savelite\" or \"Plaintiff\") vs Ecolectric Engineering Sdn. Bhd. (\"Defendant\" or \"Ecolectric\") (Damansara Heights Project)",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710141",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RESINTECH BERHAD Financial Results 6:58 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710129",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SIN HENG CHAN (MALAYA) BERHAD Financial Results 6:57 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710113",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LIM SEONG HAI CAPITAL BERHAD General Announcement 6:57 pm OTHERS Press Release - Lim Seong Hai Capital Berhad Records 5.34% YoY Revenue Growth to RM483.60 Million in FY2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710115",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LIM SEONG HAI CAPITAL BERHAD Entitlements 7:02 pm Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710143",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov AL-'AQAR HEALTHCARE REIT Changes in Shareholdings 6:55 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710107",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov AL-'AQAR HEALTHCARE REIT Changes in Shareholdings 6:55 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710109",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LIM SEONG HAI CAPITAL BERHAD Financial Results 6:54 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710111",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PETRONAS GAS BERHAD Changes in Shareholdings 6:53 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710101",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RNG TECH BERHAD Financial Results 6:53 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710103",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EMITS BERHAD Financial Results 7:00 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710133",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EQ8 FTSE CHINA 50 ETF General Announcement 6:52 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710105",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUMPULAN JETSON BERHAD General Announcement 7:01 pm MATERIAL LITIGATION KUMPULAN JETSON BERHAD (\"THE COMPANY\" OR \"PLAINTIFF\") - KUALA LUMPUR HIGH COURT CIVIL SUIT NO.: WA-22NCC-970-11/2026 (SUIT 970) - WRIT OF SUMMONS AND STATEMENT OF CLAIM BETWEEN KUMPULAN JETSON BERHAD AND TEH KIAN AN (\"1ST DEFENDANT\") AND EDWARD NG KAH JIUN (\"2ND DEFENDANT\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710131",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EQ8 MSCI SEA ISLAMIC DIVIDEND ETF General Announcement 6:51 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710095",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov AMS ADVANCED MATERIAL BERHAD Financial Results 6:49 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710099",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MSB GLOBAL GROUP BERHAD Entitlements 6:51 pm Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710093",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MSB GLOBAL GROUP BERHAD General Announcement 6:50 pm MEMORANDUM OF UNDERSTANDING MSB GLOBAL GROUP BERHAD (\"MSB GLOBAL\" OR THE \"COMPANY\") UPDATE ON THE STATUS OF THE MEMORANDUM OF UNDERSTANDING ENTERED BETWEEN MSB MACHINERY CORPORATION (MALAYSIA) SDN BHD, A WHOLLY-OWNED SUBSIDIARY OF THE COMPANY AND ZHEJIANG GSP&DC ENERGY TECHNOLOGY CO.,LTD.",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710097",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EPB GROUP BERHAD Financial Results 6:47 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710085",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MSB GLOBAL GROUP BERHAD Financial Results 6:47 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710087",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNIMECH GROUP BERHAD Entitlements 6:49 pm First Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710091",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CATCHA DIGITAL BERHAD Financial Results 6:45 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710089",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov HB GLOBAL LIMITED Change of Corp Info 6:44 pm Change of Company Secretary - ONG TIAN SOON",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710083",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CAREPLUS GROUP BERHAD Financial Results 6:42 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710079",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov AXTERIA GROUP BERHAD Financial Results 6:41 pm Consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710081",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EQ8 FTSE MALAYSIA ENHANCED DIVIDEND WAQF ETF General Announcement 6:41 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710059",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DATASONIC GROUP BERHAD Changes in Shareholdings 6:40 pm Changes in Director's Interest (Section 219 of CA 2016) - DATO' HAJI ISHAK BIN ISMAIL",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710061",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DATASONIC GROUP BERHAD Dealings in Listed Securities 6:40 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710063",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DATASONIC GROUP BERHAD Changes in Shareholdings 6:40 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATO' HAJI ISHAK BIN ISMAIL",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710067",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DATASONIC GROUP BERHAD Changes in Shareholdings 6:40 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - SKYELIMIT ALLIANCE SDN BHD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710065",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DATASONIC GROUP BERHAD Changes in Shareholdings 6:40 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - RAYA AVIATION HOLDINGS SDN BHD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710069",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DATASONIC GROUP BERHAD Changes in Shareholdings 6:40 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - TAN SRI DATO' SERI MOHD KHAIRUL ADIB BIN ABD RAHMAN",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710071",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUMPULAN JETSON BERHAD Financial Results 6:40 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710073",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MAGNA PRIMA BERHAD General Meetings 6:40 pm General Meetings: Outcome of Meeting",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710075",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CAREPLUS GROUP BERHAD General Meetings 6:39 pm General Meetings: Outcome of Meeting",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710077",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EQ8 MSCI MALAYSIA ISLAMIC DIVIDEND ETF General Announcement 6:39 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710053",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MAGNA PRIMA BERHAD Financial Results 6:38 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710055",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EQ8 DOW JONES ISLAMIC MARKET MALAYSIA TITANS 25 ETF General Announcement 6:38 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710057",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CAREPLUS GROUP BERHAD General Meetings 6:36 pm General Meetings: Outcome of Meeting",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710049",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov TEAMSTAR BERHAD Financial Results 6:36 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710051",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RHONE MA HOLDINGS BERHAD Dealings in Listed Securities 6:33 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710035",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ORKIM BERHAD Financial Results 6:33 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710033",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ORKIM BERHAD Entitlements 6:35 pm First Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710045",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BATU KAWAN BERHAD Entitlements 6:34 pm Final Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710047",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BATU KAWAN BERHAD General Announcement 6:32 pm OTHERS (I) STATEMENT TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF AUTHORITY TO BUY BACK ITS OWN SHARES BY THE COMPANY (II) CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF SHAREHOLDERS' MANDATE FOR RECURRENT RELATED PARTY TRANSACTIONS OF A REVENUE OR TRADING NATURE (COLLECTIVELY REFERRED TO AS THE \"PROPOSALS\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710037",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BATU KAWAN BERHAD Financial Results 6:32 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710041",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "results filing corroborates press item already cited; body unreadable from mirror",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BATU KAWAN BERHAD Shares Buy Back 6:32 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710039",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RHONE MA HOLDINGS BERHAD Changes in Shareholdings 6:31 pm Changes in Director's Interest (Section 219 of CA 2016) - DR LIM BAN KEONG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710023",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OPTIMAX HOLDINGS BERHAD Entitlements 6:32 pm Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710043",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov OPTIMAX HOLDINGS BERHAD Financial Results 6:31 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710027",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SAPURA INDUSTRIAL BERHAD Change of Corp Info 6:31 pm Change in Nomination and Remuneration Committee - ENCIK IR. MD. SHAH BIN HUSSIN",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710025",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov METRONIC GLOBAL BERHAD General Announcement 7:18 pm OTHERS METRONIC GLOBAL BERHAD (METRONIC OR THE COMPANY) - DELAY IN ISSUANCE OF AUDITED FINANCIAL STATEMENTS FOR THE FINANCIAL PERIOD ENDED 31 JULY 2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710167",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RHONE MA HOLDINGS BERHAD Changes in Shareholdings 6:30 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DR LIM BAN KEONG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710031",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UCHI TECHNOLOGIES BERHAD Entitlements 6:31 pm Second Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710029",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UCHI TECHNOLOGIES BERHAD Financial Results 6:29 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710013",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MUHIBBAH ENGINEERING (M) BHD Shares Buy Back 6:28 pm Notice of SBB by a Company Pursuant to Section 127 (16) of CA 2016",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710015",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ANN JOO RESOURCES BERHAD Financial Results 6:28 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710019",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNWAY BERHAD General Announcement 6:28 pm OTHERS SUNWAY BERHAD (\"SUNWAY\") (1) DISCLOSURE IN RELATION TO ANY AGREEMENT, ARRANGEMENT, JOINT VENTURE OR COLLABORATION FOR THE PURPOSE OF BIDDING FOR OR SECURING A PROJECT OR CONTRACT (COLLECTIVELY KNOWN AS \"VENTURES\") (2) STATUS OF MEMORANDUM OF UNDERSTANDING (\"MOU\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710017",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SIGNATURE INTERNATIONAL BERHAD General Announcement 6:28 pm OTHERS SIGNATURE INTERNATIONAL BERHAD (\"SIGN\" OR \"THE COMPANY\") - DEALINGS IN QUOTED SECURITIES",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710021",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MUHIBBAH ENGINEERING (M) BHD Shares Buy Back 6:27 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709997",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MITRAJAYA HOLDINGS BERHAD Shares Buy Back 6:27 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710001",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MITRAJAYA HOLDINGS BERHAD Dealings in Listed Securities 6:27 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710003",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MUHIBBAH ENGINEERING (M) BHD Financial Results 6:26 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710005",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PSP ENERGY BERHAD Financial Results 6:26 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710007",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MITRAJAYA HOLDINGS BERHAD Changes in Shareholdings 6:26 pm Changes in Director's Interest (Section 219 of CA 2016) - TAN ENG PIOW",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710009",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PRG HOLDINGS BERHAD Change of Corp Info 6:25 pm Change in Boardroom - MISS HOW CHUI PENG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11710011",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov INSAS BERHAD Shares Buy Back 6:23 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709967",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ECOBUILT HOLDINGS BERHAD General Announcement 6:25 pm WINDING UP / RECEIVER & MANAGER / RESTRAINING ORDER / SPECIAL ADMINISTRATOR ECOBUILT HOLDINGS BERHAD (\"ECOBUILT\" OR \"COMPANY\") CREDITOR-INITIATED PROPOSED SCHEME OF ARRANGEMENT AND APPLICATION FOR RESTRAINING ORDER",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709983",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov EC EXCEL HOLDINGS BERHAD Financial Results 6:22 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709969",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov XL HOLDINGS BERHAD General Announcement 6:25 pm TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : RECURRENT RELATED PARTY TRANSACTIONS XL HOLDINGS BERHAD (XLH OR THE COMPANY) FURTHER VARIATION BY 10% OR MORE BETWEEN ACTUAL VALUE AND ESTIMATED VALUE OF RECURRENT RELATED PARTY TRANSACTIONS (RRPT) PURSUANT TO A SHAREHOLDERS' MANDATE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709985",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov FTSE4GOOD BURSA MALAYSIA ETF General Announcement 6:22 pm NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709971",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ANALABS RESOURCES BERHAD Shares Buy Back 6:22 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709973",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov YEW LEE PACIFIC GROUP BERHAD Changes in Shareholdings 6:22 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - ANG LEE SENG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709977",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov YEW LEE PACIFIC GROUP BERHAD Changes in Shareholdings 6:22 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - DATUK ANG LEE LEONG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709975",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov YEW LEE PACIFIC GROUP BERHAD Dealings in Listed Securities 6:22 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709981",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov YEW LEE PACIFIC GROUP BERHAD Changes in Shareholdings 6:22 pm Changes in Director's Interest (Section 219 of CA 2016) - DATUK ANG LEE LEONG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709979",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov STEEL HAWK BERHAD General Announcement 6:25 pm OTHERS STEEL HAWK BERHAD (\"STEEL HAWK\" OR THE \"COMPANY\") - THE LETTER OF AWARD FOR THE TURNKEY EPCC CONTRACT FOR THE ASTANA CHEMOR PHASE 2 DEVELOPMENT FROM FORTE EMERALD SDN BHD TO STEEL HAWK ENGINEERING SDN BHD, A WHOLLY-OWNED SUBSIDIARY OF THE COMPANY",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709987",
+   "opened": false,
+   "decision": "included",
+   "reason": "LOA filings corroborate the Steel Hawk EPCC item (bodies unreadable from mirror)",
+   "itemId": "2026-11-26-con-1"
+  },
+  {
+   "title": "25 Nov STEEL HAWK BERHAD General Announcement 6:25 pm OTHERS STEEL HAWK BERHAD (\"STEEL HAWK\" OR THE \"COMPANY\") - THE LETTER OF AWARD FOR THE TURNKEY EPCC CONTRACT FOR THE TWO PHASES OF THE LAMAN ANGSANA SSI DEVELOPMENT FROM FORTHRIGHT PROPERTY SDN BHD TO STEEL HAWK ENGINEERING SDN BHD, A WHOLLY-OWNED SUBSIDIARY OF THE COMPANY",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709989",
+   "opened": false,
+   "decision": "duplicate",
+   "reason": "second/third Steel Hawk LOA filing",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov STEEL HAWK BERHAD General Announcement 6:24 pm OTHERS STEEL HAWK BERHAD (\"STEEL HAWK\" OR THE \"COMPANY\") - THE LETTER OF AWARD FOR THE TURNKEY EPCC CONTRACT FOR THE TWO PHASES OF THE ASTANA IMPIAN DEVELOPMENT FROM MIMBAR NUSANTARA HOLDINGS SDN BHD TO STEEL HAWK ENGINEERING SDN BHD, A WHOLLY-OWNED SUBSIDIARY OF THE COMPANY",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709991",
+   "opened": false,
+   "decision": "duplicate",
+   "reason": "second/third Steel Hawk LOA filing",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SWIFT ENERGY TECHNOLOGY BERHAD Financial Results 6:21 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709953",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SAPURA INDUSTRIAL BERHAD Change of Corp Info 6:24 pm Change in Audit Committee - ENCIK IR. MD. SHAH BIN HUSSIN",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709993",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KAREX BERHAD Entitlements 6:23 pm Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709995",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KAREX BERHAD Financial Results 6:21 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709955",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Dealings in Listed Securities 6:20 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings During Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709957",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov TIMBERWELL BERHAD Changes in Shareholdings 6:20 pm Changes in Director's Interest (Section 219 of CA 2016) - MISS YAP FOOK FUNG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709961",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov TIMBERWELL BERHAD Dealings in Listed Securities 6:20 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709963",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNWAY BERHAD Financial Results 6:20 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709965",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "results filing corroborates press item already cited; body unreadable from mirror",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNWAY BERHAD General Announcement 6:21 pm OTHERS SUNWAY BERHAD (\"SUNWAY\") - MEDIA RELEASE AND INVESTORS PRESENTATION FOR THE FINANCIAL RESULTS OF SUNWAY FOR THE THIRD QUARTER ENDED 30 SEPTEMBER 2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709951",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNWAY BERHAD General Announcement 6:20 pm OTHERS SUNWAY BERHAD (\"SUNWAY\") - REVISION TO THE PRINCIPAL TERMS AND CONDITIONS OF THE COMMERCIAL PAPERS AND/OR MEDIUM TERM NOTES PROGRAMMES OF SUNWAY AND ITS GROUP OF COMPANIES",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709959",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WINSTAR CAPITAL BERHAD Financial Results 6:19 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709939",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CHIN HIN GROUP BERHAD Shares Buy Back 6:19 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709941",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine watchlist-company share buyback - not flag-worthy",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:18 pm Changes in Director's Interest (Section 219 of CA 2016) - MR TEE CHENG HUA",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709947",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SAPURA INDUSTRIAL BERHAD Change of Corp Info 6:19 pm Change in Boardroom - ENCIK IR. MD. SHAH BIN HUSSIN",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709943",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:17 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR TEE CHENG HUA",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709929",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LAC MED BERHAD Financial Results 6:16 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709931",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LAC MED BERHAD Entitlements 6:18 pm Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709945",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KERJAYA PROSPEK GROUP BERHAD Entitlements 6:18 pm Third Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709949",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KERJAYA PROSPEK GROUP BERHAD Financial Results 6:16 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709933",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KERJAYA PROSPEK GROUP BERHAD General Announcement 6:17 pm PROVISION OF FINANCIAL ASSISTANCE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709927",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UZMA BERHAD General Meetings 6:16 pm General Meetings: Outcome of Meeting",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709935",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:16 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - TEE CHENG HUA HOLDINGS SDN BHD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709937",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:15 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR TEE KIM TEE @ TEE CHING TEE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709921",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PETERLABS HOLDINGS BERHAD Annual Report 6:14 pm Annual Report & CG Report - 2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709923",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SWIFT ENERGY TECHNOLOGY BERHAD General Announcement 6:15 pm MEMORANDUM OF UNDERSTANDING SWIFT ENERGY TECHNOLOGY BERHAD (\"SWIFT ENERGY\" OR THE \"COMPANY\") UPDATE ON THE STATUS OF THE MEMORANDUM OF UNDERSTANDING BETWEEN THE COMPANY AND GUTOR ELECTRONIC ASIA PACIFIC SDN BHD (\"GUTOR\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709919",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MALAYAN BANKING BERHAD Dealings in Listed Securities 6:14 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709925",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUMPULAN KITACON BERHAD Shares Buy Back 6:13 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709909",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine watchlist-company share buyback - not flag-worthy",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LIANSON FLEET GROUP BERHAD Shares Buy Back 6:12 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709911",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MITRAJAYA HOLDINGS BERHAD Entitlements 6:15 pm First Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709917",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov GOPENG BERHAD Financial Results 6:12 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709913",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MITRAJAYA HOLDINGS BERHAD Financial Results 6:11 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709903",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov HANDAL ENERGY BERHAD General Announcement 6:12 pm MATERIAL LITIGATION HANDAL ENERGY BERHAD (\"HANDAL\" OR \"THE COMPANY\") - RECEIPT OF NOTICE PURSUANT TO SECTION 466 OF THE COMPANIES ACT 2016",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709915",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DAYTHREE DIGITAL BERHAD Financial Results 6:11 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709905",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BERMAZ AUTO BERHAD Changes in Shareholdings 6:10 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709907",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ASIAN PAC HOLDINGS BERHAD Financial Results 6:09 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709879",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:09 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MERGEBOOM (M) SDN BHD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709883",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SBS NEXUS BERHAD Financial Results 6:08 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709885",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SBS NEXUS BERHAD Entitlements 6:09 pm First Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709881",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WCE HOLDINGS BERHAD General Announcement 6:08 pm PROVISION OF FINANCIAL ASSISTANCE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709889",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WCE HOLDINGS BERHAD Financial Results 6:07 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709893",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUCCESS TRANSFORMER CORPORATION BERHAD Changes in Shareholdings 6:07 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR YEO SENG CHONG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709891",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUCCESS TRANSFORMER CORPORATION BERHAD Changes in Shareholdings 6:07 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MADAM LIM MEE HWA",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709895",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUCCESS TRANSFORMER CORPORATION BERHAD Changes in Shareholdings 6:07 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MR YEO SENG CHONG",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709897",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUCCESS TRANSFORMER CORPORATION BERHAD Changes in Shareholdings 6:07 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - MADAM LIM MEE HWA",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709899",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov GE-SHEN CORPORATION BERHAD Shares Buy Back 6:07 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709901",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SIGNATURE INTERNATIONAL BERHAD Entitlements 6:08 pm Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709887",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov TELADAN GROUP BERHAD Shares Buy Back 6:06 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709871",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KAWAN FOOD BERHAD General Announcement 6:06 pm OTHERS Press Release: KAWAN FOOD BERHAD ANNOUNCES 3QFY2026 AND 9MFY2026 FINANCIAL RESULTS, RETURNS TO PROFITABILITY IN THIRD QUARTER",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709873",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CORAZA INTEGRATED TECHNOLOGY BERHAD Financial Results 6:05 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709877",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MUI PROPERTIES BERHAD Financial Results 6:05 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709859",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SIGNATURE INTERNATIONAL BERHAD Financial Results 6:05 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709861",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUMPULAN JETSON BERHAD General Announcement 6:27 pm MATERIAL LITIGATION KUMPULAN JETSON BERHAD (\"JETSON\" OR \"THE COMPANY\") - KUALA LUMPUR HIGH COURT CIVIL SUIT NO. WA-22C-73-10/2024 BETWEEN O&C MAKOK ISOLA SDN. BHD. (\"OCMI\" OR \"THE PLAINTIFF\") AND JETSON CONSTRUCTION SDN. BHD. (\"JCSB\" OR \"THE 1ST DEFENDANT\") AND THE COMPANY (\"2ND DEFENDANT\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709999",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov XOX NETWORKS BERHAD General Announcement 6:06 pm PROVISION OF FINANCIAL ASSISTANCE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709875",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:04 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - PROSPER CAPITAL HOLDINGS SDN BHD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709863",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MATRIX PARKING SOLUTION HOLDINGS BERHAD Financial Results 6:04 pm Half yearly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709867",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov AVANGAAD BERHAD Shares Buy Back 6:04 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709865",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MAYBULK BERHAD Shares Buy Back 6:03 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709841",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov HARVEST MIRACLE CAPITAL BERHAD General Announcement 6:03 pm PROVISION OF FINANCIAL ASSISTANCE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709843",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WELLCALL HOLDINGS BERHAD Entitlements 6:04 pm Special Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709869",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov 99 SPEED MART RETAIL HOLDINGS BERHAD Changes in Shareholdings 6:02 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709845",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNITED MALACCA BERHAD Changes in Shareholdings 6:01 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - PROSPER TRADING SDN. BHD.",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709855",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KAWAN FOOD BERHAD Financial Results 6:01 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709853",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BENTLEY MUSIC GROUP BERHAD Financial Results 6:01 pm Consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709827",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUALA LUMPUR KEPONG BERHAD General Announcement 6:02 pm OTHERS CIRCULAR TO SHAREHOLDERS IN RELATION TO THE PROPOSED RENEWAL OF AND NEW SHAREHOLDERS' MANDATE FOR RECURRENT RELATED PARTY TRANSACTIONS OF A REVENUE OR TRADING NATURE (\"PROPOSED SHAREHOLDERS' MANDATE\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709847",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BESHOM HOLDINGS BERHAD Shares Buy Back 6:01 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709829",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SAPURA INDUSTRIAL BERHAD Financial Results 6:00 pm Quarterly rpt on consolidated results for the financial period ended 31/10/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709835",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov MIDTOWN GROUP BERHAD General Announcement 6:02 pm MATERIAL LITIGATION MIDTOWN GROUP BERHAD (FORMERLY KNOWN AS PASUKHAS GROUP BERHAD) (\"MIDTOWN\" OR THE \"COMPANY\") - Breach of Share Sale Agreement (\"SSA\") Proceedings between Ong Mei Lee & 2 Ors (\"Respondents\") v Midtown (\"Appellant\") Court of Appeal Civil Appeal No.: B-02(NCvC)(W)-828-05/2025",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709851",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov HARVEST MIRACLE CAPITAL BERHAD Financial Results 6:00 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709833",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov BIOALPHA HOLDINGS BERHAD Financial Results 6:00 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709839",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov CARIMIN PETROLEUM BERHAD General Announcement 6:00 pm TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) : NON RELATED PARTY TRANSACTIONS CARIMIN PETROLEUM BERHAD (\"CARIMIN\" OR THE \"COMPANY\") PROPOSED ACQUISITION BY CARIMIN OF UP TO 38,409,999 ORDINARY SHARES IN SEALINK INTERNATIONAL BERHAD (\"SEALINK\") (\"SEALINK SHARE(S)\"), REPRESENTING UP TO APPROXIMATELY 7.68% EQUITY INTEREST IN SEALINK, IN THE OPEN MARKET AND/OR FROM ANY SEALINK SHAREHOLDERS AT A PURCHASE PRICE OF UP TO RM0.38 PER SEALINK SHARE, SUCH THAT CARIMINS SHAREHOLDINGS IN SEALINK WILL AT ALL TIMES REMAIN BELOW 33.00% (\"PROPOSED ACQUISITION\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709837",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KGB-C20: CW KELINGTON GROUP BERHAD (AM) SW Announcement Adjustment",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709857",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KGB-C20: CW KELINGTON GROUP BERHAD (AM) SW Announcement STRUCTURED WARRANTS ANNOUNCEMENT : ADJUSTMENT TO TERMS OF STRUCTURED WARRANTS",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709825",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov TAFI INDUSTRIES BERHAD Shares Buy Back 5:58 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709821",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNZEN GROUP BERHAD General Announcement 5:58 pm PROVISION OF FINANCIAL ASSISTANCE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709819",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov XOX NETWORKS BERHAD Financial Results 5:58 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709823",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WELLCALL HOLDINGS BERHAD Entitlements 6:02 pm Fourth Interim Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709849",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov IOIPG MALAYSIA REAL ESTATE INVESTMENT TRUST General Announcement 5:57 pm OTHERS Issuance of first tranche unrated Islamic medium-term notes of RM2.66 billion in nominal value (Sukuk Wakalah\") under an Islamic medium-term notes programme of up to RM5.0 billion in nominal value based on the Shariah principle of Wakalah Bi Al-Istithmar (Sukuk Wakalah Programme) by IOIPG REIT Capital Sdn Bhd, a special purpose vehicle to raise financing for and on behalf of IOIPG Malaysia Real Estate Investment Trust (\"IOIPG REIT\") (\"Tranche 1 Sukuk Wakalah\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709801",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUALA LUMPUR KEPONG BERHAD Entitlements 6:01 pm Final Dividend",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709831",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ABLE GLOBAL BERHAD General Announcement 5:56 pm OTHERS ABLE GLOBAL BERHAD (\"AGB\" OR \"THE COMPANY\") - Proposed New Shareholders' Mandate for Recurrent Related Party Transactions of a Revenue or Trading Nature",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709803",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNWAY CONSTRUCTION GROUP BERHAD Dealings in Listed Securities 5:56 pm DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) : Dealings Outside Closed Period",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709805",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUNWAY HEALTHCARE HOLDINGS BERHAD Changes in Shareholdings 5:56 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709809",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov ESYS HOLDINGS BERHAD General Announcement 5:56 pm OTHERS ESYS HOLDINGS BERHAD (\"ESYS\" OR THE \"COMPANY\") PROPOSED ACQUISITION OF 100% EQUITY INTEREST IN WONDER ENERGY SDN BHD (\"WESB\") (\"PROPOSED ACQUISITION\")",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709807",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KJTS GROUP BERHAD Financial Results 5:56 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709811",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PENTAMASTER CORPORATION BERHAD Changes in Shareholdings 5:55 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - EMPLOYEES PROVIDENT FUND BOARD",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709817",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PENTAMASTER CORPORATION BERHAD Changes in Shareholdings 5:55 pm Changes in Sub. S-hldr's Int (Section 138 of CA 2016) - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709815",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PESONA METRO HOLDINGS BERHAD Shares Buy Back 5:55 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709777",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "routine watchlist-company share buyback - not flag-worthy",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov SUPERCOMNET TECHNOLOGIES BERHAD Shares Buy Back 5:55 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709779",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KUALA LUMPUR KEPONG BERHAD Financial Results 5:55 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709785",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PAN MALAYSIA CORPORATION BERHAD General Announcement 5:55 pm PROVISION OF FINANCIAL ASSISTANCE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709813",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov LEADER STEEL HOLDINGS BERHAD Financial Results 5:54 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709791",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov REVENUE IF BERHAD General Announcement 5:55 pm OTHERS REVENUE IF BERHAD (\"REVENUE\" OR \"THE COMPANY\") - CHANGE IN THE COMPOSITION OF SUSTAINABILITY COMMITTEE",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709775",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov REVENUE IF BERHAD Change of Corp Info 5:55 pm Change in Remuneration Committee - MISS LI MENGYAO",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709781",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov REVENUE IF BERHAD Change of Corp Info 5:55 pm Change in Nomination Committee - MISS LI MENGYAO",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709783",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov REVENUE IF BERHAD Change of Corp Info 5:55 pm Change in Audit Committee - MISS LI MENGYAO",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709787",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov UNIMECH GROUP BERHAD Financial Results 5:54 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709795",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov REVENUE IF BERHAD Change of Corp Info 5:54 pm Change in Boardroom - MISS LI MENGYAO",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709789",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov DXN HOLDINGS BHD. Shares Buy Back 5:53 pm Immediate Announcement on Shares Buy Back",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709797",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KJTS GROUP BERHAD General Announcement 5:54 pm MEMORANDUM OF UNDERSTANDING KJTS GROUP BERHAD (\"KJTS\" OR THE \"COMPANY\") QUARTERLY UPDATES ON THE STATUS OF COLLABORATIONS, MEMORANDUMS OF UNDERSTANDING AND JOINT VENTURES",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709793",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WELLCALL HOLDINGS BERHAD Financial Results 5:53 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709799",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RADIANT GLOBALTECH BERHAD Financial Results 5:53 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709759",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov PAN MALAYSIA CORPORATION BERHAD Financial Results 5:53 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709765",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov INNITY CORPORATION BERHAD Financial Results 5:53 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709763",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov WAVEFRONT BERHAD Financial Results 5:52 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709771",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KOTRA INDUSTRIES BERHAD Financial Results 5:52 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709769",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov RICHTECH DIGITAL BERHAD Financial Results 5:52 pm Quarterly rpt on consolidated results for the financial period ended 30/09/2026",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709773",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KJTS GROUP BERHAD Change of Corp Info 5:53 pm Change in Boardroom - MISS SARMILA A/P MUNIANDY",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709761",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KJTS GROUP BERHAD Change of Corp Info 5:52 pm Change in Boardroom - MR WONG NAI CHIEN",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709767",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  },
+  {
+   "title": "25 Nov KOTRA INDUSTRIES BERHAD General Meetings 5:51 pm General Meetings: Outcome of Meeting",
+   "url": "https://www.klsescreener.com/v2/announcements/view/11709747",
+   "opened": false,
+   "decision": "seen-not-itemised",
+   "reason": "filing outside scope or routine",
+   "itemId": null
+  }
+ ]
+}
