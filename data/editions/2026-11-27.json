@@ -1,623 +1,623 @@
 {
-  "date": "2026-11-27",
-  "status": "published",
-  "demo": false,
-  "checkedAt": [
-    "2026-11-27T07:21:49+08:00",
-    "2026-11-27T07:22:45+08:00",
-    "2026-11-27T07:23:17+08:00",
-    "2026-11-27T07:24:08+08:00",
-    "2026-11-27T07:24:32+08:00",
-    "2026-11-27T07:25:08+08:00",
-    "2026-11-27T07:25:20+08:00",
-    "2026-11-27T07:26:06+08:00",
-    "2026-11-27T07:26:28+08:00",
-    "2026-11-27T07:26:55+08:00",
-    "2026-11-27T07:27:03+08:00",
-    "2026-11-27T07:28:09+08:00"
-  ],
-  "publishedAt": "2026-11-27T07:35:00+08:00",
-  "keyTakeaways": [
-    {
-      "headline": "Nvidia freezes AI-server shipments to Malaysia - the DC build-out's supply shock arrives",
-      "soWhat": "The FT-reported halt on servers containing Nvidia chips bound for Malaysia, Singapore, Thailand and Indonesia - with Dell and Supermicro notifying buyers - knocked as much as 24% off Bursa's DC-peripheral names. Whether it is a compliance pause or policy determines the near-term value of every Malaysian DC contract, including the power work (Petra's 49.8GW-by-2050 curve) and subcontracts like Pekat's.",
-      "sectorKeys": [
-        "aiTelcoIct",
-        "construction"
-      ],
-      "itemIds": [
-        "2026-11-27-ai-1",
-        "2026-11-27-ai-4",
-        "2026-11-27-con-3"
-      ]
-    },
-    {
-      "headline": "Miti draws the line at 19% on US tariffs",
-      "soWhat": "Malaysia will negotiate into 1Q2027 to cap total US tariffs at the agreed 19%, contesting Section 301 excess-capacity findings; China is threatening retaliation and Singapore is 'very disappointed'. The cap holds or breaks on those talks - semis and cables are the exposed exports.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-11-27-ai-2"
-      ]
-    },
-    {
-      "headline": "Property results day: recurring income is the story",
-      "soWhat": "Sime Darby Property's record 9M (NP +39.4%) is powered by DC and industrial investment assets; IOI Properties' core PBT rose 25% with RM2.46b unbilled sales and a Bridge Data Centres land sale completing this quarter; E&O grew 37% on Andaman with a megamall planned. KPKT's stamp-duty waivers add a white-knight incentive for abandoned projects.",
-      "sectorKeys": [
-        "propertyDevelopment",
-        "propertyInvestment"
-      ],
-      "itemIds": [
-        "2026-11-27-pd-1",
-        "2026-11-27-pi-1",
-        "2026-11-27-pd-6",
-        "2026-11-27-pd-5"
-      ]
-    },
-    {
-      "headline": "Watchlist in play: Southern Cable's record quarter; Chin Hin's busy evening",
-      "soWhat": "Southern Cable's 3Q profit rose 26.5% on 58% revenue growth from grid capex. Chin Hin Group Bhd sold a 3.36% CHGP stake for RM50.79m, was named by Bernama as PMCK's partner for two private hospitals (Kedah's RM376m PMC Alor Setar II first), and filed its 3Q results - numbers still unverified.",
-      "sectorKeys": [
-        "cablesManufacturing",
-        "buildingMaterialsIbs",
-        "propertyDevelopment"
-      ],
-      "itemIds": [
-        "2026-11-27-cab-1",
-        "2026-11-27-bm-1",
-        "2026-11-27-pd-2"
-      ]
-    },
-    {
-      "headline": "Contractors keep winning: IJM triples, AWC locks ten years, Pekat rides DC work",
-      "soWhat": "IJM's 2Q profit more than tripled on construction-led growth; AWC's RM519.9m concession extension secures a decade of federal FM revenue; Pekat's RM62.91m Port Dickson hyperscale-DC subcontracts show specialist fit-out work still flowing.",
-      "sectorKeys": [
-        "construction"
-      ],
-      "itemIds": [
-        "2026-11-27-con-1",
-        "2026-11-27-con-2",
-        "2026-11-27-con-3"
-      ]
-    }
-  ],
-  "sectors": [
-    {
-      "sectorKey": "aiTelcoIct",
-      "theme": "Nvidia freezes AI-server shipments to Malaysia and three neighbours as Washington tightens China curbs, rattling Bursa's DC trade; Miti draws the 19% tariff line; MDEC reframes GBS for agentic AI; Petra puts the DC-driven power-demand curve on record",
-      "items": [
-        {
-          "id": "2026-11-27-ai-1",
-          "headline": "Nvidia halts AI-server shipments to Malaysia, Singapore, Thailand and Indonesia as US tightens China curbs - FT; data-centre-linked stocks fall as much as 24% on Bursa",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Nvidia has told manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand and Indonesia; OEMs including Dell Technologies and Supermicro have notified buyers across the four countries that pending hardware orders will not leave factory floors, people familiar with the matter told the Financial Times (via Malay Mail). It is unclear whether the freeze is temporary as manufacturers interpret Washington's updated compliance directives; the four nations had become prime destinations for Chinese AI developers renting offshore compute, and Nvidia booked US$104 billion of revenue through its Singapore subsidiary in 2025, up 72%. On Bursa, peripheral data-centre names fell as much as 24% as caution spread into construction and utility stocks - MN Holdings, which builds power facilities, was among those hit (The Edge).",
-          "soWhat": "The chip-control net has moved from blacklisting distributors to stopping server hardware at the factory gate. Every Malaysian DC project, power-infrastructure contractor and EMS name now carries shipment-freeze risk in its order book - watch for official clarification on whether this is a pause or a policy.",
-          "sources": [
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856"
-            },
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827439"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-ai-2",
-          "headline": "Malaysia will negotiate with Washington until 1Q2027 to hold US tariffs at the agreed 19% - Miti; China threatens retaliation and Singapore voices disappointment as the tariff salvo widens",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Malaysia will keep negotiating with the US until the first quarter of 2027 to ensure overall tariffs on Malaysian goods do not exceed the agreed 19% rate, engaging the USTR on the Section 301 structural excess-capacity concerns behind the new 20-40% headline proposals, Investment, Trade and Industry Minister Johari Abdul Ghani said (Malay Mail). China threatened retaliation over the new duties (Malay Mail), Singapore said it was 'very disappointed' (FMT), and the Bank Negara-linked 2026 GDP projection of 5.0-5.5% came with a pledge to assess the tariff impact (The Star, folded context).",
-          "soWhat": "The 19% ceiling is now Malaysia's explicit negotiating line, with Section 301 excess-capacity findings the mechanism to watch - semis, cables and solar-adjacent manufacturers are the exposed sectors if talks fail.",
-          "sources": [
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/malaysia/2026/11/26/malaysia-wants-us-to-honour-19pc-tariff-deal-miti-says-as-fresh-duties-loom/244867"
-            },
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/money/2026/11/26/uneasy-truce-shattered-china-threatens-retaliation-over-trumps-aggressive-new-tariffs/244887"
-            },
-            {
-              "publisher": "FMT",
-              "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/singapore-is-very-disappointed-by-trump-s-tariff-hike-plan"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-ai-3",
-          "headline": "MDEC chairman: global business services must move beyond cost competitiveness as agentic AI reshapes operations",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Malaysia's GBS industry must shift from competing on labour cost and efficiency towards higher-value services as AI automates business processes, MDEC chairman Ganesh Kumar Bangah said at the GBS Global Awards 2026, noting AI agents could execute entire finance, procurement, HR and customer-service processes (The Edge).",
-          "soWhat": "A direct signal from the digital-economy agency that Malaysia's shared-services pitch is being repriced by agentic AI - GBS employers and the property landlords housing them face an automation-driven reset.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827442"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-ai-4",
-          "headline": "Peninsular Malaysia's electricity demand will more than double to 49.8GW by 2050, with data centres a key driver - Petra",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Electricity demand in the peninsula is projected to rise from 22.6GW in 2027 to 49.8GW by 2050, a roughly 3.5% CAGR, the energy transition ministry (Petra) said, quoting the JPPPET committee; the projection explicitly accounts for data-centre growth, AI, EVs and energy-intensive industries, with the DC share of total demand rising (The Edge).",
-          "soWhat": "The official demand curve that underpins the DC build-out thesis - and the grid-connection queue - is now on record; power-capacity access remains the real bottleneck for new DC campuses even as chip supply tightens.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827552"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "propertyDevelopment",
-      "theme": "Sime Darby Property's record nine months on DC and industrial assets; PMCK-Chin Hin's two-hospital tie-up; E&O, SkyWorld up; Tropicana still loss-making; stamp-duty relief for white knights",
-      "items": [
-        {
-          "id": "2026-11-27-pd-1",
-          "headline": "Sime Darby Property posts record nine-month profit: net profit up 39.4% to RM599.7m on data-centre assets and investment properties",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Nine-month FY2026 net profit rose 39.4% to a record RM599.7 million, with PBT up 25.7% to a record RM828.2 million on RM3 billion revenue; operating profit grew 3.5% to RM748 million on higher recurring income, especially from data-centre assets and completed industrial investment properties in the IAM portfolio, while property development stayed the largest segment at RM2.7 billion revenue (Berita Harian).",
-          "soWhat": "Malaysia's biggest township developer is quietly becoming a recurring-income landlord: DC and industrial assets are now the profit engine, which is where the valuation re-rating case sits.",
-          "sources": [
-            {
-              "publisher": "Berita Harian",
-              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731653/pusat-data-aset-pelaburan-pacu-keuntungan-sime-darby-property"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-pd-2",
-          "headline": "PMCK partners Chin Hin Group Bhd to build two private hospitals in Kedah and Melaka; first is the RM376m, 271-bed PMC Alor Setar II",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "PMCK Bhd is collaborating with Chin Hin Group Bhd to develop two private hospitals in Kedah and Melaka, PMCK executive director Lee Yong Qian said; the first, PMC Alor Setar II, carries RM376 million development cost on about 2.6 acres owned by PMCK's wholly-owned Unique Luxury Sdn Bhd, with 271 beds expandable beyond 300, and will be the group's third of four hospitals (Bernama via Berita Harian). Chin Hin Group Bhd filed two MoU status updates with Bursa the same evening (via the KLSE Screener mirror). The Melaka hospital SPV with Chin Hin Group Property was itemised on 25 Nov; today's Bernama report names the parent, Chin Hin Group Bhd, as the collaboration partner across both states.",
-          "soWhat": "The watchlist group's healthcare build-out now spans two states at RM376m for the Kedah flagship alone - watch the MoU-update filings for the equity split and whether Chin Hin's construction arm takes the EPC role.",
-          "sources": [
-            {
-              "publisher": "Berita Harian",
-              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731850/pmck-chin-hin-bekerjasama-bangun-hospital-swasta-di-kedah-dan-melaka"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11711747"
-            }
-          ],
-          "watchlistCompanyKeys": [
-            "chinhin"
-          ]
-        },
-        {
-          "id": "2026-11-27-pd-3",
-          "headline": "SkyWorld's 2Q net profit nearly triples to RM21.78m on project progress and completed-home sales",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "2QFY2027 net profit jumped to RM21.78 million from RM7.93 million, with quarterly revenue more than doubling to RM188.03 million from RM86.68 million on stronger construction progress and finished-unit sales (bourse filing via The Edge).",
-          "soWhat": "The KL affordable-midmarket developer's lumpy recognition is swinging back up - completed-inventory monetisation is doing the heavy lifting.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827546"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-pd-4",
-          "headline": "Tropicana narrows its fifth straight quarterly loss to RM39.3m; nine-month revenue up 52.5% to RM1.55b, with RM5.5b of new developments planned",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "3QFY2026 net loss narrowed to RM39.3 million from RM65.16 million on lower tax and other expenses, though revenue fell 9.87% to RM380.74 million against a year-ago quarter that included RM93.8 million from a land divestment (The Edge; EdgeProp). Nine-month revenue rose 52.5% to RM1.55 billion on four land-parcel sales, vacant-possession deliveries and higher progress billings (EdgeProp), and the group plans RM5.5 billion of new developments (The Star, folded context).",
-          "soWhat": "Land sales are funding the balance-sheet repair while operating losses persist - five straight red quarters means the RM5.5b launch plan depends on sales velocity, not just landbank.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827549"
-            },
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918526/tropicana-corp%E2%80%99s-9-month-revenue-rises-525-rm155-bil"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-pd-5",
-          "headline": "KPKT offers full stamp-duty exemptions for white-knight developers and original purchasers of abandoned projects, targeting zero sick projects by 2030",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Full stamp-duty exemptions on transfer and loan instruments for rescuing developers/contractors and original purchasers of abandoned housing projects will run from Jan 1, 2027 to Dec 31, 2030 under Budget 2027, Housing and Local Government Minister Nga Kor Ming said at the Rehda Annual Dinner 2026; KPKT has revived or resolved 1,726 sick and abandoned projects to date (EdgeProp).",
-          "soWhat": "A cost break for rescue deals makes white-knight economics work - developers with turnaround capacity get a four-year window of fee-free restructuring on abandoned stock.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918518/stamp-duty-exemptions-rescuing-developers-original-purchasers-help-reduce-sick-housing-projects-zero-2030"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-pd-6",
-          "headline": "E&O's 2Q profit after tax rises 37% to RM76.1m on Andaman; group eyes a megamall on the Penang island",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "2QFY2027 PAT rose 37.1% to RM76.1 million, with revenue up 35.8% to RM277.6 million and PBT up 34.2% to RM95.4 million, largely from the Andaman Island development in Penang; first-half revenue grew 44.1% to RM559.1 million with the properties segment contributing 90.5% of revenue, and the group is looking to build a megamall on Andaman (EdgeProp).",
-          "soWhat": "Andaman is maturing from landbank into cash machine, and a megamall would add a recurring-income retail layer - the same playbook as the KL peers.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918522/eo%E2%80%99s-2q-profit-after-tax-rises-37-looks-build-megamall-andaman"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "construction",
-      "theme": "IJM's profit triples; AWC locks a decade of federal FM work; Pekat wins hyperscale-DC subcontracts; Advancecon's quarry turns",
-      "items": [
-        {
-          "id": "2026-11-27-con-1",
-          "headline": "IJM's 2Q net profit more than triples to RM233.18m on construction-led growth; two sen dividend declared",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "2QFY2027 net profit jumped to RM233.18 million from RM65.78 million, with stronger contributions across all divisions - especially construction - plus higher net gains on investment-property disposals; revenue surged 42.7% to RM2.39 billion from RM1.67 billion (bourse filing via The Edge).",
-          "soWhat": "The big-cap builder is converting the up-cycle: construction margins plus disposal gains give IJM the cleanest large-cap exposure to the infra-and-DC tender pipeline.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827508"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-con-2",
-          "headline": "AWC secures a RM519.9m, 10-year extension of its federal-building maintenance concession for the southern zone",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "AWC's indirect wholly-owned Ambang Wira Selatan Sdn Bhd signed a public-private partnership agreement extending its concession to manage and maintain federal government buildings in the southern zone from Jan 1, 2027 to Dec 31, 2036, worth RM519.9 million (bourse filing via The Edge).",
-          "soWhat": "A decade of locked-in government FM revenue at a known price - facilities-management concessions remain one of the most defensive earnings streams in the sector.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827490"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-con-3",
-          "headline": "Pekat bags RM62.91m of earthing and lightning-protection subcontracts for a hyperscale data centre in Port Dickson",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Pekat's indirect wholly-owned Pekat E & LP Sdn Bhd won four subcontracts worth a combined RM62.91 million for earthing and lightning-protection systems at a hyperscale data centre in Port Dickson; the main contractor was undisclosed for confidentiality reasons, the jobs were executed on Nov 25 and run to completion between Jan 2028 and Jan 2029 (bourse filing via EdgeProp).",
-          "soWhat": "Specialist DC-fit-out work keeps flowing to listed subcontractors even as chip shipments freeze - the build-out already under contract continues; Port Dickson is emerging as a DC node beyond Cyberjaya-Johor.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918527/pekat-bags-rm63-mil-subcontract-jobs-hyperscale-data-centre-port-dickson"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-27-con-4",
-          "headline": "Advancecon's 3Q pre-tax profit jumps 159% to RM3.09m as its quarry segment returns to profit",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "3QFY2026 pre-tax profit rose 159.3% to RM3.09 million, supported by the quarry segment's return to profitability (Berita Harian, feed excerpt; results filed with Bursa at 6.55pm).",
-          "soWhat": "Small but telling: quarry profits recovering signals materials demand from the construction up-cycle is reaching the smallest listed players.",
-          "sources": [
-            {
-              "publisher": "Berita Harian",
-              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731690/untung-sebelum-cukai-advancecon-melonjak-1593-peratus-pada-suku"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "propertyInvestment",
-      "theme": "IOI Properties' core profit rises 25% post-REIT listing, with a DC land sale still to complete",
-      "items": [
-        {
-          "id": "2026-11-27-pi-1",
-          "headline": "IOI Properties' 1Q revenue rises 16% to RM1.13b; core PBT up 25% once a prior South Beach revaluation is stripped out; unbilled sales near record at RM2.46b",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "1QFY2027 revenue grew 16% to RM1.13 billion on investment-property and hospitality-and-leisure growth; reported PBT fell 58% to RM313 million from RM753.6 million, but the year-ago quarter held a RM502.8 million South Beach revaluation gain - excluding exceptionals, core PBT rose 25%, helped by full-quarter contributions from the South Beach office tower and JW Marriott Singapore and better occupancy at IOI Central Boulevard Towers (Berita Harian). Unbilled sales stayed near record at RM2.46 billion, completed inventories fell RM129.8 million to RM1.04 billion, and the IOI Industrial Park Banting land sale to Bridge Data Centres remains on track to complete in 4Q2026 (The Star).",
-          "soWhat": "Post-REIT-listing, the parent is showing the underlying earnings the market was told to look at: core profit up 25%, recurring income growing, and a DC land sale still to land this quarter.",
-          "sources": [
-            {
-              "publisher": "Berita Harian",
-              "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731700/untung-asas-ioi-properties-meningkat-meskipun-untung-sebelum-cukai"
-            },
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/26/ioi-properties-upbeat-on-outlook-backed-by-healthy-unbilled-sales"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "plantation",
-      "theme": "LTAT justifies the Boustead Plantations stake cut on PAC grounds as the Achi Jaya bid draws political fire",
-      "items": [
-        {
-          "id": "2026-11-27-pla-1",
-          "headline": "LTAT frames its Boustead Plantations stake reduction (Project Earth) as PAC-aligned diversification; opposition questions Achi Jaya's bid",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "LTAT chief executive Datuk Mohammad Ashraf Md Radzi said the proposed Project Earth reduction of its Boustead Plantations stake follows Public Accounts Committee recommendations to diversify away from concentration in the Boustead Group, cut financing costs and deliver sustainable dividends (Bernama via The Star). Separately, the opposition leader questioned Achi Jaya's bid for Boustead Plantations (NST - headline facts only; body not extractable).",
-          "soWhat": "The BPlant take-private is being publicly justified on governance grounds while the buyer's credentials draw fire in the House - plantation assets changing hands under a PAC umbrella is still a political story as much as a corporate one.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/26/ltats-proposed-boustead-plantations-stake-reduction-aligns-with-pac-recommendations-strengthens-retirement-fund"
-            },
-            {
-              "publisher": "NST / Business Times",
-              "url": "https://www.nst.com.my/business/corporate/2026/11/1586547/opposition-leader-questions-achi-jayas-boustead-plantations-bid"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "capitalFinancing",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "consumerFinancing",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "cablesManufacturing",
-      "theme": "Southern Cable's record quarter on grid-capex demand",
-      "items": [
-        {
-          "id": "2026-11-27-cab-1",
-          "headline": "Southern Cable's 3Q net profit rises 26.5% to RM45.2m as revenue jumps 58% on domestic power-cable demand",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "3Q2026 net profit rose 26.5% to RM45.2 million from RM35.7 million, with revenue up 58.2% to RM706.4 million from RM446.5 million and EPS of 4.5 sen; domestic revenue surged 73.2% to RM658.9 million on power-cable and wire demand from the energy transition and power-infrastructure investment, and annual capacity reached 59,980km from 54,980km (The Star). Nine-month net profit rose 25.5% to RM118.9 million on revenue of RM1.67 billion, up 32.6%.",
-          "soWhat": "Watchlist name delivering exactly the thesis: grid capex from the energy transition is translating into volume and margin - capacity expansion is already being absorbed.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/26/southern-cable039s-3q-net-profit-rises-265-to-rm452mil"
-            }
-          ],
-          "watchlistCompanyKeys": [
-            "southerncable"
-          ]
-        }
-      ]
-    },
-    {
-      "sectorKey": "buildingMaterialsIbs",
-      "theme": "Chin Hin trims its CHGP stake to 57.76% for RM50.79m",
-      "items": [
-        {
-          "id": "2026-11-27-bm-1",
-          "headline": "Chin Hin Group Bhd sells a 3.36% stake in property unit CHGP for RM50.79m in off-market deals; holding drops to 57.76%",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "Chin Hin Group Bhd disposed of 46.59 million Chin Hin Group Property Bhd (CHGP) shares for RM50.79 million through off-market transactions between Jan 7 and Nov 25 at an average RM1.09 per share - 3.36% of CHGP's issued capital - cutting its holding to 57.755% from 61.119%; the group said the proceeds are for business activities (bourse filing via The Star; Chapter 10 transaction filing via the KLSE Screener mirror).",
-          "soWhat": "The watchlist parent is monetising slices of its separately-listed property arm while partnering PMCK on hospitals - capital recycling inside the group worth tracking for further stake cuts toward the 51% line.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/26/chin-hin-sells-336-stake-in-property-unit-for-rm5079mil"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11711751"
-            }
-          ],
-          "watchlistCompanyKeys": [
-            "chinhin"
-          ]
-        }
-      ]
-    },
-    {
-      "sectorKey": "hotels",
-      "theme": "Hoteliers push back on the India visa requirement with arrival data",
-      "items": [
-        {
-          "id": "2026-11-27-hotels-1",
-          "headline": "Hotel association urges Putrajaya to reconsider the India visa requirement, citing 1.57m Indian arrivals in 2025",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-26",
-          "detail": "The Malaysian Association of Hotels said 1.57 million Indian tourists visited in 2025, up 14.6%, with 738,000 more in 1H2026, and president Christina Toh cautioned that the extra planning step may push Indian travellers - spanning leisure, religious travel, weddings and corporate events - to easier-entry destinations; the visa requirement takes effect Jan 1, 2027 with MyVISA applications from Dec 1 (FMT).",
-          "soWhat": "The industry's first formal pushback is on the record with arrival data attached - watch whether Tourism Malaysia or the Home Ministry softens the implementation before Dec 1.",
-          "sources": [
-            {
-              "publisher": "FMT",
-              "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/26/reconsider-new-visa-requirement-for-indian-nationals-govt-told"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    }
-  ],
-  "sectorCoverage": {
-    "aiTelcoIct": "4 items: the Nvidia shipment freeze and Bursa sell-off, the tariff-response cluster (Miti's 19% line, China, Singapore), MDEC's GBS-agentic-AI framing, and Petra's DC-driven power-demand projection. MM's cybersecurity-priority and Johor-concession pieces were excerpt-thin and logged as seen.",
-    "propertyDevelopment": "6 items: Sime Darby Property's record 9M, PMCK-Chin Hin's two-hospital plan (watchlist flag), SkyWorld's near-triple, Tropicana's narrowed loss, KPKT's white-knight stamp-duty waivers, and E&O's Andaman-led 37% rise.",
-    "construction": "4 items: IJM's tripled profit, AWC's RM519.9m concession extension, Pekat's Port Dickson DC subcontracts, and Advancecon's 159% PBT jump.",
-    "propertyInvestment": "1 item (retail scope): IOI Properties' 1Q with core PBT +25%. The IOIPG REIT pricing defence was itemised 26 Nov and logged as a duplicate.",
-    "plantation": "1 item: LTAT's PAC-framed Boustead Plantations stake reduction with the Achi Jaya question noted headline-only.",
-    "capitalFinancing": "No verified in-window news within scope (licensed moneylending).",
-    "consumerFinancing": "No verified in-window news within scope (civil-servant financing).",
-    "cablesManufacturing": "1 item: Southern Cable's record 3Q (watchlist flag).",
-    "buildingMaterialsIbs": "1 item: Chin Hin's CHGP stake disposal (watchlist flag). Chin Hin's own 3Q results were filed at 6.29pm but no press carried numbers by cutoff - flagged in the watchlist notes.",
-    "hotels": "1 item: MAH's visa-reconsideration call with Indian-arrival data."
+ "date": "2026-11-27",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-11-27T07:21:49+08:00",
+  "2026-11-27T07:22:45+08:00",
+  "2026-11-27T07:23:17+08:00",
+  "2026-11-27T07:24:08+08:00",
+  "2026-11-27T07:24:32+08:00",
+  "2026-11-27T07:25:08+08:00",
+  "2026-11-27T07:25:20+08:00",
+  "2026-11-27T07:26:06+08:00",
+  "2026-11-27T07:26:28+08:00",
+  "2026-11-27T07:26:55+08:00",
+  "2026-11-27T07:27:03+08:00",
+  "2026-11-27T07:28:09+08:00"
+ ],
+ "publishedAt": "2026-11-27T07:32:00+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "Nvidia freezes AI-server shipments to Malaysia - the DC build-out's supply shock arrives",
+   "soWhat": "The FT-reported halt on servers containing Nvidia chips bound for Malaysia, Singapore, Thailand and Indonesia - with Dell and Supermicro notifying buyers - knocked as much as 24% off Bursa's DC-peripheral names. Whether it is a compliance pause or policy determines the near-term value of every Malaysian DC contract, including the power work (Petra's 49.8GW-by-2050 curve) and subcontracts like Pekat's.",
+   "sectorKeys": [
+    "aiTelcoIct",
+    "construction"
+   ],
+   "itemIds": [
+    "2026-11-27-ai-1",
+    "2026-11-27-ai-4",
+    "2026-11-27-con-3"
+   ]
   },
-  "generalCoverage": [
-    "Edition window: from the 26 Nov edition's verified cutoff (07:31:20 MYT 26 Nov) to 07:28 MYT (07:28:09, actual final recheck) (actual last check). The Edge was checked via the cloud browser: all 24 listing nodes (above 827341) resolved with created epochs via in-page fetch and every one was in-window; the homepage re-read at 07:28 showed nothing newer than node 827556. Bursa filings were captured via the KLSE Screener mirror at /v2/announcements: 240 filings dated 26 Nov across 8 pages down to about 5.59pm, with page 1 covering to 7.30pm. Filing bodies remain unreadable from the mirror, so press citations carry the results numbers.",
-    "Coverage is complete within the stated sources, period and sector scope - not exhaustive. The Malaysian Reserve stayed Cloudflare-terminal under the no-challenge-bypass rule. Bernama's feed failed to save on a third consecutive day. KiniBiz is stale since Sep 2026; Malaysiakini's feed fetched but parsed empty; Sinar Harian's listing is undated; MOF/MCMC are not statically extractable. The Star's RSS path 404s and EdgeProp's feed moved; both were swept via browser listings. NST's Boustead story is carried headline-only because its body would not render in browser or curl. NST, FMT, The Sun, Berita Harian and TNGlobal (WP API fallback; main feed 403) were fully scanned."
-  ],
-  "watchlistCoverage": [
-    "Southern Cable: 3Q2026 results itemised with numbers (Star) - net profit +26.5% to RM45.2m, revenue +58.2% to RM706.4m. FLAGGED as cab-1.",
-    "Chin Hin: two flags today - bm-1 (46.59m CHGP shares sold for RM50.79m, holding to 57.755%, via Star + the Chapter 10 filing) and pd-2 (Bernama names Chin Hin Group Bhd as PMCK's partner for the Kedah and Melaka hospitals; two MoU status-update filings corroborate). Separately, Chin Hin Group Bhd's own 3Q results were filed 6.29pm 26 Nov but no press carried numbers by cutoff - unverified, revisit next run. A routine share buyback was also filed.",
-    "GDB Holdings: no results filing in the captured 26 Nov mirror set and no press - the unverified-results flag from 25 Nov stands.",
-    "Crest Group: still no filing or press - the flag from 24 Nov stands.",
-    "Zetrix (chain watch): no new filing in the captured set; the sukuk-extension appeal outcome and the Dec 1 Macquarie injunction hearing remain the dated events.",
-    "OKA, Mastertec, Tuju Setia, Pesona Metro, TCS, Inta Bina, Nestcon, Kitacon: not named in any in-window article body."
-  ],
-  "sourceTally": [
+  {
+   "headline": "Miti draws the line at 19% on US tariffs",
+   "soWhat": "Malaysia will negotiate into 1Q2027 to cap total US tariffs at the agreed 19%, contesting Section 301 excess-capacity findings; China is threatening retaliation and Singapore is 'very disappointed'. The cap holds or breaks on those talks - semis and cables are the exposed exports.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-11-27-ai-2"
+   ]
+  },
+  {
+   "headline": "Property results day: recurring income is the story",
+   "soWhat": "Sime Darby Property's record 9M (NP +39.4%) is powered by DC and industrial investment assets; IOI Properties' core PBT rose 25% with RM2.46b unbilled sales and a Bridge Data Centres land sale completing this quarter; E&O grew 37% on Andaman with a megamall planned. KPKT's stamp-duty waivers add a white-knight incentive for abandoned projects.",
+   "sectorKeys": [
+    "propertyDevelopment",
+    "propertyInvestment"
+   ],
+   "itemIds": [
+    "2026-11-27-pd-1",
+    "2026-11-27-pi-1",
+    "2026-11-27-pd-6",
+    "2026-11-27-pd-5"
+   ]
+  },
+  {
+   "headline": "Watchlist in play: Southern Cable's record quarter; Chin Hin's busy evening",
+   "soWhat": "Southern Cable's 3Q profit rose 26.5% on 58% revenue growth from grid capex. Chin Hin Group Bhd sold a 3.36% CHGP stake for RM50.79m, was named by Bernama as PMCK's partner for two private hospitals (Kedah's RM376m PMC Alor Setar II first), and filed its 3Q results - numbers still unverified.",
+   "sectorKeys": [
+    "cablesManufacturing",
+    "buildingMaterialsIbs",
+    "propertyDevelopment"
+   ],
+   "itemIds": [
+    "2026-11-27-cab-1",
+    "2026-11-27-bm-1",
+    "2026-11-27-pd-2"
+   ]
+  },
+  {
+   "headline": "Contractors keep winning: IJM triples, AWC locks ten years, Pekat rides DC work",
+   "soWhat": "IJM's 2Q profit more than tripled on construction-led growth; AWC's RM519.9m concession extension secures a decade of federal FM revenue; Pekat's RM62.91m Port Dickson hyperscale-DC subcontracts show specialist fit-out work still flowing.",
+   "sectorKeys": [
+    "construction"
+   ],
+   "itemIds": [
+    "2026-11-27-con-1",
+    "2026-11-27-con-2",
+    "2026-11-27-con-3"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Nvidia freezes AI-server shipments to Malaysia and three neighbours as Washington tightens China curbs, rattling Bursa's DC trade; Miti draws the 19% tariff line; MDEC reframes GBS for agentic AI; Petra puts the DC-driven power-demand curve on record",
+   "items": [
     {
-      "source": "The Edge",
-      "scanned": 24,
-      "used": 7,
-      "status": "checked",
-      "note": "via cloud browser listings + in-page fetch",
-      "publishers": [
-        "The Edge"
-      ]
+     "id": "2026-11-27-ai-1",
+     "headline": "Nvidia halts AI-server shipments to Malaysia, Singapore, Thailand and Indonesia as US tightens China curbs - FT; data-centre-linked stocks fall as much as 24% on Bursa",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Nvidia has told manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand and Indonesia; OEMs including Dell Technologies and Supermicro have notified buyers across the four countries that pending hardware orders will not leave factory floors, people familiar with the matter told the Financial Times (via Malay Mail). It is unclear whether the freeze is temporary as manufacturers interpret Washington's updated compliance directives; the four nations had become prime destinations for Chinese AI developers renting offshore compute, and Nvidia booked US$104 billion of revenue through its Singapore subsidiary in 2025, up 72%. On Bursa, peripheral data-centre names fell as much as 24% as caution spread into construction and utility stocks - MN Holdings, which builds power facilities, was among those hit (The Edge).",
+     "soWhat": "The chip-control net has moved from blacklisting distributors to stopping server hardware at the factory gate. Every Malaysian DC project, power-infrastructure contractor and EMS name now carries shipment-freeze risk in its order book - watch for official clarification on whether this is a pause or a policy.",
+     "sources": [
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856"
+      },
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827439"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "Malay Mail",
-      "scanned": 61,
-      "used": 2,
-      "status": "checked",
-      "note": "feeds + browser bodies for the FT-Nvidia and MITI stories",
-      "publishers": [
-        "Malay Mail"
-      ]
+     "id": "2026-11-27-ai-2",
+     "headline": "Malaysia will negotiate with Washington until 1Q2027 to hold US tariffs at the agreed 19% - Miti; China threatens retaliation and Singapore voices disappointment as the tariff salvo widens",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Malaysia will keep negotiating with the US until the first quarter of 2027 to ensure overall tariffs on Malaysian goods do not exceed the agreed 19% rate, engaging the USTR on the Section 301 structural excess-capacity concerns behind the new 20-40% headline proposals, Investment, Trade and Industry Minister Johari Abdul Ghani said (Malay Mail). China threatened retaliation over the new duties (Malay Mail), Singapore said it was 'very disappointed' (FMT), and the Bank Negara-linked 2026 GDP projection of 5.0-5.5% came with a pledge to assess the tariff impact (The Star, folded context).",
+     "soWhat": "The 19% ceiling is now Malaysia's explicit negotiating line, with Section 301 excess-capacity findings the mechanism to watch - semis, cables and solar-adjacent manufacturers are the exposed sectors if talks fail.",
+     "sources": [
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/malaysia/2026/11/26/malaysia-wants-us-to-honour-19pc-tariff-deal-miti-says-as-fresh-duties-loom/244867"
+      },
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/money/2026/11/26/uneasy-truce-shattered-china-threatens-retaliation-over-trumps-aggressive-new-tariffs/244887"
+      },
+      {
+       "publisher": "FMT",
+       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/singapore-is-very-disappointed-by-trump-s-tariff-hike-plan"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "NST / Business Times",
-      "scanned": 50,
-      "used": 1,
-      "status": "checked",
-      "note": "Boustead carried headline-only (body not extractable)",
-      "publishers": [
-        "NST / Business Times"
-      ]
+     "id": "2026-11-27-ai-3",
+     "headline": "MDEC chairman: global business services must move beyond cost competitiveness as agentic AI reshapes operations",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Malaysia's GBS industry must shift from competing on labour cost and efficiency towards higher-value services as AI automates business processes, MDEC chairman Ganesh Kumar Bangah said at the GBS Global Awards 2026, noting AI agents could execute entire finance, procurement, HR and customer-service processes (The Edge).",
+     "soWhat": "A direct signal from the digital-economy agency that Malaysia's shared-services pitch is being repriced by agentic AI - GBS employers and the property landlords housing them face an automation-driven reset.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827442"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "FMT",
-      "scanned": 50,
-      "used": 2,
-      "status": "checked",
-      "note": "",
-      "publishers": [
-        "FMT"
-      ]
-    },
-    {
-      "source": "The Sun",
-      "scanned": 10,
-      "used": 0,
-      "status": "checked",
-      "note": "",
-      "publishers": [
-        "The Sun"
-      ]
-    },
-    {
-      "source": "Berita Harian",
-      "scanned": 50,
-      "used": 4,
-      "status": "checked",
-      "note": "bodies via browser; Advancecon via feed excerpt",
-      "publishers": [
-        "Berita Harian"
-      ]
-    },
-    {
-      "source": "TNGlobal",
-      "scanned": 17,
-      "used": 0,
-      "status": "checked",
-      "note": "WP API fallback; main feed 403",
-      "publishers": [
-        "TNGlobal"
-      ]
-    },
-    {
-      "source": "The Star",
-      "scanned": 36,
-      "used": 4,
-      "status": "checked",
-      "note": "browser listing sweep + curl bodies; RSS path 404s",
-      "publishers": [
-        "The Star"
-      ]
-    },
-    {
-      "source": "The Malaysian Reserve",
-      "scanned": 0,
-      "used": 0,
-      "status": "blocked",
-      "note": "Cloudflare-terminal per the no-solver rule",
-      "publishers": [
-        "The Malaysian Reserve"
-      ]
-    },
-    {
-      "source": "EdgeProp",
-      "scanned": 26,
-      "used": 4,
-      "status": "checked",
-      "note": "browser listing sweep; feed moved",
-      "publishers": [
-        "EdgeProp"
-      ]
-    },
-    {
-      "source": "Bursa announcements",
-      "scanned": 240,
-      "used": 2,
-      "status": "checked",
-      "note": "via KLSE Screener mirror /v2/announcements; bodies unreadable",
-      "publishers": [
-        "Bursa announcement (via KLSE Screener mirror)"
-      ]
+     "id": "2026-11-27-ai-4",
+     "headline": "Peninsular Malaysia's electricity demand will more than double to 49.8GW by 2050, with data centres a key driver - Petra",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Electricity demand in the peninsula is projected to rise from 22.6GW in 2027 to 49.8GW by 2050, a roughly 3.5% CAGR, the energy transition ministry (Petra) said, quoting the JPPPET committee; the projection explicitly accounts for data-centre growth, AI, EVs and energy-intensive industries, with the DC share of total demand rising (The Edge).",
+     "soWhat": "The official demand curve that underpins the DC build-out thesis - and the grid-connection queue - is now on record; power-capacity access remains the real bottleneck for new DC campuses even as chip supply tightens.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827552"
+      }
+     ],
+     "watchlistCompanyKeys": []
     }
-  ]
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "Sime Darby Property's record nine months on DC and industrial assets; PMCK-Chin Hin's two-hospital tie-up; E&O, SkyWorld up; Tropicana still loss-making; stamp-duty relief for white knights",
+   "items": [
+    {
+     "id": "2026-11-27-pd-1",
+     "headline": "Sime Darby Property posts record nine-month profit: net profit up 39.4% to RM599.7m on data-centre assets and investment properties",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Nine-month FY2026 net profit rose 39.4% to a record RM599.7 million, with PBT up 25.7% to a record RM828.2 million on RM3 billion revenue; operating profit grew 3.5% to RM748 million on higher recurring income, especially from data-centre assets and completed industrial investment properties in the IAM portfolio, while property development stayed the largest segment at RM2.7 billion revenue (Berita Harian).",
+     "soWhat": "Malaysia's biggest township developer is quietly becoming a recurring-income landlord: DC and industrial assets are now the profit engine, which is where the valuation re-rating case sits.",
+     "sources": [
+      {
+       "publisher": "Berita Harian",
+       "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731653/pusat-data-aset-pelaburan-pacu-keuntungan-sime-darby-property"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-pd-2",
+     "headline": "PMCK partners Chin Hin Group Bhd to build two private hospitals in Kedah and Melaka; first is the RM376m, 271-bed PMC Alor Setar II",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "PMCK Bhd is collaborating with Chin Hin Group Bhd to develop two private hospitals in Kedah and Melaka, PMCK executive director Lee Yong Qian said; the first, PMC Alor Setar II, carries RM376 million development cost on about 2.6 acres owned by PMCK's wholly-owned Unique Luxury Sdn Bhd, with 271 beds expandable beyond 300, and will be the group's third of four hospitals (Bernama via Berita Harian). Chin Hin Group Bhd filed two MoU status updates with Bursa the same evening (via the KLSE Screener mirror). The Melaka hospital SPV with Chin Hin Group Property was itemised on 25 Nov; today's Bernama report names the parent, Chin Hin Group Bhd, as the collaboration partner across both states.",
+     "soWhat": "The watchlist group's healthcare build-out now spans two states at RM376m for the Kedah flagship alone - watch the MoU-update filings for the equity split and whether Chin Hin's construction arm takes the EPC role.",
+     "sources": [
+      {
+       "publisher": "Berita Harian",
+       "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731850/pmck-chin-hin-bekerjasama-bangun-hospital-swasta-di-kedah-dan-melaka"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11711747"
+      }
+     ],
+     "watchlistCompanyKeys": [
+      "chinhin"
+     ]
+    },
+    {
+     "id": "2026-11-27-pd-3",
+     "headline": "SkyWorld's 2Q net profit nearly triples to RM21.78m on project progress and completed-home sales",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "2QFY2027 net profit jumped to RM21.78 million from RM7.93 million, with quarterly revenue more than doubling to RM188.03 million from RM86.68 million on stronger construction progress and finished-unit sales (bourse filing via The Edge).",
+     "soWhat": "The KL affordable-midmarket developer's lumpy recognition is swinging back up - completed-inventory monetisation is doing the heavy lifting.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827546"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-pd-4",
+     "headline": "Tropicana narrows its fifth straight quarterly loss to RM39.3m; nine-month revenue up 52.5% to RM1.55b, with RM5.5b of new developments planned",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "3QFY2026 net loss narrowed to RM39.3 million from RM65.16 million on lower tax and other expenses, though revenue fell 9.87% to RM380.74 million against a year-ago quarter that included RM93.8 million from a land divestment (The Edge; EdgeProp). Nine-month revenue rose 52.5% to RM1.55 billion on four land-parcel sales, vacant-possession deliveries and higher progress billings (EdgeProp), and the group plans RM5.5 billion of new developments (The Star, folded context).",
+     "soWhat": "Land sales are funding the balance-sheet repair while operating losses persist - five straight red quarters means the RM5.5b launch plan depends on sales velocity, not just landbank.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827549"
+      },
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918526/tropicana-corp%E2%80%99s-9-month-revenue-rises-525-rm155-bil"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-pd-5",
+     "headline": "KPKT offers full stamp-duty exemptions for white-knight developers and original purchasers of abandoned projects, targeting zero sick projects by 2030",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Full stamp-duty exemptions on transfer and loan instruments for rescuing developers/contractors and original purchasers of abandoned housing projects will run from Jan 1, 2027 to Dec 31, 2030 under Budget 2027, Housing and Local Government Minister Nga Kor Ming said at the Rehda Annual Dinner 2026; KPKT has revived or resolved 1,726 sick and abandoned projects to date (EdgeProp).",
+     "soWhat": "A cost break for rescue deals makes white-knight economics work - developers with turnaround capacity get a four-year window of fee-free restructuring on abandoned stock.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918518/stamp-duty-exemptions-rescuing-developers-original-purchasers-help-reduce-sick-housing-projects-zero-2030"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-pd-6",
+     "headline": "E&O's 2Q profit after tax rises 37% to RM76.1m on Andaman; group eyes a megamall on the Penang island",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "2QFY2027 PAT rose 37.1% to RM76.1 million, with revenue up 35.8% to RM277.6 million and PBT up 34.2% to RM95.4 million, largely from the Andaman Island development in Penang; first-half revenue grew 44.1% to RM559.1 million with the properties segment contributing 90.5% of revenue, and the group is looking to build a megamall on Andaman (EdgeProp).",
+     "soWhat": "Andaman is maturing from landbank into cash machine, and a megamall would add a recurring-income retail layer - the same playbook as the KL peers.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918522/eo%E2%80%99s-2q-profit-after-tax-rises-37-looks-build-megamall-andaman"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "IJM's profit triples; AWC locks a decade of federal FM work; Pekat wins hyperscale-DC subcontracts; Advancecon's quarry turns",
+   "items": [
+    {
+     "id": "2026-11-27-con-1",
+     "headline": "IJM's 2Q net profit more than triples to RM233.18m on construction-led growth; two sen dividend declared",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "2QFY2027 net profit jumped to RM233.18 million from RM65.78 million, with stronger contributions across all divisions - especially construction - plus higher net gains on investment-property disposals; revenue surged 42.7% to RM2.39 billion from RM1.67 billion (bourse filing via The Edge).",
+     "soWhat": "The big-cap builder is converting the up-cycle: construction margins plus disposal gains give IJM the cleanest large-cap exposure to the infra-and-DC tender pipeline.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827508"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-con-2",
+     "headline": "AWC secures a RM519.9m, 10-year extension of its federal-building maintenance concession for the southern zone",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "AWC's indirect wholly-owned Ambang Wira Selatan Sdn Bhd signed a public-private partnership agreement extending its concession to manage and maintain federal government buildings in the southern zone from Jan 1, 2027 to Dec 31, 2036, worth RM519.9 million (bourse filing via The Edge).",
+     "soWhat": "A decade of locked-in government FM revenue at a known price - facilities-management concessions remain one of the most defensive earnings streams in the sector.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827490"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-con-3",
+     "headline": "Pekat bags RM62.91m of earthing and lightning-protection subcontracts for a hyperscale data centre in Port Dickson",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Pekat's indirect wholly-owned Pekat E & LP Sdn Bhd won four subcontracts worth a combined RM62.91 million for earthing and lightning-protection systems at a hyperscale data centre in Port Dickson; the main contractor was undisclosed for confidentiality reasons, the jobs were executed on Nov 25 and run to completion between Jan 2028 and Jan 2029 (bourse filing via EdgeProp).",
+     "soWhat": "Specialist DC-fit-out work keeps flowing to listed subcontractors even as chip shipments freeze - the build-out already under contract continues; Port Dickson is emerging as a DC node beyond Cyberjaya-Johor.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918527/pekat-bags-rm63-mil-subcontract-jobs-hyperscale-data-centre-port-dickson"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-27-con-4",
+     "headline": "Advancecon's 3Q pre-tax profit jumps 159% to RM3.09m as its quarry segment returns to profit",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "3QFY2026 pre-tax profit rose 159.3% to RM3.09 million, supported by the quarry segment's return to profitability (Berita Harian, feed excerpt; results filed with Bursa at 6.55pm).",
+     "soWhat": "Small but telling: quarry profits recovering signals materials demand from the construction up-cycle is reaching the smallest listed players.",
+     "sources": [
+      {
+       "publisher": "Berita Harian",
+       "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731690/untung-sebelum-cukai-advancecon-melonjak-1593-peratus-pada-suku"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "propertyInvestment",
+   "theme": "IOI Properties' core profit rises 25% post-REIT listing, with a DC land sale still to complete",
+   "items": [
+    {
+     "id": "2026-11-27-pi-1",
+     "headline": "IOI Properties' 1Q revenue rises 16% to RM1.13b; core PBT up 25% once a prior South Beach revaluation is stripped out; unbilled sales near record at RM2.46b",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "1QFY2027 revenue grew 16% to RM1.13 billion on investment-property and hospitality-and-leisure growth; reported PBT fell 58% to RM313 million from RM753.6 million, but the year-ago quarter held a RM502.8 million South Beach revaluation gain - excluding exceptionals, core PBT rose 25%, helped by full-quarter contributions from the South Beach office tower and JW Marriott Singapore and better occupancy at IOI Central Boulevard Towers (Berita Harian). Unbilled sales stayed near record at RM2.46 billion, completed inventories fell RM129.8 million to RM1.04 billion, and the IOI Industrial Park Banting land sale to Bridge Data Centres remains on track to complete in 4Q2026 (The Star).",
+     "soWhat": "Post-REIT-listing, the parent is showing the underlying earnings the market was told to look at: core profit up 25%, recurring income growing, and a DC land sale still to land this quarter.",
+     "sources": [
+      {
+       "publisher": "Berita Harian",
+       "url": "https://www.bharian.com.my/bisnes/korporat/2026/11/1731700/untung-asas-ioi-properties-meningkat-meskipun-untung-sebelum-cukai"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/26/ioi-properties-upbeat-on-outlook-backed-by-healthy-unbilled-sales"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "LTAT justifies the Boustead Plantations stake cut on PAC grounds as the Achi Jaya bid draws political fire",
+   "items": [
+    {
+     "id": "2026-11-27-pla-1",
+     "headline": "LTAT frames its Boustead Plantations stake reduction (Project Earth) as PAC-aligned diversification; opposition questions Achi Jaya's bid",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "LTAT chief executive Datuk Mohammad Ashraf Md Radzi said the proposed Project Earth reduction of its Boustead Plantations stake follows Public Accounts Committee recommendations to diversify away from concentration in the Boustead Group, cut financing costs and deliver sustainable dividends (Bernama via The Star). Separately, the opposition leader questioned Achi Jaya's bid for Boustead Plantations (NST - headline facts only; body not extractable).",
+     "soWhat": "The BPlant take-private is being publicly justified on governance grounds while the buyer's credentials draw fire in the House - plantation assets changing hands under a PAC umbrella is still a political story as much as a corporate one.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/26/ltats-proposed-boustead-plantations-stake-reduction-aligns-with-pac-recommendations-strengthens-retirement-fund"
+      },
+      {
+       "publisher": "NST / Business Times",
+       "url": "https://www.nst.com.my/business/corporate/2026/11/1586547/opposition-leader-questions-achi-jayas-boustead-plantations-bid"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "capitalFinancing",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "cablesManufacturing",
+   "theme": "Southern Cable's record quarter on grid-capex demand",
+   "items": [
+    {
+     "id": "2026-11-27-cab-1",
+     "headline": "Southern Cable's 3Q net profit rises 26.5% to RM45.2m as revenue jumps 58% on domestic power-cable demand",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "3Q2026 net profit rose 26.5% to RM45.2 million from RM35.7 million, with revenue up 58.2% to RM706.4 million from RM446.5 million and EPS of 4.5 sen; domestic revenue surged 73.2% to RM658.9 million on power-cable and wire demand from the energy transition and power-infrastructure investment, and annual capacity reached 59,980km from 54,980km (The Star). Nine-month net profit rose 25.5% to RM118.9 million on revenue of RM1.67 billion, up 32.6%.",
+     "soWhat": "Watchlist name delivering exactly the thesis: grid capex from the energy transition is translating into volume and margin - capacity expansion is already being absorbed.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/26/southern-cable039s-3q-net-profit-rises-265-to-rm452mil"
+      }
+     ],
+     "watchlistCompanyKeys": [
+      "southerncable"
+     ]
+    }
+   ]
+  },
+  {
+   "sectorKey": "buildingMaterialsIbs",
+   "theme": "Chin Hin trims its CHGP stake to 57.76% for RM50.79m",
+   "items": [
+    {
+     "id": "2026-11-27-bm-1",
+     "headline": "Chin Hin Group Bhd sells a 3.36% stake in property unit CHGP for RM50.79m in off-market deals; holding drops to 57.76%",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "Chin Hin Group Bhd disposed of 46.59 million Chin Hin Group Property Bhd (CHGP) shares for RM50.79 million through off-market transactions between Jan 7 and Nov 25 at an average RM1.09 per share - 3.36% of CHGP's issued capital - cutting its holding to 57.755% from 61.119%; the group said the proceeds are for business activities (bourse filing via The Star; Chapter 10 transaction filing via the KLSE Screener mirror).",
+     "soWhat": "The watchlist parent is monetising slices of its separately-listed property arm while partnering PMCK on hospitals - capital recycling inside the group worth tracking for further stake cuts toward the 51% line.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/26/chin-hin-sells-336-stake-in-property-unit-for-rm5079mil"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11711751"
+      }
+     ],
+     "watchlistCompanyKeys": [
+      "chinhin"
+     ]
+    }
+   ]
+  },
+  {
+   "sectorKey": "hotels",
+   "theme": "Hoteliers push back on the India visa requirement with arrival data",
+   "items": [
+    {
+     "id": "2026-11-27-hotels-1",
+     "headline": "Hotel association urges Putrajaya to reconsider the India visa requirement, citing 1.57m Indian arrivals in 2025",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-26",
+     "detail": "The Malaysian Association of Hotels said 1.57 million Indian tourists visited in 2025, up 14.6%, with 738,000 more in 1H2026, and president Christina Toh cautioned that the extra planning step may push Indian travellers - spanning leisure, religious travel, weddings and corporate events - to easier-entry destinations; the visa requirement takes effect Jan 1, 2027 with MyVISA applications from Dec 1 (FMT).",
+     "soWhat": "The industry's first formal pushback is on the record with arrival data attached - watch whether Tourism Malaysia or the Home Ministry softens the implementation before Dec 1.",
+     "sources": [
+      {
+       "publisher": "FMT",
+       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/26/reconsider-new-visa-requirement-for-indian-nationals-govt-told"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "4 items: the Nvidia shipment freeze and Bursa sell-off, the tariff-response cluster (Miti's 19% line, China, Singapore), MDEC's GBS-agentic-AI framing, and Petra's DC-driven power-demand projection. MM's cybersecurity-priority and Johor-concession pieces were excerpt-thin and logged as seen.",
+  "propertyDevelopment": "6 items: Sime Darby Property's record 9M, PMCK-Chin Hin's two-hospital plan (watchlist flag), SkyWorld's near-triple, Tropicana's narrowed loss, KPKT's white-knight stamp-duty waivers, and E&O's Andaman-led 37% rise.",
+  "construction": "4 items: IJM's tripled profit, AWC's RM519.9m concession extension, Pekat's Port Dickson DC subcontracts, and Advancecon's 159% PBT jump.",
+  "propertyInvestment": "1 item (retail scope): IOI Properties' 1Q with core PBT +25%. The IOIPG REIT pricing defence was itemised 26 Nov and logged as a duplicate.",
+  "plantation": "1 item: LTAT's PAC-framed Boustead Plantations stake reduction with the Achi Jaya question noted headline-only.",
+  "capitalFinancing": "No verified in-window news within scope (licensed moneylending).",
+  "consumerFinancing": "No verified in-window news within scope (civil-servant financing).",
+  "cablesManufacturing": "1 item: Southern Cable's record 3Q (watchlist flag).",
+  "buildingMaterialsIbs": "1 item: Chin Hin's CHGP stake disposal (watchlist flag). Chin Hin's own 3Q results were filed at 6.29pm but no press carried numbers by cutoff - flagged in the watchlist notes.",
+  "hotels": "1 item: MAH's visa-reconsideration call with Indian-arrival data."
+ },
+ "generalCoverage": [
+  "Edition window: from the 26 Nov edition's verified cutoff (07:31:20 MYT 26 Nov) to 07:28 MYT (07:28:09, actual final recheck) (actual last check). The Edge was checked via the cloud browser: all 24 listing nodes (above 827341) resolved with created epochs via in-page fetch and every one was in-window; the homepage re-read at 07:28 showed nothing newer than node 827556. Bursa filings were captured via the KLSE Screener mirror at /v2/announcements: 240 filings dated 26 Nov across 8 pages down to about 5.59pm, with page 1 covering to 7.30pm. Filing bodies remain unreadable from the mirror, so press citations carry the results numbers.",
+  "Coverage is complete within the stated sources, period and sector scope - not exhaustive. The Malaysian Reserve stayed Cloudflare-terminal under the no-challenge-bypass rule. Bernama's feed failed to save on a third consecutive day. KiniBiz is stale since Sep 2026; Malaysiakini's feed fetched but parsed empty; Sinar Harian's listing is undated; MOF/MCMC are not statically extractable. The Star's RSS path 404s and EdgeProp's feed moved; both were swept via browser listings. NST's Boustead story is carried headline-only because its body would not render in browser or curl. NST, FMT, The Sun, Berita Harian and TNGlobal (WP API fallback; main feed 403) were fully scanned."
+ ],
+ "watchlistCoverage": [
+  "Southern Cable: 3Q2026 results itemised with numbers (Star) - net profit +26.5% to RM45.2m, revenue +58.2% to RM706.4m. FLAGGED as cab-1.",
+  "Chin Hin: two flags today - bm-1 (46.59m CHGP shares sold for RM50.79m, holding to 57.755%, via Star + the Chapter 10 filing) and pd-2 (Bernama names Chin Hin Group Bhd as PMCK's partner for the Kedah and Melaka hospitals; two MoU status-update filings corroborate). Separately, Chin Hin Group Bhd's own 3Q results were filed 6.29pm 26 Nov but no press carried numbers by cutoff - unverified, revisit next run. A routine share buyback was also filed.",
+  "GDB Holdings: no results filing in the captured 26 Nov mirror set and no press - the unverified-results flag from 25 Nov stands.",
+  "Crest Group: still no filing or press - the flag from 24 Nov stands.",
+  "Zetrix (chain watch): no new filing in the captured set; the sukuk-extension appeal outcome and the Dec 1 Macquarie injunction hearing remain the dated events.",
+  "OKA, Mastertec, Tuju Setia, Pesona Metro, TCS, Inta Bina, Nestcon, Kitacon: not named in any in-window article body."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 24,
+   "used": 7,
+   "status": "checked",
+   "note": "via cloud browser listings + in-page fetch",
+   "publishers": [
+    "The Edge"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 61,
+   "used": 2,
+   "status": "checked",
+   "note": "feeds + browser bodies for the FT-Nvidia and MITI stories",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 50,
+   "used": 1,
+   "status": "checked",
+   "note": "Boustead carried headline-only (body not extractable)",
+   "publishers": [
+    "NST / Business Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 2,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "Berita Harian",
+   "scanned": 50,
+   "used": 4,
+   "status": "checked",
+   "note": "bodies via browser; Advancecon via feed excerpt",
+   "publishers": [
+    "Berita Harian"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 17,
+   "used": 0,
+   "status": "checked",
+   "note": "WP API fallback; main feed 403",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 36,
+   "used": 4,
+   "status": "checked",
+   "note": "browser listing sweep + curl bodies; RSS path 404s",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "Cloudflare-terminal per the no-solver rule",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 26,
+   "used": 4,
+   "status": "checked",
+   "note": "browser listing sweep; feed moved",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 240,
+   "used": 2,
+   "status": "checked",
+   "note": "via KLSE Screener mirror /v2/announcements; bodies unreadable",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
 }
