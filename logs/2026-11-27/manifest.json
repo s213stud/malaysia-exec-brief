@@ -1,0 +1,17 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "Berita Harian",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. 19 items, 3 watchlist flags (Southern Cable 3Q results; Chin Hin Group Bhd CHGP stake disposal; Chin Hin Group Bhd named as PMCK's two-hospital partner). TMR Cloudflare-terminal; Bernama fetch failed a third day; KiniBiz stale; Malaysiakini feed parsed empty. Star RSS and EdgeProp feed moved - browser sweeps used. KLSE Screener at /v2/announcements; Chin Hin 3Q results filed but numbers unverified (no press by cutoff). NST Boustead piece carried headline-only with attribution. GDB and Crest flags stand. Window from the 26 Nov verified cutoff 07:31:20 MYT to the final recheck (actual time in checkedAt)."
+}
