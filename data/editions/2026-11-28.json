@@ -1,551 +1,551 @@
 {
-  "date": "2026-11-28",
-  "status": "published",
-  "demo": false,
-  "checkedAt": [
-    "2026-11-28T07:21:10+08:00",
-    "2026-11-28T07:21:18+08:00",
-    "2026-11-28T07:21:51+08:00",
-    "2026-11-28T07:22:32+08:00",
-    "2026-11-28T07:24:29+08:00",
-    "2026-11-28T07:25:00+08:00",
-    "2026-11-28T07:26:12+08:00",
-    "2026-11-28T07:26:24+08:00",
-    "2026-11-28T07:27:40+08:00",
-    "2026-11-28T07:28:17+08:00",
-    "2026-11-28T07:28:58+08:00",
-    "2026-11-28T07:29:17+08:00"
-  ],
-  "publishedAt": "2026-11-28T07:40:00+08:00",
-  "keyTakeaways": [
-    {
-      "headline": "The chip-curb net closes on Malaysia - and Putrajaya is ring-fencing everyone else",
-      "soWhat": "After the FT-reported Nvidia shipment halt, Washington blacklisted several Malaysian companies and the Cabinet has instructed all Malaysian firms to avoid them; Bloomberg shows Blackwell racks already surfacing (and being financed against) in Shanghai. Banks carrying RM30 billion of Johor DC financing now hold compliance risk alongside credit risk.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-11-28-ai-1",
-        "2026-11-28-ai-2"
-      ]
-    },
-    {
-      "headline": "Zetrix sukuk losses start crystallising in third-party portfolios",
-      "soWhat": "Bintulu Port expects a RM147.9m 4Q paper loss from AmanahRaya unit trusts that wrote off Zetrix AI sukuk, and is reserving recovery action - three days before the Dec 1 Macquarie injunction hearing. The remediation failure is now visible in listed-company earnings.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-11-28-ai-3"
-      ]
-    },
-    {
-      "headline": "Telco results day: Axiata back in black, TIME compounds through succession, Reach Ten banks on Starlink",
-      "soWhat": "Axiata's 3Q profit returned (RM35.7m), TIME grew 8.3% while founder Afzal completes his handover to CEO Loh Jenkim, and Reach Ten's flat recurring core puts its 1,200-kit Sarawak election deployment and Jendela 2 tender in focus. TM, meanwhile, is moving up-stack into sovereign robotics with AGIBOT.",
-      "sectorKeys": [
-        "aiTelcoIct"
-      ],
-      "itemIds": [
-        "2026-11-28-ai-5",
-        "2026-11-28-ai-6",
-        "2026-11-28-ai-7",
-        "2026-11-28-ai-4"
-      ]
-    },
-    {
-      "headline": "The DC boom meets resource and regulatory reality",
-      "soWhat": "Johor approved only 21 of 73 MLD of water sought by 19 data centres; a Star analysis flags that DCs escape the EIA regime entirely; and the JS-SEZ master plan slipped to early 2027. Scarcity pricing for water, power and permits is now the binding constraint on the build-out.",
-      "sectorKeys": [
-        "aiTelcoIct",
-        "propertyDevelopment"
-      ],
-      "itemIds": [
-        "2026-11-28-ai-9",
-        "2026-11-28-pd-4"
-      ]
-    },
-    {
-      "headline": "Property: OSK steady, Matrix at record sales, AME shows the DC-land base effect",
-      "soWhat": "OSK's 3Q profit edged up to RM157m on property and cable gains; Matrix posted record half-year sales (RM797.6m) with RM1.4b unbilled; AME's 71% profit fall is mostly last year's RM209.8m DC land sale washing out. Exsim Hospitality's order book tripled to RM506m.",
-      "sectorKeys": [
-        "propertyDevelopment",
-        "hotels"
-      ],
-      "itemIds": [
-        "2026-11-28-pd-1",
-        "2026-11-28-pd-2",
-        "2026-11-28-pd-3",
-        "2026-11-28-hotels-1"
-      ]
-    }
-  ],
-  "sectors": [
-    {
-      "sectorKey": "aiTelcoIct",
-      "theme": "Chip-curb containment reaches Malaysian soil: a Cabinet instruction to shun US-blacklisted firms, Blackwells surfacing in Shanghai, and Zetrix-sukuk losses crystallising at Bintulu Port; telco results day (Axiata, TIME, Reach Ten), TM's robotics play, MCMC serves Google, Johor caps DC water, and the e-Commerce Bill",
-      "items": [
-        {
-          "id": "2026-11-28-ai-1",
-          "headline": "Malaysian companies instructed to avoid business with US-blacklisted firms over the Nvidia chip issue and Megaspeed, Cabinet told",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Companies in Malaysia have been instructed not to do business with firms blacklisted by the US over the Nvidia chip issue and Megaspeed International, to avoid complications in business and trade, government spokesperson Fahmi Fadzil said; Miti Minister Johari Abdul Ghani conveyed the instruction at Friday's Cabinet meeting after Washington announced that several companies in Malaysia had been blacklisted (The Edge; Malay Mail). The order follows the FT-reported halt of Nvidia AI-server shipments to Malaysia and three neighbours (itemised 27 Nov). Context: a Star analysis notes Malaysian banks are significant DC financiers - including a RM2.5 billion share of a RM15 billion green financing package for a Johor-Singapore SEZ data-centre platform plus participation in a further RM15 billion facility - so the controls now carry domestic credit and compliance risk.",
-          "soWhat": "The blacklist has landed on Malaysian entities and Putrajaya is ring-fencing the rest of the economy from them - counterparties, banks and DC contractors must now screen every chip-linked relationship, and syndicated DC loans carry a new compliance overlay.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827669"
-            },
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/malaysia/2026/11/27/no-deals-with-us-blacklisted-firms-malaysian-companies-told-after-cabinet-briefing-on-chip-curbs/245012"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-2",
-          "headline": "Nvidia's Blackwell chips turn up at a Shanghai data centre tied to Alice Huang - used as loan collateral, Bloomberg reports",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Two Chinese firms installed Nvidia Blackwell semiconductors in a Shanghai data centre linked to Alice Huang, including a GB300 NVL72 rack - among Nvidia's most powerful products - identified by serial number in documents submitted to Chinese regulators in November; Shanghai Shuoyao offered the hardware as collateral for a 96 million yuan (about RM59 million) loan from Shanghai Innovation Bank, according to lender filings reviewed by Bloomberg News, and a second firm, Shanghai Kezhan, described a GB200 server at the same facility (Bloomberg via The Edge).",
-          "soWhat": "Evidence that top-tier Blackwell hardware is surfacing inside China despite export controls - and being financed against - keeps enforcement pressure on the Southeast Asian transit hubs, Malaysia included.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827709"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-3",
-          "headline": "Bintulu Port flags a RM147.9m paper loss from unit trusts that wrote off Zetrix AI sukuk; 3Q net profit halves to RM15.87m",
-          "verdict": "Negative",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Bintulu Port estimates a RM147.91 million paper loss in 4Q2026 from its investments in the AmanahRaya Syariah Trust Fund and AmanahRaya Syariah Income Fund, both of which wrote off sukuk issued by Zetrix AI, subject to final fund valuation; the group said it will pursue all recovery avenues, including action against the funds (bourse filing via The Edge and the KLSE Screener mirror). Its 3Q2026 net profit fell 50.8% to RM15.87 million on higher operating costs, with revenue up 7.6% to RM219.88 million and a 4 sen third interim dividend declared (The Star). For the Zetrix chain: the sukuk write-off is now crystallising losses in third-party portfolios ahead of the Dec 1 Macquarie injunction hearing.",
-          "soWhat": "The Zetrix sukuk remediation failure is no longer contained to the issuer - unit-trust investors are writing it off and threatening recovery action, and the contagion is showing up in listed-company results.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827711"
-            },
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/27/bintulu-ports-3q-net-profit-halves-declares-4-sen-dividend"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11712979"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-4",
-          "headline": "TM ventures into advanced robotics as AGIBOT's exclusive sovereign platform partner in Malaysia",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Telekom Malaysia is developing and commercialising robotics solutions through separate collaborations with AGIBOT and Swancor Advanced Material; TM will serve as AGIBOT's exclusive sovereign advanced robotics platform provider in Malaysia, hosted on TM Cloud Alpha Edge and supported by its AI Foundry, with enterprise use cases including autonomous mobile robots extending TM One's Vision AI to patrolling and maintenance, plus data-centre applications (The Star).",
-          "soWhat": "TM is moving up the AI value chain from connectivity and DCs into sovereign robotics-as-a-platform - a new recurring-revenue line that also feeds its cloud and AI Foundry utilisation.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/27/tm-partners-agibot-swancor-to-drive-robotics-adoption-in-malaysia"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-5",
-          "headline": "Axiata returns to the black in 3Q with a RM35.72m net profit as revenue rises 6.6%",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Axiata posted a 3QFY2026 net profit of RM35.72 million versus a RM27.35 million loss a year earlier, on higher revenue (up 6.6% to RM3.11 billion), improved associate earnings and lower financing costs, despite a larger impairment at Indonesian broadband unit Link Net; ringgit appreciation moderated revenue growth (bourse filing via The Edge).",
-          "soWhat": "The regional telco's repair story is holding - profitability restored even while Link Net still burns, keeping the focus on portfolio simplification and tower/fibre monetisation.",
-          "sources": [
-            {
-              "publisher": "The Edge",
-              "url": "https://theedgemalaysia.com/node/827623"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-6",
-          "headline": "TIME dotCom's 3Q net profit rises 8.3% to RM114.96m; founder Afzal relinquishes all executive roles on Dec 31",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "TIME dotCom's 3Q2026 net profit rose 8.3% to RM114.96 million, with revenue up 10% to RM499.28 million and EPS of 6.22 sen (The Star). Executive vice-chairman Afzal Abdul Rahim will relinquish all executive responsibilities and be redesignated non-executive vice-chairman effective Dec 31, completing the leadership transition to group CEO Loh Jenkim; Afzal holds 186.57 million shares directly and 189.91 million indirectly, and Datuk Zainal Amanshah was redesignated senior adviser to the group CEO (The Star; bourse filings via the KLSE Screener mirror).",
-          "soWhat": "A clean founder handover with the numbers still compounding - the succession question that hung over TIME is resolved while double-digit revenue growth continues.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/27/time-dotcoms-afzal-to-relinquish-all-executive-responsibilities"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-7",
-          "headline": "Reach Ten's 3Q profit falls 56% on SpaceX investment mark-to-market, but revenue jumps 85%; 1,200 Starlink kits for Sarawak polls",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Reach Ten's 3Q2026 net profit fell 56% to RM4.07 million, mainly on an unrealised RM1.69 million fair-value loss on its SpaceX investment and short-term investment losses; revenue surged 85% to RM52.21 million including RM32.67 million of one-off internet-facility upgrades at higher-learning institutions, while recurring revenue was RM16.59 million, flat against the preceding quarter (The Star). The Sarawak-based telco will deploy over 1,200 Starlink kits at state polling centres for the coming election and has tendered under MCMC's Jendela Phase 2 for satellite connectivity in remote areas.",
-          "soWhat": "Strip the one-offs and the core fibre-plus-Starlink recurring base is flat - the Sarawak election deployment and Jendela 2 tender are the near-term catalysts that decide whether the satellite bet scales.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/27/reach-ten-expects-stronger-recurring-revenue-from-fibre-starlink-deployments"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-8",
-          "headline": "MCMC's RM600m lawsuits served on Google's Malaysian lawyers; Anwar says Google's investments are unaffected after call with Alphabet's Ruth Porat",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "MCMC's two lawsuits against Google, announced Nov 25 and seeking RM600 million in total damages (RM300 million each: general, aggravated and exemplary), have been served on Google's lawyers in Malaysia - the commission's first suit against Google after earlier action against Telegram, Communications Ministry deputy secretary-general Teo Nie Ching said; MCMC submitted 74,703 reports to YouTube between Jan 1 and Oct 28, of which 99.8% concerned online gambling (Bernama via Malay Mail). Prime Minister Anwar Ibrahim said he spoke directly with Alphabet and Google president and chief investment officer Ruth Porat, who committed to cooperate on regulatory compliance and online-gambling content, and that Google's multi-billion-ringgit investment commitments are unaffected (The Star).",
-          "soWhat": "Putrajaya is suing Google for RM600m while the PM personally protects the investment relationship - the dual track tells tech investors enforcement and incentives now run in parallel.",
-          "sources": [
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/malaysia/2026/11/27/mcmc-serves-google-in-rm600m-lawsuit-says-youtube-failed-to-curb-harmful-content/244961"
-            },
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/27/google039s-proposed-multi-billion-ringgit-investments-in-malaysia-not-affected-by-mcmc039s-legal-action---anwar"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-9",
-          "headline": "Johor reins in data-centre water allocations: 21 MLD approved for 19 centres against 73 MLD sought",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Johor has approved 21 million litres per day of treated water for 19 operating data centres versus initial applications totalling 73 MLD - about 1.05% of the state's average treated-water production of 2,034 MLD - Menteri Besar Onn Hafiz Ghazi said, stressing every application passes technical evaluation by the state DC development coordination committee and that water security, energy sufficiency and environmental sustainability 'cannot be compromised' (Malay Mail). Context: a Star analysis notes DCs are not a prescribed activity under the Environmental Quality Act's EIA order, so environmental scrutiny depends on how a project is packaged.",
-          "soWhat": "The resource ceiling on Johor's DC boom is now explicit and quantified - approvals will ration water (and by extension power), favouring efficient operators and pushing marginal projects out of the queue.",
-          "sources": [
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/malaysia/2026/11/27/johor-mb-state-reins-in-data-centre-water-allocations-approves-21-mld-of-73-mld-sought/245008"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-10",
-          "headline": "MDEC appoints former MyDigital chief Adrian Marcellus as CEO to drive the AI Nation 2030 agenda",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "MDEC named Adrian Marcellus CEO to accelerate the digital economy and Malaysia's aspiration of becoming an AI Nation by 2030; he previously led MyDigital Corporation and MYCentre4IR, where he helped develop the Malaysia Digital Action Plan 2030, incubate the Government Nucleus Unit (now GovTech) and the National AI Office (Malay Mail). Chairman Ganesh Kumar Bangah cited his national digital-transformation experience.",
-          "soWhat": "A continuity appointment that ties MDEC directly to the AI Nation delivery machinery - watch how quickly the agency converts DC and AI investments into productivity and high-value jobs metrics.",
-          "sources": [
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/money/2026/11/27/mdec-appoints-former-mydigital-chief-adrian-marcellus-as-ceo/245031"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-ai-11",
-          "headline": "e-Commerce Bill to target algorithmic manipulation and discriminatory pricing, KPDN tells Parliament",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "The domestic trade ministry (KPDN) is finalising an e-Commerce Bill to strengthen platform accountability and protect consumers from algorithmic manipulation and discriminatory pricing, requiring platforms to clearly disclose pricing information affecting purchasing decisions; algorithms and dynamic pricing are not offences in themselves, but misleading or manipulative practices and unjustified price discrimination raise consumer-protection issues, the ministry said in a written Dewan Rakyat reply to Dr V. Sivakumar (Malay Mail).",
-          "soWhat": "Platform pricing and ranking practices are heading for statutory disclosure rules - e-commerce, travel and delivery platforms operating in Malaysia should model compliance costs now.",
-          "sources": [
-            {
-              "publisher": "Malay Mail",
-              "url": "https://www.malaymail.com/news/malaysia/2026/11/27/putrajaya-targets-algorithmic-manipulation-and-unfair-pricing-in-new-e-commerce-bill/244960"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "propertyDevelopment",
-      "theme": "OSK's steady quarter on property and cables; Matrix's record sales; AME's DC-land-sale base effect; JS-SEZ slips to early 2027",
-      "items": [
-        {
-          "id": "2026-11-28-pd-1",
-          "headline": "OSK Holdings' 3Q net profit edges up to RM157m on property and cable gains",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "OSK Holdings' 3Q2026 net profit edged up to RM157 million, lifted by contributions from its property and cables divisions (NST - headline facts only; body not extractable). The quarterly report was filed with Bursa at 12.48pm Friday, alongside a separate provision-of-financial-assistance announcement (via the KLSE Screener mirror).",
-          "soWhat": "Steady compounding from the property-plus-cables combination - the cable division keeps riding the same grid-capex cycle that drove Southern Cable's record quarter.",
-          "sources": [
-            {
-              "publisher": "NST / Business Times",
-              "url": "https://www.nst.com.my/property/2026/11/1587213/osks-q3-net-profit-edges-rm157mil-property-cable-gains"
-            },
-            {
-              "publisher": "Bursa announcement (via KLSE Screener mirror)",
-              "url": "https://www.klsescreener.com/v2/announcements/view/11712113"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-pd-2",
-          "headline": "Matrix Concepts posts record RM797.6m first-half new sales; unbilled sales at RM1.4b",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Matrix Concepts recorded its highest-ever 1HFY2027 new property sales of RM797.6 million, with half-year revenue up 4.6% to RM711.5 million; 2Q revenue was flat at RM396.0 million with 2Q PAT of RM62.7 million versus RM68.7 million on product mix and higher finance costs from pipeline investment (EdgeProp). Unbilled sales stood at RM1.4 billion (12-15 months of visibility), and a second interim dividend of 1.55 sen (ex Dec 18) takes 1H payouts to 2.95 sen, a 44.7% payout ratio.",
-          "soWhat": "The Seremban township model keeps selling through the cycle - record sales plus a 45% payout make Matrix the defensive mid-cap counterweight to the DC-land developers.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918545/matrix-concepts-secures-rm7976-mil-1h27-new-sales-revenue-grows-46-rm7115-mil"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-pd-3",
-          "headline": "AME Elite's 2Q net profit falls 71% without last year's RM209.8m data-centre land sale",
-          "verdict": "Negative",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "AME Elite's 2QFY2027 net profit fell 71% to RM41.73 million, with revenue down 48.5% to RM232.42 million, as the year-ago quarter included a RM209.8 million industrial land sale to a data-centre operator (nearly half of that quarter's revenue) plus RM15 million of fair-value gains from selling two industrial properties to AME REIT; property-development revenue fell 79.3% to RM79.4 million on lower progress recognition (bourse filing via EdgeProp). An interim dividend of 4.2 sen was declared.",
-          "soWhat": "A clean illustration of how lumpy DC land sales distort industrial developers' base effects - underlying park development is still earning, but quarterly comparatives will whipsaw until recognition normalises.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918546/ame-elite-consortium-2q-net-profit-falls-71-amid-lower-property-development-revenue-absence-big-land-sale"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        },
-        {
-          "id": "2026-11-28-pd-4",
-          "headline": "JS-SEZ master plan launch pushed to early 2027 as Malaysia and Singapore finalise details; Retreat next week",
-          "verdict": "Watch",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "The Johor-Singapore Special Economic Zone master plan launch has been pushed to early 2027 with both governments in final coordination, Economy Minister Akmal Nasrullah Mohd Nasir said; the completed, Cabinet-approved documents had been targeted for 4Q2026 and are expected to feature at next week's Malaysia-Singapore Annual Leaders' Retreat (EdgeProp). Johor Menteri Besar Onn Hafiz Ghazi has criticised the repeated postponements, warning delays could undermine investor confidence.",
-          "soWhat": "Another slip for the region's flagship investment framework - Johor DC and industrial projects banking on SEZ incentives should not underwrite them before the master plan is public.",
-          "sources": [
-            {
-              "publisher": "EdgeProp",
-              "url": "https://www.edgeprop.my/content/1918539/js-sez-master-plan-launch-pushed-early-2027-malaysia-singapore-finalise-details"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    },
-    {
-      "sectorKey": "construction",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "propertyInvestment",
-      "theme": "No verified in-window retail-property news",
-      "items": []
-    },
-    {
-      "sectorKey": "plantation",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "capitalFinancing",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "consumerFinancing",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "cablesManufacturing",
-      "theme": "No standalone item; OSK's cable division gains noted within its results item",
-      "items": []
-    },
-    {
-      "sectorKey": "buildingMaterialsIbs",
-      "theme": "No verified in-window news within scope",
-      "items": []
-    },
-    {
-      "sectorKey": "hotels",
-      "theme": "Exsim Hospitality's profit jump on fit-out orders and operator growth",
-      "items": [
-        {
-          "id": "2026-11-28-hotels-1",
-          "headline": "Exsim Hospitality's 1Q net profit jumps 62.7% to RM13.32m; order book swells to RM506m",
-          "verdict": "Positive",
-          "freshness": "current",
-          "publishedDate": "2026-11-27",
-          "detail": "Exsim Hospitality's 1Q2026 net profit rose 62.7% to RM13.32 million, with revenue more than tripling to RM170.54 million; the fit-out segment (Exsim Concepto) grew revenue 184.7% to RM145.66 million on nine new contracts, lifting the outstanding order book to RM506.14 million from RM155.36 million a year earlier, while the hospitality-operator segment's revenue surged to RM24.29 million from RM2.11 million (The Star).",
-          "soWhat": "The hospitality build-and-operate model is converting: the fit-out order book gives two-plus years of revenue cover while the operator segment starts contributing meaningfully.",
-          "sources": [
-            {
-              "publisher": "The Star",
-              "url": "https://www.thestar.com.my/business/business-news/2026/11/27/exsim-hospitalitys-1q-net-profit-jumps-627-to-rm1332mil"
-            }
-          ],
-          "watchlistCompanyKeys": []
-        }
-      ]
-    }
-  ],
-  "sectorCoverage": {
-    "aiTelcoIct": "11 items: the Cabinet blacklisting instruction, Bloomberg's Blackwell-Shanghai finding, Bintulu Port's Zetrix-sukuk loss, TM-AGIBOT robotics, Axiata, TIME, Reach Ten, MCMC-Google, Johor DC water, MDEC's new CEO and the e-Commerce Bill. Fahmi's blacklist remarks corroborated across Edge and MM; two unsigned Star DC analyses (EIA gap, bank credit risk) read and folded as context, not itemised.",
-    "propertyDevelopment": "4 items: OSK 3Q (NST headline-only with filing corroboration), Matrix Concepts, AME Elite and the JS-SEZ postponement. Kumpulan Jetson's RM12m stake purchase read and logged below materiality.",
-    "construction": "No verified in-window items. Econpile's quarterly results were filed (6.08pm) with no press coverage by cutoff - numbers unverified, logged.",
-    "propertyInvestment": "No verified in-window retail-scope items (AmanahRaya REIT results and Penang office-occupancy data are outside the retail-only scope; both logged).",
-    "plantation": "No verified items. A maritime expert's call for MPOB commingling rules was read and logged as attributed expert remarks; PLS Plantations results were filed with no press by cutoff.",
-    "capitalFinancing": "No verified in-window news within scope (licensed moneylending).",
-    "consumerFinancing": "No verified in-window news within scope (civil-servant financing; the Perlis RM1,500 special aid is a handout, not financing - logged).",
-    "cablesManufacturing": "No standalone item. OSK's cable-division gains are noted in its results item; a substantial-shareholder notice at Southern Cable was filed 5.48pm (body unreadable) - see watchlist notes.",
-    "buildingMaterialsIbs": "No verified in-window news within scope.",
-    "hotels": "1 item: Exsim Hospitality's 1Q. Avillion's quarterly results were filed 6.38pm with no press by cutoff - numbers unverified, logged."
+ "date": "2026-11-28",
+ "status": "published",
+ "demo": false,
+ "checkedAt": [
+  "2026-11-28T07:21:10+08:00",
+  "2026-11-28T07:21:18+08:00",
+  "2026-11-28T07:21:51+08:00",
+  "2026-11-28T07:22:32+08:00",
+  "2026-11-28T07:24:29+08:00",
+  "2026-11-28T07:25:00+08:00",
+  "2026-11-28T07:26:12+08:00",
+  "2026-11-28T07:26:24+08:00",
+  "2026-11-28T07:27:40+08:00",
+  "2026-11-28T07:28:17+08:00",
+  "2026-11-28T07:28:58+08:00",
+  "2026-11-28T07:29:17+08:00"
+ ],
+ "publishedAt": "2026-11-28T07:33:40+08:00",
+ "keyTakeaways": [
+  {
+   "headline": "The chip-curb net closes on Malaysia - and Putrajaya is ring-fencing everyone else",
+   "soWhat": "After the FT-reported Nvidia shipment halt, Washington blacklisted several Malaysian companies and the Cabinet has instructed all Malaysian firms to avoid them; Bloomberg shows Blackwell racks already surfacing (and being financed against) in Shanghai. Banks carrying RM30 billion of Johor DC financing now hold compliance risk alongside credit risk.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-11-28-ai-1",
+    "2026-11-28-ai-2"
+   ]
   },
-  "generalCoverage": [
-    "Edition window: from the 27 Nov edition's verified cutoff (07:28:09 MYT 27 Nov) to 07:29 MYT (07:29:17, actual final recheck) (actual last check). The Edge was checked via the cloud browser: all 21 listing nodes above 827556 resolved with created epochs via in-page fetch, all in-window; the homepage re-read at 07:29 showed nothing newer than node 827733. Bursa filings were captured via the KLSE Screener mirror at /v2/announcements: 792 filings dated 27 Nov across 27 pages down into the 26 Nov overlap. Filing bodies remain unreadable from the mirror, so press citations carry the results numbers.",
-    "Coverage is complete within the stated sources, period and sector scope - not exhaustive. The Malaysian Reserve stayed Cloudflare-terminal under the no-challenge-bypass rule. Bernama's feed failed to save on a fourth consecutive day; Bernama content still reached coverage via Malay Mail/BH/Star rewrites. KiniBiz is stale since Sep 2026; Malaysiakini's feed fetched but parsed empty; Sinar Harian's listing is undated; MOF/MCMC are not statically extractable. The Star's RSS path 404s and EdgeProp's feed moved; both were swept via browser listings. NST's OSK story is carried headline-only because its body would not render in browser or curl. NST, FMT, The Sun, Berita Harian and TNGlobal (WP API fallback; main feed 403) were fully scanned."
-  ],
-  "watchlistCoverage": [
-    "No item-level watchlist flags today: no watchlist company was named as a party in any in-window itemised story.",
-    "Southern Cable: a substantial-shareholder change was filed 5.48pm 27 Nov (via the KLSE Screener mirror) but the body is unreadable - direction and parties unverified. Revisit next run.",
-    "Kitacon: three substantial-shareholder/interest notices filed ~5.32pm 27 Nov, bodies unreadable - unverified. The RM100m Seremban homes contract circulating on EdgeProp is the Nov 24 award already itemised 24 Nov - logged duplicate, not a new flag.",
-    "Chin Hin: routine share-buyback filing only.",
-    "GDB Holdings: no results filing in the captured 26-27 Nov mirror sets and no press - the unverified-results flag stands.",
-    "Crest Group: still no filing or press. Note: UCREST Berhad filed results 27 Nov - UCREST is a different entity from watchlist Crest Group; no flag.",
-    "Zetrix (chain watch): no issuer filing in the captured set; the Bintulu Port unit-trust write-off is itemised as ai-3; the Dec 1 Macquarie injunction hearing is Monday.",
-    "OKA, Mastertec, Tuju Setia, Pesona Metro, TCS, Inta Bina, Nestcon: not named in any in-window article body."
-  ],
-  "sourceTally": [
+  {
+   "headline": "Zetrix sukuk losses start crystallising in third-party portfolios",
+   "soWhat": "Bintulu Port expects a RM147.9m 4Q paper loss from AmanahRaya unit trusts that wrote off Zetrix AI sukuk, and is reserving recovery action - three days before the Dec 1 Macquarie injunction hearing. The remediation failure is now visible in listed-company earnings.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-11-28-ai-3"
+   ]
+  },
+  {
+   "headline": "Telco results day: Axiata back in black, TIME compounds through succession, Reach Ten banks on Starlink",
+   "soWhat": "Axiata's 3Q profit returned (RM35.7m), TIME grew 8.3% while founder Afzal completes his handover to CEO Loh Jenkim, and Reach Ten's flat recurring core puts its 1,200-kit Sarawak election deployment and Jendela 2 tender in focus. TM, meanwhile, is moving up-stack into sovereign robotics with AGIBOT.",
+   "sectorKeys": [
+    "aiTelcoIct"
+   ],
+   "itemIds": [
+    "2026-11-28-ai-5",
+    "2026-11-28-ai-6",
+    "2026-11-28-ai-7",
+    "2026-11-28-ai-4"
+   ]
+  },
+  {
+   "headline": "The DC boom meets resource and regulatory reality",
+   "soWhat": "Johor approved only 21 of 73 MLD of water sought by 19 data centres; a Star analysis flags that DCs escape the EIA regime entirely; and the JS-SEZ master plan slipped to early 2027. Scarcity pricing for water, power and permits is now the binding constraint on the build-out.",
+   "sectorKeys": [
+    "aiTelcoIct",
+    "propertyDevelopment"
+   ],
+   "itemIds": [
+    "2026-11-28-ai-9",
+    "2026-11-28-pd-4"
+   ]
+  },
+  {
+   "headline": "Property: OSK steady, Matrix at record sales, AME shows the DC-land base effect",
+   "soWhat": "OSK's 3Q profit edged up to RM157m on property and cable gains; Matrix posted record half-year sales (RM797.6m) with RM1.4b unbilled; AME's 71% profit fall is mostly last year's RM209.8m DC land sale washing out. Exsim Hospitality's order book tripled to RM506m.",
+   "sectorKeys": [
+    "propertyDevelopment",
+    "hotels"
+   ],
+   "itemIds": [
+    "2026-11-28-pd-1",
+    "2026-11-28-pd-2",
+    "2026-11-28-pd-3",
+    "2026-11-28-hotels-1"
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "sectorKey": "aiTelcoIct",
+   "theme": "Chip-curb containment reaches Malaysian soil: a Cabinet instruction to shun US-blacklisted firms, Blackwells surfacing in Shanghai, and Zetrix-sukuk losses crystallising at Bintulu Port; telco results day (Axiata, TIME, Reach Ten), TM's robotics play, MCMC serves Google, Johor caps DC water, and the e-Commerce Bill",
+   "items": [
     {
-      "source": "The Edge",
-      "scanned": 21,
-      "used": 4,
-      "status": "checked",
-      "note": "via cloud browser listing + in-page fetch",
-      "publishers": [
-        "The Edge"
-      ]
+     "id": "2026-11-28-ai-1",
+     "headline": "Malaysian companies instructed to avoid business with US-blacklisted firms over the Nvidia chip issue and Megaspeed, Cabinet told",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Companies in Malaysia have been instructed not to do business with firms blacklisted by the US over the Nvidia chip issue and Megaspeed International, to avoid complications in business and trade, government spokesperson Fahmi Fadzil said; Miti Minister Johari Abdul Ghani conveyed the instruction at Friday's Cabinet meeting after Washington announced that several companies in Malaysia had been blacklisted (The Edge; Malay Mail). The order follows the FT-reported halt of Nvidia AI-server shipments to Malaysia and three neighbours (itemised 27 Nov). Context: a Star analysis notes Malaysian banks are significant DC financiers - including a RM2.5 billion share of a RM15 billion green financing package for a Johor-Singapore SEZ data-centre platform plus participation in a further RM15 billion facility - so the controls now carry domestic credit and compliance risk.",
+     "soWhat": "The blacklist has landed on Malaysian entities and Putrajaya is ring-fencing the rest of the economy from them - counterparties, banks and DC contractors must now screen every chip-linked relationship, and syndicated DC loans carry a new compliance overlay.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827669"
+      },
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/malaysia/2026/11/27/no-deals-with-us-blacklisted-firms-malaysian-companies-told-after-cabinet-briefing-on-chip-curbs/245012"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "Malay Mail",
-      "scanned": 58,
-      "used": 5,
-      "status": "checked",
-      "note": "feeds + browser bodies",
-      "publishers": [
-        "Malay Mail"
-      ]
+     "id": "2026-11-28-ai-2",
+     "headline": "Nvidia's Blackwell chips turn up at a Shanghai data centre tied to Alice Huang - used as loan collateral, Bloomberg reports",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Two Chinese firms installed Nvidia Blackwell semiconductors in a Shanghai data centre linked to Alice Huang, including a GB300 NVL72 rack - among Nvidia's most powerful products - identified by serial number in documents submitted to Chinese regulators in November; Shanghai Shuoyao offered the hardware as collateral for a 96 million yuan (about RM59 million) loan from Shanghai Innovation Bank, according to lender filings reviewed by Bloomberg News, and a second firm, Shanghai Kezhan, described a GB200 server at the same facility (Bloomberg via The Edge).",
+     "soWhat": "Evidence that top-tier Blackwell hardware is surfacing inside China despite export controls - and being financed against - keeps enforcement pressure on the Southeast Asian transit hubs, Malaysia included.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827709"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "NST / Business Times",
-      "scanned": 50,
-      "used": 1,
-      "status": "checked",
-      "note": "OSK carried headline-only (body not extractable), filing-corroborated",
-      "publishers": [
-        "NST / Business Times"
-      ]
+     "id": "2026-11-28-ai-3",
+     "headline": "Bintulu Port flags a RM147.9m paper loss from unit trusts that wrote off Zetrix AI sukuk; 3Q net profit halves to RM15.87m",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Bintulu Port estimates a RM147.91 million paper loss in 4Q2026 from its investments in the AmanahRaya Syariah Trust Fund and AmanahRaya Syariah Income Fund, both of which wrote off sukuk issued by Zetrix AI, subject to final fund valuation; the group said it will pursue all recovery avenues, including action against the funds (bourse filing via The Edge and the KLSE Screener mirror). Its 3Q2026 net profit fell 50.8% to RM15.87 million on higher operating costs, with revenue up 7.6% to RM219.88 million and a 4 sen third interim dividend declared (The Star). For the Zetrix chain: the sukuk write-off is now crystallising losses in third-party portfolios ahead of the Dec 1 Macquarie injunction hearing.",
+     "soWhat": "The Zetrix sukuk remediation failure is no longer contained to the issuer - unit-trust investors are writing it off and threatening recovery action, and the contagion is showing up in listed-company results.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827711"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/27/bintulu-ports-3q-net-profit-halves-declares-4-sen-dividend"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11712979"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "FMT",
-      "scanned": 50,
-      "used": 0,
-      "status": "checked",
-      "note": "",
-      "publishers": [
-        "FMT"
-      ]
+     "id": "2026-11-28-ai-4",
+     "headline": "TM ventures into advanced robotics as AGIBOT's exclusive sovereign platform partner in Malaysia",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Telekom Malaysia is developing and commercialising robotics solutions through separate collaborations with AGIBOT and Swancor Advanced Material; TM will serve as AGIBOT's exclusive sovereign advanced robotics platform provider in Malaysia, hosted on TM Cloud Alpha Edge and supported by its AI Foundry, with enterprise use cases including autonomous mobile robots extending TM One's Vision AI to patrolling and maintenance, plus data-centre applications (The Star).",
+     "soWhat": "TM is moving up the AI value chain from connectivity and DCs into sovereign robotics-as-a-platform - a new recurring-revenue line that also feeds its cloud and AI Foundry utilisation.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/27/tm-partners-agibot-swancor-to-drive-robotics-adoption-in-malaysia"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "The Sun",
-      "scanned": 10,
-      "used": 0,
-      "status": "checked",
-      "note": "",
-      "publishers": [
-        "The Sun"
-      ]
+     "id": "2026-11-28-ai-5",
+     "headline": "Axiata returns to the black in 3Q with a RM35.72m net profit as revenue rises 6.6%",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Axiata posted a 3QFY2026 net profit of RM35.72 million versus a RM27.35 million loss a year earlier, on higher revenue (up 6.6% to RM3.11 billion), improved associate earnings and lower financing costs, despite a larger impairment at Indonesian broadband unit Link Net; ringgit appreciation moderated revenue growth (bourse filing via The Edge).",
+     "soWhat": "The regional telco's repair story is holding - profitability restored even while Link Net still burns, keeping the focus on portfolio simplification and tower/fibre monetisation.",
+     "sources": [
+      {
+       "publisher": "The Edge",
+       "url": "https://theedgemalaysia.com/node/827623"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "Berita Harian",
-      "scanned": 50,
-      "used": 0,
-      "status": "checked",
-      "note": "results coverage all outside scope sectors",
-      "publishers": [
-        "Berita Harian"
-      ]
+     "id": "2026-11-28-ai-6",
+     "headline": "TIME dotCom's 3Q net profit rises 8.3% to RM114.96m; founder Afzal relinquishes all executive roles on Dec 31",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "TIME dotCom's 3Q2026 net profit rose 8.3% to RM114.96 million, with revenue up 10% to RM499.28 million and EPS of 6.22 sen (The Star). Executive vice-chairman Afzal Abdul Rahim will relinquish all executive responsibilities and be redesignated non-executive vice-chairman effective Dec 31, completing the leadership transition to group CEO Loh Jenkim; Afzal holds 186.57 million shares directly and 189.91 million indirectly, and Datuk Zainal Amanshah was redesignated senior adviser to the group CEO (The Star; bourse filings via the KLSE Screener mirror).",
+     "soWhat": "A clean founder handover with the numbers still compounding - the succession question that hung over TIME is resolved while double-digit revenue growth continues.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/27/time-dotcoms-afzal-to-relinquish-all-executive-responsibilities"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "TNGlobal",
-      "scanned": 9,
-      "used": 0,
-      "status": "checked",
-      "note": "WP API fallback; main feed 403",
-      "publishers": [
-        "TNGlobal"
-      ]
+     "id": "2026-11-28-ai-7",
+     "headline": "Reach Ten's 3Q profit falls 56% on SpaceX investment mark-to-market, but revenue jumps 85%; 1,200 Starlink kits for Sarawak polls",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Reach Ten's 3Q2026 net profit fell 56% to RM4.07 million, mainly on an unrealised RM1.69 million fair-value loss on its SpaceX investment and short-term investment losses; revenue surged 85% to RM52.21 million including RM32.67 million of one-off internet-facility upgrades at higher-learning institutions, while recurring revenue was RM16.59 million, flat against the preceding quarter (The Star). The Sarawak-based telco will deploy over 1,200 Starlink kits at state polling centres for the coming election and has tendered under MCMC's Jendela Phase 2 for satellite connectivity in remote areas.",
+     "soWhat": "Strip the one-offs and the core fibre-plus-Starlink recurring base is flat - the Sarawak election deployment and Jendela 2 tender are the near-term catalysts that decide whether the satellite bet scales.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/27/reach-ten-expects-stronger-recurring-revenue-from-fibre-starlink-deployments"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "The Star",
-      "scanned": 36,
-      "used": 6,
-      "status": "checked",
-      "note": "browser listing sweep + curl bodies",
-      "publishers": [
-        "The Star"
-      ]
+     "id": "2026-11-28-ai-8",
+     "headline": "MCMC's RM600m lawsuits served on Google's Malaysian lawyers; Anwar says Google's investments are unaffected after call with Alphabet's Ruth Porat",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "MCMC's two lawsuits against Google, announced Nov 25 and seeking RM600 million in total damages (RM300 million each: general, aggravated and exemplary), have been served on Google's lawyers in Malaysia - the commission's first suit against Google after earlier action against Telegram, Communications Ministry deputy secretary-general Teo Nie Ching said; MCMC submitted 74,703 reports to YouTube between Jan 1 and Oct 28, of which 99.8% concerned online gambling (Bernama via Malay Mail). Prime Minister Anwar Ibrahim said he spoke directly with Alphabet and Google president and chief investment officer Ruth Porat, who committed to cooperate on regulatory compliance and online-gambling content, and that Google's multi-billion-ringgit investment commitments are unaffected (The Star).",
+     "soWhat": "Putrajaya is suing Google for RM600m while the PM personally protects the investment relationship - the dual track tells tech investors enforcement and incentives now run in parallel.",
+     "sources": [
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/malaysia/2026/11/27/mcmc-serves-google-in-rm600m-lawsuit-says-youtube-failed-to-curb-harmful-content/244961"
+      },
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/27/google039s-proposed-multi-billion-ringgit-investments-in-malaysia-not-affected-by-mcmc039s-legal-action---anwar"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "The Malaysian Reserve",
-      "scanned": 0,
-      "used": 0,
-      "status": "blocked",
-      "note": "Cloudflare-terminal per the no-solver rule",
-      "publishers": [
-        "The Malaysian Reserve"
-      ]
+     "id": "2026-11-28-ai-9",
+     "headline": "Johor reins in data-centre water allocations: 21 MLD approved for 19 centres against 73 MLD sought",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Johor has approved 21 million litres per day of treated water for 19 operating data centres versus initial applications totalling 73 MLD - about 1.05% of the state's average treated-water production of 2,034 MLD - Menteri Besar Onn Hafiz Ghazi said, stressing every application passes technical evaluation by the state DC development coordination committee and that water security, energy sufficiency and environmental sustainability 'cannot be compromised' (Malay Mail). Context: a Star analysis notes DCs are not a prescribed activity under the Environmental Quality Act's EIA order, so environmental scrutiny depends on how a project is packaged.",
+     "soWhat": "The resource ceiling on Johor's DC boom is now explicit and quantified - approvals will ration water (and by extension power), favouring efficient operators and pushing marginal projects out of the queue.",
+     "sources": [
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/malaysia/2026/11/27/johor-mb-state-reins-in-data-centre-water-allocations-approves-21-mld-of-73-mld-sought/245008"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "EdgeProp",
-      "scanned": 29,
-      "used": 3,
-      "status": "checked",
-      "note": "browser listing sweep + browser bodies",
-      "publishers": [
-        "EdgeProp"
-      ]
+     "id": "2026-11-28-ai-10",
+     "headline": "MDEC appoints former MyDigital chief Adrian Marcellus as CEO to drive the AI Nation 2030 agenda",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "MDEC named Adrian Marcellus CEO to accelerate the digital economy and Malaysia's aspiration of becoming an AI Nation by 2030; he previously led MyDigital Corporation and MYCentre4IR, where he helped develop the Malaysia Digital Action Plan 2030, incubate the Government Nucleus Unit (now GovTech) and the National AI Office (Malay Mail). Chairman Ganesh Kumar Bangah cited his national digital-transformation experience.",
+     "soWhat": "A continuity appointment that ties MDEC directly to the AI Nation delivery machinery - watch how quickly the agency converts DC and AI investments into productivity and high-value jobs metrics.",
+     "sources": [
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/money/2026/11/27/mdec-appoints-former-mydigital-chief-adrian-marcellus-as-ceo/245031"
+      }
+     ],
+     "watchlistCompanyKeys": []
     },
     {
-      "source": "Bursa announcements",
-      "scanned": 792,
-      "used": 2,
-      "status": "checked",
-      "note": "via KLSE Screener mirror /v2/announcements; bodies unreadable",
-      "publishers": [
-        "Bursa announcement (via KLSE Screener mirror)"
-      ]
+     "id": "2026-11-28-ai-11",
+     "headline": "e-Commerce Bill to target algorithmic manipulation and discriminatory pricing, KPDN tells Parliament",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "The domestic trade ministry (KPDN) is finalising an e-Commerce Bill to strengthen platform accountability and protect consumers from algorithmic manipulation and discriminatory pricing, requiring platforms to clearly disclose pricing information affecting purchasing decisions; algorithms and dynamic pricing are not offences in themselves, but misleading or manipulative practices and unjustified price discrimination raise consumer-protection issues, the ministry said in a written Dewan Rakyat reply to Dr V. Sivakumar (Malay Mail).",
+     "soWhat": "Platform pricing and ranking practices are heading for statutory disclosure rules - e-commerce, travel and delivery platforms operating in Malaysia should model compliance costs now.",
+     "sources": [
+      {
+       "publisher": "Malay Mail",
+       "url": "https://www.malaymail.com/news/malaysia/2026/11/27/putrajaya-targets-algorithmic-manipulation-and-unfair-pricing-in-new-e-commerce-bill/244960"
+      }
+     ],
+     "watchlistCompanyKeys": []
     }
-  ]
+   ]
+  },
+  {
+   "sectorKey": "propertyDevelopment",
+   "theme": "OSK's steady quarter on property and cables; Matrix's record sales; AME's DC-land-sale base effect; JS-SEZ slips to early 2027",
+   "items": [
+    {
+     "id": "2026-11-28-pd-1",
+     "headline": "OSK Holdings' 3Q net profit edges up to RM157m on property and cable gains",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "OSK Holdings' 3Q2026 net profit edged up to RM157 million, lifted by contributions from its property and cables divisions (NST - headline facts only; body not extractable). The quarterly report was filed with Bursa at 12.48pm Friday, alongside a separate provision-of-financial-assistance announcement (via the KLSE Screener mirror).",
+     "soWhat": "Steady compounding from the property-plus-cables combination - the cable division keeps riding the same grid-capex cycle that drove Southern Cable's record quarter.",
+     "sources": [
+      {
+       "publisher": "NST / Business Times",
+       "url": "https://www.nst.com.my/property/2026/11/1587213/osks-q3-net-profit-edges-rm157mil-property-cable-gains"
+      },
+      {
+       "publisher": "Bursa announcement (via KLSE Screener mirror)",
+       "url": "https://www.klsescreener.com/v2/announcements/view/11712113"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-28-pd-2",
+     "headline": "Matrix Concepts posts record RM797.6m first-half new sales; unbilled sales at RM1.4b",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Matrix Concepts recorded its highest-ever 1HFY2027 new property sales of RM797.6 million, with half-year revenue up 4.6% to RM711.5 million; 2Q revenue was flat at RM396.0 million with 2Q PAT of RM62.7 million versus RM68.7 million on product mix and higher finance costs from pipeline investment (EdgeProp). Unbilled sales stood at RM1.4 billion (12-15 months of visibility), and a second interim dividend of 1.55 sen (ex Dec 18) takes 1H payouts to 2.95 sen, a 44.7% payout ratio.",
+     "soWhat": "The Seremban township model keeps selling through the cycle - record sales plus a 45% payout make Matrix the defensive mid-cap counterweight to the DC-land developers.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918545/matrix-concepts-secures-rm7976-mil-1h27-new-sales-revenue-grows-46-rm7115-mil"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-28-pd-3",
+     "headline": "AME Elite's 2Q net profit falls 71% without last year's RM209.8m data-centre land sale",
+     "verdict": "Negative",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "AME Elite's 2QFY2027 net profit fell 71% to RM41.73 million, with revenue down 48.5% to RM232.42 million, as the year-ago quarter included a RM209.8 million industrial land sale to a data-centre operator (nearly half of that quarter's revenue) plus RM15 million of fair-value gains from selling two industrial properties to AME REIT; property-development revenue fell 79.3% to RM79.4 million on lower progress recognition (bourse filing via EdgeProp). An interim dividend of 4.2 sen was declared.",
+     "soWhat": "A clean illustration of how lumpy DC land sales distort industrial developers' base effects - underlying park development is still earning, but quarterly comparatives will whipsaw until recognition normalises.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918546/ame-elite-consortium-2q-net-profit-falls-71-amid-lower-property-development-revenue-absence-big-land-sale"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    },
+    {
+     "id": "2026-11-28-pd-4",
+     "headline": "JS-SEZ master plan launch pushed to early 2027 as Malaysia and Singapore finalise details; Retreat next week",
+     "verdict": "Watch",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "The Johor-Singapore Special Economic Zone master plan launch has been pushed to early 2027 with both governments in final coordination, Economy Minister Akmal Nasrullah Mohd Nasir said; the completed, Cabinet-approved documents had been targeted for 4Q2026 and are expected to feature at next week's Malaysia-Singapore Annual Leaders' Retreat (EdgeProp). Johor Menteri Besar Onn Hafiz Ghazi has criticised the repeated postponements, warning delays could undermine investor confidence.",
+     "soWhat": "Another slip for the region's flagship investment framework - Johor DC and industrial projects banking on SEZ incentives should not underwrite them before the master plan is public.",
+     "sources": [
+      {
+       "publisher": "EdgeProp",
+       "url": "https://www.edgeprop.my/content/1918539/js-sez-master-plan-launch-pushed-early-2027-malaysia-singapore-finalise-details"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  },
+  {
+   "sectorKey": "construction",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "propertyInvestment",
+   "theme": "No verified in-window retail-property news",
+   "items": []
+  },
+  {
+   "sectorKey": "plantation",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "capitalFinancing",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "consumerFinancing",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "cablesManufacturing",
+   "theme": "No standalone item; OSK's cable division gains noted within its results item",
+   "items": []
+  },
+  {
+   "sectorKey": "buildingMaterialsIbs",
+   "theme": "No verified in-window news within scope",
+   "items": []
+  },
+  {
+   "sectorKey": "hotels",
+   "theme": "Exsim Hospitality's profit jump on fit-out orders and operator growth",
+   "items": [
+    {
+     "id": "2026-11-28-hotels-1",
+     "headline": "Exsim Hospitality's 1Q net profit jumps 62.7% to RM13.32m; order book swells to RM506m",
+     "verdict": "Positive",
+     "freshness": "current",
+     "publishedDate": "2026-11-27",
+     "detail": "Exsim Hospitality's 1Q2026 net profit rose 62.7% to RM13.32 million, with revenue more than tripling to RM170.54 million; the fit-out segment (Exsim Concepto) grew revenue 184.7% to RM145.66 million on nine new contracts, lifting the outstanding order book to RM506.14 million from RM155.36 million a year earlier, while the hospitality-operator segment's revenue surged to RM24.29 million from RM2.11 million (The Star).",
+     "soWhat": "The hospitality build-and-operate model is converting: the fit-out order book gives two-plus years of revenue cover while the operator segment starts contributing meaningfully.",
+     "sources": [
+      {
+       "publisher": "The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/27/exsim-hospitalitys-1q-net-profit-jumps-627-to-rm1332mil"
+      }
+     ],
+     "watchlistCompanyKeys": []
+    }
+   ]
+  }
+ ],
+ "sectorCoverage": {
+  "aiTelcoIct": "11 items: the Cabinet blacklisting instruction, Bloomberg's Blackwell-Shanghai finding, Bintulu Port's Zetrix-sukuk loss, TM-AGIBOT robotics, Axiata, TIME, Reach Ten, MCMC-Google, Johor DC water, MDEC's new CEO and the e-Commerce Bill. Fahmi's blacklist remarks corroborated across Edge and MM; two unsigned Star DC analyses (EIA gap, bank credit risk) read and folded as context, not itemised.",
+  "propertyDevelopment": "4 items: OSK 3Q (NST headline-only with filing corroboration), Matrix Concepts, AME Elite and the JS-SEZ postponement. Kumpulan Jetson's RM12m stake purchase read and logged below materiality.",
+  "construction": "No verified in-window items. Econpile's quarterly results were filed (6.08pm) with no press coverage by cutoff - numbers unverified, logged.",
+  "propertyInvestment": "No verified in-window retail-scope items (AmanahRaya REIT results and Penang office-occupancy data are outside the retail-only scope; both logged).",
+  "plantation": "No verified items. A maritime expert's call for MPOB commingling rules was read and logged as attributed expert remarks; PLS Plantations results were filed with no press by cutoff.",
+  "capitalFinancing": "No verified in-window news within scope (licensed moneylending).",
+  "consumerFinancing": "No verified in-window news within scope (civil-servant financing; the Perlis RM1,500 special aid is a handout, not financing - logged).",
+  "cablesManufacturing": "No standalone item. OSK's cable-division gains are noted in its results item; a substantial-shareholder notice at Southern Cable was filed 5.48pm (body unreadable) - see watchlist notes.",
+  "buildingMaterialsIbs": "No verified in-window news within scope.",
+  "hotels": "1 item: Exsim Hospitality's 1Q. Avillion's quarterly results were filed 6.38pm with no press by cutoff - numbers unverified, logged."
+ },
+ "generalCoverage": [
+  "Edition window: from the 27 Nov edition's verified cutoff (07:28:09 MYT 27 Nov) to 07:29 MYT (07:29:17, actual final recheck) (actual last check). The Edge was checked via the cloud browser: all 21 listing nodes above 827556 resolved with created epochs via in-page fetch, all in-window; the homepage re-read at 07:29 showed nothing newer than node 827733. Bursa filings were captured via the KLSE Screener mirror at /v2/announcements: 792 filings dated 27 Nov across 27 pages down into the 26 Nov overlap. Filing bodies remain unreadable from the mirror, so press citations carry the results numbers.",
+  "Coverage is complete within the stated sources, period and sector scope - not exhaustive. The Malaysian Reserve stayed Cloudflare-terminal under the no-challenge-bypass rule. Bernama's feed failed to save on a fourth consecutive day; Bernama content still reached coverage via Malay Mail/BH/Star rewrites. KiniBiz is stale since Sep 2026; Malaysiakini's feed fetched but parsed empty; Sinar Harian's listing is undated; MOF/MCMC are not statically extractable. The Star's RSS path 404s and EdgeProp's feed moved; both were swept via browser listings. NST's OSK story is carried headline-only because its body would not render in browser or curl. NST, FMT, The Sun, Berita Harian and TNGlobal (WP API fallback; main feed 403) were fully scanned."
+ ],
+ "watchlistCoverage": [
+  "No item-level watchlist flags today: no watchlist company was named as a party in any in-window itemised story.",
+  "Southern Cable: a substantial-shareholder change was filed 5.48pm 27 Nov (via the KLSE Screener mirror) but the body is unreadable - direction and parties unverified. Revisit next run.",
+  "Kitacon: three substantial-shareholder/interest notices filed ~5.32pm 27 Nov, bodies unreadable - unverified. The RM100m Seremban homes contract circulating on EdgeProp is the Nov 24 award already itemised 24 Nov - logged duplicate, not a new flag.",
+  "Chin Hin: routine share-buyback filing only.",
+  "GDB Holdings: no results filing in the captured 26-27 Nov mirror sets and no press - the unverified-results flag stands.",
+  "Crest Group: still no filing or press. Note: UCREST Berhad filed results 27 Nov - UCREST is a different entity from watchlist Crest Group; no flag.",
+  "Zetrix (chain watch): no issuer filing in the captured set; the Bintulu Port unit-trust write-off is itemised as ai-3; the Dec 1 Macquarie injunction hearing is Monday.",
+  "OKA, Mastertec, Tuju Setia, Pesona Metro, TCS, Inta Bina, Nestcon: not named in any in-window article body."
+ ],
+ "sourceTally": [
+  {
+   "source": "The Edge",
+   "scanned": 21,
+   "used": 4,
+   "status": "checked",
+   "note": "via cloud browser listing + in-page fetch",
+   "publishers": [
+    "The Edge"
+   ]
+  },
+  {
+   "source": "Malay Mail",
+   "scanned": 58,
+   "used": 5,
+   "status": "checked",
+   "note": "feeds + browser bodies",
+   "publishers": [
+    "Malay Mail"
+   ]
+  },
+  {
+   "source": "NST / Business Times",
+   "scanned": 50,
+   "used": 1,
+   "status": "checked",
+   "note": "OSK carried headline-only (body not extractable), filing-corroborated",
+   "publishers": [
+    "NST / Business Times"
+   ]
+  },
+  {
+   "source": "FMT",
+   "scanned": 50,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "FMT"
+   ]
+  },
+  {
+   "source": "The Sun",
+   "scanned": 10,
+   "used": 0,
+   "status": "checked",
+   "note": "",
+   "publishers": [
+    "The Sun"
+   ]
+  },
+  {
+   "source": "Berita Harian",
+   "scanned": 50,
+   "used": 0,
+   "status": "checked",
+   "note": "results coverage all outside scope sectors",
+   "publishers": [
+    "Berita Harian"
+   ]
+  },
+  {
+   "source": "TNGlobal",
+   "scanned": 9,
+   "used": 0,
+   "status": "checked",
+   "note": "WP API fallback; main feed 403",
+   "publishers": [
+    "TNGlobal"
+   ]
+  },
+  {
+   "source": "The Star",
+   "scanned": 36,
+   "used": 6,
+   "status": "checked",
+   "note": "browser listing sweep + curl bodies",
+   "publishers": [
+    "The Star"
+   ]
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "scanned": 0,
+   "used": 0,
+   "status": "blocked",
+   "note": "Cloudflare-terminal per the no-solver rule",
+   "publishers": [
+    "The Malaysian Reserve"
+   ]
+  },
+  {
+   "source": "EdgeProp",
+   "scanned": 29,
+   "used": 3,
+   "status": "checked",
+   "note": "browser listing sweep + browser bodies",
+   "publishers": [
+    "EdgeProp"
+   ]
+  },
+  {
+   "source": "Bursa announcements",
+   "scanned": 792,
+   "used": 2,
+   "status": "checked",
+   "note": "via KLSE Screener mirror /v2/announcements; bodies unreadable",
+   "publishers": [
+    "Bursa announcement (via KLSE Screener mirror)"
+   ]
+  }
+ ]
 }
