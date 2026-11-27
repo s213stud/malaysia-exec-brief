@@ -1,0 +1,17 @@
+{
+ "complete": true,
+ "checkSources": [
+  "The Edge",
+  "Malay Mail",
+  "NST / Business Times",
+  "FMT",
+  "The Sun",
+  "Berita Harian",
+  "TNGlobal",
+  "The Star",
+  "The Malaysian Reserve",
+  "EdgeProp",
+  "Bursa announcements"
+ ],
+ "note": "All listed portals attempted. 16 items, no new watchlist flags (Kitacon's RM100m Seremban contract was itemised 24 Nov - EdgeProp's Nov 24 write-up logged duplicate; substantial-shareholder notices at Southern Cable and Kitacon unreadable from the mirror, noted in watchlistCoverage). OSK 3Q carried headline-only from NST with results-filing corroboration. TMR Cloudflare-terminal; Bernama fetch failed a fourth day; KiniBiz stale; Malaysiakini parsed empty. UCREST is not watchlist Crest Group. GDB and Crest flags stand. Zetrix: Bintulu Port's RM147.9m unit-trust paper loss itemised; Dec 1 Macquarie hearing Monday. Window from the 27 Nov verified cutoff 07:28:09 MYT to the final recheck 07:29:17 MYT (actual time in checkedAt)."
+}
